@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "3fde631d-0516-4e7b-a6a5-052bccd65768",
+      "name": "AMA",
+      "slug": "ama",
+      "description": "AMA is an AI Medical Assistant designed to assist you with your health-related questions and concerns. Its goal is to provide you with accurate and reliable medical information, help you understand your symptoms, assess potential risks to your health, and provide advice on measures to improve your well-being. I follow strict medical protocols and provide scientific evidence-based answers. My scientific field is medicine, personal fitness, workout tracking, diet and nutritional tips, and healt...",
+      "logo_url": "https://icon.horse/icon/ama.third.garden",
+      "website_url": "https://ama.third.garden",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-05T00:00:00Z",
+      "updated_at": "2023-06-06T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-architecture-design",
+        "ai-brand-design",
+        "ai-health-assistant",
+        "ai-mental-health-assistant",
+        "ai-nutrition-assistant",
+        "design-art",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "da990c51-b709-4050-accf-7c3d13987067",
+      "name": "MealPractice",
+      "slug": "mealpractice",
+      "description": "MealPractice | Discover new recipes by following users with similar tastes and nutritional goals.",
+      "logo_url": "https://mealpractice.com/favicon.ico",
+      "website_url": "https://mealpractice.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-20T00:00:00Z",
+      "updated_at": "2023-05-20T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-cover-generator",
+        "ai-nutrition-assistant",
+        "image",
+        "life-assistant"
+      ]
+    }
+  ]
+}

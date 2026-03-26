@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 5,
+    "page_size": 72,
+    "total_items": 296,
+    "total_pages": 5,
+    "prev_path": "categories/ai-notes-assistant/page-0004.json"
+  },
+  "items": [
+    {
+      "id": "685a6bcd-d502-4b0e-8595-2dc415bcf576",
+      "name": "wenDues",
+      "slug": "wendues",
+      "description": "wenDues is a multi-functional app for productivity, combining timer, calendar, to-do list, and music player.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/wendues.jpg",
+      "website_url": "https://wendues.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-24T15:59:01Z",
+      "updated_at": "2025-03-27T03:59:12.605002Z",
+      "category_slugs": [
+        "ai-notes-assistant",
+        "ai-product-description-generator",
+        "ai-productivity-tools",
+        "ai-project-management",
+        "ai-scheduling",
+        "ai-task-management",
+        "ai-workflow-management"
+      ]
+    },
+    {
+      "id": "765405fe-9fd6-4b00-af30-46448a3db460",
+      "name": "Image2Text: Textify Images",
+      "slug": "image2text-textify-images",
+      "description": "Convert handwritten notes and images into editable text effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/image2text-textify-images.jpg",
+      "website_url": "https://apps.apple.com/us/app/image2text-textify-images/id6593661314?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 3,
+      "views_count": 0,
+      "created_at": "2024-08-23T08:31:17Z",
+      "updated_at": "2025-03-27T05:13:07.1691Z",
+      "category_slugs": [
+        "ai-image-recognition",
+        "ai-image-scanning",
+        "ai-notes-assistant",
+        "ai-speech-recognition",
+        "handwriting",
+        "speech-to-text",
+        "transcriber",
+        "transcription"
+      ]
+    },
+    {
+      "id": "0ce66d18-d9d2-4725-bbee-56b51adb6b7d",
+      "name": "JotBot AI",
+      "slug": "myjotbot-com",
+      "description": "AI-powered writing assistant mimicking your style.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/myjotbot-com.jpg",
+      "website_url": "https://myjotbot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 1,
+      "views_count": 163696,
+      "created_at": "2023-12-25T10:09:23Z",
+      "updated_at": "2025-03-27T06:01:09.809968Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-creative-writing",
+        "ai-notes-assistant",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "c3db2f12-5f36-4ef9-a7a0-c837c417449a",
+      "name": "Make My Plan",
+      "slug": "make-my-plan-538526",
+      "description": "Make My Plan is an AI-driven goal planner designed to help you turn your aspirations into reality. Whether you're working towards personal growth, career milestones, or any other goal, this intuitive platform guides you step by step, ensuring you stay on track and motivated every day.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/f1ec86fe-c60c-4af6-9727-6f50335d1087_1751145535237.png",
+      "website_url": "https://makemyplan.net",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-28T21:18:58.720043Z",
+      "updated_at": "2025-07-02T06:32:59.971Z",
+      "category_slugs": [
+        "ai-notes-assistant",
+        "ai-productivity-tools"
+      ]
+    },
+    {
+      "id": "368190b4-8b92-4709-b4a3-49359dab5227",
+      "name": "MeetSave AI",
+      "slug": "meetsave-ai-270859",
+      "description": "Transcribe, summarize , video recording in one place use  AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/309c9b94-5608-47d9-9a7e-74fbc4f6b30f_1752060662761.jfif",
+      "website_url": "https://meetsave.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-09T08:37:50.946401Z",
+      "updated_at": "2025-07-09T11:31:03.268Z",
+      "category_slugs": [
+        "ai-notes-assistant",
+        "ai-speech-recognition",
+        "ai-video-recording"
+      ]
+    },
+    {
+      "id": "598ba9fb-fa3c-4e2e-bd93-f896c5b4d6b0",
+      "name": "Online Notes",
+      "slug": "online-notes",
+      "description": "Free, secure online notepad for writing, editing, and saving notes with rich formatting and password protection.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/b718f441-708f-434a-852c-42d25205c7de_1748894171705.png",
+      "website_url": "https://online-notes.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-02T19:56:15.531194Z",
+      "updated_at": "2025-06-03T18:45:09.968Z",
+      "category_slugs": [
+        "ai-notes-assistant"
+      ]
+    },
+    {
+      "id": "ed48f1e9-9a3c-4362-9ea0-417651a3f11b",
+      "name": "TicNote Cloud",
+      "slug": "ticnote-cloud-709772",
+      "description": "Capture every detail with TicNote Cloud. From real-time meeting transcription to multilingual summaries and knowledge insights, our AI note taker helps you organize, share, and never miss what matters.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/342922d7-df53-4c50-a4de-f6000ea05f65_1757476705139.png",
+      "website_url": "https://ticnote.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-10T03:58:30.889946Z",
+      "updated_at": "2025-09-10T12:38:24.76Z",
+      "category_slugs": [
+        "ai-documents-assistant",
+        "ai-knowledge-base",
+        "ai-mind-mapping",
+        "ai-notes-assistant",
+        "ai-productivity-tools",
+        "productivity",
+        "research-tool",
+        "speech-to-text"
+      ]
+    },
+    {
+      "id": "877d1950-187f-4e02-8a2a-9cf432382f56",
+      "name": "Voiset",
+      "slug": "voiset-163446",
+      "description": "Save 30% of your time on planning with an AI task manager.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/14456509-3809-4b3c-8df0-f18ba702349c_1753116160397.svg",
+      "website_url": "https://www.voiset.io/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-21T16:42:43.601815Z",
+      "updated_at": "2025-07-22T19:02:39.9Z",
+      "category_slugs": [
+        "ai-notes-assistant",
+        "ai-scheduling",
+        "ai-speech-recognition",
+        "ai-task-management",
+        "ai-voice-assistants",
+        "speech-to-text"
+      ]
+    }
+  ]
+}

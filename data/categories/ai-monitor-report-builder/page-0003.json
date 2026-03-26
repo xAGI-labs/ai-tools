@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 3,
+    "page_size": 72,
+    "total_items": 146,
+    "total_pages": 3,
+    "prev_path": "categories/ai-monitor-report-builder/page-0002.json"
+  },
+  "items": [
+    {
+      "id": "ba86cbd2-7fa4-4293-8bd8-6b2ee1b04c6f",
+      "name": "Weblium",
+      "slug": "weblium",
+      "description": "Weblium Website Builder | Create a Website for Free",
+      "logo_url": "https://icons.duckduckgo.com/ip3/weblium.com.ico",
+      "website_url": "https://weblium.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-chatbot-builder",
+        "ai-landing-page-builder",
+        "ai-monitor-report-builder",
+        "ai-website-builder",
+        "chatbot",
+        "code-it",
+        "design-art"
+      ]
+    },
+    {
+      "id": "6484a659-e211-4b6c-92ae-2a5f0907a9fe",
+      "name": "llm.report",
+      "slug": "llm-report",
+      "description": "A free OpenAI API analytics dashboard.\r\n\r\nGet instant clarity about which OpenAI models are costing you the most. Just enter your OpenAI API key, and get a beautiful dashboard. No need to install anything.\r\n\r\nFeatures include:\r\n\r\n- Cost Breakdown by Model: Get full observability of how much each AI model is costing you.\r\n- Live API Logs \u0026amp; Analytics: Search and analyze all your historical prompts / completions\r\n- Built-in Caching: Duplicate API calls cost $0.\r\n- Cost Forecasting: Predict y...",
+      "logo_url": "https://icon.horse/icon/llm.report",
+      "website_url": "https://llm.report",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-24T00:00:00Z",
+      "updated_at": "2023-05-24T00:00:00Z",
+      "category_slugs": [
+        "ai-monitor-report-builder",
+        "ai-sports-analytics",
+        "ai-video-search",
+        "ai-weather-forecasting",
+        "code-it",
+        "other",
+        "video"
+      ]
+    }
+  ]
+}

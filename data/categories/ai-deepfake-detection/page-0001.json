@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "61d4a85a-898e-456f-9d13-f324ffc78456",
+      "name": "Deepfake Generator",
+      "slug": "deepfake-generator",
+      "description": "Synthesia | #1 AI Video Generation Platform",
+      "logo_url": "https://icons.duckduckgo.com/ip3/synthesia.io.ico",
+      "website_url": "https://www.synthesia.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-deepfake-detection",
+        "ai-detector",
+        "ai-music-video-generator",
+        "ai-prompt-generator",
+        "ai-ugc-video-generator",
+        "prompt",
+        "video",
+        "video-to-video"
+      ]
+    },
+    {
+      "id": "ed696d68-500d-487d-88dd-9ef6bf3cf31f",
+      "name": "Deepfakes Web",
+      "slug": "deepfakes-web",
+      "description": "Deepfakes Web | Make Your Own Deepfake! [Online App]",
+      "logo_url": "https://deepfakesweb.com/favicon.ico",
+      "website_url": "https://deepfakesweb.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-30T00:00:00Z",
+      "updated_at": "2023-04-30T00:00:00Z",
+      "category_slugs": [
+        "ai-deepfake-detection",
+        "ai-detector"
+      ]
+    },
+    {
+      "id": "068a567d-2a9f-4cc8-9f6b-630ef7d53925",
+      "name": "Facia.ai",
+      "slug": "facia-ai",
+      "description": "Fastest Face Recognition with 3D Liveness Detection | Facia",
+      "logo_url": "https://icons.duckduckgo.com/ip3/facia.ai.ico",
+      "website_url": "https://www.facia.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-bias-detection",
+        "ai-content-detection",
+        "ai-deepfake-detection",
+        "ai-detector",
+        "ai-face-swap-generator",
+        "ai-image-recognition",
+        "ai-voice-recognition",
+        "image",
+        "voice"
+      ]
+    },
+    {
+      "id": "396a6c04-e7b0-4cd6-bc80-b4e3bb3400ea",
+      "name": "GPTKit",
+      "slug": "gptkit",
+      "description": "GPTKit is a free, easy-to-use AI text generation detection tool that uses six different methods to accurately identify and classify machine-generated text. It provides reports on the authenticity and reality of the content analyzed",
+      "logo_url": "https://gptkit.ai/favicon.ico",
+      "website_url": "https://gptkit.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-11T00:00:00Z",
+      "updated_at": "2023-05-11T00:00:00Z",
+      "category_slugs": [
+        "ai-bias-detection",
+        "ai-content-detection",
+        "ai-content-generator",
+        "ai-deepfake-detection",
+        "ai-detector",
+        "ai-monitor-report-builder",
+        "code-it",
+        "report-writing",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "9bee9c89-4251-430d-8d27-d164b66a8d12",
+      "name": "ZeroGPT Detector",
+      "slug": "zerogpt-detector",
+      "description": "ZeroGPT Detector is your go-to solution for identifying AI-generated text. Our advanced AI detection technology helps users discern authentic human-written content from AI-generated compositions, ensuring content integrity and originality in just a few clicks.",
+      "logo_url": "https://zerogptdetector.com/favicon.ico",
+      "website_url": "https://www.zerogptdetector.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-15T00:00:00Z",
+      "updated_at": "2023-06-15T00:00:00Z",
+      "category_slugs": [
+        "ai-bias-detection",
+        "ai-content-detection",
+        "ai-content-generator",
+        "ai-deepfake-detection",
+        "ai-detector",
+        "other",
+        "text-writing"
+      ]
+    }
+  ]
+}

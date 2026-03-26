@@ -1,0 +1,270 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 52,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "prev_path": "categories/other/page-0051.json"
+  },
+  "items": [
+    {
+      "id": "9320733e-76e3-4687-a51f-0a2a6a85a8ef",
+      "name": "move.ai",
+      "slug": "move-ai",
+      "description": "MOVE Ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/move.ai.ico",
+      "website_url": "https://www.move.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e8ec266c-5889-417c-a015-1def6cc086db",
+      "name": "muset",
+      "slug": "muset-228538",
+      "description": "Muset： Your AI Writing Companion",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/62593645-86d3-42c5-a56d-c571608971d9_1761199224425.png",
+      "website_url": "https://www.muset.ai/?s=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-23T06:00:26.470476Z",
+      "updated_at": "2025-10-28T19:10:54.737Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8891efa4-7052-4bbc-918f-4633d2ea3f48",
+      "name": "numberchecker.ai",
+      "slug": "numberchecker-ai",
+      "description": "Bulk Check \u0026 Filter Number List（WhatsApp、Telegram、instagram、Facebook、Amazon、Apple）",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/58be1dac-1cc8-49a9-a130-dae7c1de50d6_1764175182845.png",
+      "website_url": "https://numberchecker.ai",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-26T16:39:46.910407Z",
+      "updated_at": "2026-02-20T12:24:41.192Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6ad777a1-720a-432c-834b-b580ec6e4269",
+      "name": "outfit-generator",
+      "slug": "outfit-generator-277330",
+      "description": "Use an outfit generator and outfit picker powered by outfit AI to explore styles effortlessly. AI clothes and clothes changer tools let you customize looks instantly.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8c33b89a-2d29-48f5-8a91-42b0eca3cb17_1766574835105.PNG",
+      "website_url": "https://www.ailabtools.com/outfit-generator",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-23T05:21:20.867303Z",
+      "updated_at": "2025-12-24T11:17:58.877Z",
+      "category_slugs": [
+        "life-assistant",
+        "other"
+      ]
+    },
+    {
+      "id": "418bffe1-4b6b-4216-8ab7-08afd3d04b2b",
+      "name": "pixelscan.dev",
+      "slug": "pixelscan-dev",
+      "description": "Browser Fingerprint Test \u0026 Bot Detection Tool",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/87f70722-1c51-461c-bb75-a61097b9f881_1766937757765.jpg",
+      "website_url": "https://pixelscan.dev/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-28T16:02:52.458023Z",
+      "updated_at": "2025-12-29T10:57:08.357Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3c24fdc4-d458-4276-a02a-815c0619a710",
+      "name": "stampdr",
+      "slug": "stampdr",
+      "description": "Create Custom Stamps with Our Online Stamp Maker",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/31fdaaf4-4067-4d38-a789-26232ffebb9d_1772702669910.png",
+      "website_url": "https://stampdr.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-05T09:24:40.576261Z",
+      "updated_at": "2026-03-05T11:36:57.891Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d75cd776-e3cb-45d2-bbb3-1ac040b42a82",
+      "name": "typly",
+      "slug": "typly",
+      "description": "Typly | Conversation level next!",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/d75cd776-e3cb-45d2-bbb3-1ac040b42a82_typly.jpeg?",
+      "website_url": "https://typly.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "77b7b3dc-ba9c-445c-b370-4fff4c246afd",
+      "name": "typly",
+      "slug": "typly-1",
+      "description": "Typly | Conversation level next!",
+      "logo_url": "https://icons.duckduckgo.com/ip3/typly.app.ico",
+      "website_url": "https://typly.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "96a43630-fbe1-4b07-9e69-699f5cfae8ba",
+      "name": "watermarkcleaner",
+      "slug": "watermarkcleaner",
+      "description": "Batch watermark removal for professionals",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/faba2253-4273-417d-b037-76fa1c034759_1769947499260.png",
+      "website_url": "https://watermarkcleaner.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-01T12:05:11.504279Z",
+      "updated_at": "2026-02-02T11:12:19.488Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aaa18323-50ad-4e7e-bdea-7cadfc2a0def",
+      "name": "x102tech",
+      "slug": "x102tech",
+      "description": "Track \u0026 improve your AI search citations.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/6f37bbec-76e5-4bc5-92a5-e95d54172f18_1767124768655.PNG",
+      "website_url": "https://x102.tech/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-27T16:51:34.383222Z",
+      "updated_at": "2025-12-30T19:59:49.318Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "34ba074c-5579-44a4-81ce-408eae5210d7",
+      "name": "zipy",
+      "slug": "zipy",
+      "description": "\u003cp class=\"heading-34 center-align home homenew\"\u003eSeamless Digital Experience:\u003c/p\u003e\r\nThe digital experience platform to drive growth with Product Analytics, Error Tracking, and Session Replay in one.\r\n\u003cp class=\"div-block-64\"\u003e\u003c/p\u003e",
+      "logo_url": "https://icons.duckduckgo.com/ip3/zipy.ai.ico",
+      "website_url": "https://www.zipy.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-01T00:00:00Z",
+      "updated_at": "2023-06-01T00:00:00Z",
+      "category_slugs": [
+        "ai-digital-marketing",
+        "ai-marketing-analytics",
+        "ai-product-design",
+        "ai-product-marketing",
+        "ai-sports-analytics",
+        "design-art",
+        "marketing",
+        "other"
+      ]
+    },
+    {
+      "id": "fb7dc830-d2e8-428d-8651-936c58d2d54f",
+      "name": "zoer",
+      "slug": "zoer-448288",
+      "description": "An AI website builder with built-in database and backend",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/76c0b904-7895-47d3-8474-038213e01579_1759129442305.PNG",
+      "website_url": "https://zoer.ai/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-29T07:04:08.904273Z",
+      "updated_at": "2025-09-29T08:53:39.087Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "70f70b14-c11d-4b9b-90da-42fc23ccfd0f",
+      "name": "zoer",
+      "slug": "zoer-753948",
+      "description": "An AI website builder with built-in database and backend",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/76c0b904-7895-47d3-8474-038213e01579_1761544743992.jpg",
+      "website_url": "https://zoer.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-27T05:59:14.258175Z",
+      "updated_at": "2025-10-27T17:56:42.13Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

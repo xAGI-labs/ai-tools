@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "81fb6dfd-edbb-4bef-960f-bc9cc8296bf4",
+      "name": "Aifindbag",
+      "slug": "aifindbag",
+      "description": "The revolutionary website that utilizes cutting-edge AI technology to help you discover the perfect bag to match your style and needs. Our innovative AI-driven platform analyzes your preferences and lifestyle to generate personalized recommendations that cater specifically to your taste.",
+      "logo_url": "https://icon.horse/icon/aifindbag.com",
+      "website_url": "https://www.aifindbag.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-15T00:00:00Z",
+      "updated_at": "2023-06-15T00:00:00Z",
+      "category_slugs": [
+        "ai-cover-generator",
+        "ai-lifestyle-assistant",
+        "ai-personal-development",
+        "ai-personal-finance-assistant",
+        "ai-personalized-learning",
+        "education",
+        "image",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "802825a2-5caa-4aff-880a-53ae0f4a97e6",
+      "name": "Cosmos AI - Simplify Tasks",
+      "slug": "cosmos-ai-simplify-tasks-2",
+      "description": "\u003cp class=\"MuiTypography-root MuiTypography-body1 MuiTypography-alignLeft ellipsis css-4sbma9\"\u003eCosmos AI - Comprehensive AI Platform for Business \u0026amp; Lifestyle.\u003c/p\u003e",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cosmosai.digital.ico",
+      "website_url": "https://cosmosai.digital/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-30T00:00:00Z",
+      "updated_at": "2023-04-30T00:00:00Z",
+      "category_slugs": [
+        "ai-business-development",
+        "ai-business-idea-generator",
+        "ai-business-management",
+        "ai-lifestyle-assistant",
+        "ai-task-automation",
+        "business",
+        "life-assistant",
+        "productivity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 4,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "93b3627a-4978-4e77-84ee-56b4b95a0ae6",
+      "name": "Onesta",
+      "slug": "onesta",
+      "description": "Financial Advisor Search | Find someone who meets your needs and wants",
+      "logo_url": "https://icon.horse/icon/onestafinance.com",
+      "website_url": "https://www.onestafinance.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-financial-planning",
+        "ai-video-search",
+        "business",
+        "video"
+      ]
+    },
+    {
+      "id": "ce5a7bb2-fc0f-4c0a-8dd6-f5e6b07b55c1",
+      "name": "Onesta",
+      "slug": "onesta-1",
+      "description": "Financial Advisor Search | Find someone who meets your needs and wants",
+      "logo_url": "https://icon.horse/icon/onestafinance.com",
+      "website_url": "https://www.onestafinance.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-financial-planning",
+        "ai-video-search",
+        "business",
+        "video"
+      ]
+    },
+    {
+      "id": "a8a90975-bf1c-4968-bbd9-df6eacff0781",
+      "name": "Proforma Gen",
+      "slug": "proforma-gen",
+      "description": "Build investor-ready financial models in 5 minutes.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/9f1c4b63-57c6-4749-a89e-6932603a03af_1769575765106.png",
+      "website_url": "https://proformagen.io",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-28T04:49:28.589786Z",
+      "updated_at": "2026-01-28T15:17:04.442Z",
+      "category_slugs": [
+        "ai-finance-assistant",
+        "ai-financial-planning"
+      ]
+    },
+    {
+      "id": "2679e20e-aa7f-4680-bc52-68ae238975a2",
+      "name": "RunwayAI",
+      "slug": "runwayai",
+      "description": "Smarter Startup Financials - Powered by AI.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/9c52bdd3-8810-4037-a2ee-060adb0ce9b0_1771418573222.JPG",
+      "website_url": "https://runwayai.futureu.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-13T17:04:22.47359Z",
+      "updated_at": "2026-02-18T12:43:20.518Z",
+      "category_slugs": [
+        "ai-finance-assistant",
+        "ai-financial-planning"
+      ]
+    }
+  ]
+}

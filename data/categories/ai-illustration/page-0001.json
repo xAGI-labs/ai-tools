@@ -1,0 +1,122 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "c9d708bc-215d-4fac-9342-325befcddbc6",
+      "name": "Illustroke",
+      "slug": "illustroke",
+      "description": "Illustroke | Vector illustrations from text prompts AI",
+      "logo_url": "https://illustroke.com/favicon.ico",
+      "website_url": "https://illustroke.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-blog-writer",
+        "ai-illustration",
+        "ai-prompt-generator",
+        "ai-prompt-optimization",
+        "ai-prompt-repository",
+        "design-art",
+        "prompt",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "ae7a9676-cc58-4249-b334-6855ee73e318",
+      "name": "Illustroke",
+      "slug": "illustroke-1",
+      "description": "Illustroke | Vector illustrations from text prompts AI",
+      "logo_url": "https://illustroke.com/favicon.ico",
+      "website_url": "https://illustroke.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-blog-writer",
+        "ai-illustration",
+        "ai-prompt-generator",
+        "ai-prompt-optimization",
+        "ai-prompt-repository",
+        "design-art",
+        "prompt",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "919225ff-6710-49fb-bcab-594292662040",
+      "name": "Paper Animator Art",
+      "slug": "paper-animator-art",
+      "description": "Paper Animator Art - Turn your images into paper animation",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/74bd6ae6-88ec-4270-80c5-efaeb2e9f8f2_1765532431055.png",
+      "website_url": "https://paperanimator.art/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-12T09:40:39.638714Z",
+      "updated_at": "2025-12-15T11:10:38.362Z",
+      "category_slugs": [
+        "ai-illustration",
+        "photo-image-editor"
+      ]
+    },
+    {
+      "id": "120e6a24-7cea-4906-8538-7887728dffad",
+      "name": "PaperBanana: AI Academic Illustration Generator",
+      "slug": "paperbanana-ai-academic-illustration-generator",
+      "description": "PaperBanana: The AI Expert for Automating Academic Illustration",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/41331835-ddbd-4aca-b40f-f5816369b84d_1770835863086.png",
+      "website_url": "https://paper-banana.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-11T18:51:10.124634Z",
+      "updated_at": "2026-02-13T10:35:10.723Z",
+      "category_slugs": [
+        "ai-illustration"
+      ]
+    },
+    {
+      "id": "2c1ba79e-3f4c-45ab-b194-a235bbc32229",
+      "name": "Transpic",
+      "slug": "transpic",
+      "description": "\u003cp class=\"MuiTypography-root MuiTypography-body1 MuiTypography-alignLeft ellipsis css-4sbma9\"\u003eTransform hand-drawn illustrations with custom styles.\u003c/p\u003e",
+      "logo_url": "https://icon.horse/icon/transpic.cn",
+      "website_url": "https://transpic.cn",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-10T00:00:00Z",
+      "updated_at": "2023-06-10T00:00:00Z",
+      "category_slugs": [
+        "ai-illustration",
+        "design-art"
+      ]
+    }
+  ]
+}

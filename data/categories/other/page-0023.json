@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 23,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0024.json",
+    "prev_path": "categories/other/page-0022.json"
+  },
+  "items": [
+    {
+      "id": "f39d85cf-50aa-49a5-a161-058b86a39be2",
+      "name": "MOJi辞書 Plugin",
+      "slug": "moji辞書-plugin",
+      "description": "Ultimate Japanese learning tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/moji%E8%BE%9E%E6%9B%B8-plugin.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/moji辞書-plugin/edoiodnmpjehmemkkfmnefmkboeaahlf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:31Z",
+      "updated_at": "2025-03-27T03:06:11.264789Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d5030b9d-d9b9-474e-bfbc-e03c33943a26",
+      "name": "MOUTH BREATHER",
+      "slug": "mouth-breather",
+      "description": "AI app for improving breathing habits and reducing mouth breathing.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mouth-breather.jpg",
+      "website_url": "https://mouthbreather.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-02T02:08:21Z",
+      "updated_at": "2025-03-27T03:14:22.712499Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e568e426-9a09-45b4-bc5a-a7540106108c",
+      "name": "MacrosAI",
+      "slug": "macrosai",
+      "description": "Effortlessly track your calories",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/macrosai.webp",
+      "website_url": "https://www.macrosai.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-03T13:13:34Z",
+      "updated_at": "2025-03-27T02:58:15.000214Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "79aa0f20-20a5-40fb-830e-dfab5c89f75e",
+      "name": "Magic Gradient",
+      "slug": "magic-gradient",
+      "description": "AI gradient generator for UI and branding.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/magic-gradient.jpg",
+      "website_url": "https://magicgradient.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-05T08:47:34Z",
+      "updated_at": "2025-03-27T03:15:37.956599Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e6238ac5-1813-4808-8eca-ec229ea2b3b2",
+      "name": "Magic Library",
+      "slug": "magic-library",
+      "description": "Track reading habits and discover new books.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/magic-library.webp",
+      "website_url": "https://play.google.com/store/apps/details?id=com.gearbizz.magiclibrary\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-01T10:14:14Z",
+      "updated_at": "2025-03-27T02:58:13.36002Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e41050f0-bb11-40d2-82b1-b477e245690d",
+      "name": "Magic OCR",
+      "slug": "magic-ocr",
+      "description": "Transform images into editable text",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/magic-ocr.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/magic-ocr/cklfgeknegbomheldjnlcphpgcdnkgfl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:36Z",
+      "updated_at": "2025-03-27T03:02:46.313341Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "069f41c0-de71-4bc5-b2cb-a50a6bb09954",
+      "name": "MagicMax - Job Application Copilot",
+      "slug": "magicmax-job-application-copilot",
+      "description": "Enhance job applications with AI-powered Chrome Extension",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/magicmax-job-application-copilot.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/magicmax-job-application/ebofcmfjbdjfnofjbhippeiaoabmdppn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:20Z",
+      "updated_at": "2025-03-27T03:06:54.04494Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ab245d45-7667-4a74-9bbe-38064f86acaf",
+      "name": "Magifind",
+      "slug": "magifind",
+      "description": "AI-driven semantic site search",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/magifind.webp",
+      "website_url": "https://magifind.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-27T10:45:14Z",
+      "updated_at": "2025-03-27T02:59:00.255644Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1368a804-4184-4745-9b3b-f1454601ce7b",
+      "name": "MailMind",
+      "slug": "mailmind",
+      "description": "Email productivity booster",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mailmind.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mailmind/eldhdlabcgpklelgefagofopkafpfbpi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:37Z",
+      "updated_at": "2025-03-27T03:01:16.790675Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b7375936-f4f9-4650-b8a4-66ab250cf44f",
+      "name": "MainRef Text Highlights",
+      "slug": "mainref-text-highlights",
+      "description": "AI tool for automatic text highlighting",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mainref-text-highlights.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mainref-text-highlights/ndhejkeefhocjkedbfamoooolcejhocp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:57Z",
+      "updated_at": "2025-03-27T03:07:40.598696Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "74f9fc4d-1609-4e15-b075-7afe2bf34669",
+      "name": "Make a Sign",
+      "slug": "make-a-sign",
+      "description": "Instantly create unique digital signatures for personal use.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/make-a-sign.jpg",
+      "website_url": "https://makesign.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-05T09:49:01Z",
+      "updated_at": "2025-03-27T03:15:40.357998Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ea7e0d56-b10f-4ab6-b860-5c079f132ead",
+      "name": "Maken similarity service",
+      "slug": "maken-similarity-service",
+      "description": "Enhances Maken service on nb.no",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/maken-similarity-service.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/maken-similarity-service/mfnjkmihkfhcegkngiolkokadkojfofd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:52Z",
+      "updated_at": "2025-03-27T03:06:22.787401Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5527e4bc-55c9-4dff-91ff-b9558213f39d",
+      "name": "MalcMind AIJobHelperAPP",
+      "slug": "malcmind-aijobhelperapp",
+      "description": "Organizes job applications and automates forms using AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/malcmind-aijobhelperapp.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/malcmind-aijobhelperapp/gnpcmadebheajcnopbndnnjhecadmijk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:01Z",
+      "updated_at": "2025-03-27T03:14:27.618876Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e47f7bf8-d613-4f18-a8f4-260289566f8c",
+      "name": "Malca-Amit AI Tool",
+      "slug": "malca-amit-ai-tool",
+      "description": "Effortlessly generate shipment labels with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/malca-amit-ai-tool.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/malca-amit-ai-tool/ejbejfooiglophfbndgkodemgkfbpkhb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:51Z",
+      "updated_at": "2025-03-27T03:06:20.234319Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f3ccd2e3-0345-4cee-864d-7178a504e06a",
+      "name": "MangoFlow: AI chat sidebar",
+      "slug": "mangoflow-ai-chat-sidebar",
+      "description": "Effortless AI experience in a click",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mangoflow-ai-chat-sidebar.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mangoflow-ai-chat-sidebar/pfbbldnopphjpkfkalhajnkglnlacboa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:00Z",
+      "updated_at": "2025-03-27T03:06:33.09472Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0ab72bba-225c-4528-a096-9563e8e42102",
+      "name": "Manipulist",
+      "slug": "manipulist",
+      "description": "A versatile online tool for manipulating and scraping text or data.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/manipulist.png",
+      "website_url": "https://www.manipulist.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-04-26T07:00:14Z",
+      "updated_at": "2025-03-27T03:18:27.082057Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "68dae7d4-f8d6-476f-ba15-187562b4fd90",
+      "name": "Mano - Your AI Copilot powered by GPT-4",
+      "slug": "mano-your-ai-copilot-powered-by-gpt-4",
+      "description": "AI tool for productivity and efficiency",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mano-your-ai-copilot-powered-by-gpt-4.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mano-your-ai-copilot-powe/icgjkfebljaiiccoeeihocdmjnojmeal?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:38Z",
+      "updated_at": "2025-03-27T03:04:35.721438Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1c903e8b-7227-4701-b663-5ba2a5427d94",
+      "name": "Marble Launchpad - Web3 Meets AI",
+      "slug": "marble-launchpad-web3-meets-ai",
+      "description": "Decentralized AI platform for cryptocurrency creation and trading",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/marble-launchpad-web3-meets-ai.jpg",
+      "website_url": "https://marblechain.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T11:23:28Z",
+      "updated_at": "2025-03-27T03:08:55.961873Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d04fd322-6b33-41c7-8a66-ae909b4d9770",
+      "name": "MarketMap",
+      "slug": "marketmap",
+      "description": "AI tool generates market maps for industries and companies.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/marketmap.jpg",
+      "website_url": "https://marketmap.tech?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-11T04:49:38Z",
+      "updated_at": "2025-03-27T03:14:51.924859Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "81185ba9-0fe6-4d60-aa80-59f86cd03386",
+      "name": "Markets Guide",
+      "slug": "markets-guide",
+      "description": "Enhanced TradingView with AI assistance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/markets-guide.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/markets-guide/jlmijbnhdiaglmkeaakkbngpchmfmgcf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:58Z",
+      "updated_at": "2025-03-27T03:07:43.35087Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "be4614fc-ca15-4056-b0ff-a538fcd6e4f9",
+      "name": "Markup: Document Annotation",
+      "slug": "markup-document-annotation",
+      "description": "Markup Annotation Tool is a user-friendly website that converts text into structured data.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/markup-document-annotation.jpg",
+      "website_url": "https://www.getmarkup.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-15T13:00:55Z",
+      "updated_at": "2025-03-27T03:18:48.626049Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6c20c2ae-aca2-40bb-984d-b947cdfec715",
+      "name": "MarkupX Brands",
+      "slug": "markupx-brands",
+      "description": "Launch D2C brands with creators in 10 weeks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/markupx-brands.jpg",
+      "website_url": "https://markupxbrands.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-19T10:39:16Z",
+      "updated_at": "2025-03-27T03:11:03.359888Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e8355d00-b6f7-4271-a420-81fb35b7d15d",
+      "name": "MarsPrompt",
+      "slug": "marsprompt",
+      "description": "Unleash creativity with AI-generated prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/marsprompt.jpg",
+      "website_url": "https://marsprompt.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T07:51:36Z",
+      "updated_at": "2025-03-27T03:20:06.887455Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9453ed03-6b77-4b71-ba07-ae94cf519579",
+      "name": "MashaGPT",
+      "slug": "mashagpt",
+      "description": "AI assistant extension with diverse knowledge and support features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mashagpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mashagpt/efmgiokblocclfpoihlabkfgjcikjbko?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:18Z",
+      "updated_at": "2025-03-27T03:06:47.806479Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f115a66b-b9d3-43a7-a977-f4cede7e98a8",
+      "name": "MathGPT | AI Graph Calculator",
+      "slug": "mathgpt-ai-graph-calculator",
+      "description": "AI math graphing tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mathgpt-ai-graph-calculator.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mathgpt-ai-graph-calculat/dffihlbnfjbbpacpgojjjghlklcfkejp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:20Z",
+      "updated_at": "2025-03-27T03:00:58.860937Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "131f9c6b-51fc-43cc-b04f-4344bf01dee6",
+      "name": "Mathify",
+      "slug": "mathify",
+      "description": "AI-powered interactive learning",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mathify.webp",
+      "website_url": "https://mathify.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:32:44Z",
+      "updated_at": "2025-03-27T03:00:34.195184Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f05dff24-3af2-4dd0-924c-fb6dc5861aaa",
+      "name": "Matt by Webb.ai",
+      "slug": "matt-by-webb-ai",
+      "description": "AI-enabled reliability engineer for automated troubleshooting",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/matt-by-webb-ai.jpg",
+      "website_url": "https://www.webb.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-14T14:20:59Z",
+      "updated_at": "2025-03-27T03:09:14.434747Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5a08f21c-b016-4f62-a267-4127a553be24",
+      "name": "Max's Browser History Embedding Tool",
+      "slug": "max-s-browser-history-embedding-tool",
+      "description": "Browse history stored in vector form",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/max-s-browser-history-embedding-tool.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/maxs-browser-history-embe/glfgmpngcglpidbkdalooeidadebacbg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:49Z",
+      "updated_at": "2025-03-27T03:00:15.002501Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4cc33d8d-d4b3-4920-a67b-8a5f84f3546a",
+      "name": "Me.bot for Android",
+      "slug": "me-bot-for-android",
+      "description": "AI companion for organizing thoughts and enhancing productivity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/me-bot-for-android.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.mindverse.mebot\u0026referrer=utm_source%253DPH%2526utm_campaign%253DPH0914\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-17T08:47:04Z",
+      "updated_at": "2025-03-27T03:11:43.091272Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a3aa855c-b84c-485d-9a35-78567210bafa",
+      "name": "Meaning",
+      "slug": "meaning",
+      "description": "Manage screen time effectively",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/meaning.webp",
+      "website_url": "https://www.usemeaning.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-04T09:24:34Z",
+      "updated_at": "2025-03-27T02:59:11.807651Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a6d62d89-cccc-429f-9d10-1f7c6b6c2001",
+      "name": "Medullar",
+      "slug": "medullar",
+      "description": "All-in-one data discovery and management solution",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/medullar.jpg",
+      "website_url": "https://www.medullar.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-10T11:40:05Z",
+      "updated_at": "2025-03-27T03:09:04.430625Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e325e2b6-512b-4056-9f79-3214f29a29e1",
+      "name": "Meet Joana",
+      "slug": "meet-joana",
+      "description": "Personalized AI Portuguese teacher",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/meet-joana.jpg",
+      "website_url": "https://www.meetjoana.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T14:20:40Z",
+      "updated_at": "2025-03-27T03:20:24.310636Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d79bfb80-fec6-4ff6-90e9-363816e8f53f",
+      "name": "Meet the Meeting",
+      "slug": "meet-the-meeting",
+      "description": "Real-time audience feedback",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/meet-the-meeting.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/meet-the-meeting/ikcjmpbkjnebkfpidbcpepejghkhhjlf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:05Z",
+      "updated_at": "2025-03-27T03:06:43.653892Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6da6af06-5dfb-4159-9daf-e28583d8d265",
+      "name": "MemBrain",
+      "slug": "membrain",
+      "description": "AI second brain tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/membrain.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/membrain/eknbepndjmjchcbbcadobcmdnikkkbdg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:49Z",
+      "updated_at": "2025-03-27T03:00:16.501836Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "56de7ed2-bd6f-44e0-9ce9-b48c503f79d8",
+      "name": "Meme-Yourself",
+      "slug": "meme-yourself",
+      "description": "Create personalized and funny memes with Meme Yourself using AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/meme-yourself.jpg",
+      "website_url": "https://meme-yourself.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-30T09:38:34Z",
+      "updated_at": "2025-03-27T03:19:43.585333Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ecfd3d17-1fbc-4bfc-a745-cc7531d52676",
+      "name": "MemoJournal",
+      "slug": "memojournal",
+      "description": "Diary app with voice recording",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/memojournal.webp",
+      "website_url": "https://apps.apple.com/de/app/memojournal/id6502835696?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:57:30Z",
+      "updated_at": "2025-03-27T03:05:20.40157Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e530ca6d-a088-44f8-8ff2-14b2d7772f9e",
+      "name": "Memorai – AI memory assistant for Anki",
+      "slug": "memorai-ai-memory-assistant-for-anki",
+      "description": "AI assistant for effortless memory retention",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/memorai-ai-memory-assistant-for-anki.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/memorai-–-ai-memory-assis/kjncpaiejgkgpgiiibmnjnkahokdgfap?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:16Z",
+      "updated_at": "2025-03-27T03:04:08.090389Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "466f2d5f-967d-44b7-bca3-c0789ab065e4",
+      "name": "Memowise",
+      "slug": "memowise",
+      "description": "Online reading information organization and utilization tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/memowise.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/memowise/pogmfdhpnjilmdgknhhcdeljbgcdlncm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-05T03:28:24Z",
+      "updated_at": "2025-03-27T03:10:18.56298Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1ba8c338-f390-43ae-8352-90c646a7b9f2",
+      "name": "Memxi Chrome Extension",
+      "slug": "memxi-chrome-extension",
+      "description": "Effortless bookmarking with AI assistance",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/memxi-chrome-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/memxi-chrome-extension/kapandjcpbhbjjagioppcifjlpemdfdp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:56Z",
+      "updated_at": "2025-03-27T03:07:37.848981Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1637ec97-5d33-4bdb-93ac-af972209452b",
+      "name": "Mesoor TIP",
+      "slug": "mesoor-tip",
+      "description": "AI-based extension for browsing and indexing",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mesoor-tip.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mesoor-tip/kpkfmnamohbakhddpnoebciebhcdnaei?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:31:46Z",
+      "updated_at": "2025-03-27T03:00:29.383395Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4a3e31c0-82e6-42bc-83a3-fc5a58f9c5a4",
+      "name": "Meta Movie",
+      "slug": "meta-movie",
+      "description": "Facts displayed on Netflix videos",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/meta-movie.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/meta-movie/giaclandajbapmfkkoammmmkhaedeiip?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:49Z",
+      "updated_at": "2025-03-27T03:00:15.718515Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "673e6634-6734-4978-873a-48b9dd202c4a",
+      "name": "Meta y",
+      "slug": "meta-y",
+      "description": "Monetize unused GPU for AI tasks",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/meta-y.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/meta-y/ajhafpbgjebmblogbhkghinlfjkgmgmc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:35Z",
+      "updated_at": "2025-03-27T03:10:55.740137Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f6329dc6-f51f-47de-929a-3070562d1efa",
+      "name": "MetaBackOffice tecnikè srl v2",
+      "slug": "metabackoffice-tecnik-srl-v2",
+      "description": "Simplify insurance portal interaction with intelligent automation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/metabackoffice-tecnik-srl-v2.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/metabackoffice-tecnikè-sr/fcnphldplamjgnljpghnmaeiombkjimn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:51Z",
+      "updated_at": "2025-03-27T03:05:40.69166Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "acb733b0-6905-4856-a650-1dd18e33ac56",
+      "name": "Midjourney Grid Splitter - Image Splitter",
+      "slug": "midjourney-grid-splitter-image-splitter",
+      "description": "Split and extract images from diffusion model grids",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/midjourney-grid-splitter-image-splitter.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/midjourney-grid-splitter/fkainebfeahgcncnglfdbnelnbjllieo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:09Z",
+      "updated_at": "2025-03-27T03:00:52.687509Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "388bbb45-eb15-4170-998c-14081641a9fa",
+      "name": "Milk Infrastructure",
+      "slug": "milk-infrastructure",
+      "description": "AI automates Kubernetes deployment on any cloud",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/milk-infrastructure.jpg",
+      "website_url": "https://milkinfrastructure.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-05T09:00:41Z",
+      "updated_at": "2025-03-27T03:08:08.752267Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cfa1a24a-8920-4199-b19f-a263c3356a04",
+      "name": "Mind Check",
+      "slug": "mind-check",
+      "description": "Unload your mind, get AI feedback.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mind-check.jpg",
+      "website_url": "https://mindcheck.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-11-19T11:40:33Z",
+      "updated_at": "2025-03-27T03:21:52.495892Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "57c3684f-c53f-4ce8-a42f-f8c4cd691efe",
+      "name": "MindHero",
+      "slug": "mindhero",
+      "description": "Enhance focus and productivity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mindhero.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mindhero/opjbphlikplllhehiaafnglngompagni?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:15Z",
+      "updated_at": "2025-03-27T03:04:04.629092Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "195405df-d77d-4703-b2e1-a777fdaf7f28",
+      "name": "Mindcommerce - AI Ecommerce Engine",
+      "slug": "mindcommerce-ai-ecommerce-engine",
+      "description": "Find and shop the best global products with AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mindcommerce-ai-ecommerce-engine.webp",
+      "website_url": "https://www.mindcommerce.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-15T03:50:01Z",
+      "updated_at": "2025-03-27T02:58:40.105452Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b5b600de-8b50-47a8-a559-9684bb4284d9",
+      "name": "Mindful Extension",
+      "slug": "mindful-extension",
+      "description": "Enhances online safety through sentiment analysis.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mindful-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mindful-extension/jbhmbnnjnblofofeegonlonfpgbieagd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:11Z",
+      "updated_at": "2025-03-27T03:03:08.424385Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "68231bf6-afeb-42df-b1dd-e0ddb9da3c06",
+      "name": "Mineral New Tab",
+      "slug": "mineral-new-tab",
+      "description": "AI-driven New Tab with productivity tools",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mineral-new-tab.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mineral-new-tab/bdekkkolgkejkinpjmmbiofdhjkkbaaa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:37Z",
+      "updated_at": "2025-03-27T03:02:48.220527Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cabadea8-3791-4bbc-b12a-2ab32d728057",
+      "name": "Minerva (3B) Create How-To Guides in Seconds",
+      "slug": "minerva-3b-create-how-to-guides-in-seconds",
+      "description": "Simplify sharing process documentation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/minerva-3b-create-how-to-guides-in-seconds.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/minerva-3b-create-how-to/odeiabaibnpkdbhaelbgbknihdblniff?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:19Z",
+      "updated_at": "2025-03-27T03:01:50.713739Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9300e73d-e0b6-492d-bcba-036f1947fbed",
+      "name": "MiniMe",
+      "slug": "minime",
+      "description": "Tailor AI apps to your needs",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/minime.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/minime/ggfolbnekimphgfhfbobofhncpobicab?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:51Z",
+      "updated_at": "2025-03-27T03:04:45.894634Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f432874a-b13a-457f-ab27-4adcdac0034d",
+      "name": "Mirada",
+      "slug": "mirada",
+      "description": "Custom home screen with chat, todos, apps, Reddit feed, images, quotes.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mirada.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mirada/jpdpnkbbkfhaellbghfmkjlokediemfm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:19Z",
+      "updated_at": "2025-03-27T03:01:48.760304Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "98e23a7d-9695-45be-9318-fc90d685613a",
+      "name": "MobiRest POS",
+      "slug": "mobirest-pos",
+      "description": "Cloud-based POS for hospitality industry with advanced management features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mobirest-pos.jpg",
+      "website_url": "https://mobirest.business?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:28Z",
+      "updated_at": "2025-03-27T03:13:55.930554Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fdcf4deb-5b15-4639-8050-07f41aae413c",
+      "name": "MomTestGPT",
+      "slug": "momtestgpt",
+      "description": "Conversation transcription \u0026 summarization tool for founders and teams.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/momtestgpt.jpg",
+      "website_url": "https://momtestai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-31T12:21:57Z",
+      "updated_at": "2025-03-27T03:21:35.708865Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7dc91392-f6f9-44bb-a473-346f091c57b4",
+      "name": "Monetize Chatbots",
+      "slug": "monetize-chatbots",
+      "description": "Monetize chatbots with affiliate links effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/monetize-chatbots.jpg",
+      "website_url": "https://monetizechatbots.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-23T04:26:35Z",
+      "updated_at": "2025-03-27T03:12:31.460702Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a05591a6-0269-424d-b7cd-a732271aa944",
+      "name": "Monica Search - New Tab for AI Search",
+      "slug": "monica-search-new-tab-for-ai-search",
+      "description": "AI search tool for dynamic new tab experience",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/monica-search-new-tab-for-ai-search.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/monica-search-new-tab-for/pmbmfhhbllfiifceolpogjoagoiollkc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:51Z",
+      "updated_at": "2025-03-27T03:03:20.731979Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bdf13f6d-7b04-4388-9c49-60597695c22f",
+      "name": "Monitorizo",
+      "slug": "monitorizo",
+      "description": "Amazon product decision algorithm",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/monitorizo.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/monitorizo/oncndhplhhpalolnijfjoojoahceejpg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:31:43Z",
+      "updated_at": "2025-03-27T03:00:22.986222Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "964e3b11-6f30-41a9-be46-42facafecd6f",
+      "name": "Monkai - AI Focus Assistant from Your New Tab",
+      "slug": "monkai-ai-focus-assistant-from-your-new-tab",
+      "description": "Focus and distraction management tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/monkai-ai-focus-assistant-from-your-new-tab.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/monkai-ai-focus-assistant/kkacpbmkhbljebmpcopjlgfgbgeokbhn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:55Z",
+      "updated_at": "2025-03-27T03:03:58.817355Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c3da47c5-c432-46ec-b56c-7d9ca596a489",
+      "name": "Monus AI: Full Cashback \u0026 AI Stores | Save Up to 100%",
+      "slug": "monus-ai-full-cashback-ai-stores-save-up-to-100",
+      "description": "Smart extension automating cashback and deal-finding for shoppers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/monus-ai-full-cashback-ai-stores-save-up-to-100.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/monus-ai-full-cashback-ai/ccbjnpclkbbjdpkckmhimnncpialamlo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-20T03:15:35Z",
+      "updated_at": "2025-03-27T03:14:40.284932Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "79eb4e99-7f3b-42aa-b1a2-0227c7360ce3",
+      "name": "Moodle GPT Quiz Solver",
+      "slug": "moodle-gpt-quiz-solver",
+      "description": "Quickly generate solutions for Moodle quizzes.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/moodle-gpt-quiz-solver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/moodle-gpt-quiz-solver/mlkemaonopiomkepkdchdmhhpmhlllaf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:08Z",
+      "updated_at": "2025-03-27T03:06:58.088346Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "516bcae9-a13b-4876-ba3b-fd886dfd0671",
+      "name": "Moodmap",
+      "slug": "moodmap",
+      "description": "AI-powered ADHD monitoring",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/moodmap.webp",
+      "website_url": "https://adhdtest.moodmap.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-07T10:24:39Z",
+      "updated_at": "2025-03-27T02:59:16.745069Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ee6ce95d-ddf3-4a1f-9ff9-646818e429d7",
+      "name": "MoonMetrics",
+      "slug": "moonmetrics",
+      "description": "AI-powered tool for cryptocurrency chart analysis and insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/moonmetrics.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/moonmetrics/mgmfcdobhahhanajpalcjneconimihkf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:13Z",
+      "updated_at": "2025-03-27T03:15:05.908498Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "23ee0408-a56a-4c46-a65f-18afe3d127c1",
+      "name": "Moret1me",
+      "slug": "moret1me",
+      "description": "Automated time tracking tool for easier timesheet management.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/moret1me.jpg",
+      "website_url": "https://www.moret1me.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-18T08:39:22Z",
+      "updated_at": "2025-03-27T03:12:03.172339Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f63680de-5efe-4d81-9189-ef7b392fb48d",
+      "name": "Morning Comic Brew",
+      "slug": "morning-comic-brew",
+      "description": "AI-powered personalized comic creation platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/morning-comic-brew.jpg",
+      "website_url": "https://www.morningcomicbrew.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-05T08:56:23Z",
+      "updated_at": "2025-03-27T03:08:01.451464Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3eb3d682-31f1-4078-beff-9212776027ff",
+      "name": "Morpheus",
+      "slug": "morpheus",
+      "description": "AI interview coach for effective job preparation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/morpheus.jpg",
+      "website_url": "https://www.morpheus-interview.site?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-11T10:21:59Z",
+      "updated_at": "2025-03-27T03:15:43.722784Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5a12fd7d-a898-44ef-b572-171c2fc314d2",
+      "name": "Motion Cut",
+      "slug": "motion-cut",
+      "description": "Motion Cut provides video production and animation services for startups in SaaS, AI, and Web3.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/motion-cut.jpg",
+      "website_url": "https://motioncut.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-01T15:09:34Z",
+      "updated_at": "2025-03-27T02:56:17.657358Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1c698ab7-c05e-4ad3-9352-6eb3771bce8e",
+      "name": "Movie Gen",
+      "slug": "movie-gen",
+      "description": "AI platform for creating and editing videos from text and images.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/movie-gen.jpg",
+      "website_url": "https://moviegen.studio?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:39:46Z",
+      "updated_at": "2025-03-27T03:12:43.27605Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1b42ce2f-3569-4ec3-a1bd-1d00cade2bc1",
+      "name": "Municode.ai - Chat with any Municipal Code",
+      "slug": "municode-ai-chat-with-any-municipal-code",
+      "description": "Simplify municipal code comprehension.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/municode-ai-chat-with-any-municipal-code.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/municodeai-chat-with-any/ehhfanchmgnccanehpebglmjodahjjbd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:42Z",
+      "updated_at": "2025-03-27T03:05:18.116985Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "027c810f-cee5-4e0c-b931-1925e14d7492",
+      "name": "Muromo",
+      "slug": "muromo",
+      "description": "Automated referral tool to enhance Shopify store sales.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/muromo.jpg",
+      "website_url": "https://muromo.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-21T06:33:13Z",
+      "updated_at": "2025-03-27T03:14:59.600395Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bd53c346-6e93-45d8-ba35-050bf5534802",
+      "name": "Muse GPT Page",
+      "slug": "muse-gpt-page",
+      "description": "AI extension for quick summaries",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/muse-gpt-page.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/muse-gpt-page/behcohbidbphfgimphjgofnfnbebienc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:32Z",
+      "updated_at": "2025-03-27T03:02:38.413057Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dcee5442-2f68-4217-8c01-7b9de57ef669",
+      "name": "MuviSafe: Family-Friendly AI-Generated Movie Filtering",
+      "slug": "muvisafe-family-friendly-ai-generated-movie-filtering",
+      "description": "AI-powered scene skipping based on preferences.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/muvisafe-family-friendly-ai-generated-movie-filtering.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/muvisafe-family-friendly/knpmgpalobhgiegeblhcpiahminfbddp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:04Z",
+      "updated_at": "2025-03-27T03:00:35.202383Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

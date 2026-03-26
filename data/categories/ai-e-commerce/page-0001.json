@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "c92216eb-cbcc-4252-b80f-333550ff0e19",
+      "name": "AngleMuse",
+      "slug": "anglemuse",
+      "description": "AI 360° video \u0026 multi-angle images that drive sales",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5513d0d0-224b-4784-aea1-07f50bff3469_1764155840288.webp",
+      "website_url": "https://anglemuse.com",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-25T04:26:25.402104Z",
+      "updated_at": "2025-11-26T11:18:14.333Z",
+      "category_slugs": [
+        "ai-digital-marketing",
+        "ai-e-commerce",
+        "photo-image-editor"
+      ]
+    },
+    {
+      "id": "5f772925-2886-4848-9f65-f6662718d144",
+      "name": "Photta App",
+      "slug": "photta-app",
+      "description": "With Photta, you can dress products on realistic AI models, change poses, generate ghost mannequin visuals, and process multiple images in batches. The platform is optimized for Shopify, Amazon, Etsy, and online stores that need clean, conversion-focused product visuals.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/bb678594-b420-4d43-9333-1fd0616aefda_1766578911048.PNG",
+      "website_url": "https://www.photta.app",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-23T04:15:28.848531Z",
+      "updated_at": "2025-12-24T12:21:51.868Z",
+      "category_slugs": [
+        "ai-e-commerce",
+        "ai-fashion-design",
+        "ai-photography",
+        "marketing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 74,
+    "total_pages": 2,
+    "prev_path": "categories/ai-proposal-writing/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "f3f2e4ed-5f47-4f37-933b-148da2f19b79",
+      "name": "Writio",
+      "slug": "writio",
+      "description": "Writio | A.I Writing. Editing. Topic Research.",
+      "logo_url": "https://icon.horse/icon/writio.com",
+      "website_url": "https://writio.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-30T00:00:00Z",
+      "updated_at": "2023-05-30T00:00:00Z",
+      "category_slugs": [
+        "ai-audio-editing",
+        "ai-market-research",
+        "ai-proposal-writing",
+        "ai-video-search",
+        "business",
+        "video",
+        "voice"
+      ]
+    },
+    {
+      "id": "862a5649-3232-4c48-a479-c457728b969f",
+      "name": "Yaara",
+      "slug": "yaara",
+      "description": "Yaara - Unlock Your Writing Potential",
+      "logo_url": "https://yaara.ai/favicon.ico",
+      "website_url": "https://yaara.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-proposal-writing",
+        "business"
+      ]
+    }
+  ]
+}

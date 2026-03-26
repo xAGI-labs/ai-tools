@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "bd2497cb-95c5-484a-904d-8087401bd17a",
+      "name": "Digital God - Automate Sales, Get Users",
+      "slug": "digital-god-automate-sales-get-users",
+      "description": "Automated marketing platform connecting businesses with customers effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/digital-god-automate-sales-get-users.jpg",
+      "website_url": "https://www.myuser.com/god?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 569,
+      "created_at": "2024-08-10T10:52:45Z",
+      "updated_at": "2025-03-27T03:26:31.814137Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-god",
+        "ai-lead-generation",
+        "sales-assistant"
+      ]
+    },
+    {
+      "id": "b5463045-7fe1-4fb5-8302-986e6e5cc443",
+      "name": "AiYogi.ai",
+      "slug": "aiyogi-ai",
+      "description": "AI modules for meditation and mindfulness based on spiritual teachings.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aiyogi-ai.jpg",
+      "website_url": "https://aiyogi.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-26T09:24:38Z",
+      "updated_at": "2025-03-27T08:14:32.507411Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-god",
+        "religion"
+      ]
+    },
+    {
+      "id": "520345c9-49d3-472f-b5d0-af7581c1d539",
+      "name": "Ask Religion with AI",
+      "slug": "ask-religion-with-ai",
+      "description": "AI-based platform for asking questions from official religious texts",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ask-religion-with-ai.jpg",
+      "website_url": "https://askreligion.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-05T08:56:22Z",
+      "updated_at": "2025-03-27T08:19:42.025853Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-god",
+        "religion"
+      ]
+    },
+    {
+      "id": "5c0b1279-4281-4f67-90c7-1a3513dbe6f1",
+      "name": "CrossValidation.ai",
+      "slug": "crossvalidation-ai",
+      "description": "AI spiritual direction platform for personalized guidance and community.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/crossvalidation-ai.jpg",
+      "website_url": "https://crossvalidation.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-13T01:27:16Z",
+      "updated_at": "2025-03-27T08:13:34.478487Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-god",
+        "religion"
+      ]
+    },
+    {
+      "id": "106697c3-d6b2-4509-9474-1ec787d07342",
+      "name": "GodTok",
+      "slug": "godtok",
+      "description": "Faith-based app for daily inspiration and spiritual growth.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/godtok.jpg",
+      "website_url": "https://apps.apple.com/us/app/godtok-ai-christian-chat-gpt/id6741593444?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-26T09:24:42Z",
+      "updated_at": "2025-03-27T08:14:36.485294Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-god",
+        "religion"
+      ]
+    }
+  ]
+}

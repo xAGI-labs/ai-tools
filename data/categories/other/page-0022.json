@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 22,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0023.json",
+    "prev_path": "categories/other/page-0021.json"
+  },
+  "items": [
+    {
+      "id": "08faf4f6-21b8-48ab-8606-0c4a10c0855f",
+      "name": "Kaivoto",
+      "slug": "kaivoto",
+      "description": "Kaivoto is a tech agency providing reliable solutions for businesses' technology needs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kaivoto.jpg",
+      "website_url": "https://kaivoto.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-12T10:19:26Z",
+      "updated_at": "2025-03-27T02:56:19.379446Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "63674c0e-0d82-47bd-bf3b-dd397fcb63b4",
+      "name": "Kalory: AI Calorie Counter",
+      "slug": "kalory-ai-calorie-counter",
+      "description": "AI-powered meal tracking and nutrition analysis app.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kalory-ai-calorie-counter.jpg",
+      "website_url": "https://apps.apple.com/tr/app/kalory-ai-calorie-counter/id6503200291?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:39:12Z",
+      "updated_at": "2025-03-27T03:12:38.32969Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d35baa28-537a-4680-8c7e-1637ed8f8729",
+      "name": "KanShareBan",
+      "slug": "kanshareban",
+      "description": "A collaborative platform for indie developers to share and get feedback.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kanshareban.jpg",
+      "website_url": "https://www.kanshareban.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-14T10:48:48Z",
+      "updated_at": "2025-03-27T03:10:41.195019Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "67367c78-ca4b-4063-bcb8-53ffd712330c",
+      "name": "Keep My Idea",
+      "slug": "keep-my-idea",
+      "description": "Tool for organizing, validating project ideas with feedback and AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/keep-my-idea.jpg",
+      "website_url": "https://www.keepmyidea.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:44:52Z",
+      "updated_at": "2025-03-27T03:15:27.88004Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aed62bdf-19d8-4669-82d3-5a33dc44491c",
+      "name": "KeepChatGPT - Enable ChatGPT to chat smooth",
+      "slug": "keepchatgpt-enable-chatgpt-to-chat-smooth",
+      "description": "Error resolution tool for online interactions",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/keepchatgpt-enable-chatgpt-to-chat-smooth.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/keepchatgpt-enable-chatgp/aidjbcadkohfjgbikjiechlafmiifpfm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:15Z",
+      "updated_at": "2025-03-27T03:04:03.957153Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6459209d-d100-42e0-b769-b4e26cf6dc59",
+      "name": "Kelimenin Kökü",
+      "slug": "kelimenin-k-k",
+      "description": "Discover word origins with ease.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kelimenin-k-k.jpg",
+      "website_url": "http://www.kelimeninkoku.com.tr",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-12-11T12:21:17Z",
+      "updated_at": "2025-03-27T03:21:57.684467Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bf75c7a7-099a-41a5-af21-1e90a45003cb",
+      "name": "Kelp: Your magical website organizer",
+      "slug": "kelp-your-magical-website-organizer",
+      "description": "Adaptive tool for organizing documents and webpages efficiently.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kelp-your-magical-website-organizer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kelp-your-magical-website/onkkkcfnlbkoialleldfbgodakajfpnl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:38Z",
+      "updated_at": "2025-03-27T03:02:52.678728Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a7649115-cda6-4805-af40-e00830daeed6",
+      "name": "Kerno Start",
+      "slug": "kerno-start",
+      "description": "Automated company incorporation with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kerno-start.jpg",
+      "website_url": "https://www.kerno.ch?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-31T08:45:57Z",
+      "updated_at": "2025-03-27T03:10:06.286318Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5823aae9-2c2c-46c9-8c53-6084b11a9439",
+      "name": "Kick to Twitch",
+      "slug": "kick-to-twitch",
+      "description": "Integrates Kick streams into Twitch for consolidated viewing.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kick-to-twitch.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kick-to-twitch/kfcpoambhgjdlelaiiccnaainehhgpci?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:09Z",
+      "updated_at": "2025-03-27T03:14:30.922598Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bda3d6ec-177c-48b8-9d94-91078a5d59d8",
+      "name": "Kimi 阅读助手",
+      "slug": "kimi-阅读助手",
+      "description": "Web content reader with multi-round conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kimi-%E9%98%85%E8%AF%BB%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kimi-阅读助手/iejcbdponpipehjlchccknbmnkonnmji?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:48Z",
+      "updated_at": "2025-03-27T03:07:12.320774Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c3ad7692-0152-48bf-b333-847055f2a0c8",
+      "name": "Kindamagic",
+      "slug": "kindamagic",
+      "description": "Record demos, create guides",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kindamagic.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kindamagic/pidihlgcaijlchdpmeecidoclbnmlngj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:38Z",
+      "updated_at": "2025-03-27T03:01:42.892243Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5be2afcb-42f7-432a-b549-3b90a775102d",
+      "name": "Klemo.co",
+      "slug": "klemo-co",
+      "description": "Connect and engage effortlessly on social media",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/klemo-co.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/klemoco/nijpealkajjjgnfbjebggbcefcangdhk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:21Z",
+      "updated_at": "2025-03-27T03:01:58.449291Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "472911b2-cff0-426d-866d-e3e1f15d1c19",
+      "name": "Kliqe",
+      "slug": "kliqe",
+      "description": "Empowering conscious consumers through AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kliqe.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kliqe/domjbcapbigphnmefkfebnppahegpfol?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:00Z",
+      "updated_at": "2025-03-27T03:06:34.140185Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bb3dcdca-27e4-46c3-bf69-488132322111",
+      "name": "Knoiz",
+      "slug": "knoiz",
+      "description": "Create your next playlist, in seconds",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/knoiz.webp",
+      "website_url": "https://knoiz.fr?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-15T03:50:02Z",
+      "updated_at": "2025-03-27T02:58:42.873633Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cf698185-2a29-4ac7-bc65-52acbccc9fe6",
+      "name": "Konlap",
+      "slug": "konlap",
+      "description": "Multilingual information access with AI responses",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chromewebstore.google.com.ico",
+      "website_url": "https://chromewebstore.google.com/detail/konlap/eicopobhamhflmfjklagcffjocikjddl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:55Z",
+      "updated_at": "2025-03-27T03:07:35.854529Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4a78728a-1f02-4ab4-8a95-f652d2327a49",
+      "name": "Kreaitor.AI",
+      "slug": "kreaitor-ai",
+      "description": "AI-powered content generation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kreaitor-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kreaitorai/lnglhplkjaegniinneifekaaoepfflhi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:25Z",
+      "updated_at": "2025-03-27T03:04:53.251597Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "617e3061-421b-4279-ad95-67486391e4bc",
+      "name": "Kuakua - Psychology \u0026 AI Tools for Well-Being",
+      "slug": "kuakua-psychology-ai-tools-for-well-being",
+      "description": "Psychology \u0026 AI tools for well-being",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kuakua-psychology-ai-tools-for-well-being.webp",
+      "website_url": "https://positivepsychologys.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-23T16:20:07Z",
+      "updated_at": "2025-03-27T03:07:35.144487Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e73d2d03-f2f5-49ac-8072-bea83f7cdfb0",
+      "name": "Kurrant.ai",
+      "slug": "kurrant-ai",
+      "description": "Ultimate market coverage solution",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/kurrant-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/kurrantai/mkohhbonmnbbeceekfniakihnmpibedm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:22Z",
+      "updated_at": "2025-03-27T03:02:19.673301Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f4a3acb4-e673-4054-b9a1-94f2913fda36",
+      "name": "L.E.A.F.™ - Learn. Engage. Ask. Find.",
+      "slug": "l-e-a-f-learn-engage-ask-find",
+      "description": "L.E.A.F. is a career companion that guides individuals throughout their careers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/l-e-a-f-learn-engage-ask-find.jpg",
+      "website_url": "https://leaf-career.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-25T14:19:41Z",
+      "updated_at": "2025-03-27T03:21:03.257082Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9c52ca7d-8261-4265-9b67-1284c224d6f7",
+      "name": "LLM Farm",
+      "slug": "llm-farm",
+      "description": "LLMFarm is a platform that improves farm management and productivity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/llm-farm.jpg",
+      "website_url": "https://www.0llm.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-29T10:03:03Z",
+      "updated_at": "2025-03-27T03:21:31.730598Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7e0b3f01-bbac-48d9-874a-1130756e4858",
+      "name": "LLM Labs",
+      "slug": "llm-labs",
+      "description": "Compare and test language models.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/llm-labs.webp",
+      "website_url": "https://labs.fprime.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-29T02:15:30Z",
+      "updated_at": "2025-03-27T02:59:10.192807Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f4bcf938-7b80-4e85-afd5-3c87612ebcf4",
+      "name": "LLM Prompt Saver",
+      "slug": "llm-prompt-saver",
+      "description": "Chrome extension for managing LLM prompts",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/llm-prompt-saver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/llm-prompt-saver/klpdfepkejnangjnebfmnbodbkjlpkjn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-04T01:34:05Z",
+      "updated_at": "2025-03-27T03:12:55.867497Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "61806778-2bfb-4e0a-b22f-499768a589de",
+      "name": "LLM flourishing feedback",
+      "slug": "llm-flourishing-feedback",
+      "description": "Feedback platform for AI wellbeing impact",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/llm-flourishing-feedback.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/llm-flourishing-feedback/hgagbflkhnibnjopiibfkeacepflnbhb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:27Z",
+      "updated_at": "2025-03-27T03:05:03.658651Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6c8a9c6f-5c09-4ce4-8f75-d6a41dff49cc",
+      "name": "Laika AI",
+      "slug": "laika-ai",
+      "description": "Empowering Web3 with advanced insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/laika-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/laika-ai/ehplfgnopmpflglfpldjdodaogebfgpe?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:50Z",
+      "updated_at": "2025-03-27T03:03:18.747079Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "64e8baa8-ddf9-4a24-a6c9-33a7c3aba273",
+      "name": "Laneform",
+      "slug": "laneform",
+      "description": "Conceptual imagery and engaging visual surveys for urban planners, developers, and civic leaders.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/laneform.jpg",
+      "website_url": "https://www.laneform.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-30T14:22:35Z",
+      "updated_at": "2025-03-27T03:19:47.851697Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cb02035e-7e4d-43c8-a2f1-9a86b3a3a6c8",
+      "name": "LangBuddy AI - Japanese",
+      "slug": "langbuddy-ai-japanese",
+      "description": "Chrome extension for interactive Japanese learning on any website.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/langbuddy-ai-japanese.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/langbuddy-ai-japanese/ojgpjjnhmclnmlkkeempoepmlmllahml?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-07T10:05:32Z",
+      "updated_at": "2025-03-27T03:14:10.360022Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "79d69007-db96-4dab-b935-1ce7dc552240",
+      "name": "LangueBot",
+      "slug": "languebot",
+      "description": "AI language tutor offering personalized lessons for fluency.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/languebot.jpg",
+      "website_url": "https://www.languebot.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-20T11:04:35Z",
+      "updated_at": "2025-03-27T03:11:04.232851Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "56540c29-c27e-44e0-8ebc-0b6e641b2cca",
+      "name": "LaunchIdea",
+      "slug": "launchidea",
+      "description": "AI tool for idea transformation into market-ready products",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/launchidea.jpg",
+      "website_url": "https://launchidea.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T11:23:28Z",
+      "updated_at": "2025-03-27T03:08:56.987787Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b4eadf42-40ee-4895-96ae-4abcf4e508be",
+      "name": "LaunchPadQuick",
+      "slug": "launchpadquick",
+      "description": "All-in-one toolkit for SaaS startups",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/launchpadquick.jpg",
+      "website_url": "https://www.launchpadquick.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:01:38Z",
+      "updated_at": "2025-03-27T03:07:55.26524Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d55c7849-dc1c-41dd-86db-0456806debf4",
+      "name": "LayerVPN",
+      "slug": "layervpn",
+      "description": "Stay secure and anonymous online.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/layervpn.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/layervpn/bcpbooipgcnioknjlaolojfkikaipmcc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:51Z",
+      "updated_at": "2025-03-27T03:04:47.784424Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "02de4bdb-449d-4b0e-a053-2a88a9432b59",
+      "name": "Learn, Build \u0026 Ship SaaS with ShipGPT",
+      "slug": "learn-build-ship-saas-with-shipgpt",
+      "description": "Build AI SaaS apps easily",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/learn-build-ship-saas-with-shipgpt.webp",
+      "website_url": "https://shipgpt.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-27T11:45:14Z",
+      "updated_at": "2025-03-27T02:59:07.725027Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1a6e0709-f7a9-4921-ba58-7ecfca342dd9",
+      "name": "LearnerOn",
+      "slug": "learneron",
+      "description": "Cutting-edge learning platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/learneron.webp",
+      "website_url": "https://learneron.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:57:31Z",
+      "updated_at": "2025-03-27T03:05:25.151944Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6ae70d4d-071d-4d03-b6e6-f47fc93cb6f2",
+      "name": "Leetcoach",
+      "slug": "leetcoach",
+      "description": "Get feedback on work via ChatGPT.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/leetcoach.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/leetcoach/gdcenglicnhmmmgmcplemgeifjhiipkj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:27Z",
+      "updated_at": "2025-03-27T03:02:28.778315Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "17e6f6e2-6789-40d8-ac97-8224663be64a",
+      "name": "Lektur",
+      "slug": "lektur",
+      "description": "Interactive content creation for educators.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lektur.webp",
+      "website_url": "https://lektur.org?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:57:30Z",
+      "updated_at": "2025-03-27T03:05:22.659319Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "59319e4d-c61c-4782-b6f0-127cdae29f51",
+      "name": "Leo Page Assistant",
+      "slug": "leo-page-assistant",
+      "description": "AI-powered browser extension for instant insights",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/leo-page-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/leo-page-assistant/jmmpjoplhjdhaokpmpalkohpkliigllc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-28T02:13:48Z",
+      "updated_at": "2025-03-27T03:11:12.748473Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dd53d8dc-0ed8-42b5-bf69-8c194e8d0dcd",
+      "name": "LibSwitch",
+      "slug": "libswitch",
+      "description": "Open-source AI tool for converting code between libraries.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/libswitch.jpg",
+      "website_url": "https://libswitch.dev?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-15T12:02:03Z",
+      "updated_at": "2025-03-27T03:10:48.185363Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bda23ae2-871a-42e3-80d6-0644ff9cf555",
+      "name": "Light",
+      "slug": "light",
+      "description": "Enhance browsing with calendar, clock, memos, VPN, news, and more.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/light.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/light/hhnijlimimadejbflojfikpjfaacekcp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:20Z",
+      "updated_at": "2025-03-27T03:01:54.716956Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "97262252-c1f0-4c0b-91da-62b77d421508",
+      "name": "Light Preview Release",
+      "slug": "light-preview-release",
+      "description": "Light is a virtual personal assistant that helps with tasks like explaining concepts and drafting emails.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/light-preview-release.jpg",
+      "website_url": "https://lightchat.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-11T16:35:47Z",
+      "updated_at": "2025-03-27T03:20:59.840174Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f9cf13b3-41d9-484e-a895-9e0011e61885",
+      "name": "LingoFella",
+      "slug": "lingofella",
+      "description": "Master languages with AI conversations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lingofella.webp",
+      "website_url": "https://lingofella.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:30:43Z",
+      "updated_at": "2025-03-27T02:59:30.092989Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a76e854c-01b3-4fff-a880-9e8d5455c0ff",
+      "name": "Lingofi",
+      "slug": "lingofi",
+      "description": "Language learning platform with AI tools",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lingofi.jpg",
+      "website_url": "https://lingofi.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-17T08:47:06Z",
+      "updated_at": "2025-03-27T03:11:45.394263Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "be50e04f-ca02-41d9-9221-33f18e975355",
+      "name": "Lingua Chat",
+      "slug": "lingua-chat",
+      "description": "AI language learning tailored to you.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lingua-chat.webp",
+      "website_url": "https://linguachat.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-11T10:14:19Z",
+      "updated_at": "2025-03-27T02:59:20.852117Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "70e0703d-a71f-45d8-b145-d78c68d4c716",
+      "name": "Lingua: Universal Translator",
+      "slug": "lingua-universal-translator",
+      "description": "AI translation with GPT-3",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lingua-universal-translator.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/lingua-universal-translat/cfiohalnhaempomgdkakpbannnimfmgp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:35Z",
+      "updated_at": "2025-03-27T03:01:33.500518Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6a8dd0f8-ab42-4d98-97c4-6fa2eea46edc",
+      "name": "Linguistic Hindi",
+      "slug": "linguistic-hindi",
+      "description": "Learn Hindi with word replacement",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chromewebstore.google.com.ico",
+      "website_url": "https://chromewebstore.google.com/detail/linguistic-hindi/bnkibajjppncfoigcmeeadgefgppaehe?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:41Z",
+      "updated_at": "2025-03-27T03:01:24.223526Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4368b807-2407-4f37-adde-23d4eb299050",
+      "name": "Linguo AI",
+      "slug": "linguo-ai",
+      "description": "Comprehensive language support AI assistant",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/linguo-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/linguo-ai/nefhlagngoghkfampalnelfogkdnbafo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-06T14:44:53Z",
+      "updated_at": "2025-03-27T03:08:26.014099Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "daa15f6f-c76d-4069-bf67-6881190f7147",
+      "name": "Link:RE",
+      "slug": "link-re",
+      "description": "Explore and organize records easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/link-re.jpg",
+      "website_url": "https://linkre.thenurim.life",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-12-28T03:11:19Z",
+      "updated_at": "2025-03-27T03:22:03.488725Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "493a5f52-2033-44fd-858b-22f0f925f8cc",
+      "name": "Linkbin",
+      "slug": "linkbin",
+      "description": "Convenient bookmark service with AI assistance",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/linkbin.jpg",
+      "website_url": "https://linkbin.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-30T02:25:05Z",
+      "updated_at": "2025-03-27T03:09:53.914385Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a83cb886-31a2-466a-b757-c7237dbcaf72",
+      "name": "Linkedly",
+      "slug": "linkedly",
+      "description": "AI networking and personalized outreach with ChatGPT and email address finder.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/linkedly.jpg",
+      "website_url": "https://linkedly.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-30T15:19:03Z",
+      "updated_at": "2025-03-27T03:21:33.21387Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3c99f6dd-9539-42fb-a07a-2bdf6c8d21a9",
+      "name": "Linkedroid - The LinkedIn™ Helper",
+      "slug": "linkedroid-the-linkedin-helper",
+      "description": "Automate LinkedIn profile visits, 2nd-degree connects, and endorsements",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/linkedroid-the-linkedin-helper.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/linkedroid-the-linkedin-h/jojafcbgfjjagedlpbpgpnafaedfjclk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:06Z",
+      "updated_at": "2025-03-27T03:00:38.362572Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2f6bfc21-136a-4176-92e5-f1a2f5fa35e4",
+      "name": "Linksort",
+      "slug": "linksort",
+      "description": "Link organization with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/linksort.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/linksort/kihaljlbpfihdkajmmkmlkpjpipcabcn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:38Z",
+      "updated_at": "2025-03-27T03:03:49.143293Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "136783fb-a33e-4b55-ab1a-c90916a88666",
+      "name": "LipSurf - Voice Control for the Web",
+      "slug": "lipsurf-voice-control-for-the-web",
+      "description": "Voice-controlled browsing for hands-free operation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lipsurf-voice-control-for-the-web.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/lipsurf-voice-control-for/lnnmjmalakahagblkkcnjkoaihlfglon?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:52Z",
+      "updated_at": "2025-03-27T03:03:21.387018Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "91675faf-089f-4d26-a7aa-678f6552d7d4",
+      "name": "Lite Queen",
+      "slug": "lite-queen",
+      "description": "All-in-one SQLite management",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lite-queen.webp",
+      "website_url": "https://litequeen.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:37:01Z",
+      "updated_at": "2025-03-27T03:00:08.423397Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "da7449ac-0e17-45cb-9769-6b7ebba0b4bf",
+      "name": "Living Images",
+      "slug": "living-images",
+      "description": "Let your images optimize themselves in minutes with generative AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/living-images.webp",
+      "website_url": "https://img.coframe.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-05T08:41:43Z",
+      "updated_at": "2025-03-27T02:58:22.854058Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5b350e74-6cf9-4b4c-9442-48bce001c4a2",
+      "name": "Livrify",
+      "slug": "livrify",
+      "description": "Discover book deals \u0026 get tailored recommendations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/livrify.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/livrify/pkjkanhmbmakkdhlcphgnondglcikhgk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:31:43Z",
+      "updated_at": "2025-03-27T03:00:26.158042Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b0d4b324-dbe4-4fe5-9220-acce75b9fd53",
+      "name": "LoanSim",
+      "slug": "loansim",
+      "description": "Track loans easily",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/loansim.webp",
+      "website_url": "https://loansim.online?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-27T11:45:12Z",
+      "updated_at": "2025-03-27T02:59:04.262343Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "472ef310-1c6c-4d6b-a598-93a9df9e82f1",
+      "name": "LocaleScan",
+      "slug": "localescan",
+      "description": "Real estate area overview platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/localescan.jpg",
+      "website_url": "https://www.localescan.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-10T11:40:06Z",
+      "updated_at": "2025-03-27T03:09:05.377284Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a53e4ed8-fd5e-4236-b731-484c681c1004",
+      "name": "Localeasy.io",
+      "slug": "localeasy-io",
+      "description": "Free platform for managing multi-language projects easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/localeasy-io.jpg",
+      "website_url": "https://localeasy.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T02:08:33Z",
+      "updated_at": "2025-03-27T03:14:36.936338Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dee4c1d8-1870-4a4a-85f7-d7eb06d9c6e0",
+      "name": "Locks",
+      "slug": "locks",
+      "description": "Bet smart \u0026 win more with simple, data-driven insights",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/locks.webp",
+      "website_url": "https://locks.gg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-03T13:13:34Z",
+      "updated_at": "2025-03-27T02:58:17.546032Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c5716cc4-6fb3-4615-a5ae-16730a31f57d",
+      "name": "Lokal.so",
+      "slug": "lokal-so",
+      "description": "Secure tunneling software for remote server access",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lokal-so.jpg",
+      "website_url": "https://lokal.so?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-26T02:41:42Z",
+      "updated_at": "2025-03-27T03:09:31.848487Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6f8f3868-8bb1-48e9-8df4-617c57489ca6",
+      "name": "Lookup AI",
+      "slug": "lookup-ai",
+      "description": "Seamless browsing assistant for quick information lookup.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lookup-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/lookup-ai/ajhlfgjookcomoopfpofcjilimiffeln?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-07T10:05:34Z",
+      "updated_at": "2025-03-27T03:14:12.874643Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5e9eba91-4d34-4d9f-8599-1adeee723a9a",
+      "name": "Loomina",
+      "slug": "loomina",
+      "description": "AI-based platform for personalized skill learning.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/loomina.jpg",
+      "website_url": "https://loomina.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-23T04:26:39Z",
+      "updated_at": "2025-03-27T03:12:34.926897Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8fa89a46-0b2f-4f2b-924a-5f097d43a941",
+      "name": "Loqui-Ai",
+      "slug": "loqui-ai",
+      "description": "Loqui.AI helps users improve language skills using AI-powered tool.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/loqui-ai.jpg",
+      "website_url": "https://www.loqui-ai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-15T15:38:10Z",
+      "updated_at": "2025-03-27T03:18:55.471707Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d951ef9c-8387-4975-9c8c-e18b1c5b73f0",
+      "name": "Lotto Chart",
+      "slug": "lotto-chart",
+      "description": "AI-driven tool for predicting lottery numbers using historical data.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lotto-chart.jpg",
+      "website_url": "https://www.lottochart.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-23T13:18:19Z",
+      "updated_at": "2025-03-27T03:11:56.774557Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "99066ada-f2c9-411f-95f9-4799da05051b",
+      "name": "Luminoso Guided Tagging",
+      "slug": "luminoso-guided-tagging",
+      "description": "Enhanced automated tagging",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/luminoso-guided-tagging.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/luminoso-guided-tagging/fiehhkhaekmiolhmnffphahcbckgnclp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:47Z",
+      "updated_at": "2025-03-27T03:00:12.44746Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "32eb8fcb-75d3-4842-8c21-0f6e95f27506",
+      "name": "Luminous",
+      "slug": "luminous",
+      "description": "AI assistant for voice search",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/luminous.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/luminous/ndeoglgpjoljlpgafhbnmgkcmeleicoo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:37Z",
+      "updated_at": "2025-03-27T03:02:50.738056Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "318b65e6-4471-4df7-97ba-6183b3e19f14",
+      "name": "Lumo",
+      "slug": "lumo",
+      "description": "Helps travelers with booking decisions using ML delay predictions",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lumo.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/lumo/adghoobmlmdhdgibnmlgffklchmhklei?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:36Z",
+      "updated_at": "2025-03-27T03:03:44.517825Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2e70e765-bc02-438a-8c97-1bc2d1a9aaaf",
+      "name": "Lune AI",
+      "slug": "lune-ai",
+      "description": "AI-generated lessons tailored to you",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lune-ai.webp",
+      "website_url": "https://lunelearning.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:51:15Z",
+      "updated_at": "2025-03-27T02:59:41.016349Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "35ef3714-255e-43e7-8bfe-a73f71b2665b",
+      "name": "Lupin",
+      "slug": "lupin",
+      "description": "Interactive reading question tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lupin.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/lupin/kdfaiheakopcdabhlcnbmfjffanaedgm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:18Z",
+      "updated_at": "2025-03-27T03:01:46.092387Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ec17310d-d803-43c6-ae77-bf18a41370d2",
+      "name": "Lydo",
+      "slug": "lydo",
+      "description": "High-impact video production services for startups and enterprises.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lydo.jpg",
+      "website_url": "https://lydo.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:27Z",
+      "updated_at": "2025-03-27T03:13:54.089903Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "95f5b8cb-1bc9-4598-b267-a04fec9d8e63",
+      "name": "Lymia Discover",
+      "slug": "lymia-discover",
+      "description": "AI-powered profile discovery tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lymia-discover.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/lymia-discover/nlembdickpbdnnipdfohchongdbnpodi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:18Z",
+      "updated_at": "2025-03-27T03:06:47.117158Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "00fb1dc5-5784-4243-a837-6438419e4f2b",
+      "name": "LyriTunes - AI Generated Lyrics",
+      "slug": "lyritunes-ai-generated-lyrics",
+      "description": "LyriTunes is a music website that offers search, listen, lyrics, playlists, and recommendations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lyritunes-ai-generated-lyrics.jpg",
+      "website_url": "https://lyritunes.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-23T04:33:43Z",
+      "updated_at": "2025-03-27T02:56:16.842159Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ebdf0368-7ea5-4195-b695-118f5c1fb286",
+      "name": "MARK•R",
+      "slug": "mark-r",
+      "description": "AI plugin for interactive web browsing",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mark-r.jpg",
+      "website_url": "https://mark-r.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-08T09:48:06Z",
+      "updated_at": "2025-03-27T03:08:34.450312Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "adc134da-de8e-432b-a8c5-d553b20ef8a2",
+      "name": "MC2",
+      "slug": "mc2",
+      "description": "Efficient tool for local redaction of sensitive data.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mc2.jpg",
+      "website_url": "https://mc2.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:37:46Z",
+      "updated_at": "2025-03-27T03:12:36.713286Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

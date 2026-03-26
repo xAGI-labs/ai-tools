@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 26,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0027.json",
+    "prev_path": "categories/other/page-0025.json"
+  },
+  "items": [
+    {
+      "id": "09f86eef-3c0a-47ec-82b1-bfe9dd686445",
+      "name": "Prentus | Job Tracker, AI Networking, \u0026 Application Helper",
+      "slug": "prentus-job-tracker-ai-networking-application-helper",
+      "description": "AI-powered job search and network enhancement.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/prentus-job-tracker-ai-networking-application-helper.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/prentus-job-tracker-ai-ne/ennpkannelepddoomheofppcbnnlnoop?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:15Z",
+      "updated_at": "2025-03-27T03:04:06.113095Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6ad51dd8-c301-4ab1-8f02-7fc179d0d4f3",
+      "name": "Press Jockey Copilot",
+      "slug": "press-jockey-copilot",
+      "description": "Advanced AI for press outreach",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/press-jockey-copilot.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/press-jockey-copilot/npidnindbgfbmbicnjkhbighonfohjfp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:40:46Z",
+      "updated_at": "2025-03-27T03:01:11.678063Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "23630e51-6583-4867-8278-ca77626210ef",
+      "name": "PressMatchAI",
+      "slug": "pressmatchai",
+      "description": "Connects users with media opportunities for exposure and backlinks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pressmatchai.jpg",
+      "website_url": "https://pressmatchai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-21T02:10:37Z",
+      "updated_at": "2025-03-27T03:12:07.877943Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f8b1c3f4-5db8-461d-a08a-2eedb3293a41",
+      "name": "PricePal",
+      "slug": "pricepal",
+      "description": "Automated discount code finder and applicator for online shopping.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pricepal.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/pricepal/hcihkgmomiphflbjlggibbonljfdnfae?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-23T04:24:33Z",
+      "updated_at": "2025-03-27T03:12:26.178987Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c04b3d00-2df8-4710-ab74-795f1525516e",
+      "name": "Priceflow",
+      "slug": "priceflow",
+      "description": "Optimize pricing with AI insights",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/priceflow.webp",
+      "website_url": "https://getpriceflow.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-11T10:14:21Z",
+      "updated_at": "2025-03-27T02:59:25.030413Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9badea13-4cc3-4dcb-a4ae-eb53f419904b",
+      "name": "Privacy Protector",
+      "slug": "privacy-protector",
+      "description": "Tool analyzes privacy policies to protect personal information.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/privacy-protector.jpg",
+      "website_url": "https://www.privacy-protector.cc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-10T10:50:51Z",
+      "updated_at": "2025-03-27T03:10:28.780699Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f3cf8ef9-c3e2-4aca-8cc7-0a168113f9a1",
+      "name": "Privacy for ChatGPT",
+      "slug": "privacy-for-chatgpt",
+      "description": "Chrome extension for ChatGPT privacy",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/privacy-for-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/privacy-for-chatgpt/miphnnahnfiplanjbelknjfkmdcoahoo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:26Z",
+      "updated_at": "2025-03-27T03:05:02.346168Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dc16c849-a53c-42e0-8fff-3fc90981fdb5",
+      "name": "Probook",
+      "slug": "probook",
+      "description": "Efficient HVAC job scheduling",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/probook.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/probook/bfkjifdopaleddfehppcoihccheplkfn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:31Z",
+      "updated_at": "2025-03-27T03:01:26.195032Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "368e5415-f837-417d-8efd-7e2086cd554d",
+      "name": "ProcureStack Extension",
+      "slug": "procurestack-extension",
+      "description": "AI-powered Chrome extension for electronic component sourcing",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/procurestack-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/procurestack-extension/pkaodobomgigbgoplonlppaajlfjbkdh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:28Z",
+      "updated_at": "2025-03-27T03:02:31.408684Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0cf5fd79-8580-47c0-a65f-dcaee13d461d",
+      "name": "Prodify",
+      "slug": "prodify",
+      "description": "Secure AI platform for safe usage and compliance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/prodify.jpg",
+      "website_url": "https://www.prodify.it?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-21T02:10:41Z",
+      "updated_at": "2025-03-27T03:12:16.986176Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fefad46d-9f3f-417f-8b8e-d45260235260",
+      "name": "Product Comparison Tool",
+      "slug": "product-comparison-tool",
+      "description": "Amazon product comparison using AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/product-comparison-tool.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/product-comparison-tool/ldpiifmmcffeaajggfbddfmfflbompic?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-04T01:34:05Z",
+      "updated_at": "2025-03-27T03:12:55.260839Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4a553af5-2d8f-44ac-84b5-8873fcc99812",
+      "name": "Product Hunt Benchmark",
+      "slug": "product-hunt-benchmark",
+      "description": "Analyzes Product Hunt products through sentiment",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/product-hunt-benchmark.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/product-hunt-benchmark/nikebmmhcdcbkgecdlbnplpoknfblhnn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:30Z",
+      "updated_at": "2025-03-27T03:02:36.499652Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5d4b66f0-1b2d-401e-a0ef-316016f7e769",
+      "name": "Profynix",
+      "slug": "profynix",
+      "description": "AI-powered platform for productivity and content creation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/profynix.jpg",
+      "website_url": "https://profynix.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-31T08:45:55Z",
+      "updated_at": "2025-03-27T03:10:04.586368Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e09a716c-a750-4dcc-8a5c-9138a23d6f33",
+      "name": "Progr.io",
+      "slug": "progr-io",
+      "description": "Track and refine project ideas with AI assistance",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/progr-io.webp",
+      "website_url": "https://progr.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-04T09:24:35Z",
+      "updated_at": "2025-03-27T02:59:12.688557Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "834fe745-1622-46a5-bd98-3e168b17edc6",
+      "name": "Prompt Anywhere - Free Prompt Repository",
+      "slug": "prompt-anywhere-free-prompt-repository",
+      "description": "Prompt extension for website prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/prompt-anywhere-free-prompt-repository.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/prompt-anywhere-free-prom/neblfjcafkcekbmjgmkpbjaahcmekpog?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:36Z",
+      "updated_at": "2025-03-27T03:03:43.863641Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a82598b1-efb3-4d77-9618-25b0b3210c8c",
+      "name": "Prompt Support",
+      "slug": "prompt-support",
+      "description": "Max results with minimal effort",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/prompt-support.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/prompt-support/nijfeiodeeeeoickcamonahiecgpmboi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:54Z",
+      "updated_at": "2025-03-27T03:06:29.132418Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b6e5ee30-0695-432a-9ba1-19a6c40afea9",
+      "name": "PromptForge for ChatGPT, Gemini, Claude.ai +",
+      "slug": "promptforge-for-chatgpt-gemini-claude-ai",
+      "description": "AI prompt platform integrated with ChatGPT and more.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptforge-for-chatgpt-gemini-claude-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/promptforge-for-chatgpt-g/aboegngdamkgaolhddiblkllbldjhlai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:15Z",
+      "updated_at": "2025-03-27T03:07:20.94975Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d2e476ce-8155-4a94-b3dc-479cb172cd17",
+      "name": "PromptMage",
+      "slug": "promptmage",
+      "description": "Simplifies creation and management of LLM workflows.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptmage.jpg",
+      "website_url": "https://promptmage.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:27Z",
+      "updated_at": "2025-03-27T03:13:53.197832Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7e333bff-8714-4bd4-ba04-1e9cc11f6a41",
+      "name": "PromptSave: Discover, Save \u0026 Share Prompts",
+      "slug": "promptsave-discover-save-share-prompts",
+      "description": "Save and organize AI prompts efficiently",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptsave-discover-save-share-prompts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/promptsave-discover-save/mbbhffbdlapeegichaomhameclefjlie?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:29Z",
+      "updated_at": "2025-03-27T03:03:30.392359Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "19269523-947a-475c-ad71-cceef5953c81",
+      "name": "PromptSaver",
+      "slug": "promptsaver",
+      "description": "Effortlessly save and access text snippets.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptsaver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/promptsaver/ihaogcepgnnddghcjefakfllngeeadig?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:22Z",
+      "updated_at": "2025-03-27T03:02:04.309781Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "126de4c5-e207-44a3-8bcc-652772328c48",
+      "name": "PromptVault",
+      "slug": "promptvault",
+      "description": "Timeline-based GPT prompt manager",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptvault.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/promptvault/ndgiccmomieljaflmbmjoebegimoanlf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-28T02:13:48Z",
+      "updated_at": "2025-03-27T03:11:12.102793Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "02d35bf7-796f-4108-9f08-a44dec5f38fb",
+      "name": "Prompte Smart ChatGPT Prompts",
+      "slug": "prompte-smart-chatgpt-prompts",
+      "description": "Efficiently use ChatGPT with community-shared prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/prompte-smart-chatgpt-prompts.jpg",
+      "website_url": "https://prompter.so?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-22T16:32:19Z",
+      "updated_at": "2025-03-27T03:19:05.598242Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "15958fb8-34a9-4b56-85d0-25e1220adb6b",
+      "name": "Promptheus 2 - Talk to ChatGPT, Claude With Your Voice",
+      "slug": "promptheus-2-talk-to-chatgpt-claude-with-your-voice",
+      "description": "Chrome extension for voice interactions with ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptheus-2-talk-to-chatgpt-claude-with-your-voice.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/promptheus-2-talk-to-chat/lakijjobifmojfjlbnhbhbjmpinncpkh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-21T03:14:51Z",
+      "updated_at": "2025-03-27T03:09:26.422258Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "32945d25-4b58-4fa3-9a53-5fe9eb662f3c",
+      "name": "Promptr",
+      "slug": "promptr",
+      "description": "Promptr is a service to register and share prompts for AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/promptr.jpg",
+      "website_url": "https://promptr.dev?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-30T09:44:48Z",
+      "updated_at": "2025-03-27T03:19:45.273911Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c67afbb4-b5e0-47c0-853f-baab4220cc69",
+      "name": "Proof\u0026Trust",
+      "slug": "proof-trust",
+      "description": "Automated vendor risk assessment tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/proof-trust.jpg",
+      "website_url": "https://proofandtrust.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-27T13:54:55Z",
+      "updated_at": "2025-03-27T03:09:33.773132Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "de9ed63d-d04b-4c62-9a00-795ce5be52dd",
+      "name": "Propit AI",
+      "slug": "propit-ai",
+      "description": "AI-powered property search with virtual consultant",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/propit-ai.jpg",
+      "website_url": "https://propit.tech?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-27T13:54:55Z",
+      "updated_at": "2025-03-27T03:09:34.712364Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e530ce23-ef80-4456-843d-3de02fd895fb",
+      "name": "Proxy Booster",
+      "slug": "proxy-booster",
+      "description": "AI proxy software boosting speed and reducing costs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/proxy-booster.jpg",
+      "website_url": "https://proxybooster.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:41:53Z",
+      "updated_at": "2025-03-27T03:12:46.659649Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "22e93e91-4763-4a59-ac9f-328ed499a782",
+      "name": "Psychological AI",
+      "slug": "psychological-ai",
+      "description": "Boost communication with Psychological AI Chrome Extension",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/psychological-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/psychological-ai/hegppmjkecopkbicfkecnlemdincdnfj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:31:44Z",
+      "updated_at": "2025-03-27T03:00:26.804494Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "075a5fe2-2c0b-40bb-b3c4-bb403bd2a0b3",
+      "name": "Pukhto Qamus",
+      "slug": "pukhto-qamus",
+      "description": "Automated Pashto thesaurus for similar words.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pukhto-qamus.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/pukhto-qamus/cgichiefffenfcmklgcnibmkeldodeoi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:38Z",
+      "updated_at": "2025-03-27T03:05:34.744098Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f864f402-bc82-43f3-97e0-7d6c932abd66",
+      "name": "Pump Fun Coin",
+      "slug": "pump-fun-coin",
+      "description": "Simplified guide for creating Solana MEME Coins easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pump-fun-coin.jpg",
+      "website_url": "https://pumpfuncoin.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:45:04Z",
+      "updated_at": "2025-03-27T03:15:35.486777Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ee9e0b49-417d-449c-9ac4-4e4324ec67af",
+      "name": "Pvalyou",
+      "slug": "pvalyou",
+      "description": "AI analyst for research, business, and startup intelligence",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pvalyou.jpg",
+      "website_url": "https://www.p-valyou.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T11:23:26Z",
+      "updated_at": "2025-03-27T03:08:50.440801Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f65b952a-9e8d-454a-9c46-6accd35efd0f",
+      "name": "Python Converter",
+      "slug": "python-converter",
+      "description": "Tool for translating code and converting Python types.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/python-converter.jpg",
+      "website_url": "https://pythonconvert.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:26:21Z",
+      "updated_at": "2025-03-27T03:13:22.273936Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "34cb8e92-97ed-4649-9465-4dced9bc2027",
+      "name": "QR Art Code",
+      "slug": "qr-art-code",
+      "description": "Create artistic QR codes with Witty QR Art, expressing creativity and integrating into projects.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/qr-art-code.jpg",
+      "website_url": "https://www.qrartgenerator.vip?invite=ifLpHB",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-25T14:19:41Z",
+      "updated_at": "2025-03-27T03:21:05.028259Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "65554ef8-7f6c-4232-8b39-29fbbf423c98",
+      "name": "QR Code AI Art Generator",
+      "slug": "qr-code-ai-art-generator",
+      "description": "Enhance scans with AI-generated artistic QR codes",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/qr-code-ai-art-generator.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/qr-code-ai-art-generator/pnkffojangfmclgbibilhlbbmcjihmom?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:17Z",
+      "updated_at": "2025-03-27T03:04:10.073518Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aefb9206-1fbf-4d41-8fc3-87c6b2660778",
+      "name": "QUIRRO",
+      "slug": "quirro",
+      "description": "Connect globally with entrepreneurs",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quirro.webp",
+      "website_url": "https://quirro.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:30:43Z",
+      "updated_at": "2025-03-27T02:59:31.910308Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dbdb90ed-576a-4ba1-8489-ab6e66c8b253",
+      "name": "Qsafe",
+      "slug": "qsafe",
+      "description": "AI-driven cybersecurity solutions for brand protection and phishing mitigation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/qsafe.jpg",
+      "website_url": "https://www.c9lab.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:24:25Z",
+      "updated_at": "2025-03-27T03:13:16.393205Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "811f3bc5-d954-407f-95c1-ce8841859a16",
+      "name": "Quack Pad",
+      "slug": "quack-pad",
+      "description": "AI-powered virtual companion for personalized problem-solving.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quack-pad.jpg",
+      "website_url": "https://quackpad.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-07T16:26:06Z",
+      "updated_at": "2025-03-27T03:18:42.227883Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "64f251e6-e1a2-45a3-9236-f8f4e8e04322",
+      "name": "QuanticTarot AI",
+      "slug": "quantictarot-ai",
+      "description": "QuanticTarot provides online tarot readings and guidance for informed life decisions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quantictarot-ai.jpg",
+      "website_url": "https://quantictarot.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-25T17:40:20Z",
+      "updated_at": "2025-03-27T03:20:46.374863Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ec6993f1-9fe7-4b3b-a702-33a4301f1ef9",
+      "name": "Quantrack AI : Your instant stock analysis",
+      "slug": "quantrack-ai-your-instant-stock-analysis",
+      "description": "Stock investing with enhanced news and research.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quantrack-ai-your-instant-stock-analysis.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quantrack-ai-your-instant/idnokmbpeecggabmioammmoopfpbimao?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:37Z",
+      "updated_at": "2025-03-27T03:02:49.494757Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d24b5d50-42a7-4832-ad92-40efd5d2addc",
+      "name": "Querative",
+      "slug": "querative",
+      "description": "AI tool for crafting complex search queries effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/querative.jpg",
+      "website_url": "https://querative.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:41:54Z",
+      "updated_at": "2025-03-27T03:12:51.058412Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c4b55097-5c82-44e9-9134-e20857161848",
+      "name": "Quetzal",
+      "slug": "quetzal",
+      "description": "Easiest way to translate your product for international markets.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quetzal.jpg",
+      "website_url": "https://getquetzal.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:41:53Z",
+      "updated_at": "2025-03-27T03:12:45.752819Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b654b027-7344-4c9d-97f1-c30cce0253fa",
+      "name": "Quick Open — AI helps you open webpages",
+      "slug": "quick-open-ai-helps-you-open-webpages",
+      "description": "Redirects to websites based on input keywords",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quick-open-ai-helps-you-open-webpages.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quick-open-—-ai-helps-you/cennpkgmbccpalnekgbpelappjhnfjph?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:41Z",
+      "updated_at": "2025-03-27T03:05:15.242633Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5ff21409-2391-4586-ab79-f6ed6998889d",
+      "name": "Quick Screen - Screen Video Automatic zoom",
+      "slug": "quick-screen-screen-video-automatic-zoom",
+      "description": "Screen recording tool with zoom, export, and editing features",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quick-screen-screen-video-automatic-zoom.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quick-screen-screen-video/aapekofclinclleacdgiephbkkpchkha?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:34Z",
+      "updated_at": "2025-03-27T03:10:51.957073Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cf620c44-2f7b-412c-a71b-f0c2153c577c",
+      "name": "QuickBox AI",
+      "slug": "quickbox-ai",
+      "description": "Browser extension for fast access to AI tools.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quickbox-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quickbox-ai/keiilljkmclbghmbiliaamnbelninpap?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:13Z",
+      "updated_at": "2025-03-27T03:15:07.177384Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "21bf89b4-c00e-456b-9f07-54a620f58e1a",
+      "name": "QuickChat AI - Gemini and Bard app",
+      "slug": "quickchat-ai-gemini-and-bard-app",
+      "description": "Boost productivity with fast AI access",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quickchat-ai-gemini-and-bard-app.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quickchat-ai-gemini-and-b/enkpdkkepcfneniefhijllbcohejkcjk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:40Z",
+      "updated_at": "2025-03-27T03:03:53.626128Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "74fd4be9-90d2-4937-a3a5-1dc100502087",
+      "name": "QuickContext — Right-Click Assistant",
+      "slug": "quickcontext-right-click-assistant",
+      "description": "Enhance right-click with language models",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quickcontext-right-click-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quickcontext-—-right-clic/iggjefleekfkknoabjfkaokakfbgjafg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:52Z",
+      "updated_at": "2025-03-27T03:05:43.794905Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "37dc4193-6835-457c-9a40-07012679679f",
+      "name": "QuickDic AI",
+      "slug": "quickdic-ai",
+      "description": "AI-powered web extension for instant knowledge access",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quickdic-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quickdic-ai/koconjhnphlilbofcfmdeonbonlpjchm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:26Z",
+      "updated_at": "2025-03-27T03:04:58.551204Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ec40f380-f4d2-4404-9946-c4fc24280bd1",
+      "name": "QuickReadAI",
+      "slug": "quickreadai",
+      "description": "AI for quick, concise web summaries",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quickreadai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quickreadai/egnahjligfheiljhiinfnngphnkbobmo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:22Z",
+      "updated_at": "2025-03-27T03:06:55.371816Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f796197a-cf12-4444-b867-3c57197d64c3",
+      "name": "Quilt",
+      "slug": "quilt",
+      "description": "Automate presales tasks with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quilt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/quilt/ejafaiockaifpbebghbnnaaaffidinei?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:40:16Z",
+      "updated_at": "2025-03-27T03:06:02.74855Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ebf8cae4-fec2-4f52-826e-baaa289f0e75",
+      "name": "README101",
+      "slug": "readme101",
+      "description": "AI-powered README enhancement tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/readme101.jpg",
+      "website_url": "https://www.readme101.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-07T02:52:21Z",
+      "updated_at": "2025-03-27T03:10:25.412874Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e4e3e056-20c3-4f21-9782-bd52582d4435",
+      "name": "ROULLET IA BOT PLAYTECH",
+      "slug": "roullet-ia-bot-playtech",
+      "description": "A tool to enhance productivity and manage time effectively.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/roullet-ia-bot-playtech.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/roullet-ia-bot-playtech/cncmfapdmibbkgeddncdgoencelagdee?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:37:42Z",
+      "updated_at": "2025-03-27T03:15:14.980037Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "450ca73d-548d-41da-9255-69800cfa3484",
+      "name": "RSS filter",
+      "slug": "rss-filter",
+      "description": "Filter your RSS feeds with customized recommendations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rss-filter.webp",
+      "website_url": "https://rssfilter.sgn.space?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-03T13:13:33Z",
+      "updated_at": "2025-03-27T02:58:14.158982Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "589b208c-5295-42e5-9ed9-ea9bb0cad024",
+      "name": "RSS to Tweet",
+      "slug": "rss-to-tweet",
+      "description": "Generate ready-to-post Tweets from RSS feeds",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rss-to-tweet.webp",
+      "website_url": "https://rsstotweet.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-02-23T03:18:49Z",
+      "updated_at": "2025-03-27T02:57:56.946222Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3a86f3a2-3318-43af-a893-e531622ec872",
+      "name": "Rachel's GDPR Consent Manager",
+      "slug": "rachel-s-gdpr-consent-manager",
+      "description": "Manage and analyze cookies securely.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rachel-s-gdpr-consent-manager.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/rachels-gdpr-consent-mana/omjhcekkahgmgnnhgljhljocnfdbeelp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:53Z",
+      "updated_at": "2025-03-27T03:03:57.52771Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f3ac73aa-51e6-4a05-9761-831e29ac472b",
+      "name": "Rage Filter",
+      "slug": "rage-filter",
+      "description": "Transform raw messages into professional communication.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rage-filter.jpg",
+      "website_url": "https://ragefilter.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-24T15:44:41Z",
+      "updated_at": "2025-03-27T03:19:15.364927Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bcdec7e1-82a1-4149-b8e9-2708240bd129",
+      "name": "Rails Guard",
+      "slug": "rails-guard",
+      "description": "Live AI data masking in Rails console sessions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rails-guard.jpg",
+      "website_url": "https://railsguard.hoop.dev?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-09-14T14:15:42Z",
+      "updated_at": "2025-03-27T03:21:46.714062Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "39cb83bd-3fe1-4071-9eec-8a4a9f6c7d79",
+      "name": "Rapture Parser",
+      "slug": "rapture-parser",
+      "description": "Extracts structured data from any webpage easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rapture-parser.jpg",
+      "website_url": "https://rapture-parser.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:57Z",
+      "updated_at": "2025-03-27T03:10:57.9869Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "405ae35d-93a0-41f1-97b7-fd6c5530aff1",
+      "name": "Rate Quantum Revenue Management AI",
+      "slug": "rate-quantum-revenue-management-ai",
+      "description": "AI-driven revenue management solution for hotels to boost profits.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/rate-quantum-revenue-management-ai.jpg",
+      "website_url": "https://ratequantum.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:35Z",
+      "updated_at": "2025-03-27T03:15:11.647502Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1b098183-4ee3-40ff-bac3-31d6ee247802",
+      "name": "RateMyJD by Dover",
+      "slug": "ratemyjd-by-dover",
+      "description": "Get detailed tips to attract top candidates",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ratemyjd-by-dover.webp",
+      "website_url": "https://ratemyjd.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:49:45Z",
+      "updated_at": "2025-03-27T02:59:38.542434Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9cab9d80-2f60-4a0d-9265-8f39d9c21b31",
+      "name": "ReActGPT",
+      "slug": "reactgpt",
+      "description": "ReActGPT is an innovative AI tool that trains models using thought-action-observation sequences for accurate outcomes.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/reactgpt.jpg",
+      "website_url": "https://www.reactgpt.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-30T12:39:03Z",
+      "updated_at": "2025-03-27T03:20:50.599651Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bb674002-e7ed-4814-8ac4-cb5eaa135244",
+      "name": "RealNeedsAI",
+      "slug": "realneedsai",
+      "description": "Keyword-based user needs analysis with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/realneedsai.jpg",
+      "website_url": "https://www.realneeds.me?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-14T14:21:26Z",
+      "updated_at": "2025-03-27T03:09:21.372154Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5e7b1191-fc6b-4a77-8abb-cbc0505f569f",
+      "name": "RealtyRadar: Проверка недвижимости",
+      "slug": "realtyradar",
+      "description": "Enhance property search with accuracy.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/realtyradar.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/realtyradar-проверка-недв/ghnhdedmpnflomdgjheppohppokjlacp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:57Z",
+      "updated_at": "2025-03-27T03:05:51.346135Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0a5ae93c-8b39-4a08-9b10-b9a7d30ae501",
+      "name": "ReceiptiX",
+      "slug": "receiptix",
+      "description": "AI app for easy personal expense tracking and receipt management.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/receiptix.jpg",
+      "website_url": "https://receiptix.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:56Z",
+      "updated_at": "2025-03-27T03:10:57.098971Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e03c82cb-e416-4da9-b127-683095f11a81",
+      "name": "Receipts",
+      "slug": "receipts",
+      "description": "Analyze text messages for relationship insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/receipts.jpg",
+      "website_url": "https://www.getreceipts.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-27T14:33:26Z",
+      "updated_at": "2025-03-27T03:09:43.997248Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0f71186f-71b0-4c9f-b7a2-eab10a883ae3",
+      "name": "Receptive AI",
+      "slug": "receptive-ai",
+      "description": "Platform for creating psychologically safe work environments",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/receptive-ai.jpg",
+      "website_url": "https://bereceptive.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T08:42:18Z",
+      "updated_at": "2025-03-27T03:08:45.194001Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1535ab35-e767-4675-84e2-9b7bfeb3db72",
+      "name": "Recipee",
+      "slug": "recipee",
+      "description": "Easily create grocery lists from Youtube videos.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/recipee.jpg",
+      "website_url": "https://www.recipee.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-03T13:39:26Z",
+      "updated_at": "2025-03-27T03:21:09.768213Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aeeedf49-c1eb-4d00-8380-6aa1a58bde60",
+      "name": "Recorditor: Record your browser",
+      "slug": "recorditor-record-your-browser",
+      "description": "Revolutionary screen recording extension",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/recorditor-record-your-browser.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/recorditor-record-your-br/kiahljnhnjobpmjlfgkmpfakhjecflmm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:40:15Z",
+      "updated_at": "2025-03-27T03:05:59.579309Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ef8ee375-d1d1-4041-9263-17b96906cdd7",
+      "name": "Reddit Roast",
+      "slug": "reddit-roast",
+      "description": "AI-driven personality analysis and playful roasting for Reddit profiles.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/reddit-roast.jpg",
+      "website_url": "https://redditroast.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-23T08:30:35Z",
+      "updated_at": "2025-03-27T03:11:05.981725Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "80f60e54-904d-42f6-89b1-08ad7543c84e",
+      "name": "Reddit Summarizer",
+      "slug": "reddit-summarizer",
+      "description": "Summarize and analyze Reddit comments.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/reddit-summarizer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/reddit-summarizer/jhbpjalfakhbaiojoaejjnjbminnacak?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:25Z",
+      "updated_at": "2025-03-27T03:02:23.597595Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d20f232c-b868-42ff-8643-0251dd68d848",
+      "name": "Redmo",
+      "slug": "redmo",
+      "description": "Redmo is a website for creating prompt templates with variables and API support.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/redmo.jpg",
+      "website_url": "https://redmo.cc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-04T15:49:32Z",
+      "updated_at": "2025-03-27T02:56:18.557252Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fee5ab67-521a-4523-a4ab-c5b610339d6d",
+      "name": "Reelit",
+      "slug": "reelit",
+      "description": "Instant marketing insights from sales calls.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/reelit.webp",
+      "website_url": "https://reelit.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-03-23T13:32:05Z",
+      "updated_at": "2025-03-27T02:58:07.079049Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6e3b2618-2c33-43f2-9b58-03a2ae27198e",
+      "name": "Relayer",
+      "slug": "relayer",
+      "description": "Education tool with AI note-taking and video player",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/relayer.jpg",
+      "website_url": "https://relayer.software?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-11T12:33:54Z",
+      "updated_at": "2025-03-27T03:09:12.616912Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

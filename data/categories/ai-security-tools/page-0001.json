@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 8,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "cc64f6d9-dc9f-4d2c-9e15-424598cdc011",
+      "name": "Blink",
+      "slug": "blink",
+      "description": "Blink | No-Code Security Platform with 7000+ Automations",
+      "logo_url": "https://icons.duckduckgo.com/ip3/blinkops.com.ico",
+      "website_url": "https://www.blinkops.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-04T00:00:00Z",
+      "updated_at": "2023-06-04T00:00:00Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-security-tools",
+        "ai-task-automation",
+        "code-explanation",
+        "code-it",
+        "no-code-low-code",
+        "other",
+        "productivity"
+      ]
+    },
+    {
+      "id": "e5cf95d9-f0a8-4235-8bb4-8034397726b4",
+      "name": "CyberRiskAI",
+      "slug": "cyberriskai",
+      "description": "AI Cybersecurity Risk Assessment \u0026 Audit Tool | CyberRiskAI",
+      "logo_url": "https://icon.horse/icon/cyberriskai.com",
+      "website_url": "https://www.cyberriskai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-07T00:00:00Z",
+      "updated_at": "2023-06-07T00:00:00Z",
+      "category_slugs": [
+        "ai-security-tools",
+        "ai-student-assessment",
+        "education",
+        "other"
+      ]
+    },
+    {
+      "id": "e6ccad6a-df98-47c1-b13e-740cfa5f1a8e",
+      "name": "Devops Security",
+      "slug": "devops-security",
+      "description": "SecCheck - devops.security",
+      "logo_url": "https://icon.horse/icon/checklist.devops.security",
+      "website_url": "https://checklist.devops.security",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-10T00:00:00Z",
+      "updated_at": "2023-05-10T00:00:00Z",
+      "category_slugs": [
+        "ai-devops-assistant",
+        "ai-security-tools",
+        "code-it",
+        "other"
+      ]
+    },
+    {
+      "id": "23b2f5c0-6058-495f-ab15-e6928f659c5e",
+      "name": "Ermine",
+      "slug": "ermine",
+      "description": "\u003cdiv class=\"css-qz6wej\"\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003ch2 class=\"MuiTypography-root MuiTypography-body2 DMSans css-1vn6t3q\"\u003eErmine Features\u003c/h2\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003cdiv\u003e\r\n\u003cp class=\"MuiTypography-root MuiTypography-body1 css-gy2lsd\"\u003e\u003cstrong\u003eErmine.ai\u003c/strong\u003e is an AI-powered tool that allows users to transcribe audio recordings directly from their device's microphone. The tool stands out by offering 100% local/client-side processing, \u003cem\u003eensuring privacy and data security\u003c...",
+      "logo_url": "https://ermine.ai/favicon.ico",
+      "website_url": "https://www.ermine.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-audio-editing",
+        "ai-data-analysis",
+        "ai-data-collection",
+        "ai-data-visualization",
+        "ai-security-tools",
+        "business",
+        "other",
+        "voice"
+      ]
+    },
+    {
+      "id": "ccd49840-3d26-48e7-9f93-bc8a2edf87d4",
+      "name": "Escape",
+      "slug": "escape",
+      "description": "Escape - GraphQL Security",
+      "logo_url": "https://icons.duckduckgo.com/ip3/escape.tech.ico",
+      "website_url": "https://escape.tech/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-19T00:00:00Z",
+      "updated_at": "2023-05-19T00:00:00Z",
+      "category_slugs": [
+        "ai-security-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e4e64b43-9f19-4ebb-8fd4-863069747ea3",
+      "name": "Jetpack AI",
+      "slug": "jetpack-ai",
+      "description": "Jetpack: WordPress Security, Backups, Speed, \u0026 Growth",
+      "logo_url": "https://jetpack.com/favicon.ico",
+      "website_url": "https://jetpack.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-12T00:00:00Z",
+      "updated_at": "2023-06-12T00:00:00Z",
+      "category_slugs": [
+        "ai-security-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "267da647-6284-4e68-b3fe-832fcbccd976",
+      "name": "Secureframe",
+      "slug": "secureframe",
+      "description": "Secureframe: Automated Security and Compliance Software",
+      "logo_url": "https://secureframe.com/favicon.ico",
+      "website_url": "https://secureframe.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-13T00:00:00Z",
+      "updated_at": "2023-04-13T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-maps-generator",
+        "ai-security-tools",
+        "code-it",
+        "other"
+      ]
+    },
+    {
+      "id": "5a2c77c2-eae4-46aa-b363-f48f3a378235",
+      "name": "Usage Panda",
+      "slug": "usage-panda",
+      "description": "Usage Panda is a security, observability, and cost management platform that enables developers to build safe, scalable, production applications using LLM APIs, like OpenAI. It has proactive cost enforcement controls, enables extensive auditing and visibility of API requests, and exposes additional security and compliance policy safeguards. For example, Usage Panda can audit, redact, or block requests that attempt to exploit prompt injection attacks, perform automated moderation of user-provid...",
+      "logo_url": "https://icon.horse/icon/usagepanda.com",
+      "website_url": "https://usagepanda.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-25T00:00:00Z",
+      "updated_at": "2023-05-26T00:00:00Z",
+      "category_slugs": [
+        "ai-business-management",
+        "ai-operations-management",
+        "ai-product-design",
+        "ai-project-management",
+        "ai-security-tools",
+        "business",
+        "design-art",
+        "other"
+      ]
+    }
+  ]
+}

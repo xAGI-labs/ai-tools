@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 15,
+    "page_size": 72,
+    "total_items": 1011,
+    "total_pages": 15,
+    "prev_path": "categories/ai-customer-service-assistant/page-0014.json"
+  },
+  "items": [
+    {
+      "id": "485a5170-5ce5-4b8f-83d9-9dc20ffb3402",
+      "name": "SuperU",
+      "slug": "superu",
+      "description": "SuperU is a white-label AI voice calling platform that automates outbound and inbound calls with human-like precision. It enables businesses to launch campaigns, qualify leads, and manage customer conversations at scale—without writing a single line of code.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ffbd68dd-49c4-494b-97f4-6312ce8ab879_1750672126074.png",
+      "website_url": "https://www.superu.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-23T09:48:48.97248Z",
+      "updated_at": "2025-06-25T08:42:28.597Z",
+      "category_slugs": [
+        "ai-customer-service-assistant",
+        "ai-speech-recognition",
+        "ai-speech-synthesis",
+        "ai-voice-assistants",
+        "e-commerce-assistant",
+        "marketing",
+        "productivity",
+        "text-to-speech",
+        "voice"
+      ]
+    },
+    {
+      "id": "9aa31f2b-ced8-4214-8cd7-5fd501f0c118",
+      "name": "Triviat",
+      "slug": "triviat-227881",
+      "description": "Triviat is an AI platform that enables businesses to automate voice and chat interactions — delivering 24/7 customer support, faster response times, and scalable communication across all major channels.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/2f27f662-ac8f-4827-b499-3fb9bfa0bb9a_1748892227230.svg",
+      "website_url": "https://triviat.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-02T19:23:48.032777Z",
+      "updated_at": "2025-06-03T18:49:51.648Z",
+      "category_slugs": [
+        "ai-customer-service-assistant"
+      ]
+    },
+    {
+      "id": "e24462c9-de3e-4d32-92b5-5e220ba8090b",
+      "name": "superU AI",
+      "slug": "superu-ai",
+      "description": "Most Affordable AI Voice Stack",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/2f39b08e-9eb2-4f93-bb70-823bebad1ef9_1758006378152.png",
+      "website_url": "https://www.superu.ai/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-16T07:06:23.04515Z",
+      "updated_at": "2025-09-17T08:29:08.059Z",
+      "category_slugs": [
+        "ai-customer-service-assistant",
+        "ai-voice-assistants",
+        "sales-assistant"
+      ]
+    }
+  ]
+}

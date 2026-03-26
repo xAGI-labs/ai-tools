@@ -1,0 +1,434 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 6,
+    "page_size": 72,
+    "total_items": 381,
+    "total_pages": 6,
+    "prev_path": "categories/ai-video-generator/page-0005.json"
+  },
+  "items": [
+    {
+      "id": "35482401-39e7-4757-9944-a1515f4932f0",
+      "name": "Motion Control AI",
+      "slug": "motion-control-ai",
+      "description": "Animate Characters from Any Video",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/7c798cd6-457c-464a-ae97-9019bc2294b3_1770259231565.png",
+      "website_url": "https://motioncontrolai.io/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-05T02:40:48.209713Z",
+      "updated_at": "2026-02-11T08:26:01.009Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "6a21ec79-6e75-4efb-9584-49272c7104bb",
+      "name": "Ovi AI",
+      "slug": "ovi-ai",
+      "description": "Advanced AI Video Generator with Synchronized Audio",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/eaaf23b7-5c75-46a7-91bc-5978846df699_1769170699559.png",
+      "website_url": "https://ovi-ai.org/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-23T12:18:24.836074Z",
+      "updated_at": "2026-02-13T09:30:37.609Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "d4c48b85-d02a-4d24-a40a-6bbd113966bc",
+      "name": "PDF to Video AI",
+      "slug": "pdf-to-video-ai",
+      "description": "PDF to Video AI: Convert PDF \u0026 Any Contents to Video Online Free",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d462d18d-5f43-4aa0-8fe8-5fc8d94e2a01_1763269758884.png",
+      "website_url": "https://pdftovideo.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-16T05:09:25.008713Z",
+      "updated_at": "2026-02-16T10:11:13.371Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "01137cd0-c4cb-4af6-8174-8cb2dc219bdb",
+      "name": "Seedance 2",
+      "slug": "seedance-2-206991",
+      "description": "Seedance 2 AI | AI Video \u0026 Image Generator by Seedance 2.0",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/189fe6d6-2184-468c-8f41-03a3d6126dcf_1770619199877.jpg",
+      "website_url": "https://seedance-2.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-09T06:40:07.102782Z",
+      "updated_at": "2026-02-09T09:16:23.534Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "04f9b65e-bdb0-46ec-895a-cfb82035aa7d",
+      "name": "Seedance AI",
+      "slug": "seedance-ai-451473",
+      "description": "Seedance2 - AI Video Generator with smooth motion, rich details, and cinematic aesthetics.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/87a6b84f-6d5a-441e-8154-193f96d0eacc_1765982443951.png",
+      "website_url": "https://seedance-2.org/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-17T14:40:56.975489Z",
+      "updated_at": "2025-12-22T11:26:09.786Z",
+      "category_slugs": [
+        "ai-video-generator",
+        "video"
+      ]
+    },
+    {
+      "id": "f1fe8ab6-7978-4752-a30d-7410c5e9333f",
+      "name": "Seedance2",
+      "slug": "seedance2",
+      "description": "Seedance 2 is a multi-modal video model with reference-anything control, precise motion \u0026 camera replication, video extension/editing, and built-in audio generation.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5c4b5e0d-0f7a-49b4-8798-3bcb1f662f08_1770738511854.png",
+      "website_url": "https://seedance-pro.org/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-10T15:48:44.904756Z",
+      "updated_at": "2026-02-10T18:43:44.122Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "05399005-3add-459f-bdf9-23fabb1689ac",
+      "name": "Seedance2.0",
+      "slug": "seedance2-0-676361",
+      "description": "Seedance 2.0 creates short AI videos from text prompts or images with a simple workflow and stable results.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ce95faaf-0740-44af-aaa0-2f8ebe1eb52b_1774011670797.jpg",
+      "website_url": "https://omnivideo.net/model/seedance-2",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-20T13:01:08.239167Z",
+      "updated_at": "2026-03-20T14:48:10.502Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "d0d35a32-d7c6-4c43-954b-941dd8aa8981",
+      "name": "ShortsMate AI",
+      "slug": "shortsmate-ai",
+      "description": "AI-powered short video studio for TikTok, Reels, and YouTube Shorts.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/c88b512f-bdbd-4a25-a94e-98372336a450_1773309612653.jpg",
+      "website_url": "https://shortsmate.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-12T09:59:41.017257Z",
+      "updated_at": "2026-03-13T11:19:46.748Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "e24d7e06-153a-49d9-8e9c-736aa824a824",
+      "name": "SkyReels V4",
+      "slug": "skyreels-v4",
+      "description": "SkyReels V4 is a next-generation AI video generation model ranked TOP 2 globally, featuring the world's first joint video-audio generation powered by dual-stream architecture, comprehensive multi-modal control, and professional-grade editing.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/77b9568e-0f76-4622-ba3b-d0dc7152faa2_1772465749333.png",
+      "website_url": "https://skyreels-v4.net/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-02T15:36:47.729085Z",
+      "updated_at": "2026-03-02T23:12:32.176Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "32feec60-2d0a-4342-b18e-e315b3eac5ad",
+      "name": "Soar2 AI | Advanced Sora 2 Powered AI Video Generator",
+      "slug": "soar2-ai-advanced-sora-2-powered-ai-video-generator",
+      "description": "Soar2 Al is an Al video generator powered by Sora 2, allowing users to turn text into cinematic short videos. Free credits available.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/fdb591a9-f68c-440e-a9ab-be0faf4160a7_1764485255525.jpg",
+      "website_url": "https://soar2ai.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-30T06:47:45.729338Z",
+      "updated_at": "2026-02-25T11:19:08.142Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "6ef84382-5ab2-41b4-83c2-b3d831b98fab",
+      "name": "Soro 2",
+      "slug": "soro-2",
+      "description": "Soro 2 is an advanced AI video generation platform that utilizes OpenAI's Sora 2 architecture to create cinematic videos from text prompts and images.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/189fe6d6-2184-468c-8f41-03a3d6126dcf_1770104811224.webp",
+      "website_url": "https://soro2.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-03T07:46:55.336074Z",
+      "updated_at": "2026-02-04T09:36:15.309Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "c4ab5d9f-cca1-48e1-8bc9-da43e5c9741e",
+      "name": "Synthesys X",
+      "slug": "synthesys-x",
+      "description": "Professional AI Voiceover and AI Video Generator | Synthesys Studio",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/c4ab5d9f-cca1-48e1-8bc9-da43e5c9741e_synthesys_x.jpeg?",
+      "website_url": "https://synthesys.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-music-generator",
+        "ai-music-video-generator",
+        "ai-prompt-generator",
+        "ai-ugc-video-generator",
+        "ai-video-generator",
+        "ai-voice-generator",
+        "ai-voiceover-generator",
+        "prompt",
+        "video",
+        "voice"
+      ]
+    },
+    {
+      "id": "9c6dbf65-40df-4acc-b70a-7f50ec9e485f",
+      "name": "Synthesys X",
+      "slug": "synthesys-x-1",
+      "description": "Professional AI Voiceover and AI Video Generator | Synthesys Studio",
+      "logo_url": "https://synthesys.io/favicon.ico",
+      "website_url": "https://synthesys.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-music-generator",
+        "ai-music-video-generator",
+        "ai-prompt-generator",
+        "ai-ugc-video-generator",
+        "ai-video-generator",
+        "ai-voice-generator",
+        "ai-voiceover-generator",
+        "prompt",
+        "video",
+        "voice"
+      ]
+    },
+    {
+      "id": "5017aae7-8b0e-4b8e-8b30-d7fb5467e492",
+      "name": "VEO 3 Video Generator",
+      "slug": "veo-3-video-generator-805882",
+      "description": "VoWo.AI offers VEO 3, an advanced AI video generator that creates high-quality, cinematic videos with native audio from simple text descriptions.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d8174f3e-72ae-46b4-a624-0b7503c2350c_1767006299439.PNG",
+      "website_url": "https://vowo.ai",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-24T09:00:08.472951Z",
+      "updated_at": "2025-12-29T11:05:20.33Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "0d646ba2-dd47-441a-8601-6fe55fed2d0f",
+      "name": "VicSee",
+      "slug": "vicsee",
+      "description": "AI video and image generation platform with Sora 2, Veo 3.1, Kling 2.6, and FLUX 2",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/3752a006-89f0-43cb-bf32-ea37ac5414b3_1768356718812.jpg",
+      "website_url": "https://vicsee.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-14T02:12:07.205943Z",
+      "updated_at": "2026-01-16T11:42:23.638Z",
+      "category_slugs": [
+        "ai-video-generator",
+        "video"
+      ]
+    },
+    {
+      "id": "20200947-f22b-4d1b-ad00-b667cf531be5",
+      "name": "Zorq AI",
+      "slug": "zorq-ai",
+      "description": "Free AI Video \u0026 Image Generator | Kling + Veo",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/7c798cd6-457c-464a-ae97-9019bc2294b3_1774188545375.png",
+      "website_url": "https://zorq-ai.net/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T14:09:19.013205Z",
+      "updated_at": "2026-03-23T09:29:32.576Z",
+      "category_slugs": [
+        "ai-video-generator",
+        "image"
+      ]
+    },
+    {
+      "id": "1595ac89-9fff-47b9-afc8-db90179b052e",
+      "name": "letsmkvideo",
+      "slug": "letsmkvideo-525391",
+      "description": "Free AI Video Generator | Create stunning videos from text,images and AI video effects",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/eaaf23b7-5c75-46a7-91bc-5978846df699_1769170520982.png",
+      "website_url": "https://letsmkvideo.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-23T12:15:29.504835Z",
+      "updated_at": "2026-02-13T09:31:57.384Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "3cca60fd-0a66-4e1d-bd44-fcbee4522679",
+      "name": "ngram.com",
+      "slug": "ngram-com",
+      "description": "ngram is an AI-powered video creation platform that transforms documents and screen recordings into professional product demo videos. It automates editing, zooms, transitions, music, and branding so teams can create polished video content without any video editing expertise.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e9e0f29b-d4be-467e-92d3-5fab059ff685_1770449778322.jpg",
+      "website_url": "https://www.ngram.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-07T07:36:28.126383Z",
+      "updated_at": "2026-02-09T09:51:06.858Z",
+      "category_slugs": [
+        "ai-video-generator",
+        "ai-video-marketing"
+      ]
+    },
+    {
+      "id": "7472fa1e-20f7-4c6a-9fc2-244d44ac86eb",
+      "name": "prompt studio",
+      "slug": "prompt-studio",
+      "description": "Prompt Studio is an AI-powered Sora 2 prompt builder that turns your scene idea into a   cinematographer-level video prompt in two steps.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8762fe7e-5ac1-49f3-8710-eb9b114a29a8_1772288425096.png",
+      "website_url": "https://www.vaiflux.com/tools/quick-prompt-generator",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-28T14:20:31.312409Z",
+      "updated_at": "2026-03-02T10:17:06.127Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "3c476f1e-a0e3-47f6-b545-ba6351ff45f6",
+      "name": "sora 2 web",
+      "slug": "sora-2-web",
+      "description": "Sora 2 Free on the web (Sora 2 web / sora2 web) lets you generate Sora video from text and images in minutes. Integrate programmatically with the Sora",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4b9f234a-9e33-4843-8780-a56818684fe4_1767124990047.PNG",
+      "website_url": "https://freesoragenerator.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-26T21:13:25.093097Z",
+      "updated_at": "2025-12-30T20:03:26.472Z",
+      "category_slugs": [
+        "ai-video-generator",
+        "ai-voice-generator"
+      ]
+    },
+    {
+      "id": "ef36e13f-c96f-4355-afb2-0e14b9d087c8",
+      "name": "vibevideo",
+      "slug": "vibevideo",
+      "description": "AI that truly gets your story — from spark to screen",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/cdc53663-2e4e-4999-ad6a-0732569eb5a6_1769793319319.png",
+      "website_url": "https://vibevideo.io/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-30T17:15:30.595739Z",
+      "updated_at": "2026-02-04T09:49:58.163Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    }
+  ]
+}

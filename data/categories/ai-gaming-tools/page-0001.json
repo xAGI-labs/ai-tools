@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 3,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "6c43baf1-6893-45e0-9a43-54fbe4d71944",
+      "name": "Nvidia Launchpad AI",
+      "slug": "nvidia-launchpad-ai",
+      "description": "GeForce Graphics Cards - Ultimate PC Gaming | NVIDIA Middle East",
+      "logo_url": "https://nvidia.com/favicon.ico",
+      "website_url": "https://www.nvidia.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-03T00:00:00Z",
+      "updated_at": "2023-06-03T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-gaming-tools",
+        "ai-graphic-design",
+        "design-art",
+        "other"
+      ]
+    },
+    {
+      "id": "5e21ef17-3d8c-4768-ad96-513d4521fc8c",
+      "name": "Playstrict",
+      "slug": "playstrict",
+      "description": "Playstrict - Gaming Growth Platform",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/5e21ef17-3d8c-4768-ad96-513d4521fc8c_playstrict.jpeg?",
+      "website_url": "https://playstrict.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-gaming-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ddb89cd3-8851-4024-8c99-e2dca1326115",
+      "name": "Playstrict",
+      "slug": "playstrict-1",
+      "description": "Playstrict - Gaming Growth Platform",
+      "logo_url": "https://icons.duckduckgo.com/ip3/playstrict.com.ico",
+      "website_url": "https://playstrict.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-gaming-tools",
+        "other"
+      ]
+    }
+  ]
+}

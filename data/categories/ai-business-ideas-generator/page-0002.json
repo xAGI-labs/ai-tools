@@ -1,0 +1,379 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 89,
+    "total_pages": 2,
+    "prev_path": "categories/ai-business-ideas-generator/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "31071929-e848-40c1-b455-2fdfb450ecb5",
+      "name": "Validate-First",
+      "slug": "validate-first",
+      "description": "AI tool for validating business ideas before investment.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/validate-first.jpg",
+      "website_url": "https://www.validate-first.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-05T08:47:33Z",
+      "updated_at": "2025-03-27T03:55:05.714837Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-project-management"
+      ]
+    },
+    {
+      "id": "b0f7cd22-58a1-4af6-9387-712aa4dd5679",
+      "name": "Validated SaaS Ideas",
+      "slug": "validated-saas-ideas",
+      "description": "Find validated SaaS ideas to launch profitable businesses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/validated-saas-ideas.jpg",
+      "website_url": "https://ValidatedSaaS.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:41:55Z",
+      "updated_at": "2025-03-27T09:09:33.157347Z",
+      "category_slugs": [
+        "ai-business-ideas-generator"
+      ]
+    },
+    {
+      "id": "e2d15711-81e3-4c8a-94d7-a70f4be7ab5f",
+      "name": "WhoMakeMoney AI",
+      "slug": "whomakemoney-ai",
+      "description": "Monitor payment gateway traffic to find money-making opportunities",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/whomakemoney-ai.jpg",
+      "website_url": "https://whomakemoney.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T02:09:37Z",
+      "updated_at": "2025-03-27T03:42:33.514983Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-business-ideas-generator",
+        "ai-data-mining",
+        "ai-lead-generation",
+        "ai-log-management",
+        "ai-monitor-report-builder",
+        "ai-sql-query-builder",
+        "e-commerce-assistant",
+        "investing-assistant"
+      ]
+    },
+    {
+      "id": "c234486e-734f-4dd8-a175-e2dca270de75",
+      "name": "YCLens",
+      "slug": "yclens",
+      "description": "Platform for founders to validate and enhance their startup ideas.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/yclens.jpg",
+      "website_url": "https://yclens.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-07T10:07:00Z",
+      "updated_at": "2025-03-27T09:09:36.966337Z",
+      "category_slugs": [
+        "ai-business-ideas-generator"
+      ]
+    },
+    {
+      "id": "55f757ab-3518-45d4-89da-cd85e94e0b2f",
+      "name": "domainhuntai",
+      "slug": "domainhuntai",
+      "description": "AI-powered Domainhuntai generates domain names for startups.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/domainhuntai.jpg",
+      "website_url": "https://www.domainhuntai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-17T12:44:29Z",
+      "updated_at": "2025-03-27T09:09:47.754705Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-domain-name-generator"
+      ]
+    },
+    {
+      "id": "eedbd29a-161f-4096-99c8-5262517ed29f",
+      "name": "iMerch.ai",
+      "slug": "imerch-ai",
+      "description": "AI-powered e-commerce platform for personalized product recommendations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/imerch-ai.jpg",
+      "website_url": "https://imerch.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-22T10:46:02Z",
+      "updated_at": "2025-03-27T06:50:09.005639Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-product-description-generator",
+        "e-commerce-assistant",
+        "research-tool",
+        "sales-assistant"
+      ]
+    },
+    {
+      "id": "cf577235-2dfc-4df0-b32d-5efcb8ee9fd7",
+      "name": "ideator.dev",
+      "slug": "ideator-dev",
+      "description": "ideator.dev is a platform for developers to unleash their ideas with brainstorming assistance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ideator-dev.jpg",
+      "website_url": "https://ideator.dev?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-29T10:03:04Z",
+      "updated_at": "2025-03-27T06:41:52.614113Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-creative-writing",
+        "ai-developer-tools"
+      ]
+    },
+    {
+      "id": "9ea31b5c-4884-47f6-b094-ec9f88166711",
+      "name": "startupidea.ai",
+      "slug": "startupidea-ai",
+      "description": "Daily AI-generated startup ideas for entrepreneurs and creators.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/startupidea-ai.jpg",
+      "website_url": "https://startupidea.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-17T02:05:22Z",
+      "updated_at": "2025-03-27T06:13:07.658632Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-business-ideas-generator",
+        "ai-content-generator",
+        "investing-assistant",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "c5124825-8f93-452f-add6-335b305b8d82",
+      "name": "Namegener - AI Name Generator",
+      "slug": "namegener-ai-name-generator",
+      "description": "Generate unique business names and check domain availability.",
+      "logo_url": "https://namegener.com/favicon.png",
+      "website_url": "https://namegener.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 4,
+      "views_count": 0,
+      "created_at": "2025-03-11T10:27:05Z",
+      "updated_at": "2025-03-27T06:14:08.755704Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-content-generator",
+        "ai-domain-name-generator"
+      ]
+    },
+    {
+      "id": "231f05f5-9c70-41a6-821d-f9357ab4160a",
+      "name": "Shorts Ninja AI",
+      "slug": "shorts-ninja-ai",
+      "description": "Generate unique AI videos on autopilot. Get views while you sleep!",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/shorts-ninja-ai.jpg",
+      "website_url": "https://shortsninja.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 3.7,
+      "views_count": 0,
+      "created_at": "2025-03-05T06:08:59Z",
+      "updated_at": "2025-03-27T07:45:18.559428Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-animated-video",
+        "ai-art-generator",
+        "ai-business-ideas-generator",
+        "ai-instagram-assistant",
+        "ai-music-video-generator",
+        "ai-personalized-video-generator",
+        "ai-short-clips-generator",
+        "ai-social-media-assistant",
+        "ai-tiktok-assistant",
+        "ai-ugc-video-generator",
+        "ai-video-editor",
+        "ai-video-generator",
+        "digital-marketing-generator",
+        "image-to-video",
+        "text-to-video"
+      ]
+    },
+    {
+      "id": "df6ae2b0-dcdc-4feb-8eba-527ea14df5d6",
+      "name": "Botsify",
+      "slug": "botsify-455062",
+      "description": "Botsify is an AI Agent platform that helps businesses build AI agents and conversational AI chatbots to automate support, sales, and engagement. With agentic AI tools, you can create portable, context-aware agents for web, WhatsApp, Messenger, Instagram, and Slack.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/bfd218a9-4ec2-4e72-84e4-61f1efa5cf39_1760526231426.webp",
+      "website_url": "https://botsify.com/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-13T13:34:16.857085Z",
+      "updated_at": "2025-10-15T11:03:59.505Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "9c6f8a07-fee4-4f8e-b472-5bb9fcab30f2",
+      "name": "MCP360",
+      "slug": "mcp360-159645",
+      "description": "MCP360 – Unified Gateway for AI Agents",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/64083e55-ff9b-4578-818d-158d0cfbfd76_1760515157020.png",
+      "website_url": "https://mcp360.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-15T07:59:19.793489Z",
+      "updated_at": "2025-11-12T11:16:23.275Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-business-ideas-generator",
+        "research-tool"
+      ]
+    },
+    {
+      "id": "1beb19ca-29e5-47c0-83fc-c7058835a1b5",
+      "name": "Pausa",
+      "slug": "pausa",
+      "description": "Pausa is a journaling app that helps you define your purpose, capture quick reflections, and stay aligned with AI-powered insights.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ccd25fef-378e-4ff2-9402-06e3f92cef2d_1756312474816.png",
+      "website_url": "https://www.pausa.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-27T16:34:35.435484Z",
+      "updated_at": "2025-08-28T12:49:46.202Z",
+      "category_slugs": [
+        "ai-business-ideas-generator"
+      ]
+    },
+    {
+      "id": "f0256e12-149f-455f-8cfe-62a1f665fa48",
+      "name": "Pdf Redaction",
+      "slug": "pdf-redaction",
+      "description": "PDF Redaction is an AI-powered solution for securely removing sensitive information from PDFs. It combines advanced automated detection with manual editing tools, ensuring accuracy, speed, and compliance with privacy regulations like HIPAA. With options for on-device processing, enterprise customization, and API integration, it’s built for both individuals and organizations that need to protect confidential data.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/7b8087ed-eb09-4946-b68b-35e0ed59e6eb_1754831500816.png",
+      "website_url": "https://pdf-redaction.com/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-10T13:11:41.837424Z",
+      "updated_at": "2025-08-12T08:29:28.237Z",
+      "category_slugs": [
+        "ai-business-ideas-generator"
+      ]
+    },
+    {
+      "id": "07e1e27f-5454-423d-9afa-56c6f7455a29",
+      "name": "Prompt2Tool",
+      "slug": "prompt2tool",
+      "description": "AI-Powered Free Online Tools for Everyone",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8d91b402-30c7-443b-a522-379a7477cea0_1759064217673.png",
+      "website_url": "https://prompt2tool.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-28T12:57:05.545667Z",
+      "updated_at": "2025-09-29T08:56:05.847Z",
+      "category_slugs": [
+        "ai-business-ideas-generator"
+      ]
+    },
+    {
+      "id": "2e80af20-3d0d-4d75-b542-82570e640c32",
+      "name": "StatementSheet",
+      "slug": "statementsheet-617629",
+      "description": "Convert PDF Bank statements to Excel or CSV",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/18bb8df9-837c-48ee-81a8-34ef50dc2c35_1753006612558.png",
+      "website_url": "https://statementsheet.com",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-20T10:16:57.803437Z",
+      "updated_at": "2025-07-21T06:28:59.359Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-pdf",
+        "business",
+        "marketing-plan-generator"
+      ]
+    },
+    {
+      "id": "35f5e12c-8189-42b0-a748-433b711af751",
+      "name": "Writegenic AI",
+      "slug": "writegenic-ai",
+      "description": "All-in-One AI Generators \u0026 Content Creation Tools",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/99638d76-258b-459d-a028-fc6037aeecfe_1750718632029.jpg",
+      "website_url": "https://writegenic.ai/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-23T22:43:58.481904Z",
+      "updated_at": "2025-07-04T10:45:26.334Z",
+      "category_slugs": [
+        "ai-business-ideas-generator",
+        "ai-document-extraction"
+      ]
+    }
+  ]
+}

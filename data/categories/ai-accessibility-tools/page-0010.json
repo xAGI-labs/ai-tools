@@ -1,0 +1,1467 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 10,
+    "page_size": 72,
+    "total_items": 985,
+    "total_pages": 14,
+    "next_path": "categories/ai-accessibility-tools/page-0011.json",
+    "prev_path": "categories/ai-accessibility-tools/page-0009.json"
+  },
+  "items": [
+    {
+      "id": "d3ad3bd5-6859-40a5-a031-b1e4725470be",
+      "name": "PaperBrain",
+      "slug": "paperbrain",
+      "description": "Paper Brain",
+      "logo_url": "https://icon.horse/icon/paperbrain.study",
+      "website_url": "https://www.paperbrain.study",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c007b2bc-7e3d-4b5e-8f5a-0f2d3db62c8b",
+      "name": "PaperList",
+      "slug": "paperlist-1",
+      "description": "PaperList",
+      "logo_url": "https://paperlist.io/favicon.ico",
+      "website_url": "https://paperlist.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0d4f1b6e-ef83-4c27-9cc4-341437d73109",
+      "name": "PaperList",
+      "slug": "paperlist",
+      "description": "PaperList",
+      "logo_url": "https://www.google.com/s2/favicons?domain=paperlist.io\u0026sz=128",
+      "website_url": "https://paperlist.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "fa80eab2-aafa-4283-9cba-44e331607669",
+      "name": "PatentPal",
+      "slug": "patentpal",
+      "description": "PatentPal",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/fa80eab2-aafa-4283-9cba-44e331607669_patentpal.jpeg?",
+      "website_url": "https://patentpal.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "07b76ba3-d2f6-4a03-9da0-ba0720ef9680",
+      "name": "PatentPal",
+      "slug": "patentpal-1",
+      "description": "PatentPal",
+      "logo_url": "https://patentpal.com/favicon.ico",
+      "website_url": "https://patentpal.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6c72af5e-7fa4-4c14-abd8-ed5a5b9d74d7",
+      "name": "PaxiAI",
+      "slug": "paxiai",
+      "logo_url": "https://icon.horse/icon/paxi.ai",
+      "website_url": "https://paxi.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-22T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "617495c1-30aa-4c6e-b076-b72b6f99686d",
+      "name": "Peachly AI",
+      "slug": "peachly-ai",
+      "description": "Peachly AI - All-in-One Hybrid AI Solution",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/617495c1-30aa-4c6e-b076-b72b6f99686d_peachly_ai.jpeg?",
+      "website_url": "https://peachlyai.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c2747a0f-2eaf-493b-9451-6e0c8d42f06c",
+      "name": "Peachly AI",
+      "slug": "peachly-ai-1",
+      "description": "Peachly AI - All-in-One Hybrid AI Solution",
+      "logo_url": "https://icons.duckduckgo.com/ip3/peachlyai.xyz.ico",
+      "website_url": "https://peachlyai.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5dd09cb4-8f78-45d5-97c9-d3370efb2952",
+      "name": "Pebblely",
+      "slug": "pebblely",
+      "description": "Pebblely",
+      "logo_url": "https://app.pebblely.com/favicon.ico",
+      "website_url": "https://app.pebblely.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "137d0f37-8ab4-4c8d-9358-d579dc231e11",
+      "name": "Perpend",
+      "slug": "perpend",
+      "description": "Perpend: AI Playground for OpenAI GPT Models",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/137d0f37-8ab4-4c8d-9358-d579dc231e11_perpend.jpg?",
+      "website_url": "https://perpend.in",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-07T00:00:00Z",
+      "updated_at": "2023-04-07T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f8f9f933-65fc-4311-99ee-0fd9361f4b12",
+      "name": "Perplexity AI",
+      "slug": "perplexity-ai",
+      "description": "Perplexity AI",
+      "logo_url": "https://perplexity.ai/favicon.ico",
+      "website_url": "https://www.perplexity.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "449e8735-c541-46dd-a3bc-127fc4658d5e",
+      "name": "Perplexity AI",
+      "slug": "perplexity-ai-1",
+      "description": "Perplexity AI",
+      "logo_url": "https://perplexity.ai/favicon.ico",
+      "website_url": "https://www.perplexity.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "45ff1f33-063b-4302-87e2-25e43b9b9985",
+      "name": "Phenaki",
+      "slug": "phenaki-1",
+      "description": "Phenaki",
+      "logo_url": "https://icon.horse/icon/phenaki.video",
+      "website_url": "https://phenaki.video",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "77e7491d-16c0-4f97-bdb4-af975c36ebc2",
+      "name": "Phenaki",
+      "slug": "phenaki",
+      "description": "Phenaki",
+      "logo_url": "https://icon.horse/icon/phenaki.video",
+      "website_url": "https://phenaki.video",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f0b6498a-9916-470e-b40f-0774a556ebe4",
+      "name": "Phind",
+      "slug": "phind",
+      "description": "Just a moment...",
+      "logo_url": "https://phind.com/favicon.ico",
+      "website_url": "https://phind.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "bd2221ed-461b-4fcf-8877-a6807f5cf946",
+      "name": "Phygital+",
+      "slug": "phygital",
+      "description": "Phygital+",
+      "logo_url": "https://icon.horse/icon/phygital.plus",
+      "website_url": "https://phygital.plus",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-31T00:00:00Z",
+      "updated_at": "2023-03-31T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "690e110b-53e5-4532-b6fa-ebe317725083",
+      "name": "Piano Genie",
+      "slug": "piano-genie-1",
+      "description": "Piano Genie",
+      "logo_url": "https://icon.horse/icon/piano-genie.glitch.me",
+      "website_url": "https://piano-genie.glitch.me",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "581ace9f-526b-49d9-926d-a872de6a95d1",
+      "name": "Piano Genie",
+      "slug": "piano-genie",
+      "description": "Piano Genie",
+      "logo_url": "https://icon.horse/icon/piano-genie.glitch.me",
+      "website_url": "https://piano-genie.glitch.me",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ff0c5ff1-ccd5-4336-a2b4-7491d90563ac",
+      "name": "Pickmyline",
+      "slug": "pickmyline",
+      "description": "Pickmyline",
+      "logo_url": "https://icons.duckduckgo.com/ip3/pickmyline.online.ico",
+      "website_url": "https://www.pickmyline.online",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-16T00:00:00Z",
+      "updated_at": "2023-06-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e6ab6448-b28f-4978-9ec6-1d9260c21b8e",
+      "name": "Pipeline AI",
+      "slug": "pipeline-ai",
+      "description": "Pipeline.ai | Serverless GPU inference for ML models",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/e6ab6448-b28f-4978-9ec6-1d9260c21b8e_pipeline_ai.jpeg?",
+      "website_url": "https://www.pipeline.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "930dee39-ebdc-4eb4-8d20-b4b951331ec3",
+      "name": "Pipeline AI",
+      "slug": "pipeline-ai-1",
+      "description": "Pipeline.ai | Serverless GPU inference for ML models",
+      "logo_url": "https://icon.horse/icon/pipeline.ai",
+      "website_url": "https://www.pipeline.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f6f62c3d-fc4d-4611-a655-1a99c3d35c17",
+      "name": "Pirr",
+      "slug": "pirr",
+      "description": "Pirr",
+      "logo_url": "https://pirr.me/favicon.ico",
+      "website_url": "https://www.pirr.me",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-27T00:00:00Z",
+      "updated_at": "2023-04-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8377624c-9b1a-404f-a19c-4dcb83ec6d20",
+      "name": "PitchLeague",
+      "slug": "pitchleague",
+      "description": "Deck Analyzer",
+      "logo_url": "https://pitchleague.ai/favicon.png",
+      "website_url": "https://www.pitchleague.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d4b38ce6-8785-4c0f-9064-9a7fed3c6caf",
+      "name": "Pixelicious",
+      "slug": "pixelicious",
+      "description": "Pixelicious",
+      "logo_url": "https://icons.duckduckgo.com/ip3/pixelicious.xyz.ico",
+      "website_url": "https://www.pixelicious.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ae94d8c9-6cee-4823-996d-a22953fcea72",
+      "name": "Plan My Trip ASAP",
+      "slug": "plan-my-trip-asap",
+      "description": "Plan My Trip ASAP",
+      "logo_url": "https://icon.horse/icon/planmytripasap.com",
+      "website_url": "https://planmytripasap.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-13T00:00:00Z",
+      "updated_at": "2023-04-13T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5b723dcf-94bd-4b6b-ba06-33713113dfde",
+      "name": "PlanTrips",
+      "slug": "plantrips",
+      "description": "v",
+      "logo_url": "https://icon.horse/icon/plantrips.net",
+      "website_url": "https://plantrips.net",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-03T00:00:00Z",
+      "updated_at": "2023-06-03T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7b6e0527-1640-4874-8bec-012651ea124a",
+      "name": "PlatePose",
+      "slug": "platepose",
+      "description": "PlatePose",
+      "logo_url": "https://platepose.com/favicon.ico",
+      "website_url": "https://platepose.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-06T00:00:00Z",
+      "updated_at": "2023-05-06T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b08a0939-7897-46da-bc0f-079ed264b528",
+      "name": "Playground AI",
+      "slug": "playground-ai",
+      "description": "Playground AI",
+      "logo_url": "https://playgroundai.com/favicon.ico",
+      "website_url": "https://playgroundai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "30843001-eaec-41e5-9cb9-da16a9d7d27d",
+      "name": "Plicanta",
+      "slug": "plicanta",
+      "description": "Plicanta",
+      "logo_url": "https://icon.horse/icon/plicanta.com",
+      "website_url": "https://plicanta.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-28T00:00:00Z",
+      "updated_at": "2023-04-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7e7c050c-0724-4733-8db2-3aa8d05a1c46",
+      "name": "Pliny",
+      "slug": "pliny",
+      "description": "Pliny",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/7e7c050c-0724-4733-8db2-3aa8d05a1c46_pliny.jpeg?",
+      "website_url": "https://pliny.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6fbb8172-dfe7-4d19-8805-2788c97dd33e",
+      "name": "Pliny",
+      "slug": "pliny-1",
+      "description": "Pliny",
+      "logo_url": "https://icon.horse/icon/pliny.app",
+      "website_url": "https://pliny.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ca078110-0092-4cd3-862d-e471bcf2deba",
+      "name": "PodAI",
+      "slug": "podai-1",
+      "description": "PodAI",
+      "logo_url": "https://icon.horse/icon/ai.eightsleep.com",
+      "website_url": "https://ai.eightsleep.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6e1a8d61-9e2e-4e9c-abbb-9c43751388b9",
+      "name": "PodAI",
+      "slug": "podai",
+      "description": "PodAI",
+      "logo_url": "https://icon.horse/icon/ai.eightsleep.com",
+      "website_url": "https://ai.eightsleep.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "228a17a5-ddd0-451e-a24b-5f9f7cd09d24",
+      "name": "Podium",
+      "slug": "podium",
+      "description": "Podium",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/228a17a5-ddd0-451e-a24b-5f9f7cd09d24_podium.jpeg?",
+      "website_url": "https://podium.page",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d0ed392c-1ec9-4026-91c6-ceaf8be9892e",
+      "name": "Podium",
+      "slug": "podium-1",
+      "description": "Podium",
+      "logo_url": "https://podium.page/favicon.ico",
+      "website_url": "https://podium.page",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a4858945-0ba5-4662-9d29-65c1b792d9eb",
+      "name": "Pollinations",
+      "slug": "pollinations",
+      "description": "Pollinations",
+      "logo_url": "https://pollinations.ai/favicon.ico",
+      "website_url": "https://pollinations.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a60d312c-5e08-43d2-b067-09eaf3dd5b87",
+      "name": "Pollinations",
+      "slug": "pollinations-1",
+      "description": "Pollinations",
+      "logo_url": "https://pollinations.ai/favicon.ico",
+      "website_url": "https://pollinations.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "046ce441-0bc1-4698-8eff-5c9a047dea72",
+      "name": "Ponzu",
+      "slug": "ponzu-1",
+      "description": "Ponzu",
+      "logo_url": "https://icon.horse/icon/ponzu.gg",
+      "website_url": "https://www.ponzu.gg",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f9d0e067-925f-409b-a7ba-e6543f9d7b9f",
+      "name": "Ponzu",
+      "slug": "ponzu",
+      "description": "Ponzu",
+      "logo_url": "https://icon.horse/icon/ponzu.gg",
+      "website_url": "https://www.ponzu.gg",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "eb4f6381-562b-416b-aaa4-dbdb98b908d9",
+      "name": "Pop2Piano",
+      "slug": "pop2piano-1",
+      "description": "Jongho Choi",
+      "logo_url": "https://icon.horse/icon/sweetcocoa.github.io",
+      "website_url": "https://sweetcocoa.github.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e02f2972-9093-4682-b75a-0fca4fa5660a",
+      "name": "Pop2Piano",
+      "slug": "pop2piano",
+      "description": "Jongho Choi",
+      "logo_url": "https://icon.horse/icon/sweetcocoa.github.io",
+      "website_url": "https://sweetcocoa.github.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2686cb53-11a7-409f-86c1-65472c1b8d4d",
+      "name": "Portal",
+      "slug": "portal",
+      "description": "Portal",
+      "logo_url": "https://icon.horse/icon/useportal.app",
+      "website_url": "https://www.useportal.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-22T00:00:00Z",
+      "updated_at": "2023-05-22T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9e6b5b4f-0c4e-4f4f-bac0-8fddf0a208fe",
+      "name": "Post Genie",
+      "slug": "post-genie",
+      "description": "Welcome to Post Genie",
+      "logo_url": "https://icon.horse/icon/postgenie.co.uk",
+      "website_url": "https://postgenie.co.uk",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-26T00:00:00Z",
+      "updated_at": "2023-05-26T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b67f66c0-b2f5-43a1-80ec-87f3969fc8f3",
+      "name": "PostalAI",
+      "slug": "postalai",
+      "description": "PostalAI",
+      "logo_url": "https://icon.horse/icon/postalai.co",
+      "website_url": "https://postalai.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f13f64a8-bc1f-4102-a68e-f36de1db4dad",
+      "name": "PostalAI",
+      "slug": "postalai-1",
+      "description": "PostalAI",
+      "logo_url": "https://icon.horse/icon/postalai.co",
+      "website_url": "https://postalai.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c0abfc03-d08a-4d89-94a8-d78aba878ba6",
+      "name": "PowerMode AI",
+      "slug": "powermode-ai",
+      "description": "PowerMode",
+      "logo_url": "https://powermodeai.com/favicon.ico",
+      "website_url": "https://powermodeai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "403b7dce-3247-4e6f-8bd8-aeed38b1400e",
+      "name": "Powerpresent AI",
+      "slug": "powerpresent-ai",
+      "description": "Powerpresent AI - Create powerful presentations with AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/403b7dce-3247-4e6f-8bd8-aeed38b1400e_powerpresent_ai.jpeg?",
+      "website_url": "https://powerpresent.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8996eb6a-b9f9-463a-ac57-b138d0020e0f",
+      "name": "Powerpresent AI",
+      "slug": "powerpresent-ai-1",
+      "description": "Powerpresent AI - Create powerful presentations with AI",
+      "logo_url": "https://icons.duckduckgo.com/ip3/powerpresent.ai.ico",
+      "website_url": "https://powerpresent.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "94814db9-0904-4253-bf2c-c2fa4ce43720",
+      "name": "PracticeTalking",
+      "slug": "practicetalking",
+      "description": "PracticeTalking",
+      "logo_url": "https://practicetalking.net/favicon.ico",
+      "website_url": "https://www.practicetalking.net",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-28T00:00:00Z",
+      "updated_at": "2023-05-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "01d203b1-acb0-4fd9-ae3d-1b968381e688",
+      "name": "Predict AI",
+      "slug": "predict-ai",
+      "description": "Neurons | Predict Consumer Responses \u0026 Behavior.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/neuronsinc.com.ico",
+      "website_url": "https://www.neuronsinc.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8e02c1c2-9ab1-4951-b116-c8abdad7057e",
+      "name": "PrepSup",
+      "slug": "prepsup",
+      "description": "PrepSup",
+      "logo_url": "https://icon.horse/icon/prepsup.com",
+      "website_url": "https://www.prepsup.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-24T00:00:00Z",
+      "updated_at": "2023-05-24T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6813ba20-d683-4d10-8d68-06c18e475245",
+      "name": "Present AI",
+      "slug": "present-ai",
+      "description": "Powerpresent AI - Create powerful presentations with AI",
+      "logo_url": "https://icon.horse/icon/present.yaara.ai",
+      "website_url": "https://present.yaara.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "80cc8763-d6d2-409c-acd2-841fd7d952bb",
+      "name": "Prezo",
+      "slug": "prezo-1",
+      "description": "Prezo",
+      "logo_url": "https://prezo.ai/favicon.ico",
+      "website_url": "https://www.prezo.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b9d833c8-ba77-4809-9b7b-0652e5d91143",
+      "name": "Prezo",
+      "slug": "prezo",
+      "description": "Prezo",
+      "logo_url": "https://prezo.ai/favicon.ico",
+      "website_url": "https://www.prezo.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f80aceee-4778-4efd-93e6-d4d7f6b5ee96",
+      "name": "PrismaGPT",
+      "slug": "prismagpt",
+      "description": "PrismaGPT | How To Prisma",
+      "logo_url": "https://icon.horse/icon/gpt.howtoprisma.com",
+      "website_url": "https://gpt.howtoprisma.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-16T00:00:00Z",
+      "updated_at": "2023-05-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "1cd28979-970f-4f5f-83f8-a44a40da0ea5",
+      "name": "Prisms AI",
+      "slug": "prisms-ai",
+      "description": "Prisms",
+      "logo_url": "https://icon.horse/icon/prisms.ai",
+      "website_url": "https://prisms.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "1cff6358-840c-4b00-98b3-418e9edd5b8d",
+      "name": "Prisms AI",
+      "slug": "prisms-ai-1",
+      "description": "Prisms",
+      "logo_url": "https://icon.horse/icon/prisms.ai",
+      "website_url": "https://prisms.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "861ba676-3017-41a9-9db7-300da037097c",
+      "name": "Prodigy AI",
+      "slug": "prodigy-ai",
+      "description": "Dev AI Tools - Prodigy",
+      "logo_url": "https://icon.horse/icon/ai.prodi.gg",
+      "website_url": "https://ai.prodi.gg",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c119908b-f4d5-4f91-83e5-4f237d239b93",
+      "name": "Prodigy AI",
+      "slug": "prodigy-ai-1",
+      "description": "Dev AI Tools - Prodigy",
+      "logo_url": "https://icon.horse/icon/ai.prodi.gg",
+      "website_url": "https://ai.prodi.gg",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "88f8abc4-4716-4cdf-841b-87069b01cda7",
+      "name": "Proformis",
+      "slug": "proformis",
+      "logo_url": "https://icon.horse/icon/proformis.pro",
+      "website_url": "https://proformis.pro",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-13T00:00:00Z",
+      "updated_at": "2023-04-13T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "daf5b6e5-2c0b-44de-bbb1-4d9df5ce210c",
+      "name": "PrometheanAI",
+      "slug": "prometheanai",
+      "description": "Promethean AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/daf5b6e5-2c0b-44de-bbb1-4d9df5ce210c_prometheanai.jpeg?",
+      "website_url": "https://www.prometheanai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "47a2b459-5ae7-4b36-aace-c6b69cddf0d7",
+      "name": "PrometheanAI",
+      "slug": "prometheanai-1",
+      "description": "Promethean AI",
+      "logo_url": "https://prometheanai.com/favicon.ico",
+      "website_url": "https://www.prometheanai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f6c93553-c67e-49d2-820c-f67ac1988bac",
+      "name": "Prospre",
+      "slug": "prospre",
+      "description": "Prospre - Meal Planner App",
+      "logo_url": "https://prospre.io/favicon.ico",
+      "website_url": "https://www.prospre.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-29T00:00:00Z",
+      "updated_at": "2023-03-31T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b0ae20c1-a6c5-4228-854c-d9538c30b0e5",
+      "name": "Pump",
+      "slug": "pump",
+      "description": "Pump - Get 60% off your AWS bill, instantly?",
+      "logo_url": "https://icons.duckduckgo.com/ip3/pump.co.ico",
+      "website_url": "https://www.pump.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "85f36e9c-b333-45b9-81d7-fc3b72bc7833",
+      "name": "Purple Wave",
+      "slug": "purple-wave",
+      "description": "Purple Wave",
+      "logo_url": "https://icon.horse/icon/purplewave.ai",
+      "website_url": "https://purplewave.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-28T00:00:00Z",
+      "updated_at": "2023-04-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "571c158b-bd5b-4ba3-a45e-20f25f127331",
+      "name": "QikPM",
+      "slug": "qikpm-1",
+      "description": "QikPM - User stories with ease",
+      "logo_url": "https://icon.horse/icon/qikpm.com",
+      "website_url": "https://qikpm.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c75cb07e-0ede-4abb-89e8-c452eb85cfa0",
+      "name": "QikPM",
+      "slug": "qikpm",
+      "description": "QikPM - User stories with ease",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/c75cb07e-0ede-4abb-89e8-c452eb85cfa0_qikpm.jpeg?",
+      "website_url": "https://qikpm.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5a6d924f-11aa-4373-973c-dbc0ed2d06b3",
+      "name": "Quadency",
+      "slug": "quadency-1",
+      "description": "ERROR: The request could not be satisfied",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quadency.com.ico",
+      "website_url": "https://quadency.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0f197c42-5d89-43cc-a165-7d96ce0fbde9",
+      "name": "Quadency",
+      "slug": "quadency",
+      "description": "ERROR: The request could not be satisfied",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/0f197c42-5d89-43cc-a165-7d96ce0fbde9_quadency.jpeg?",
+      "website_url": "https://quadency.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c4bfbfcd-d187-46a5-b02f-8ed25936297a",
+      "name": "QuickTools by Picsart",
+      "slug": "quicktools-by-picsart-1",
+      "description": "Edit Images, Videos \u0026 Documents for Free | Quicktools by Picsart",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tools.picsart.com.ico",
+      "website_url": "https://tools.picsart.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-design",
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-cad-tools",
+        "design-art",
+        "other"
+      ]
+    },
+    {
+      "id": "86371555-586b-44d6-8b1e-2217b02a59ce",
+      "name": "QuickTools by Picsart",
+      "slug": "quicktools-by-picsart",
+      "description": "Edit Images, Videos \u0026 Documents for Free | Quicktools by Picsart",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tools.picsart.com.ico",
+      "website_url": "https://tools.picsart.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-design",
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-cad-tools",
+        "design-art",
+        "other"
+      ]
+    },
+    {
+      "id": "2386481d-c0ae-4de0-9978-7e76d748a5c0",
+      "name": "Quriosity",
+      "slug": "quriosity",
+      "description": "Quriosity",
+      "logo_url": "https://icon.horse/icon/quriosity.world",
+      "website_url": "https://www.quriosity.world",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-24T00:00:00Z",
+      "updated_at": "2023-04-24T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    }
+  ]
+}

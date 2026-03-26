@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "d7f5a662-bbc4-4e86-b146-3c8d90bafbe1",
+      "name": "ChatOrg",
+      "slug": "chatorg",
+      "description": "ChatOrg - Realtime collaboration with ChatGPT",
+      "logo_url": "https://icon.horse/icon/chatorg.ai",
+      "website_url": "https://www.chatorg.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-07T00:00:00Z",
+      "updated_at": "2023-06-07T00:00:00Z",
+      "category_slugs": [
+        "ai-real-estate-chatbot",
+        "ai-real-estate-tools",
+        "ai-time-management",
+        "chatbot",
+        "other",
+        "productivity"
+      ]
+    },
+    {
+      "id": "a7a8ed3c-8403-42bb-b8ec-88e1bd5a6ac3",
+      "name": "Prompt Cereal",
+      "slug": "prompt-cereal",
+      "description": "Discover and share amazing ChatGPT prompts with the community. Explore prompts for writing, marketing, business, social media, fun and more. Upvote, post, share and save your favorite prompts.",
+      "logo_url": "https://icon.horse/icon/promptcereal.com",
+      "website_url": "https://promptcereal.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-31T00:00:00Z",
+      "updated_at": "2023-05-31T00:00:00Z",
+      "category_slugs": [
+        "ai-affiliate-marketing",
+        "ai-real-estate-chatbot",
+        "ai-real-estate-tools",
+        "ai-social-media-chatbot",
+        "ai-social-media-management",
+        "ai-social-media-marketing",
+        "chatbot",
+        "marketing",
+        "other"
+      ]
+    },
+    {
+      "id": "41fe4b93-4a05-4241-8f42-89620a13b59e",
+      "name": "Symanto Text Insights",
+      "slug": "symanto-text-insights",
+      "description": "Real-Time Customer Insights for Businesses I Symanto",
+      "logo_url": "https://symanto.com/favicon.ico",
+      "website_url": "https://www.symanto.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-blog-writer",
+        "ai-business-development",
+        "ai-business-idea-generator",
+        "ai-business-management",
+        "ai-customer-support-chatbot",
+        "ai-real-estate-chatbot",
+        "business",
+        "chatbot",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "53db9999-3092-42e2-bd76-37d66abc00df",
+      "name": "Symanto Text Insights",
+      "slug": "symanto-text-insights-1",
+      "description": "Real-Time Customer Insights for Businesses I Symanto",
+      "logo_url": "https://symanto.com/favicon.ico",
+      "website_url": "https://www.symanto.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-blog-writer",
+        "ai-business-development",
+        "ai-business-idea-generator",
+        "ai-business-management",
+        "ai-customer-support-chatbot",
+        "ai-real-estate-chatbot",
+        "business",
+        "chatbot",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "b8404411-7969-40ab-87ca-782e4ff43e6c",
+      "name": "caspa AI",
+      "slug": "caspa-ai",
+      "description": "Caspa AI features (79s demo https://www.youtube.com/watch?v=_3A1ecj17EA)\r\nGenerate unique, tailored AI images effortlessly, 30x faster and infinitely cheaper than existing solutions.\r\n\r\nKey features:\r\n* Realistic human models: Create lifelike human images for various purposes.\r\n* Your own products: Upload \u0026amp; add multiple products in any image\r\n* Resize photos: Ready to post straight to social media\r\n* Unique AI stock images: Text-to-image prompts, created in seconds\r\n* Time and cost-effect...",
+      "logo_url": "https://icons.duckduckgo.com/ip3/caspa.ai.ico",
+      "website_url": "https://www.caspa.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-25T00:00:00Z",
+      "updated_at": "2023-05-26T00:00:00Z",
+      "category_slugs": [
+        "ai-photo-image-generator",
+        "ai-product-design",
+        "ai-real-estate-chatbot",
+        "ai-social-media-chatbot",
+        "chatbot",
+        "design-art",
+        "image",
+        "photo-image-editor",
+        "text-to-image"
+      ]
+    }
+  ]
+}

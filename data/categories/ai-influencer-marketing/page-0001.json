@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "9f946578-fe3b-4dd3-b8b2-bac25111397d",
+      "name": "Affable.ai",
+      "slug": "affable-ai-1",
+      "description": "Influencer Marketing Platform for Brands \u0026 Agencies | Affable",
+      "logo_url": "https://icons.duckduckgo.com/ip3/affable.ai.ico",
+      "website_url": "https://www.affable.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-affiliate-marketing",
+        "ai-brand-management",
+        "ai-influencer-marketing",
+        "marketing"
+      ]
+    },
+    {
+      "id": "31586691-377d-47b1-a730-93e20a04a7ec",
+      "name": "Affable.ai",
+      "slug": "affable-ai",
+      "description": "Influencer Marketing Platform for Brands \u0026 Agencies | Affable",
+      "logo_url": "https://icons.duckduckgo.com/ip3/affable.ai.ico",
+      "website_url": "https://www.affable.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-affiliate-marketing",
+        "ai-brand-management",
+        "ai-influencer-marketing",
+        "marketing"
+      ]
+    },
+    {
+      "id": "7f03cf8b-8c4d-48b3-b048-d69b8b44995e",
+      "name": "ChatFans",
+      "slug": "chatfans",
+      "description": "ChatFans | AI powered Chatbots for Fans of Celebrities \u0026 Influencers",
+      "logo_url": "https://chatfans.ai/favicon.ico",
+      "website_url": "https://www.chatfans.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-01T00:00:00Z",
+      "updated_at": "2023-05-01T00:00:00Z",
+      "category_slugs": [
+        "ai-chatbot-builder",
+        "ai-customer-support-chatbot",
+        "ai-e-commerce-chatbot",
+        "ai-influencer-marketing",
+        "chatbot",
+        "marketing"
+      ]
+    },
+    {
+      "id": "0ac4c30f-541c-41bd-87fe-5bb5a4c77e70",
+      "name": "Effluence",
+      "slug": "effluence",
+      "description": "Effluence – Influencers just got affordable",
+      "logo_url": "https://effluence.io/favicon.png",
+      "website_url": "https://effluence.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-02T00:00:00Z",
+      "updated_at": "2023-06-02T00:00:00Z",
+      "category_slugs": [
+        "ai-influencer-marketing",
+        "marketing"
+      ]
+    },
+    {
+      "id": "f0b609c3-0073-4377-9161-cfbe7ce51319",
+      "name": "Twinning",
+      "slug": "twinning",
+      "description": "AI tool that allows influencers to establish a deeper connection with their fans. \u003cem\u003eTwinning enables you to create an AI clone of yourself in just a few minutes\u003c/em\u003e",
+      "logo_url": "https://twinning.me/favicon.ico",
+      "website_url": "https://www.twinning.me",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-09T00:00:00Z",
+      "updated_at": "2023-06-09T00:00:00Z",
+      "category_slugs": [
+        "ai-influencer-marketing",
+        "marketing"
+      ]
+    }
+  ]
+}

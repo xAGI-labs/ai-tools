@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 18,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0019.json",
+    "prev_path": "categories/other/page-0017.json"
+  },
+  "items": [
+    {
+      "id": "36c055f9-79b2-4738-bb72-97524867a039",
+      "name": "Dumb It Down",
+      "slug": "dumb-it-down",
+      "description": "Simplify complex text with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dumb-it-down.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/dumb-it-down/fangnmncdckemlnponnhmgoipebjinlc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:40Z",
+      "updated_at": "2025-03-27T03:03:52.942411Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4200d7b1-38d5-4791-93cc-476796a16199",
+      "name": "DumbTransfers",
+      "slug": "dumbtransfers",
+      "description": "Natural language transactions for fast and secure financial transfers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dumbtransfers.jpg",
+      "website_url": "https://dumbtransfers.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-21T06:33:27Z",
+      "updated_at": "2025-03-27T03:15:04.146561Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e9609cf6-d320-4031-be88-27d3ac66a065",
+      "name": "Dynawiki",
+      "slug": "dynawiki",
+      "description": "Infinite AI-generated Wiki pages",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dynawiki.jpg",
+      "website_url": "https://dynawiki.org?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T08:42:18Z",
+      "updated_at": "2025-03-27T03:08:42.489251Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4e6e70fb-1e0a-4b08-b009-8e94ce7bbc81",
+      "name": "E-CHOS",
+      "slug": "e-chos",
+      "description": "AI connects businesses with ideal investors in their niche.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/e-chos.jpg",
+      "website_url": "https://www.e-chos.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:19Z",
+      "updated_at": "2025-03-27T03:13:48.089355Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "60e4db90-ed6e-416f-9c7a-2ef0533e93a9",
+      "name": "E-V-A Storyboard",
+      "slug": "e-v-a-storyboard",
+      "description": "Visualize E-V-A Alexa interactions",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/e-v-a-storyboard.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/e-v-a-storyboard/hejifjaigldlkjninbdbpiphkieffgoh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:37Z",
+      "updated_at": "2025-03-27T03:01:38.648258Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7bed15f7-c07e-469f-b88a-4ef833ae4661",
+      "name": "E-assistant",
+      "slug": "e-assistant",
+      "description": "Price tracker \u0026 supplier info assistant",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/e-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/e-assistant/bebhaemhpfiekiepfnkgdepbafdhklja?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:31:43Z",
+      "updated_at": "2025-03-27T03:00:25.521575Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "89725536-42b8-47e5-86d6-bcc272ea4ce6",
+      "name": "EHVA.ai",
+      "slug": "ehva-ai",
+      "description": "Conversational AI by Phone - Customer Service, Sales, More.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ehva-ai.jpg",
+      "website_url": "https://ehva.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-26T01:23:46Z",
+      "updated_at": "2025-03-27T02:48:18.287639Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4d9f2a53-f88c-461e-a679-f256ee605b8f",
+      "name": "EPOKAI",
+      "slug": "epokai",
+      "description": "Daily summaries of AI trends and YouTube content.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/epokai.jpg",
+      "website_url": "https://epokai.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-06T01:43:41Z",
+      "updated_at": "2025-03-27T03:11:36.315155Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e655e537-3b06-4a49-8781-ae25dd622a8f",
+      "name": "ESale - Etsy™ SEO tool for seller",
+      "slug": "esale-etsy-seo-tool-for-seller",
+      "description": "Optimize Etsy shop products for revenue boost.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/esale-etsy-seo-tool-for-seller.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/esale-etsy-seo-tool-for-s/ghnjojhkdncaipbfchceeefgkkdpaelk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:35Z",
+      "updated_at": "2025-03-27T03:04:33.990631Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d70a2dc5-2566-4cef-bb2d-b82f102e50e4",
+      "name": "EVIG",
+      "slug": "evig",
+      "description": "AI platform for managing finances and finding homes in Brazil.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/evig.jpg",
+      "website_url": "https://apps.apple.com/us/app/evig-finan%25C3%25A7as-im%25C3%25B3veis-e/id6737522838?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-22T10:46:09Z",
+      "updated_at": "2025-03-27T03:14:15.925202Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4b89f608-4f6e-4ae9-8ad6-9223197f50b0",
+      "name": "EZLlama",
+      "slug": "ezllama",
+      "description": "Seamless ChatGPT integration for job search, code, and writing",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ezllama.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/ezllama/difcnbkcddkoighkmmhkgpkkdnoahjeh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:40Z",
+      "updated_at": "2025-03-27T03:05:13.89517Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "25ae70b6-8812-43e4-b104-8272d6f7355a",
+      "name": "EarlyBird",
+      "slug": "earlybird",
+      "description": "Receive job alerts and AI-crafted proposals for Upwork gigs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/earlybird.jpg",
+      "website_url": "https://www.earlybird.live?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-30T02:43:57Z",
+      "updated_at": "2025-03-27T03:11:17.705371Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "210f0ec5-c4a6-4de6-a32a-d041562f7936",
+      "name": "Earnings Handbook, Sportsbook Sidebar-FREE",
+      "slug": "earnings-handbook-sportsbook-sidebar-free",
+      "description": "Insights from 39+ sources",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/earnings-handbook-sportsbook-sidebar-free.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/earnings-handbook-sportsb/khjdjpnhmkminphbnlmambhmokmfaglo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:26Z",
+      "updated_at": "2025-03-27T03:02:26.192225Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4a33b192-a27f-4d04-8b8d-9ef59ce45319",
+      "name": "Easy Peasy Search For Gmail",
+      "slug": "easy-peasy-search-for-gmail",
+      "description": "Utilize GPT for Gmail search syntax",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/easy-peasy-search-for-gmail.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/easy-peasy-search-for-gma/oagnahomacdecncbipcpfhkbmcjmobfh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:37Z",
+      "updated_at": "2025-03-27T03:01:19.226081Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "46bacebf-0dea-4510-9718-8f7ab6856e4b",
+      "name": "EasyApplyAI",
+      "slug": "easyapplyai",
+      "description": "Streamline job applications",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/easyapplyai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/easyapplyai/dmpmfbddcmbmipcciibhndflcbgjpfac?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:36Z",
+      "updated_at": "2025-03-27T03:01:36.645686Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c1955e77-44a4-4492-a82b-24030b7efb05",
+      "name": "Eat Fix",
+      "slug": "eat-fix",
+      "description": "Eat Fix offers personalized diet plans and meal suggestions based on individual needs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/eat-fix.jpg",
+      "website_url": "https://eatfix.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-21T12:42:19Z",
+      "updated_at": "2025-03-27T03:21:24.385754Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dc2b5975-ff7d-4740-9982-3d69f5b36b5b",
+      "name": "EchoStream AI - your memory assistant",
+      "slug": "echostream-ai-your-memory-assistant",
+      "description": "AI tool for storing internet content",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chromewebstore.google.com.ico",
+      "website_url": "https://chromewebstore.google.com/detail/echostream-ai-your-memory/ndomilegegplemjpekajbpippddjkipl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:26Z",
+      "updated_at": "2025-03-27T03:05:01.733102Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "801a5088-6a10-46ac-b04f-c0d2f83ad473",
+      "name": "EclecticIQ Threat Scout",
+      "slug": "eclecticiq-threat-scout",
+      "description": "Convert online threats into structured STIX 2.1 data",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/eclecticiq-threat-scout.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/eclecticiq-threat-scout/mhodofhhnifdiapolinbbfpeflgnaflj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:05Z",
+      "updated_at": "2025-03-27T03:06:44.288673Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "058c7095-5edb-4c6f-af95-1779a2a1c4eb",
+      "name": "EcoTrace",
+      "slug": "ecotrace",
+      "description": "Track and manage carbon footprints effectively with advanced technology.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ecotrace.jpg",
+      "website_url": "https://ecotrace.org.uk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:57Z",
+      "updated_at": "2025-03-27T03:11:00.57795Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "33e6c4ec-fcc0-4b57-b2c9-ec6cb789c576",
+      "name": "Ecomwriter.ai",
+      "slug": "ecomwriter-space",
+      "description": "Launch and grow your business with Ecomwriter.ai.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ecomwriter-space.jpg",
+      "website_url": "https://ecomwriter.space",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-12-25T10:14:50Z",
+      "updated_at": "2025-03-27T03:22:00.5966Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7fc6b316-5119-4251-9ba5-7f83d9e58b14",
+      "name": "Ecotrack",
+      "slug": "ecotrack",
+      "description": "Browser extension for making sustainable purchasing decisions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ecotrack.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/ecotrack/efjipbgdfbijecjjijfkkhnjnmgljecd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:01Z",
+      "updated_at": "2025-03-27T03:14:25.740139Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0e6f96f1-439f-45f5-9907-7d025c558dda",
+      "name": "EduSphere",
+      "slug": "edusphere",
+      "description": "AI streamlining education for teachers",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/edusphere.jpg",
+      "website_url": "https://edu.freeaitools.tech?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-02T08:22:30Z",
+      "updated_at": "2025-03-27T03:10:11.545346Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "85ca2be1-a6c8-4453-b6d7-789408891882",
+      "name": "Edward Teach Bot",
+      "slug": "edward-teach-bot",
+      "description": "Edward Teach Bot is an AI chatbot for Telegram that can study any topic and provide accurate information.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/edward-teach-bot.jpg",
+      "website_url": "https://edwardbot.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-24T16:55:54Z",
+      "updated_at": "2025-03-27T03:19:16.205985Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3304a9fe-e7e9-422c-8ac0-85d48db3114f",
+      "name": "Elmo - Your AI Web Copilot",
+      "slug": "elmo-your-ai-web-copilot",
+      "description": "Content summarization, question answering, keyword exploration, more",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/elmo-your-ai-web-copilot.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/elmo-your-ai-web-copilot/ipnlcfhfdicbfbchfoihipknbaeenenm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-21T01:32:45Z",
+      "updated_at": "2025-03-27T02:59:55.025085Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "81ce4797-a734-4e9f-bff5-655eb02a55b2",
+      "name": "Engage.Bot - LinkedIn Messaging AI Assistant",
+      "slug": "engage-bot-linkedin-messaging-ai-assistant",
+      "description": "AI extension for personalized LinkedIn messaging.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/engage-bot-linkedin-messaging-ai-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/engagebot-linkedin-messag/gnkcdbnifaalehmghbbikidpigjocabg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:37:59Z",
+      "updated_at": "2025-03-27T03:15:25.718446Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7de7e8eb-4269-4670-9937-cc84fb3ddad0",
+      "name": "EngageGhost",
+      "slug": "engageghost",
+      "description": "EngageGhost helps personalize LinkedIn messages with company news and research tools.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/engageghost.jpg",
+      "website_url": "https://engageghost.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-01T13:27:17Z",
+      "updated_at": "2025-03-27T03:20:53.137192Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a9181590-0555-477e-b728-c65f5d1deda7",
+      "name": "Enhance ChatGPT - Search \u0026 Prompt Assistant",
+      "slug": "enhance-chatgpt-search-prompt-assistant",
+      "description": "AI enhancement for productivity",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chromewebstore.google.com.ico",
+      "website_url": "https://chromewebstore.google.com/detail/enhance-chatgpt-search-pr/nijlhkhkkhnhidoondiobjdgommomifm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:08Z",
+      "updated_at": "2025-03-27T03:00:51.372143Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f464b672-dd1e-4c07-95a3-b2a73de58077",
+      "name": "Eno® from Capital One®",
+      "slug": "eno-from-capital-one",
+      "description": "Capital One assistant for secure shopping",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/eno-from-capital-one.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/eno®-from-capital-one®/clmkdohmabikagpnhjmgacbclihgmdje?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:10Z",
+      "updated_at": "2025-03-27T03:00:55.876957Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "77eb1df0-888d-4472-8603-021a888e9501",
+      "name": "Enter Key For AI",
+      "slug": "enter-key-for-ai",
+      "description": "Fix Enter key issue in ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/enter-key-for-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/enter-key-for-ai/olcboakogncenhkjolhfpcdbhahbfgbj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:30Z",
+      "updated_at": "2025-03-27T03:02:37.152715Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bb520951-5a50-4f9b-87cb-312b838cf635",
+      "name": "Enter Key For ChatGPT",
+      "slug": "enter-key-for-chatgpt",
+      "description": "Resolve Enter key issue",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/enter-key-for-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/enter-key-for-chatgpt/lmgdhjilfapmkedonjbieldoclfidddf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:30Z",
+      "updated_at": "2025-03-27T03:02:35.833056Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f08f921b-dcfe-49bd-829b-b1306bc02d47",
+      "name": "Enterprise Data Catalog Plug-in",
+      "slug": "enterprise-data-catalog-plug-in",
+      "description": "Data asset discovery with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/enterprise-data-catalog-plug-in.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/enterprise-data-catalog-p/ehmlceddjeepgfiimoofdnkblnkhojbh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:14Z",
+      "updated_at": "2025-03-27T03:03:14.253634Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "effd37b5-26a6-4c42-b173-8d24f1a3a88d",
+      "name": "Eofis extension",
+      "slug": "eofis-extension",
+      "description": "Platform for web note-taking",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/eofis-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/eofis-extension/nlnjcnihkphchigkdhhpegpccacojmie?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:22Z",
+      "updated_at": "2025-03-27T03:02:02.38403Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2ef0730f-11fe-42d7-9bdb-7f0dc0476dc1",
+      "name": "EpicStart",
+      "slug": "epicstart",
+      "description": "AI-driven platform for user stories and market research",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/epicstart.jpg",
+      "website_url": "https://www.epicstart.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-08T09:48:08Z",
+      "updated_at": "2025-03-27T03:08:36.872425Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2a56ddf9-245e-465e-b990-dceb3ac4eb6c",
+      "name": "Eplane - Find Your Aircraft Parts Even Faster",
+      "slug": "eplane-find-your-aircraft-parts-even-faster",
+      "description": "Revolutionizing aerospace parts procurement.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/eplane-find-your-aircraft-parts-even-faster.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/eplane-find-your-aircraft/dioadlibodghpjibadbdlgbnhmcolmaj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:36Z",
+      "updated_at": "2025-03-27T03:02:45.673207Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2bcb4874-00a8-44c0-bc99-da7fb4ddd15f",
+      "name": "Ericsson LynkAI",
+      "slug": "ericsson-lynkai",
+      "description": "Simplify multilingual video translation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ericsson-lynkai.webp",
+      "website_url": "https://www.lynkai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-15T03:50:03Z",
+      "updated_at": "2025-03-27T02:58:43.701977Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ca69b9c0-5078-4670-a1b8-a2474d6fe714",
+      "name": "Ethicly.AI",
+      "slug": "ethicly-ai",
+      "description": "Free tool for generating Ethical AI Statements for businesses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ethicly-ai.jpg",
+      "website_url": "https://ethicly.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-02T02:08:21Z",
+      "updated_at": "2025-03-27T03:14:21.854841Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a548edce-2ffc-48f3-bfa8-f0f52a67b86d",
+      "name": "EvalPro.ai",
+      "slug": "evalpro-ai",
+      "description": "Revolutionize evaluation process with EvalPro AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/evalpro-ai.jpg",
+      "website_url": "https://evalpro.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-02-07T15:30:51Z",
+      "updated_at": "2025-03-27T02:57:44.728996Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3a9388ab-e1da-4a9e-84b3-3be488db1306",
+      "name": "Even More Github",
+      "slug": "even-more-github",
+      "description": "AI-powered GitHub repo recommendation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/even-more-github.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/even-more-github/hjhjgcikcdamgiihhhlfcnocgnbllhmm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:48Z",
+      "updated_at": "2025-03-27T03:00:13.725228Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b0e59394-1d32-4d4f-9a9e-02685a296067",
+      "name": "Event Finder",
+      "slug": "event-finder",
+      "description": "Chrome extension for detecting events on web pages.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/event-finder.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/event-finder/jmgaphidnjcombbaacgobkpjcndonhkj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:28Z",
+      "updated_at": "2025-03-27T03:05:09.429098Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b72f959a-852a-49db-8927-c7ba4e4ea354",
+      "name": "Everyprompt",
+      "slug": "everyprompt-com",
+      "description": "A playground for GPT-3, where you can explore, build, and learn about AI language models.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/everyprompt-com.jpg",
+      "website_url": "https://everyprompt.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-12-25T10:14:50Z",
+      "updated_at": "2025-03-27T02:56:23.634078Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aad7fe45-65da-46f2-a0d2-420f1c461526",
+      "name": "ExoTest",
+      "slug": "exotest",
+      "description": "Get expert feedback on your product before launching.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/exotest.jpg",
+      "website_url": "https://exotest.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:24:07Z",
+      "updated_at": "2025-03-27T03:13:09.687304Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "72330e80-57f3-470f-89e7-5d839c06d066",
+      "name": "Expenses Day",
+      "slug": "expenses-day",
+      "description": "AI API for digitalizing expenses including receipts and bank statements.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/expenses-day.jpg",
+      "website_url": "https://expenses.day?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:41:54Z",
+      "updated_at": "2025-03-27T03:12:51.986893Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b18346da-62c0-4107-a48a-4a9f0291180b",
+      "name": "Explain Selected",
+      "slug": "explain-selected",
+      "description": "Instant definitions and personalized explanations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/explain-selected.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/explain-selected/mgdagfcgfpcglofdkfgaajafcmniddcc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:21Z",
+      "updated_at": "2025-03-27T03:02:17.521053Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fe582a06-f6b7-491b-8f02-828152b5318e",
+      "name": "Explainy",
+      "slug": "explainy",
+      "description": "AI explanations on-demand",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/explainy.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/explainy/fbfnglohadgfmkmlamailklimpmidmog?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:21Z",
+      "updated_at": "2025-03-27T03:00:59.510706Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "89060a68-c8b8-482f-af94-1804ac28fe74",
+      "name": "Export X Bookmarks",
+      "slug": "export-x-bookmarks",
+      "description": "Tool for saving and organizing bookmarks easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/export-x-bookmarks.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/export-x-bookmarks/dmmedbkkoifofoeflpmkkoiaeefgonll?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:14Z",
+      "updated_at": "2025-03-27T03:15:11.004352Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fbf9c7d1-7154-4ea6-b4c3-a00a163ac616",
+      "name": "ExpressAI",
+      "slug": "expressai",
+      "description": "AI-driven LinkedIn messages for high-quality candidates.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/expressai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/expressai/nmbannefgcgdhmmigooolckmbfdcogim?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:22Z",
+      "updated_at": "2025-03-27T03:02:01.731538Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9f69eada-5cf8-43bb-b975-635fddda8ad8",
+      "name": "Eztrackr - Supercharge your job hunt",
+      "slug": "eztrackr-supercharge-your-job-hunt",
+      "description": "Organize job applications easily",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/eztrackr-supercharge-your-job-hunt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/eztrackr-supercharge-your/kdpbamlhffmfbgglmaedhopenkpgkfdg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-20T08:43:49Z",
+      "updated_at": "2025-03-27T02:59:45.93089Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c3a3ad1c-6b49-46cf-99d9-f003fab78e86",
+      "name": "FACEIT CS2 Precitor",
+      "slug": "faceit-cs2-precitor",
+      "description": "AI map veto predictor for FACEIT CS2 matches",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/faceit-cs2-precitor.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/faceit-cs2-precitor/gjngegeflmdgfcjldeibcnmalhpcjihg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-05T03:28:21Z",
+      "updated_at": "2025-03-27T03:10:15.837005Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5383959e-9d87-4482-82fa-7df51abef074",
+      "name": "FAT2FIT",
+      "slug": "fat2fit",
+      "description": "FAT2FIT is an AI-powered platform for personalized body transformations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fat2fit.jpg",
+      "website_url": "https://fat2fit.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-16T17:09:53Z",
+      "updated_at": "2025-03-27T03:21:21.899649Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "47450eac-a5bc-4ee3-97f0-b88663b76047",
+      "name": "FREE Proctor Autoproctor Quilgo Alternative",
+      "slug": "free-proctor-autoproctor-quilgo-alternative",
+      "description": "Enhances Google Forms tests integrity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/free-proctor-autoproctor-quilgo-alternative.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/free-proctor-autoproctor/mlddojdhmmepmpbahldaboobgakopecc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:18Z",
+      "updated_at": "2025-03-27T03:04:12.650196Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "12da23ea-cfaf-49e0-af03-43819550141e",
+      "name": "FREEZE",
+      "slug": "freeze",
+      "description": "Control streaming services with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/freeze.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:10Z",
+      "updated_at": "2025-03-27T03:00:55.236639Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6e8d6786-578d-4315-a66c-4957643641c5",
+      "name": "FX Focus",
+      "slug": "fx-focus",
+      "description": "AI-powered trading mentor for managing emotions and psychology",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fx-focus.jpg",
+      "website_url": "https://fxfocus.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-11T12:33:50Z",
+      "updated_at": "2025-03-27T03:09:09.189519Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "72408bf9-14ab-436e-94d2-6152f72fecf0",
+      "name": "Fabric - copilot for all your files \u0026 clouds",
+      "slug": "fabric-copilot-for-all-your-files-clouds",
+      "description": "Your digital sanctuary for content organization.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fabric-copilot-for-all-your-files-clouds.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/fabric-copilot-for-all-yo/dbbaiokglpdmdlgjakcfcmfalfhbjhjn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:45Z",
+      "updated_at": "2025-03-27T03:07:06.924516Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3a461fe1-05c4-41e4-bfd8-0ad77b45f573",
+      "name": "FaceWIX",
+      "slug": "facewix",
+      "description": "AI face swapping tool for fun images",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/facewix.jpg",
+      "website_url": "https://facewix.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-30T02:25:06Z",
+      "updated_at": "2025-03-27T03:09:55.61614Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "470510a2-9dc1-4461-994d-e0892b204e04",
+      "name": "FactSet - Internal Research Notes",
+      "slug": "factset-internal-research-notes",
+      "description": "Note-taking and auto-tagging FactSet entities",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/factset-internal-research-notes.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/factset-internal-research/fhopgfppaaikfbgahdeaaacolfkbidka?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:15Z",
+      "updated_at": "2025-03-27T03:03:16.738574Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "80bea120-bc51-41d8-842b-fa4cc2c5f0d6",
+      "name": "Factobi Automation",
+      "slug": "factobi-automation",
+      "description": "AI-based automation platform for Chrome browser tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/factobi-automation.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/factobi-automation/kmlpkmllonnfbpkekhnfkeocijfimfdm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:14Z",
+      "updated_at": "2025-03-27T03:15:09.117516Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f8c601c3-f2a4-46c2-91f5-7960d36ec561",
+      "name": "Facts \u0026 Opinions - Powered by ChatGPT API",
+      "slug": "facts-opinions-powered-by-chatgpt-api",
+      "description": "AI-powered text analysis tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/facts-opinions-powered-by-chatgpt-api.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/facts-opinions-powered-by/mkdabmjfoadklkoekkdjhfhabcdnmalo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:23Z",
+      "updated_at": "2025-03-27T03:02:22.279487Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "98aaf71e-f81a-40d3-a05a-0134bff753ca",
+      "name": "FancyGPT",
+      "slug": "fancygpt",
+      "description": "Enhance ChatGPT threads visually",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fancygpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/fancygpt/meonalmakdjaojaoipfhahcfccoecegk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:51Z",
+      "updated_at": "2025-03-27T03:03:19.402107Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c8433441-47d6-4cb9-b81b-b092de0edf68",
+      "name": "FantasyDraw",
+      "slug": "fantasydraw",
+      "description": "Online raffle for prizes supporting charitable causes.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fantasydraw.jpg",
+      "website_url": "https://playfantasydraw.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-14T10:48:09Z",
+      "updated_at": "2025-03-27T03:10:37.757625Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "529b106b-9aaf-4c3b-ad52-c3609cff95a6",
+      "name": "Fashion or Disaster",
+      "slug": "fashion-or-disaster",
+      "description": "AI fashion judgment.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fashion-or-disaster.webp",
+      "website_url": "https://fashionordisaster.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-11T10:14:20Z",
+      "updated_at": "2025-03-27T02:59:23.361622Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c6fcd6b4-b906-49b7-bea1-91c7d3264b96",
+      "name": "FastAccess Face Recognition Web Login",
+      "slug": "fastaccess-face-recognition-web-login",
+      "description": "Securely manage website passwords with facial recognition.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fastaccess-face-recognition-web-login.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/fastaccess-face-recogniti/bcebepcbopnpbdhimpgfbbdkbimaoafn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:49Z",
+      "updated_at": "2025-03-27T03:03:18.086674Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "358cead2-832d-4776-9abc-bbdd9dc8dacc",
+      "name": "Featurely",
+      "slug": "featurely",
+      "description": "AI-driven platform for predicting user behavior and product validation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/featurely.jpg",
+      "website_url": "https://www.featurely.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-05T08:11:54Z",
+      "updated_at": "2025-03-27T03:15:37.17062Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ebe89838-7577-4d70-ba59-6745294f4220",
+      "name": "FeedbackAI - AI-powered Writing Assistant",
+      "slug": "feedbackai-ai-powered-writing-assistant",
+      "description": "AI-powered writing assistant for instant improvements",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/feedbackai-ai-powered-writing-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/feedbackai-ai-powered-wri/nhhfgddgmenebgehoigpajmjhhknalfh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:17Z",
+      "updated_at": "2025-03-27T03:03:42.473207Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7985be1b-1a5f-423d-88f2-3b90cd912676",
+      "name": "Feedscope",
+      "slug": "feedscope",
+      "description": "Tool for analyzing user feedback and prioritizing feature requests.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/feedscope.jpg",
+      "website_url": "https://feedscope.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-30T09:44:09Z",
+      "updated_at": "2025-03-27T03:11:24.934821Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "57c8dc1d-9bff-42e7-843a-7c0a35a31fda",
+      "name": "Felo - Your Free AI Search Assistant",
+      "slug": "felo-your-free-ai-search-assistant",
+      "description": "Free browser extension for improved web searching and reading.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/felo-your-free-ai-search-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/felo-your-free-ai-search/fbnbeocmafoobaeodhmcgnammdeaoglg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:09Z",
+      "updated_at": "2025-03-27T03:14:31.574731Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "eefba414-ea94-4e6e-a956-3d2ddff917f2",
+      "name": "Fewsats",
+      "slug": "fewsats",
+      "description": "Serverless platform for digital service monetization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fewsats.jpg",
+      "website_url": "https://www.fewsats.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T08:42:20Z",
+      "updated_at": "2025-03-27T03:08:46.911055Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "89c2059d-9c87-4e17-bff3-a39a780d2c03",
+      "name": "Filmiliar",
+      "slug": "filmiliar",
+      "description": "AI movie finder providing personalized film recommendations.",
+      "logo_url": "https://icon.horse/icon/filmiliar.nl",
+      "website_url": "https://filmiliar.nl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:44:51Z",
+      "updated_at": "2025-03-27T03:15:27.005857Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f4b623d1-c8e3-4e27-a63a-ffe44a16b51d",
+      "name": "FinWheel",
+      "slug": "finwheel",
+      "description": "AI investment manager for personalized portfolios and automated adjustments.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/finwheel.jpg",
+      "website_url": "https://finwheel.tech?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-30T02:44:04Z",
+      "updated_at": "2025-03-27T03:11:22.013471Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "05b7c50f-cf07-493f-96ab-af87c6c62f85",
+      "name": "Finance Rants",
+      "slug": "finance-rants",
+      "description": "AI-driven personalized finance guidance",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/finance-rants.webp",
+      "website_url": "https://financerants.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:30:44Z",
+      "updated_at": "2025-03-27T02:59:32.770044Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "394546d0-59c0-42d3-a3b5-5a1005df2c62",
+      "name": "Financial Risk Analyser",
+      "slug": "financial-risk-analyser",
+      "description": "Detects financial risk with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/financial-risk-analyser.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/financial-risk-analyser/pkigbbgfbjlcdhgflhfkkppdjifhpkel?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:26Z",
+      "updated_at": "2025-03-27T03:02:27.480389Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e740fd36-e9ee-4b73-81dd-8f87aec5f952",
+      "name": "Find Similar - find similar web powered by AI",
+      "slug": "find-similar-find-similar-web-powered-by-ai",
+      "description": "Tool to find and export similar websites using AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/find-similar-find-similar-web-powered-by-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/find-similar-find-similar/cakibomaieipekccaeolcgglejccfacl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-07T10:05:32Z",
+      "updated_at": "2025-03-27T03:14:09.706293Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "583d08dd-7568-4b92-8c61-3f46dbe9e332",
+      "name": "Find fashion",
+      "slug": "find-fashion",
+      "description": "Search clothes using images on AliExpress and ASOS.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/find-fashion.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/find-fashion/pldjcanjakakmnkihibkhnlchamioebc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:02Z",
+      "updated_at": "2025-03-27T03:06:38.036909Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

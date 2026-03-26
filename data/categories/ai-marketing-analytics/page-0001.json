@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 3,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "220a32de-642d-4b79-acf5-42e72524aebc",
+      "name": "Amnet Digital",
+      "slug": "amnet-digital",
+      "description": "Artificial Intelligence (AI) and Data Analytics Services Provider",
+      "logo_url": "https://amnetdigital.com/favicon.png",
+      "website_url": "https://www.amnetdigital.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-12T00:00:00Z",
+      "updated_at": "2023-04-12T00:00:00Z",
+      "category_slugs": [
+        "ai-customer-service",
+        "ai-data-analysis",
+        "ai-data-collection",
+        "ai-digital-marketing",
+        "ai-marketing-analytics",
+        "ai-sports-analytics",
+        "business",
+        "marketing",
+        "other"
+      ]
+    },
+    {
+      "id": "1566a327-117c-482b-8ae3-d30e434ce230",
+      "name": "Attain",
+      "slug": "attain",
+      "description": "Attain is a modern, unified CRM, built to support the needs of today's sales motion. Every core tool you need to sell, in a single integrated platform - juiced up with AI superpowers. We've built from the ground up a well-integrated CRM, Call Recording, Lead Generation, and Analytics solution to deliver better insights and eliminate busy work.",
+      "logo_url": "https://icon.horse/icon/attain.ai",
+      "website_url": "https://www.attain.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-01T00:00:00Z",
+      "updated_at": "2024-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lead-generation",
+        "ai-lead-nurturing",
+        "ai-marketing-analytics",
+        "ai-motion-design",
+        "ai-sales-assistant",
+        "business",
+        "design-art",
+        "marketing"
+      ]
+    },
+    {
+      "id": "34ba074c-5579-44a4-81ce-408eae5210d7",
+      "name": "zipy",
+      "slug": "zipy",
+      "description": "\u003cp class=\"heading-34 center-align home homenew\"\u003eSeamless Digital Experience:\u003c/p\u003e\r\nThe digital experience platform to drive growth with Product Analytics, Error Tracking, and Session Replay in one.\r\n\u003cp class=\"div-block-64\"\u003e\u003c/p\u003e",
+      "logo_url": "https://icons.duckduckgo.com/ip3/zipy.ai.ico",
+      "website_url": "https://www.zipy.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-01T00:00:00Z",
+      "updated_at": "2023-06-01T00:00:00Z",
+      "category_slugs": [
+        "ai-digital-marketing",
+        "ai-marketing-analytics",
+        "ai-product-design",
+        "ai-product-marketing",
+        "ai-sports-analytics",
+        "design-art",
+        "marketing",
+        "other"
+      ]
+    }
+  ]
+}

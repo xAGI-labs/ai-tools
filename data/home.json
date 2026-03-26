@@ -1,0 +1,1243 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "stats": {
+    "tool_count": 32604,
+    "category_count": 398,
+    "featured_count": 60,
+    "trending_count": 1
+  },
+  "featured": [
+    {
+      "id": "3f0b9187-3529-404b-80a9-9755ceadd658",
+      "name": "Respond.io",
+      "slug": "respond-io",
+      "description": "AI Customer conversation management software for capturing and converting leads.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/respond-io.jpg",
+      "website_url": "https://respond.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1001065,
+      "created_at": "2025-04-06T13:06:22Z",
+      "updated_at": "2025-04-14T13:59:07.425Z",
+      "category_slugs": [
+        "ai-crm-assistant",
+        "ai-customer-service-assistant",
+        "ai-facebook-assistant",
+        "ai-instagram-assistant",
+        "ai-reply-assistant",
+        "ai-social-media-assistant",
+        "ai-tiktok-assistant",
+        "ai-twitter-assistant"
+      ]
+    },
+    {
+      "id": "ab2105a0-ec17-4821-9629-b3f0140fdbec",
+      "name": "JustCall",
+      "slug": "justcall",
+      "description": "AI-powered communication platform for businesses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/justcall.jpg",
+      "website_url": "https://justcall.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 831791,
+      "created_at": "2025-04-06T15:12:56Z",
+      "updated_at": "2025-04-13T21:30:06.508Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-coaching",
+        "ai-crm-assistant",
+        "ai-customer-service-assistant",
+        "ai-education-assistant",
+        "ai-knowledge-base",
+        "ai-lead-generation",
+        "ai-podcast-assistant",
+        "ai-recruiting",
+        "ai-reviews-assistant",
+        "ai-scheduling",
+        "healthcare",
+        "sales-assistant",
+        "transcription"
+      ]
+    },
+    {
+      "id": "44ab188a-a974-4c02-ba4a-61a33a1fa87f",
+      "name": "codefy.ai",
+      "slug": "codefy-ai",
+      "description": "codefy.ai is a powerful platform for developers, offering AI tools to speed up coding.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/codefy-ai.jpg",
+      "website_url": "https://codefy.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1164,
+      "created_at": "2023-05-29T08:16:50Z",
+      "updated_at": "2025-03-27T04:05:55.771569Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-code-generator",
+        "ai-developer-tools",
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "0323ec26-b216-4543-86ee-1b3069af8cf3",
+      "name": "Basel",
+      "slug": "basel",
+      "description": "AI Career Companion for job seekers and recruiters.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/basel.jpg",
+      "website_url": "https://www.basel.bot?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-26T09:24:41Z",
+      "updated_at": "2025-03-27T06:14:54.432886Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-content-generator",
+        "ai-interview-assistant",
+        "ai-recruiting",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "0703e57e-f755-4d4c-ac48-7c559f3cd070",
+      "name": "Guidde - Magically create video documentation",
+      "slug": "guidde-magically-create-video-documentation",
+      "description": "Create How-to Videos in Seconds with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/guidde-magically-create-video-documentation.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/guidde-magically-create-v/oacmmmjedhheaijfjidilonpngccnhdl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:53Z",
+      "updated_at": "2025-07-30T14:36:34.874Z",
+      "category_slugs": [
+        "ai-customer-service-assistant",
+        "ai-knowledge-base",
+        "ai-knowledge-management",
+        "ai-tutorial",
+        "ai-video-recording"
+      ]
+    },
+    {
+      "id": "0559d2dd-3846-44cf-a30e-a1bfbcd6e98a",
+      "name": "Manus",
+      "slug": "manus",
+      "description": "AI agent that converts thoughts into actionable results.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/manus.jpg",
+      "website_url": "https://manus.im?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-06T02:13:03Z",
+      "updated_at": "2025-03-27T04:17:54.156025Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-charting",
+        "ai-course",
+        "ai-education-assistant",
+        "ai-monitor-report-builder",
+        "ai-presentation-generator",
+        "ai-productivity-tools",
+        "ai-trip-planner",
+        "report-writing",
+        "research-tool",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "00b071a0-fc36-4ab9-a290-e1e9d1d730b9",
+      "name": "Soniva",
+      "slug": "soniva",
+      "description": "AI voice communication for engaging interactions and data collection.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/soniva.jpg",
+      "website_url": "https://soniva.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-11T10:21:57Z",
+      "updated_at": "2025-03-27T07:16:05.912908Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-customer-service-assistant",
+        "ai-forms-surveys",
+        "ai-interview-assistant",
+        "ai-recruiting",
+        "ai-speech-recognition",
+        "ai-speech-synthesis",
+        "mental-health",
+        "report-writing",
+        "speech-to-text",
+        "text-to-speech",
+        "transcriber",
+        "transcription"
+      ]
+    },
+    {
+      "id": "3c34094b-c988-4998-9ab6-7767135cba6b",
+      "name": "AI Song",
+      "slug": "ai-song-613511",
+      "description": "AI-generated music is made for video creators, podcasters, game developers, and more — royalty-free",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e9e0f29b-d4be-467e-92d3-5fab059ff685_1760644611995.jpg",
+      "website_url": "https://aisong.tech/",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-16T19:56:53.728435Z",
+      "updated_at": "2025-10-16T21:05:23.007Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1abc5832-3b7f-4a8d-983d-58a7c03aa5fb",
+      "name": "AI Work",
+      "slug": "ai-work",
+      "description": "Purpose-Built AI Work Models for Professionals",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/19445da0-4e1a-4e60-b3e2-fff8f2a6bef5_1755186810249.jpg",
+      "website_url": "https://www.ai-wk.com/",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-14T15:53:37.407912Z",
+      "updated_at": "2025-08-14T18:13:43.482Z",
+      "category_slugs": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "33b6064b-3b90-4df8-b88a-c484a2b67423",
+      "name": "AI timeline maker",
+      "slug": "ai-timeline-maker",
+      "description": "Create, edit, and share beautiful timelines with AI Timeline Maker. Generate events, import documents, collaborate, and export visuals in minutes for projects,",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4158ae6f-65e0-48b4-bc45-22c742b40a67_1770436687316.png",
+      "website_url": "https://timeline-maker.org",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-07T03:58:17.470014Z",
+      "updated_at": "2026-02-09T12:55:57.221Z",
+      "category_slugs": [
+        "ai-visual-design"
+      ]
+    },
+    {
+      "id": "723126e3-545e-4183-acd1-e4b16a2e68d7",
+      "name": "Ai Search API",
+      "slug": "ai-search-api",
+      "description": "Connect your LLM and AI agents with live web data through our cost-effective Ai search API",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e9e0f29b-d4be-467e-92d3-5fab059ff685_1754904798971.png",
+      "website_url": "https://aisearchapi.io/",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-11T09:33:22.52343Z",
+      "updated_at": "2025-08-12T08:16:01.014Z",
+      "category_slugs": [
+        "ai-developer-tools"
+      ]
+    },
+    {
+      "id": "9c8d0ee2-9b96-47f5-a14a-2d088d2e7d28",
+      "name": "Ajelix",
+      "slug": "ajelix-311789",
+      "description": "Agentic AI chat that turns data, ideas, files, and prompts into completed projects.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/13cc0532-2964-438f-8b58-1b7871cfbffb_1771532310043.png",
+      "website_url": "https://ajelix.com/",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-19T20:18:33.265694Z",
+      "updated_at": "2026-02-20T12:27:57.367Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "2daefb44-7b9f-4b8d-85b8-782a33f52834",
+      "name": "Animation Addons",
+      "slug": "animation-addons-124893",
+      "description": "Animation Addons is best animation plugin for WordPress and Elementor. Designed to create GSAP animations and interactive designs without any coding.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/b3c692bd-c6bf-4876-95ec-0c0baa3e7acb_1760268118489.png",
+      "website_url": "https://animation-addons.com",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-12T11:22:07.803125Z",
+      "updated_at": "2025-10-12T22:53:56.787Z",
+      "category_slugs": [
+        "ai-website-builder"
+      ]
+    },
+    {
+      "id": "1e1e52c8-5269-4ab7-8177-9ddf20a9b4e1",
+      "name": "Apatero Studio",
+      "slug": "apatero-studio",
+      "description": "Every AI Model. No Limits.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/275b103d-19aa-4e01-98a1-8abad3f049ca_1770192615441.jpg",
+      "website_url": "https://apatero.com/",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-04T08:10:20.256021Z",
+      "updated_at": "2026-02-04T09:17:31.431Z",
+      "category_slugs": [
+        "3d",
+        "3d-model-generator",
+        "other",
+        "text-to-3d",
+        "video",
+        "voice"
+      ]
+    },
+    {
+      "id": "99c04d29-f03f-40e4-94ae-69241a4a1d24",
+      "name": "BestColoringPages.AI",
+      "slug": "bestcoloringpages-ai-198599",
+      "description": "This web tool uses AI to generate custom, printable coloring pages by transforming user-uploaded photos or written descriptions into detailed line art.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/02190b3e-3e79-4af8-9eac-87a4090693c7_1750945194547.png",
+      "website_url": "https://www.bestcoloringpages.ai",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-26T13:39:58.997829Z",
+      "updated_at": "2025-06-27T07:11:03.001Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-pixel-art",
+        "education",
+        "image"
+      ]
+    },
+    {
+      "id": "ded6857d-034d-4210-9c5f-928b76f70aff",
+      "name": "CallZero AI",
+      "slug": "callzero-ai",
+      "description": "Autonomous AI calling service that handles phone-based tasks like subscription cancellations, bill negotiations, and appointment scheduling by making calls on users' behalf.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1cc562dd-d710-4972-a22e-324e442484a4_1754871784728.png",
+      "website_url": "https://callzero.ai/",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-11T00:23:09.268559Z",
+      "updated_at": "2025-08-12T08:16:24.517Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "ai-voice-assistants",
+        "productivity"
+      ]
+    },
+    {
+      "id": "8f9f5767-547d-441a-8a14-95fecdcc5d1a",
+      "name": "ChampSignal",
+      "slug": "champsignal",
+      "description": "ChampSignal discovers, monitors, and analyzes your competitors across websites, ads, news, Reddit, and SEO. Like having a full-time competitive intelligence analyst.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/a240a149-21f6-4bf9-9677-0655e7c99f4e_1770532985355.png",
+      "website_url": "https://champsignal.com",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-08T06:43:16.057295Z",
+      "updated_at": "2026-02-09T12:57:01.075Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d6ec6c5f-d0b6-4aac-b88f-90caff0e40a1",
+      "name": "Changew",
+      "slug": "changew-539701",
+      "description": "Monitor website changes",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1eac82f4-5cc1-4e93-bb9c-72b0969e60b9_1755411534874.png",
+      "website_url": "https://changew.com",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-17T06:19:01.497129Z",
+      "updated_at": "2025-08-25T08:26:11.408Z",
+      "category_slugs": [
+        "ai-web-scraping"
+      ]
+    },
+    {
+      "id": "a8b11e1a-a1ed-4ef9-bb83-758b02a91cc1",
+      "name": "Fiyr App",
+      "slug": "fiyr-app",
+      "description": "See your money. Free your time.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/a9716e48-069e-49ea-9428-0954b9c16f12_1771589864134.JPG",
+      "website_url": "https://fiyr.app/",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-10T06:19:47.518044Z",
+      "updated_at": "2026-02-20T12:28:39.199Z",
+      "category_slugs": [
+        "ai-finance-assistant"
+      ]
+    },
+    {
+      "id": "dfa2056f-ea66-423a-8fc3-f79500cc5ca2",
+      "name": "FragCut",
+      "slug": "fragcut",
+      "description": "Gaming Clip Generator 10x Faster with AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/b2616a6a-7f26-480f-9d06-b3de67cdab7a_1769180839416.jpg",
+      "website_url": "https://fragcut.io",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-23T15:07:25.209851Z",
+      "updated_at": "2026-01-26T15:04:37.286Z",
+      "category_slugs": [
+        "video"
+      ]
+    },
+    {
+      "id": "147b9ea6-7c06-4109-89b4-fc3bf717eced",
+      "name": "Free Ad Text Generator",
+      "slug": "free-ad-text-generator",
+      "description": "In a world where digital advertising is paramount, crafting the perfect advertisement can be a daunting task. The text of your ad is essential to capture attention, convey a message, and encourage action. However, generating high-impact and concise ad text can be time-consuming.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4f3a2cee-56b6-416e-9eca-89fc60db51d6_1752830541912.svg",
+      "website_url": "https://www.mailmodo.com/tools/ad-text-generator/",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-09T02:12:00.576763Z",
+      "updated_at": "2025-07-18T09:22:22.775Z",
+      "category_slugs": [
+        "ai-ad-generator"
+      ]
+    },
+    {
+      "id": "bec0efb7-45ba-44df-b66a-0a2ac26aaa7a",
+      "name": "Frontu Max AI",
+      "slug": "frontu-max-ai",
+      "description": "AI FSM tool that makes field data work",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8b8f0540-4d78-4ea9-aa86-a79a67506bbb_1770138574613.jpg",
+      "website_url": "https://frontu.com/field-service-management/max-ai",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-03T17:09:36.282925Z",
+      "updated_at": "2026-02-04T09:17:35.216Z",
+      "category_slugs": [
+        "ai-productivity-assistant",
+        "ai-productivity-tools",
+        "ai-project-management"
+      ]
+    },
+    {
+      "id": "edd125ec-249e-4675-9310-15457b32051f",
+      "name": "GLM-Image Blog",
+      "slug": "glm-image-blog",
+      "description": "The unofficial community resource for GLM-Image: a battle-tested prompt library plus deep-dive guides for text-in-image, posters, menus, and layout-driven visuals. Copy prompts, learn workflows, and ship better results faster.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/976f4ae4-f6de-4077-a6cb-c161ad2158c3_1770137081942.jpg",
+      "website_url": "https://www.glmimage.blog/",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-03T16:44:48.879376Z",
+      "updated_at": "2026-02-04T09:21:29.592Z",
+      "category_slugs": [
+        "ai-prompt-templates"
+      ]
+    },
+    {
+      "id": "e5d3e3dd-64b7-46ed-bd74-98721aab2ae8",
+      "name": "GPTHumanizer",
+      "slug": "gpthumanizer-703382",
+      "description": "GPTHumanizer.ai is an AI humanizer that converts AI text into natural, undetectable writing, bypassing tools like Turnitin and GPTZero in one click.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/f190eb7b-607b-4ca7-87d5-8f1627b67ea8_1754903692790.png",
+      "website_url": "https://www.gpthumanizer.ai/",
+      "pricing_type": "freemium",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-11T09:15:02.56325Z",
+      "updated_at": "2025-08-12T08:16:05.261Z",
+      "category_slugs": [
+        "text-writing"
+      ]
+    }
+  ],
+  "trending": [
+    {
+      "id": "92cc18e3-fe26-4828-98f5-5e8b7c51e1c7",
+      "name": "My AI Therapist",
+      "slug": "my-ai-therapist",
+      "description": "My AI Therapist provides fast and anonymous AI talking therapy to help you navigate negative emotions, and support your emotional and mental well-being. Address issues like anxiety, depression, trauma, grief, anger, self-esteem, relationship problems, and life transitions. Our AI utilizes visualization, relaxation, and advanced brief therapy techniques to help you reframe problems and transform your perspectives. Experience a free trial and discover the potential of AI-powered support. We pri...",
+      "logo_url": "https://myaitherapist.app/favicon.ico",
+      "website_url": "https://myaitherapist.app",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": true,
+      "trending": true,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-02-04T00:00:00Z",
+      "updated_at": "2025-02-04T00:00:00Z"
+    }
+  ],
+  "newest": [
+    {
+      "id": "aada6fc9-0c93-4a4d-abd8-527293f0ad72",
+      "name": "autocoder",
+      "slug": "autocoder",
+      "description": "AutoCoder is an AI mobile app and website builder with no code. Just tell AutoCoder what you want and get a complete, production-ready app.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/910f40b1-0034-4d13-b263-f9bc291101fd_1774434831858.png",
+      "website_url": "https://autocoder.cc/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-25T10:34:01.070357Z",
+      "updated_at": "2026-03-25T12:16:24.034Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "ai-website-builder",
+        "ai-website-designer"
+      ]
+    },
+    {
+      "id": "053b1c2c-1c9d-493b-8d65-e4460d2bd817",
+      "name": "Live3D AI Face Swap",
+      "slug": "live3d-ai-face-swap",
+      "description": "Live3D AI Face Swap is a simple, fast tool that lets you replace faces in images with realistic results—no editing skills required.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e0b08ba3-b75c-41c2-b994-536218d09aa2_1774433678285.png",
+      "website_url": "https://live3d.io/ai-face-swap",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-25T10:14:45.155843Z",
+      "updated_at": "2026-03-25T12:17:58.757Z",
+      "category_slugs": [
+        "ai-face-swap-generator"
+      ]
+    },
+    {
+      "id": "b56205f0-ce0b-431e-adc5-435754250fad",
+      "name": "nbot.ai",
+      "slug": "nbot-ai",
+      "description": "Your personalized AI content curation platform. NBot helps you stay on top of the topics that matter to you by creating intelligent trackers that automatically find, filter, and summarize content from across the web.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/fe5d5f03-2160-4a74-ba08-24945d953535_1774426519252.png",
+      "website_url": "https://nbot.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-25T08:15:28.245554Z",
+      "updated_at": "2026-03-25T13:20:18.059Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-content-marketing"
+      ]
+    },
+    {
+      "id": "3f18cd4b-bcdc-415b-a3af-d17f9122edd2",
+      "name": "Solvea",
+      "slug": "solvea",
+      "description": "Solvea is a no-code AI receptionist platform that handles phone calls, emails, SMS, and live chats — 24/7. Set up in minutes, it automates appointment booking, lead qualification, order tracking, and customer support across industries like retail, medspa, real estate, and hospitality. With one-click integrations to tools like Zendesk, Google Calendar, and CRMs, Solvea resolves up to 70% of customer inquiries automatically — so you never miss a customer again.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/189fe6d6-2184-468c-8f41-03a3d6126dcf_1774421908931.jpg",
+      "website_url": "https://solvea.cx",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-25T06:58:36.989786Z",
+      "updated_at": "2026-03-25T12:56:40.392Z",
+      "category_slugs": [
+        "ai-personal-assistant-chatbot"
+      ]
+    },
+    {
+      "id": "1b181a0a-6f23-462e-81b0-79f5f6ed3f83",
+      "name": "RowSpeak",
+      "slug": "rowspeak",
+      "description": "AI-powered Excel automation tool that converts images, PDFs, and screenshots into structured Excel spreadsheets instantly. It helps users extract data, automate spreadsheet tasks, and improve productivity with AI.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8a418c23-3c5c-4cc7-a1e1-905fd0987dad_1774418574508.png",
+      "website_url": "https://rowspeak.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-25T06:02:59.695697Z",
+      "updated_at": "2026-03-25T13:11:29.524Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ba53eaf7-4bc1-4f32-aead-ef0f86d4afcc",
+      "name": "Cuto",
+      "slug": "cuto",
+      "description": "AI video editor that turns raw footage into polished short videos in about 30 seconds from a simple prompt.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/bf27939b-c5b7-4ac7-bcaf-0fdba9befae5_1774377852519.png",
+      "website_url": "https://cuto.video/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-24T18:44:24.679072Z",
+      "updated_at": "2026-03-25T13:14:34.526Z",
+      "category_slugs": [
+        "ai-video-editor"
+      ]
+    },
+    {
+      "id": "5386cf23-7d05-49cf-9e07-d1c9e7994416",
+      "name": "Clarity",
+      "slug": "clarity",
+      "description": "AI-powered platform that automates customer support and turns every conversation into actionable insights for enterprise teams.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8988acb2-3f6d-4df5-ba59-16595ba67538_1774214187784.jpg",
+      "website_url": "https://www.onclarity.com",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T21:16:34.966977Z",
+      "updated_at": "2026-03-23T09:26:18.423Z",
+      "category_slugs": [
+        "ai-customer-service-assistant"
+      ]
+    },
+    {
+      "id": "20200947-f22b-4d1b-ad00-b667cf531be5",
+      "name": "Zorq AI",
+      "slug": "zorq-ai",
+      "description": "Free AI Video \u0026 Image Generator | Kling + Veo",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/7c798cd6-457c-464a-ae97-9019bc2294b3_1774188545375.png",
+      "website_url": "https://zorq-ai.net/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T14:09:19.013205Z",
+      "updated_at": "2026-03-23T09:29:32.576Z",
+      "category_slugs": [
+        "ai-video-generator",
+        "image"
+      ]
+    },
+    {
+      "id": "f758af2a-e8c2-433d-90ca-ae3befd8e30a",
+      "name": "Prodly - AI Product Description SaaS Source Code",
+      "slug": "prodly-ai-product-description-saas-source-code",
+      "description": "Prodly AI is a ready-to-launch SaaS script that generates SEO-optimized product descriptions using AI. Built with Next.js, Supabase, Stripe, and Google Gemini Vision, it allows entrepreneurs to launch their own AI product description service in hours.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/2eaaf46d-f1bc-452d-a05d-08e8f4ac18ff_1774171975204.png",
+      "website_url": "https://www.rootly.cc/ai-product-description",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T09:32:57.365306Z",
+      "updated_at": "2026-03-23T09:32:08.836Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-content-marketing"
+      ]
+    },
+    {
+      "id": "8d966da1-2ed5-496d-82d0-62ef87f4ed2d",
+      "name": "AI Humanizer",
+      "slug": "ai-humanizer-211673",
+      "description": "AIHumanizeer is an advanced AI text converter designed to rewrite AI-generated content into natural, authentic text. It helps users easily bypass major AI detectors while preserving the original meaning and context of the text.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/634390a5-9ae7-4208-9659-9f384adb9d0c_1774161204775.png",
+      "website_url": "https://aihumanizeer.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T06:33:35.128841Z",
+      "updated_at": "2026-03-23T09:37:19.107Z",
+      "category_slugs": [
+        "novel"
+      ]
+    },
+    {
+      "id": "54197320-3c12-4934-b5a2-c79ab5db16cc",
+      "name": "AvatarForge AI",
+      "slug": "avatarforge-ai",
+      "description": "Photo to talking avatar video in minutes",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/24a82254-e013-49d0-bd1a-d373f36972b8_1774150362175.png",
+      "website_url": "https://avatarforgeai.com/?utm=whattheai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T03:32:50.180332Z",
+      "updated_at": "2026-03-23T09:40:31.637Z",
+      "category_slugs": [
+        "ai-avatar-generator"
+      ]
+    },
+    {
+      "id": "5cec086b-ee23-4ae9-a09e-c2bd7b4bad69",
+      "name": "Storydoc",
+      "slug": "storydoc",
+      "description": "Storydoc is an AI-powered platform that automates the creation of business presentations and documents such as proposals, pitch decks, and more.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1c0be40e-acd7-4974-85fd-027e1548ac40_1774092976418.jpg",
+      "website_url": "https://www.storydoc.com",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-21T11:36:19.376943Z",
+      "updated_at": "2026-03-23T09:54:58.138Z",
+      "category_slugs": [
+        "ai-presentation-generator"
+      ]
+    },
+    {
+      "id": "7b577d8e-131f-40d2-bf1b-8a5d22fa83d3",
+      "name": "Nana Banana 2 AI",
+      "slug": "nana-banana-2-ai",
+      "description": "Generate and edit pro-quality images instantly with precise AI control.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8c861f56-2bdb-42c9-8f84-a6895c8bd8e1_1774016422000.png",
+      "website_url": "https://nanabanana2ai.io/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-20T14:20:33.872319Z",
+      "updated_at": "2026-03-20T14:41:21.567Z",
+      "category_slugs": [
+        "image"
+      ]
+    },
+    {
+      "id": "b46c0ba4-d8dd-4d9d-a13b-fc56f4c13be3",
+      "name": "PaperBanana",
+      "slug": "paperbanana",
+      "description": "PaperBanana — AI Academic Illustrations",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/f532b234-9711-4ee3-921a-5ec977b26d7b_1774012750361.jpg",
+      "website_url": "https://paperbanana.studio/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-20T13:19:18.199771Z",
+      "updated_at": "2026-03-20T14:42:50.834Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "05399005-3add-459f-bdf9-23fabb1689ac",
+      "name": "Seedance2.0",
+      "slug": "seedance2-0-676361",
+      "description": "Seedance 2.0 creates short AI videos from text prompts or images with a simple workflow and stable results.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ce95faaf-0740-44af-aaa0-2f8ebe1eb52b_1774011670797.jpg",
+      "website_url": "https://omnivideo.net/model/seedance-2",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-20T13:01:08.239167Z",
+      "updated_at": "2026-03-20T14:48:10.502Z",
+      "category_slugs": [
+        "ai-video-generator"
+      ]
+    },
+    {
+      "id": "b4efdeec-b154-4740-aa3e-dd5295b72fe3",
+      "name": "aimemegenerator",
+      "slug": "aimemegenerator",
+      "description": "Create Unlimited Memes Instantly with Our Free AI Meme Generator",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/fde34253-f436-46c0-8b2a-93374812203f_1773999736006.webp",
+      "website_url": "https://aimemegenerator.io/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-20T09:42:25.790554Z",
+      "updated_at": "2026-03-20T22:13:02.435Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "75f3b641-798e-492a-bead-f0c107e1a6ed",
+      "name": "OfferPulse",
+      "slug": "offerpulse",
+      "description": "AI-powered tool that tracks competitor offers, pricing, and promotions in real time.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5071a042-49e5-44b3-8487-76cdc4712833_1773965070300.png",
+      "website_url": "https://www.offerpulse.io/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-20T00:04:40.561157Z",
+      "updated_at": "2026-03-23T11:06:14.321Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "99ef3d18-60d4-4bb3-b719-a844e8b71848",
+      "name": "Yishield AI",
+      "slug": "yishield-ai",
+      "description": "AI-powered summarizer that instantly turns text, PDFs, and videos into clear, concise insights to save time.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d3920e9e-f399-4b08-8e5b-f821e69906e8_1773909506400.png",
+      "website_url": "https://yishield.org/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-19T08:38:33.841369Z",
+      "updated_at": "2026-03-20T15:02:27.97Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "50be5e20-a468-47fc-bf14-5459db215d55",
+      "name": "Motion Control",
+      "slug": "motion-control",
+      "description": "Kling Motion Control enables high-precision motion transfer for professional AI videos",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/14c2eec6-d56b-440a-8b57-9cce3a5be4e5_1773890486342.png",
+      "website_url": "https://www.klingmotion.net",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-19T03:21:33.417552Z",
+      "updated_at": "2026-03-20T22:18:53.831Z",
+      "category_slugs": [
+        "ai-motion-design"
+      ]
+    },
+    {
+      "id": "3087098e-c1a3-4c8e-82ea-9bf068f8f3d6",
+      "name": "MP3 to MP4 AI",
+      "slug": "mp3-to-mp4-ai",
+      "description": "Transform your audio and images into AI-animated music videos in seconds.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/fe0a05d9-021e-48a4-bcc0-f1d20aec3026_1773887032588.png",
+      "website_url": "https://mp3tomp4.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-19T02:24:01.578013Z",
+      "updated_at": "2026-03-20T15:20:39.507Z",
+      "category_slugs": [
+        "video"
+      ]
+    },
+    {
+      "id": "bf96f51f-1753-499e-8ec4-eb030538ae0e",
+      "name": "World Digital.ai",
+      "slug": "world-digital-ai",
+      "description": "Transform your business with AI-driven marketing",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/306567f5-157b-4818-888d-9dc3f9f5d21e_1773849052097.png",
+      "website_url": "https://worlddigital.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-18T15:51:00.551455Z",
+      "updated_at": "2026-03-18T22:20:44.314Z",
+      "category_slugs": [
+        "digital-marketing-generator"
+      ]
+    },
+    {
+      "id": "55d3edd9-6dff-4025-943d-05657ec47d8c",
+      "name": "GetTheScript",
+      "slug": "getthescript",
+      "description": "Convert TikTok, Instagram Reels \u0026 Youtube Shorts into Accurate Transcripts Instantly",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e2dc9224-dd49-4a20-b27d-b1f116831109_1773844947862.JPG",
+      "website_url": "https://getthescript.app/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-18T14:24:57.532245Z",
+      "updated_at": "2026-03-18T14:42:53.281Z",
+      "category_slugs": [
+        "transcription"
+      ]
+    },
+    {
+      "id": "917933ed-16a8-4af5-b0f0-0a42c9039f9e",
+      "name": "Fast Image AI",
+      "slug": "fast-image-ai-008580",
+      "description": "Free Online Convert Image to Any Style",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/291b810d-15ce-4a02-a510-060696451691_1773831003168.png",
+      "website_url": "https://fastimage.ai/ai-headshot-generator",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-18T10:50:07.274823Z",
+      "updated_at": "2026-03-18T11:57:01.459Z",
+      "category_slugs": [
+        "image",
+        "image-to-image",
+        "other"
+      ]
+    },
+    {
+      "id": "a9d2e87f-3a74-46d5-a0f4-0a38857f909e",
+      "name": "AI Music Gen",
+      "slug": "ai-music-gen",
+      "description": "AI-powered text-to-music generator that creates royalty-free, customizable tracks for content creators.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/cb9abb35-4f5f-4cde-867d-5ca913afe9b9_1773825179845.png",
+      "website_url": "https://aimusicgen.me",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-18T09:13:06.211327Z",
+      "updated_at": "2026-03-18T11:58:30.1Z",
+      "category_slugs": [
+        "ai-music-generator"
+      ]
+    }
+  ],
+  "top_categories": [
+    {
+      "id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "name": "Other",
+      "slug": "other",
+      "description": "Main category for Other",
+      "level": 0,
+      "tool_count": 3685,
+      "first_page": "categories/other/page-0001.json"
+    },
+    {
+      "id": "6fe8853e-9051-457a-871d-07fa158a557b",
+      "name": "AI Content Generator",
+      "slug": "ai-content-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 3082,
+      "first_page": "categories/ai-content-generator/page-0001.json"
+    },
+    {
+      "id": "2243e86e-34e5-4317-a984-0c4dbfb95169",
+      "name": "AI Chatbot",
+      "slug": "ai-chatbot",
+      "description": "Tools in the AI Chatbot category",
+      "level": 0,
+      "tool_count": 2517,
+      "first_page": "categories/ai-chatbot/page-0001.json"
+    },
+    {
+      "id": "df9717ab-8bad-4b64-8787-21479a30653a",
+      "name": "Writing Assistants",
+      "slug": "writing-assistants",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 2411,
+      "first_page": "categories/writing-assistants/page-0001.json"
+    },
+    {
+      "id": "22e8b5fc-eb17-4461-a5cb-61bd702f0ee9",
+      "name": "AI Analytics Assistant",
+      "slug": "ai-analytics-assistant",
+      "description": "Tools in the AI Analytics Assistant category",
+      "level": 0,
+      "tool_count": 1968,
+      "first_page": "categories/ai-analytics-assistant/page-0001.json"
+    },
+    {
+      "id": "86f91e66-cb5e-4d0a-8471-fd2b6968733c",
+      "name": "Large Language Models (LLMs)",
+      "slug": "large-language-models-(llms)",
+      "description": "Tools in the Large Language Models (LLMs) category",
+      "level": 0,
+      "tool_count": 1748,
+      "first_page": "categories/large-language-models-(llms)/page-0001.json"
+    },
+    {
+      "id": "cea672dd-e6c2-4c7c-a5cc-2f7c89084f74",
+      "name": "AI Photo \u0026 Image Generator",
+      "slug": "ai-photo-image-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 1601,
+      "first_page": "categories/ai-photo-image-generator/page-0001.json"
+    },
+    {
+      "id": "9c7f2981-a860-42dc-9217-8f05e275f81e",
+      "name": "AI Product Description Generator",
+      "slug": "ai-product-description-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 1458,
+      "first_page": "categories/ai-product-description-generator/page-0001.json"
+    },
+    {
+      "id": "0d2b0917-c95c-4e66-96f3-8ee462ecd0fb",
+      "name": "AI Response Generator",
+      "slug": "ai-response-generator",
+      "description": "Tools in the AI Response Generator category",
+      "level": 0,
+      "tool_count": 1133,
+      "first_page": "categories/ai-response-generator/page-0001.json"
+    },
+    {
+      "id": "eb13abcb-e74f-4932-908b-d24a27a86056",
+      "name": "AI Reply Assistant",
+      "slug": "ai-reply-assistant",
+      "description": "Tools in the AI Reply Assistant category",
+      "level": 0,
+      "tool_count": 1126,
+      "first_page": "categories/ai-reply-assistant/page-0001.json"
+    },
+    {
+      "id": "c6a8f4a4-75c5-43b7-9aa7-166365b9750a",
+      "name": "Summarizer",
+      "slug": "summarizer",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 1019,
+      "first_page": "categories/summarizer/page-0001.json"
+    },
+    {
+      "id": "7bab753c-7b60-4b36-96db-6aafc276c40f",
+      "name": "AI Customer Service Assistant",
+      "slug": "ai-customer-service-assistant",
+      "description": "Tools in the AI Customer Service Assistant category",
+      "level": 0,
+      "tool_count": 1011,
+      "first_page": "categories/ai-customer-service-assistant/page-0001.json"
+    },
+    {
+      "id": "d63e8798-e892-4a75-91a9-ac351da89378",
+      "name": "AI Lead Generation",
+      "slug": "ai-lead-generation",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 992,
+      "first_page": "categories/ai-lead-generation/page-0001.json"
+    },
+    {
+      "id": "6c7eb5dc-eeb9-4a77-82bb-32f2b298815c",
+      "name": "AI Art Generator",
+      "slug": "ai-art-generator",
+      "description": "Tools in the AI Art Generator category",
+      "level": 0,
+      "tool_count": 989,
+      "first_page": "categories/ai-art-generator/page-0001.json"
+    },
+    {
+      "id": "f6c56601-9a04-481a-851f-5ac11a3f8eaf",
+      "name": "AI Accessibility Tools",
+      "slug": "ai-accessibility-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 985,
+      "first_page": "categories/ai-accessibility-tools/page-0001.json"
+    },
+    {
+      "id": "fa39a31b-4633-420b-8447-9ee251682e0a",
+      "name": "AI Social Media Assistant",
+      "slug": "ai-social-media-assistant",
+      "description": "Tools in the AI Social Media Assistant category",
+      "level": 0,
+      "tool_count": 974,
+      "first_page": "categories/ai-social-media-assistant/page-0001.json"
+    },
+    {
+      "id": "03153c99-3973-4020-9726-27be76ca5fff",
+      "name": "AI Productivity Tools",
+      "slug": "ai-productivity-tools",
+      "description": "Tools in the AI Productivity Tools category",
+      "level": 0,
+      "tool_count": 909,
+      "first_page": "categories/ai-productivity-tools/page-0001.json"
+    },
+    {
+      "id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "name": "3D",
+      "slug": "3d",
+      "description": "Main category for 3D",
+      "level": 0,
+      "tool_count": 826,
+      "first_page": "categories/3d/page-0001.json"
+    },
+    {
+      "id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "name": "Text \u0026 Writing",
+      "slug": "text-writing",
+      "description": "Main category for Text \u0026 Writing",
+      "level": 0,
+      "tool_count": 823,
+      "first_page": "categories/text-writing/page-0001.json"
+    },
+    {
+      "id": "73e8930e-1ff6-4f5b-80ac-885e51bf9da5",
+      "name": "General Writing",
+      "slug": "general-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 809,
+      "first_page": "categories/general-writing/page-0001.json"
+    },
+    {
+      "id": "7406e0e4-a9b3-435b-b3a2-6e8d9823411b",
+      "name": "AI Email Assistant",
+      "slug": "ai-email-assistant",
+      "description": "Tools in the AI Email Assistant category",
+      "level": 0,
+      "tool_count": 797,
+      "first_page": "categories/ai-email-assistant/page-0001.json"
+    },
+    {
+      "id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "name": "Design \u0026 Art",
+      "slug": "design-art",
+      "description": "Main category for Design \u0026 Art",
+      "level": 0,
+      "tool_count": 779,
+      "first_page": "categories/design-art/page-0001.json"
+    },
+    {
+      "id": "16c49dff-6bd4-4a8b-aa44-abc46033529a",
+      "name": "Photo \u0026 Image Editor",
+      "slug": "photo-image-editor",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 756,
+      "first_page": "categories/photo-image-editor/page-0001.json"
+    },
+    {
+      "id": "5b94b5bd-e32d-484e-aba5-7936709259e4",
+      "name": "AI 3D Animation",
+      "slug": "ai-3d-animation",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 748,
+      "first_page": "categories/ai-3d-animation/page-0001.json"
+    }
+  ]
+}

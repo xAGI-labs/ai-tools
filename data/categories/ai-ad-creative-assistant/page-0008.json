@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 8,
+    "page_size": 72,
+    "total_items": 512,
+    "total_pages": 8,
+    "prev_path": "categories/ai-ad-creative-assistant/page-0007.json"
+  },
+  "items": [
+    {
+      "id": "154b1065-96d8-492a-af70-6b11c6ca3b06",
+      "name": "AdVidAI - AI AD generator Platform for Explosive Growth",
+      "slug": "advidai-ai-ad-generator-platform-for-explosive-growth",
+      "description": "AdVidAI help creators generate high-quality and impactful content. Track trends and boost traffic for explosive growth.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/61fae89d-e742-42a6-afee-673181a2a50b_1758869538274.png",
+      "website_url": "https://advidai.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-26T06:52:26.303603Z",
+      "updated_at": "2025-09-26T10:42:42.246Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator"
+      ]
+    },
+    {
+      "id": "a7611968-deba-4312-85fe-b7b2dfa9c5bd",
+      "name": "Adscriptly",
+      "slug": "adscriptly",
+      "description": "Connect Offline Business Data to Online Ad Spend",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/77174b2f-d83d-45f6-a1f2-1eba68689776_1771262055421.png",
+      "website_url": "https://adscriptly.com/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-16T17:14:20.168705Z",
+      "updated_at": "2026-02-16T17:53:01.421Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-campaign-management"
+      ]
+    },
+    {
+      "id": "f2698c08-613e-4b4c-8161-2a0df296363c",
+      "name": "AiPose",
+      "slug": "aipose-858069",
+      "description": "AiPose is an AI-powered image generation platform that transforms photos into stunning, realistic, and creative visuals instantly.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/eb41d506-9040-4efb-be5f-3f11abd42109_1771385852717.png",
+      "website_url": "https://aipose.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-18T03:37:38.192059Z",
+      "updated_at": "2026-02-18T11:27:49.32Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-tools-directory",
+        "image",
+        "image-to-video"
+      ]
+    },
+    {
+      "id": "e800af2f-c9d7-4071-85fc-a3de12e0b1ab",
+      "name": "Aipose",
+      "slug": "aipose",
+      "description": "AiPose is an AI-powered image generation platform that transforms photos into stunning, realistic, and creative visuals instantly.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/eb41d506-9040-4efb-be5f-3f11abd42109_1771060754483.png",
+      "website_url": "https://aipose.ai/app/image-to-video",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-14T09:19:18.79386Z",
+      "updated_at": "2026-02-16T10:02:03.831Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-anime-ai-art",
+        "ai-art-generator"
+      ]
+    },
+    {
+      "id": "aca4edf7-d6c2-4264-a88a-ad63818afbab",
+      "name": "Fluents",
+      "slug": "fluents",
+      "description": "Fluents.ai is a unified AI voice agent platform that automates inbound and outbound calls, web conversations, and integrations. It replaces call centers and answering services with natural-sounding AI agents that set up in minutes, scale instantly, and adapt to any workflow.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/14ee553f-6750-43f8-8f16-2d1f983a90cb_1757381890604.png",
+      "website_url": "https://fluents.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-09T01:38:14.357957Z",
+      "updated_at": "2025-09-09T15:34:21.33Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant"
+      ]
+    },
+    {
+      "id": "a97ff70a-e761-46f5-8bc6-542cc61a06b6",
+      "name": "Mockuplabs.ai",
+      "slug": "mockuplabs-ai",
+      "description": "Create high-quality mockups and AOP products with any product image",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/acc0bd46-9256-4a46-a415-e615354aebfa_1750658899668.png",
+      "website_url": "https://www.mockuplabs.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-23T06:08:25.746958Z",
+      "updated_at": "2025-06-23T06:48:51.817Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-colorize",
+        "ai-design-generator",
+        "ai-image-segmentation",
+        "design-art",
+        "design-assistant",
+        "e-commerce-assistant"
+      ]
+    },
+    {
+      "id": "1b4e7a24-eeaa-45c4-be38-300bd8ce9df0",
+      "name": "kixo.ai",
+      "slug": "kixo-ai-470194",
+      "description": "Free AI image generation kixo.ai",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8b35139b-dcb8-4a97-a07a-326577c2b99a_1758453463428.png",
+      "website_url": "https://kixo.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-21T11:17:51.126496Z",
+      "updated_at": "2025-09-22T12:39:09.34Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-api-design",
+        "ai-design-generator"
+      ]
+    },
+    {
+      "id": "4030d019-d6c4-4b64-86f5-0441492891c6",
+      "name": "sellerpic",
+      "slug": "sellerpic-648516",
+      "description": "Transform your eCommerce store with AI Fashion Models and AI Product Images. Create stunning images that drive sales and revenue.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/460671a9-69f9-4bb3-956e-3cfa539a27a7_1755960637957.jpeg",
+      "website_url": "https://www.sellerpic.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-23T14:50:48.520346Z",
+      "updated_at": "2025-08-28T15:02:59.148Z",
+      "category_slugs": [
+        "3d-model-generator",
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-anime-ai-art",
+        "ai-api-design",
+        "ai-audio-enhancer"
+      ]
+    }
+  ]
+}

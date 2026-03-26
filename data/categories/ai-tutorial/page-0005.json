@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 5,
+    "page_size": 72,
+    "total_items": 293,
+    "total_pages": 5,
+    "prev_path": "categories/ai-tutorial/page-0004.json"
+  },
+  "items": [
+    {
+      "id": "b8ea8eb2-17a4-45ce-bf75-d505e1ccab25",
+      "name": "lluminy",
+      "slug": "lluminy",
+      "description": "Automates Python code documentation with AI-generated docstrings.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lluminy.jpg",
+      "website_url": "https://lluminy.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-11T04:49:38Z",
+      "updated_at": "2025-03-27T04:04:45.594717Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-code-generator",
+        "ai-content-generator",
+        "ai-developer-docs",
+        "ai-tutorial",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "4439634d-7df8-4ca2-8d2e-5c9cd33a7ad6",
+      "name": "myGPTBrain",
+      "slug": "mygptbrain",
+      "description": "Easy knowledge consumption and instant answers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mygptbrain.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mygptbrain/fedlenpompomchndeilkihijighdkchg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:25Z",
+      "updated_at": "2025-03-27T07:22:19.344643Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-documents-assistant",
+        "ai-email-assistant",
+        "ai-knowledge-base",
+        "ai-knowledge-graph",
+        "ai-knowledge-management",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "ai-tutorial",
+        "research-tool",
+        "summarizer",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "f0886516-0b13-4d96-a656-c684fdcf2f2b",
+      "name": "霓虹翻译 - NeonLingo",
+      "slug": "霓虹翻译-neonlingo",
+      "description": "Efficient translation and word memorization tool.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E9%9C%93%E8%99%B9%E7%BF%BB%E8%AF%91-neonlingo.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/霓虹翻译-neonlingo/ifhljpgdgoimmfacomakolapgnamfkbd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:56Z",
+      "updated_at": "2025-03-27T07:32:37.802488Z",
+      "category_slugs": [
+        "ai-tutorial",
+        "translate"
+      ]
+    },
+    {
+      "id": "131f324d-daae-4eb1-b24d-ecf0abd28188",
+      "name": "Teacher AI",
+      "slug": "yourteacher-ai",
+      "description": "Your personal AI language teacher on the go!",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/yourteacher-ai.jpg",
+      "website_url": "https://yourteacher.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 1,
+      "views_count": 88194,
+      "created_at": "2023-12-25T10:00:57Z",
+      "updated_at": "2025-03-27T07:30:49.65735Z",
+      "category_slugs": [
+        "ai-course",
+        "ai-education-assistant",
+        "ai-tutorial",
+        "large-language-models-(llms)",
+        "translate"
+      ]
+    },
+    {
+      "id": "710cd5db-b417-4ac1-a60d-c138d2be2bbf",
+      "name": "PassiveCraft",
+      "slug": "passivecraft",
+      "description": "PassiveCraft turns your content into a sellable digital product in minutes",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ba4525fc-201e-44a4-9437-d572f92b2007_1749094859513.png",
+      "website_url": "https://passive-craft.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-05T03:41:01.624814Z",
+      "updated_at": "2025-06-09T08:37:49.248Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-content-detector",
+        "ai-education-assistant",
+        "ai-instagram-assistant",
+        "ai-knowledge-base",
+        "ai-knowledge-management",
+        "ai-pdf",
+        "ai-productivity-tools",
+        "ai-social-media-assistant",
+        "ai-tutorial",
+        "ai-web-scraping",
+        "ai-youtube-assistant",
+        "digital-marketing-generator",
+        "productivity"
+      ]
+    }
+  ]
+}

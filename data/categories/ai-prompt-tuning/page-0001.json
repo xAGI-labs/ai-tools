@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 3,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "67ce3bce-0078-4d3c-b423-a8957c6743af",
+      "name": "Dreamlook.ai",
+      "slug": "dreamlook-ai",
+      "description": "dreamlook.ai | Lightning-fast Dreambooth finetuning",
+      "logo_url": "https://dreamlook.ai/favicon.ico",
+      "website_url": "https://dreamlook.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-prompt-tuning",
+        "prompt"
+      ]
+    },
+    {
+      "id": "7fc77286-91f2-49c6-a3ea-ea91d1202382",
+      "name": "Dreamlook.ai",
+      "slug": "dreamlook-ai-1",
+      "description": "dreamlook.ai | Lightning-fast Dreambooth finetuning",
+      "logo_url": "https://dreamlook.ai/favicon.ico",
+      "website_url": "https://dreamlook.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-prompt-tuning",
+        "prompt"
+      ]
+    },
+    {
+      "id": "bc7c88e6-b185-43a6-ba14-dd5387ed51fb",
+      "name": "Trudo",
+      "slug": "trudo",
+      "description": "Open AI Fine Tuning: Build Powerful Open AI Apps | Trudo AI",
+      "logo_url": "https://icons.duckduckgo.com/ip3/trudo.ai.ico",
+      "website_url": "https://www.trudo.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-17T00:00:00Z",
+      "updated_at": "2023-04-17T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-prompt-tuning",
+        "design-art",
+        "prompt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 74,
+    "total_pages": 2,
+    "prev_path": "categories/ai-icon-generator/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "6e57ceef-c260-4137-a8e8-da1f1480dd0b",
+      "name": "Octoicons",
+      "slug": "octoicons-2",
+      "description": "Need a custom SVG icon for your website or app? Octoicons has got you covered. Simply enter a prompt and let our AI-powered icon generator create unique and stunning icons for you. Perfect for designers, web developers, and anyone in need of awesome graphics.",
+      "logo_url": "https://octoicons.com/favicon.ico",
+      "website_url": "https://octoicons.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-03T00:00:00Z",
+      "updated_at": "2023-05-04T00:00:00Z",
+      "category_slugs": [
+        "ai-code-generator",
+        "ai-cover-generator",
+        "ai-icon-generator",
+        "ai-maps-generator",
+        "ai-photo-image-generator",
+        "ai-prompt-generator",
+        "ai-prompt-optimization",
+        "ai-prompt-repository",
+        "ai-website-builder",
+        "code-it",
+        "image",
+        "prompt"
+      ]
+    },
+    {
+      "id": "18ad28b7-0ee3-4aef-999a-819ebb156822",
+      "name": "ShopWithAI",
+      "slug": "shopwithai",
+      "description": "Shop with your dream celebrity style icon to upgrade your home and wardrobe.",
+      "logo_url": "https://www.google.com/s2/favicons?domain=goshopwith.ai\u0026sz=128",
+      "website_url": "https://goshopwith.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-15T00:00:00Z",
+      "updated_at": "2023-05-15T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-home-automation",
+        "ai-icon-generator",
+        "image",
+        "life-assistant"
+      ]
+    }
+  ]
+}

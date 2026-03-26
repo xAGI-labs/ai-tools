@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "896450fe-e93d-4c3d-af07-ea33676a9178",
+      "name": "5-Out",
+      "slug": "5-out-1",
+      "description": "5-Out | Automated restaurant forecasting to optimize your net income",
+      "logo_url": "https://5out.io/favicon.ico",
+      "website_url": "https://www.5out.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-weather-forecasting",
+        "other"
+      ]
+    },
+    {
+      "id": "72bbc20e-9699-4ac7-a18a-0ed74d277e59",
+      "name": "5-Out",
+      "slug": "5-out",
+      "description": "5-Out | Automated restaurant forecasting to optimize your net income",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/72bbc20e-9699-4ac7-a18a-0ed74d277e59_5-out.jpeg?",
+      "website_url": "https://www.5out.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-weather-forecasting",
+        "other"
+      ]
+    },
+    {
+      "id": "f9e3298a-c520-442d-b12f-ca7fb9bfd4ce",
+      "name": "Nextatlas",
+      "slug": "nextatlas",
+      "description": "Nextatlas Generate | The world's first Generative Trend Forecasting Service",
+      "logo_url": "https://generate.nextatlas.com/favicon.ico",
+      "website_url": "https://generate.nextatlas.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-14T00:00:00Z",
+      "updated_at": "2023-04-14T00:00:00Z",
+      "category_slugs": [
+        "ai-customer-service",
+        "ai-weather-forecasting",
+        "business",
+        "other"
+      ]
+    },
+    {
+      "id": "55303136-e994-4ccc-8061-6daaaf03efe0",
+      "name": "Tomorrow IO",
+      "slug": "tomorrow-io",
+      "description": "The World’s Weather Intelligence Platform",
+      "logo_url": "https://icon.horse/icon/tomorrow.io",
+      "website_url": "https://www.tomorrow.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-05T00:00:00Z",
+      "updated_at": "2023-04-05T00:00:00Z",
+      "category_slugs": [
+        "ai-weather-forecasting",
+        "other"
+      ]
+    },
+    {
+      "id": "6484a659-e211-4b6c-92ae-2a5f0907a9fe",
+      "name": "llm.report",
+      "slug": "llm-report",
+      "description": "A free OpenAI API analytics dashboard.\r\n\r\nGet instant clarity about which OpenAI models are costing you the most. Just enter your OpenAI API key, and get a beautiful dashboard. No need to install anything.\r\n\r\nFeatures include:\r\n\r\n- Cost Breakdown by Model: Get full observability of how much each AI model is costing you.\r\n- Live API Logs \u0026amp; Analytics: Search and analyze all your historical prompts / completions\r\n- Built-in Caching: Duplicate API calls cost $0.\r\n- Cost Forecasting: Predict y...",
+      "logo_url": "https://icon.horse/icon/llm.report",
+      "website_url": "https://llm.report",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-24T00:00:00Z",
+      "updated_at": "2023-05-24T00:00:00Z",
+      "category_slugs": [
+        "ai-monitor-report-builder",
+        "ai-sports-analytics",
+        "ai-video-search",
+        "ai-weather-forecasting",
+        "code-it",
+        "other",
+        "video"
+      ]
+    }
+  ]
+}

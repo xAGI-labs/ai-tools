@@ -1,0 +1,172 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 7,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "edd125ec-249e-4675-9310-15457b32051f",
+      "name": "GLM-Image Blog",
+      "slug": "glm-image-blog",
+      "description": "The unofficial community resource for GLM-Image: a battle-tested prompt library plus deep-dive guides for text-in-image, posters, menus, and layout-driven visuals. Copy prompts, learn workflows, and ship better results faster.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/976f4ae4-f6de-4077-a6cb-c161ad2158c3_1770137081942.jpg",
+      "website_url": "https://www.glmimage.blog/",
+      "pricing_type": "free",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-03T16:44:48.879376Z",
+      "updated_at": "2026-02-04T09:21:29.592Z",
+      "category_slugs": [
+        "ai-prompt-templates"
+      ]
+    },
+    {
+      "id": "935ba942-55f1-49c5-b00c-628bf815d662",
+      "name": "AI Templates",
+      "slug": "ai-templates",
+      "description": "Find the best AI Templates",
+      "logo_url": "https://aitemplates.ai/favicon.ico",
+      "website_url": "https://aitemplates.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-22T00:00:00Z",
+      "updated_at": "2023-04-22T00:00:00Z",
+      "category_slugs": [
+        "ai-prompt-templates",
+        "prompt"
+      ]
+    },
+    {
+      "id": "c5c86a73-06ea-4542-b9b5-31e699525b7c",
+      "name": "AI Templates",
+      "slug": "ai-templates-1",
+      "description": "Find the best AI Templates",
+      "logo_url": "https://aitemplates.ai/favicon.ico",
+      "website_url": "https://aitemplates.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-22T00:00:00Z",
+      "updated_at": "2023-04-22T00:00:00Z",
+      "category_slugs": [
+        "ai-prompt-templates",
+        "prompt"
+      ]
+    },
+    {
+      "id": "858b0a8a-dea3-4b84-9755-5ac555c4c9fa",
+      "name": "Divedash.ai - Expert ChatGPT Prompts",
+      "slug": "divedash-ai-expert-chatgpt-prompts",
+      "description": "Solve all your Small Business needs with 1-click expert prompts. Complete hours of tasks in minutes with 500+ verified templates in Sales, Marketing, Productivity, Operations, etc\r\n\r\nSEO blog generation, captivating sales emails, summarizing info, deep-research, or planning engaging LinkedIn content, you name it - we got you covered!\r\n\r\n???? Getting the most out of AI isn't just about the LLMs underneath, but also how we ask questions. We were blown away by how the right prompts can make Chat...",
+      "logo_url": "https://icon.horse/icon/divedash.ai",
+      "website_url": "https://divedash.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-09T00:00:00Z",
+      "updated_at": "2023-06-09T00:00:00Z",
+      "category_slugs": [
+        "ai-business-development",
+        "ai-business-idea-generator",
+        "ai-email-management",
+        "ai-market-research",
+        "ai-project-planning",
+        "ai-prompt-generator",
+        "ai-prompt-optimization",
+        "ai-prompt-templates",
+        "ai-task-automation",
+        "business",
+        "productivity",
+        "prompt"
+      ]
+    },
+    {
+      "id": "83b19948-bb44-4cdb-8bc1-7e7d9c7f12ba",
+      "name": "Job Hunt Mode",
+      "slug": "job-hunt-mode",
+      "description": "Career Development, Advisory, and Search services. Affordable tools to unleash your full potential. Create custom job hunting solutions, and use our suite of tools to launch your new career faster. Find employment sooner and be hired faster than your peers. Outsource your resume optimization, have our AI Agent write your disruptive cover letter, buy modern resume templates, and more. Its all here under one web application, jobhuntmode.com",
+      "logo_url": "https://icon.horse/icon/jobhuntmode.com",
+      "website_url": "https://jobhuntmode.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-21T00:00:00Z",
+      "updated_at": "2023-05-22T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-cad-tools",
+        "ai-game-development",
+        "ai-prompt-optimization",
+        "ai-prompt-templates",
+        "letter-writer",
+        "prompt",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "028f0bfd-3d4c-4e16-bbfa-fad28c4bb511",
+      "name": "Venngage",
+      "slug": "venngage",
+      "description": "Venngage | Professional Infographic Maker | 10,000+ Templates",
+      "logo_url": "https://icons.duckduckgo.com/ip3/venngage.com.ico",
+      "website_url": "https://venngage.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-graphic-design",
+        "ai-prompt-templates",
+        "ai-thumbnail-maker",
+        "design-art",
+        "prompt",
+        "video"
+      ]
+    },
+    {
+      "id": "1fb9b42d-fe9f-4fc5-9982-f81005fda098",
+      "name": "WNR.AI",
+      "slug": "wnr-ai",
+      "description": "WNR.AI: Prompts made easy with AI templates",
+      "logo_url": "https://wnr.ai/favicon.ico",
+      "website_url": "https://wnr.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-01T00:00:00Z",
+      "updated_at": "2023-05-01T00:00:00Z",
+      "category_slugs": [
+        "ai-prompt-generator",
+        "ai-prompt-optimization",
+        "ai-prompt-templates",
+        "prompt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 6,
+    "page_size": 72,
+    "total_items": 362,
+    "total_pages": 6,
+    "prev_path": "categories/no-code-low-code/page-0005.json"
+  },
+  "items": [
+    {
+      "id": "a44bff02-0fb8-4f2f-b752-2c23e3a7cca1",
+      "name": "Vibe Architect",
+      "slug": "vibe-architect-138509",
+      "description": "A visual, no-code backend for Cursor — see, understand, and control your data, logic, and AI behind the scenes.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/bd31ca09-5af0-4a8d-89a1-add721fb4304_1769598129439.png",
+      "website_url": "https://momen.app/vibe-architect-cursor",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-28T11:02:23.33968Z",
+      "updated_at": "2026-01-28T14:47:14.486Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "no-code-low-code"
+      ]
+    },
+    {
+      "id": "3147f6aa-5a25-4b38-a7ef-a2c744866750",
+      "name": "wodka.ai",
+      "slug": "wodka-ai",
+      "description": "With our no-code platform, you can create a custom AI chatbot trained on your data in seconds. Streamline customer sales \u0026amp; support, onboard new team members, and more!.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/wodka.ai.ico",
+      "website_url": "https://wodka.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-26T00:00:00Z",
+      "updated_at": "2023-04-27T00:00:00Z",
+      "category_slugs": [
+        "ai-chatbot-builder",
+        "ai-code-assistant",
+        "ai-customer-service",
+        "ai-customer-support-chatbot",
+        "ai-data-analysis",
+        "ai-data-collection",
+        "ai-e-commerce-chatbot",
+        "business",
+        "chatbot",
+        "code-explanation",
+        "code-it",
+        "no-code-low-code"
+      ]
+    }
+  ]
+}

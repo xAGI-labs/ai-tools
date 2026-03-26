@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 12,
+    "page_size": 72,
+    "total_items": 797,
+    "total_pages": 12,
+    "prev_path": "categories/ai-email-assistant/page-0011.json"
+  },
+  "items": [
+    {
+      "id": "35b21bc3-6495-41f5-894f-1d44a62de7cc",
+      "name": "EmailFast",
+      "slug": "emailfast-301087",
+      "description": "Email lookup, list verifier, AI cold email.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/20fe2678-1b91-40b2-8eda-71ec613cc15b_1756825295618.png",
+      "website_url": "https://email.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-02T15:01:41.756056Z",
+      "updated_at": "2025-09-03T09:04:23.678Z",
+      "category_slugs": [
+        "ai-email-assistant",
+        "ai-email-generator",
+        "ai-web-scraping",
+        "marketing",
+        "productivity",
+        "sales-assistant"
+      ]
+    },
+    {
+      "id": "796a621d-26ac-4a94-a26c-b968915426d0",
+      "name": "Geniusmail",
+      "slug": "geniusmail",
+      "description": "No More Mass Emails: Personalize and Convert Every Message with AI Writing a different message for each client? We know it’s impossible, but we did it.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/708dcfdc-7dcd-4a33-bdfe-bc32c77052c4_1746082715813.png",
+      "website_url": "https://www.geniusemail.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-05-01T06:58:39.013323Z",
+      "updated_at": "2025-05-01T18:00:20.449Z",
+      "category_slugs": [
+        "ai-email-assistant",
+        "ai-email-generator"
+      ]
+    },
+    {
+      "id": "64d6614d-6826-4234-9927-3ff03455b3a7",
+      "name": "Nova Express",
+      "slug": "nova-express-039571",
+      "description": "AI Email Assistant for Modern Teams",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ca7d7a44-8c5a-4423-87dc-4a8efaa3afb7_1759381037372.png",
+      "website_url": "https://novaexpress.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-02T04:57:19.449808Z",
+      "updated_at": "2025-10-06T10:28:51.706Z",
+      "category_slugs": [
+        "ai-email-assistant",
+        "ai-email-generator"
+      ]
+    },
+    {
+      "id": "2fd0fab0-4e03-4c45-8ff0-2913e3291315",
+      "name": "SMS Launcher",
+      "slug": "sms-launcher-327440",
+      "description": "Email to SMS Gateway | Email to Text Service",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/7ad8a25f-676b-49a0-948f-bdd7adfd204b_1761102321544.png",
+      "website_url": "https://smslauncher.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-22T03:05:24.073784Z",
+      "updated_at": "2025-10-22T06:52:28.24Z",
+      "category_slugs": [
+        "ai-email-assistant"
+      ]
+    },
+    {
+      "id": "7650dbc7-c751-4a58-a58e-a0124e01c53a",
+      "name": "Social listening linkedin | OutX.ai",
+      "slug": "social-listening-linkedin-outx-ai-167904",
+      "description": "Track LinkedIn accounts and keywords. Get instant alerts, AI summaries, and CRM-ready signals.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5311c594-69d9-49ee-8ddc-8f9166a43eb8_1750082163993.jpg",
+      "website_url": "https://www.outx.ai/social-listening-linkedin",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-16T13:56:08.241684Z",
+      "updated_at": "2025-06-18T07:28:45.573Z",
+      "category_slugs": [
+        "ai-crm-assistant",
+        "ai-email-assistant",
+        "ai-productivity-tools",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "ai-social-media-assistant",
+        "business",
+        "marketing",
+        "productivity",
+        "sales-assistant"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 12,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "9ceca45a-4e4a-4a67-93e7-679529119969",
+      "name": "Education CoPilot",
+      "slug": "education-copilot-1",
+      "description": "AI Lesson Planner - Education Copilot",
+      "logo_url": "https://icons.duckduckgo.com/ip3/educationcopilot.com.ico",
+      "website_url": "https://educationcopilot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "ai-stem-education",
+        "education"
+      ]
+    },
+    {
+      "id": "fc55d503-5339-4a4a-a9fc-ab20b96d7260",
+      "name": "Education CoPilot",
+      "slug": "education-copilot",
+      "description": "AI Lesson Planner - Education Copilot",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/fc55d503-5339-4a4a-a9fc-ab20b96d7260_education_copilot.jpeg?",
+      "website_url": "https://educationcopilot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "ai-stem-education",
+        "education"
+      ]
+    },
+    {
+      "id": "b6bcdf53-69e1-47f8-8262-25ed9f9a0afe",
+      "name": "EducatorLab",
+      "slug": "educatorlab",
+      "description": "AI-Powered SaaS Tool for Compliant Lesson Plans \u0026 Assessments | Educator Lab",
+      "logo_url": "https://educatorlab.org/favicon.ico",
+      "website_url": "https://educatorlab.org",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-25T00:00:00Z",
+      "updated_at": "2023-04-25T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "ai-student-assessment",
+        "education"
+      ]
+    },
+    {
+      "id": "1039d23f-d9c0-4f85-8b6b-8f8c392c752c",
+      "name": "Khan Academy Khanmigo",
+      "slug": "khan-academy-khanmigo",
+      "description": "Khan Academy | Free Online Courses, Lessons \u0026 Practice",
+      "logo_url": "https://khanacademy.org/favicon.ico",
+      "website_url": "https://www.khanacademy.org",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-course-creation",
+        "ai-lesson-planning",
+        "education"
+      ]
+    },
+    {
+      "id": "d669166c-1a1b-4d46-9685-049e4e11bf47",
+      "name": "Khan Academy Khanmigo",
+      "slug": "khan-academy-khanmigo-1",
+      "description": "Khan Academy | Free Online Courses, Lessons \u0026 Practice",
+      "logo_url": "https://khanacademy.org/favicon.ico",
+      "website_url": "https://www.khanacademy.org",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-course-creation",
+        "ai-lesson-planning",
+        "education"
+      ]
+    },
+    {
+      "id": "5991046c-61a1-4d70-9157-0d305766e67a",
+      "name": "LessonPlans.ai",
+      "slug": "lessonplans-ai",
+      "description": "The #1 AI Lesson Plan Generator",
+      "logo_url": "https://icon.horse/icon/lessonplans.ai",
+      "website_url": "https://www.lessonplans.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "ai-prompt-generator",
+        "education",
+        "prompt"
+      ]
+    },
+    {
+      "id": "2a5952f5-52f0-4c45-b3ab-2b46ba0ca8b0",
+      "name": "LessonPlans.ai",
+      "slug": "lessonplans-ai-1",
+      "description": "The #1 AI Lesson Plan Generator",
+      "logo_url": "https://icon.horse/icon/lessonplans.ai",
+      "website_url": "https://www.lessonplans.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "ai-prompt-generator",
+        "education",
+        "prompt"
+      ]
+    },
+    {
+      "id": "a9a52a73-90ca-44b9-8ae0-77d8a8a4b47e",
+      "name": "Roshi AI",
+      "slug": "roshi-ai-1",
+      "description": "Roshi - Lessons in 1 Click",
+      "logo_url": "https://roshi.ai/favicon.ico",
+      "website_url": "https://www.roshi.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "education"
+      ]
+    },
+    {
+      "id": "a2865dfe-0fb6-4998-9455-b8c9e7cfff9a",
+      "name": "Roshi AI",
+      "slug": "roshi-ai",
+      "description": "Roshi - Lessons in 1 Click",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/a2865dfe-0fb6-4998-9455-b8c9e7cfff9a_roshi_ai.jpeg?",
+      "website_url": "https://www.roshi.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "education"
+      ]
+    },
+    {
+      "id": "55231ae6-e84c-42e7-bacd-3a19b3eb9e85",
+      "name": "Teachology.ai",
+      "slug": "teachology-ai",
+      "description": "teachology.ai - The Ultimate for AI Lesson Plans",
+      "logo_url": "https://icon.horse/icon/teachology.ai",
+      "website_url": "https://www.teachology.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-08T00:00:00Z",
+      "updated_at": "2023-04-08T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "education"
+      ]
+    },
+    {
+      "id": "3e465c74-ec92-492b-b7d9-bd3e65f4e487",
+      "name": "Wonderplan",
+      "slug": "wonderplan",
+      "description": "Discover the Future of Travel Planning with WonderPlan AI: The Ultimate AI-Generated Itinerary Platform ???? Are you tired of spending countless hours researching and planning your trips? Say hello to Wonderplan, the game-changing AI-generated itinerary platform that's revolutionizing the way we plan our travels! 1. Personalized AI-Generated Itineraries: Our cutting-edge AI algorithms analyze your travel preferences and create customized itineraries that suit your interests. This means no mor...",
+      "logo_url": "https://wonderplan.ai/favicon.ico",
+      "website_url": "https://wonderplan.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-05T00:00:00Z",
+      "updated_at": "2023-05-22T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-game-development",
+        "ai-lesson-planning",
+        "ai-personal-development",
+        "ai-personal-finance-assistant",
+        "ai-personal-shopping-assistant",
+        "ai-personalized-learning",
+        "ai-research-assistant",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "874fac5b-77f1-4d34-bcc6-61cfe09a1f1e",
+      "name": "YaatriAI",
+      "slug": "yaatriai",
+      "description": "\u003cp class=\"MuiTypography-root MuiTypography-body1 css-xrmcmn\"\u003eYaatriAI by AasPass is a travel planning platform that incorporates advanced AI technology to provide personalized recommendations for accommodations, activities, and transportation to make travel planning easier for users.\u003c/p\u003e\r\n\r\n\u003cdiv class=\"css-6gd8i7\"\u003e\r\n\u003cdiv\u003e\u003c/div\u003e\r\n\u003c/div\u003e",
+      "logo_url": "https://icons.duckduckgo.com/ip3/aaspassapp.com.ico",
+      "website_url": "https://www.aaspassapp.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-04T00:00:00Z",
+      "updated_at": "2023-05-04T00:00:00Z",
+      "category_slugs": [
+        "ai-lesson-planning",
+        "ai-personal-development",
+        "ai-personal-finance-assistant",
+        "ai-personal-shopping-assistant",
+        "ai-personalized-learning",
+        "ai-project-planning",
+        "education",
+        "life-assistant",
+        "productivity"
+      ]
+    }
+  ]
+}

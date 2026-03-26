@@ -1,0 +1,1001 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 213,
+    "page_size": 48,
+    "total_items": 32604,
+    "total_pages": 680,
+    "next_path": "tools/pages/page-0214.json",
+    "prev_path": "tools/pages/page-0212.json"
+  },
+  "items": [
+    {
+      "id": "18a6b968-5258-41ea-9ae2-abcfe8429eb4",
+      "name": "GPTBox",
+      "slug": "gptbox",
+      "description": "AI integration for enhanced productivity in Windows tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptbox.jpg",
+      "website_url": "https://www.gptbox.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:54Z",
+      "updated_at": "2025-03-27T06:13:40.841836Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-content-generator",
+        "ai-email-assistant",
+        "ai-email-generator",
+        "ai-productivity-tools",
+        "ai-word",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "dde88e4c-b4cc-41bb-b391-6e336f649cd6",
+      "name": "GPTBrowser ChatGPT for website, PDF \u0026 Youtube",
+      "slug": "gptbrowser-chatgpt-for-website-pdf-youtube",
+      "description": "Smart browsing assistant for instant support.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptbrowser-chatgpt-for-website-pdf-youtube.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptbrowser-chatgpt-for-we/ibnligmfbdagpcnadfoghlahbjnjobge?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:19Z",
+      "updated_at": "2025-03-27T07:42:11.932525Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "large-language-models-(llms)",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "46918a88-ecaf-4f34-8fa3-20b8c77c64c5",
+      "name": "GPTCheck — fact-check ChatGPT",
+      "slug": "gptcheck-fact-check-chatgpt",
+      "description": "Highlight sentences, find similar ones on Google.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptcheck-fact-check-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptcheck-—-fact-check-cha/cojnhjieiegndeooiaihghgclglbmoik?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:35Z",
+      "updated_at": "2025-03-27T04:39:18.885858Z",
+      "category_slugs": [
+        "ai-checker-essay",
+        "ai-plagiarism-checker"
+      ]
+    },
+    {
+      "id": "0d06f67e-700b-476c-8b17-16c84a66f8b6",
+      "name": "GPTCodeForge",
+      "slug": "gptcodeforge",
+      "description": "Code editing tool for ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptcodeforge.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptcodeforge/cdilhdfhkogodjjhkkmakkafbpajomgd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:48Z",
+      "updated_at": "2025-03-27T04:10:23.499878Z",
+      "category_slugs": [
+        "ai-code-generator",
+        "ai-developer-tools"
+      ]
+    },
+    {
+      "id": "78dbf4b2-1647-4b19-8c97-f32dd998ba53",
+      "name": "GPTConverts",
+      "slug": "gptconverts",
+      "description": "GPTConverts is a chatbot designed to increase website conversion rates by providing instant and accurate answers to specific questions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptconverts.jpg",
+      "website_url": "https://gptconverts.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-13T11:59:26Z",
+      "updated_at": "2025-03-27T08:10:01.755587Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-customer-service-assistant"
+      ]
+    },
+    {
+      "id": "095f3540-e4be-4ad7-9169-43404a502b42",
+      "name": "GPTDoneNotification",
+      "slug": "gptdonenotification",
+      "description": "Get alerts for ChatGPT replies",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptdonenotification.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptdonenotification/hfmhccefcedmiijiilgjccpppcnlicdk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:41Z",
+      "updated_at": "2025-03-27T07:43:36.921821Z",
+      "category_slugs": [
+        "ai-reply-assistant",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "3ee4b2b1-8f75-45f0-8d23-2406f4a13a6c",
+      "name": "GPTDrive: Mobile Hub for ChatGPT, Bard, Bing",
+      "slug": "gptdrive-mobile-hub-for-chatgpt-bard-bing",
+      "description": "AI chatbot conversation manager",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptdrive-mobile-hub-for-chatgpt-bard-bing.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptdrive-mobile-hub-for-c/hiojfedajjfmdbmgioajfnoklcagdijg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:30Z",
+      "updated_at": "2025-03-27T08:11:24.918288Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "c780be9f-8e69-4196-9426-5a4ea46a6956",
+      "name": "GPTEnhancer",
+      "slug": "gptenhancer",
+      "description": "Enhance and personalize ChatGPT interactions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptenhancer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptenhancer/mikkjpbemglkdhfalbapecafkaoebjlc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:29Z",
+      "updated_at": "2025-03-27T03:03:29.735108Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6ade2624-cbf8-4f2a-93d8-a99cf1cad12d",
+      "name": "GPTFriend.chat",
+      "slug": "gptfriend-chat",
+      "description": "GptFriend.chat is a platform that provides smart AI robots for engaging conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptfriend-chat.jpg",
+      "website_url": "https://gptfriend.chat?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-26T07:51:59Z",
+      "updated_at": "2025-03-27T08:17:39.204567Z",
+      "category_slugs": [
+        "ai-character",
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "c47e5968-b50d-4baa-94b1-e5fb7b131c12",
+      "name": "GPTGO.AI - Search \u0026 ChatGPT",
+      "slug": "gptgo-ai-search-chatgpt",
+      "description": "Hybrid search engine combining Google and ChatGPT AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptgo-ai-search-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptgoai-search-chatgpt/gfkgggcjdhgiccpbjhppblpnmniepcca?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:34Z",
+      "updated_at": "2025-03-27T08:35:54.93182Z",
+      "category_slugs": [
+        "ai-search-engine"
+      ]
+    },
+    {
+      "id": "f291f2fb-df96-4524-b133-0973283455cf",
+      "name": "GPTInsiders.com",
+      "slug": "gptinsiders-com",
+      "description": "Create custom ChatGPT chatbots effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptinsiders-com.jpg",
+      "website_url": "https://www.gptinsiders.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-26T07:02:04Z",
+      "updated_at": "2025-03-27T04:19:32.967359Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-website-builder"
+      ]
+    },
+    {
+      "id": "1501d78a-c909-43ef-9169-015d3f947f72",
+      "name": "GPTKeeper",
+      "slug": "gptkeeper",
+      "description": "Share and save ChatGPT conversations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptkeeper.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptkeeper/cpepihhipmgnmnndplnahdonbcbjmbbg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:47Z",
+      "updated_at": "2025-03-27T03:00:11.192929Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d13f1215-2d1d-4b01-90d1-d646e2dfaa40",
+      "name": "GPTMana - AI ChatGPT Chatbot Assistant",
+      "slug": "gptmana-ai-chatgpt-chatbot-assistant",
+      "description": "AI chat assistant revolutionizing conversations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptmana-ai-chatgpt-chatbot-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptmana-ai-chatgpt-chatbo/njnliakcfnbmbkjinllkajalphfiagni?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:40Z",
+      "updated_at": "2025-03-27T06:36:29.559621Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-content-generator",
+        "general-writing",
+        "large-language-models-(llms)",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "eb742cad-81a8-413d-8051-f222ea802cea",
+      "name": "GPTMarker",
+      "slug": "gptmarker",
+      "description": "Share and save ChatGPT chats",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptmarker.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptmarker/hckjneemhgakefhinjpngpfjfmonnfod?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:26Z",
+      "updated_at": "2025-03-27T05:48:08.126798Z",
+      "category_slugs": [
+        "ai-workflow-management"
+      ]
+    },
+    {
+      "id": "16422cc1-9c65-4699-b936-b1d11050d9c0",
+      "name": "GPTOCR",
+      "slug": "gptocr",
+      "description": "ChatGPT offers PDF data extraction as a service.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptocr.jpg",
+      "website_url": "https://gptocr.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-12T16:40:29Z",
+      "updated_at": "2025-03-27T05:47:35.616158Z",
+      "category_slugs": [
+        "ai-document-extraction",
+        "ai-workflow-management"
+      ]
+    },
+    {
+      "id": "e2b5758e-3719-4c29-9f51-1152f7f46b11",
+      "name": "GPTOnCall",
+      "slug": "gptoncall",
+      "description": "GPTOnCall is an AI chatbot service that offers instant phone assistance and revolutionizes communication.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptoncall.jpg",
+      "website_url": "https://gptoncall.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-02T15:43:12Z",
+      "updated_at": "2025-03-27T07:54:45.976133Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-speech-recognition",
+        "ai-speech-synthesis",
+        "ai-voice-assistants",
+        "speech-to-text",
+        "text-to-speech"
+      ]
+    },
+    {
+      "id": "bacb1c8c-5be3-4eb8-9da8-13328daf61d7",
+      "name": "GPTOnline - Free ChatGPT Extension",
+      "slug": "gptonline-free-chatgpt-extension",
+      "description": "Free chat with ChatGPT extension.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptonline-free-chatgpt-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptonline-free-chatgpt-ex/ehekffhhobjogdcdafcfhkfpcpaeagnd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:09Z",
+      "updated_at": "2025-03-27T06:33:26.934963Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-content-generator",
+        "ai-script-writing",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "590e0a82-4401-4b14-bb79-db53b55ea411",
+      "name": "GPTPrompt",
+      "slug": "gptprompt",
+      "description": "Enhance online experience with GPT Prompts",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptprompt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptprompt/opddojhilianajpdmhfmlgobcckheeeb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:39Z",
+      "updated_at": "2025-03-27T06:38:45.223295Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "summarizer",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "8de0d0d9-0c4f-48c0-9987-c2d90d1df537",
+      "name": "GPTRoom",
+      "slug": "gptroom",
+      "description": "GPTRoom is an AI-powered platform for transforming room designs with different themes.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptroom.jpg",
+      "website_url": "https://gptroom.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-01T14:46:26Z",
+      "updated_at": "2025-03-27T04:29:01.238265Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-background-generator",
+        "ai-design-generator",
+        "ai-graphic-design",
+        "ai-interior-room-design",
+        "ai-tattoo-generator"
+      ]
+    },
+    {
+      "id": "be1c1047-8447-4ddd-a329-778ab313e631",
+      "name": "GPTSave",
+      "slug": "gptsave",
+      "description": "GPTSave is a Chrome extension for saving and exporting ChatGPT conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptsave.jpg",
+      "website_url": "https://gptsave.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-30T14:01:19Z",
+      "updated_at": "2025-03-27T03:19:46.160498Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b1546f24-6bd0-41ef-8056-58f47f480a3a",
+      "name": "GPTSaver",
+      "slug": "gptsaver",
+      "description": "Download ChatGPT conversations locally",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptsaver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptsaver/hcnhpjfhohhclelpimfomhjhobbkcakh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:40:46Z",
+      "updated_at": "2025-03-27T03:01:12.343594Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2d03829f-be6a-40c3-8ab1-553c6aa3140a",
+      "name": "GPTSheets",
+      "slug": "gptsheets",
+      "description": "Revolutionary tool for spreadsheet tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptsheets.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptsheets/mfbjpeonalpkgghaejlfaoifejjojkcj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:08Z",
+      "updated_at": "2025-03-27T04:00:16.462172Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-spreadsheet"
+      ]
+    },
+    {
+      "id": "a4d52efb-629b-42eb-b44b-c7785154c0af",
+      "name": "GPTSnow - Supercharge your ChatGPT",
+      "slug": "gptsnow-supercharge-your-chatgpt",
+      "description": "Enhance ChatGPT with core features",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptsnow-supercharge-your-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptsnow-supercharge-your/fepgbcibhdnggeooccmgnllkflficjkj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:20Z",
+      "updated_at": "2025-03-27T08:46:24.002718Z",
+      "category_slugs": [
+        "ai-knowledge-base"
+      ]
+    },
+    {
+      "id": "0fef3a90-3f88-4ff0-a0dc-356fcabc1ac4",
+      "name": "GPTSyncScore",
+      "slug": "gptsyncscore",
+      "description": "Percentage correlation calculator for chatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptsyncscore.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptsyncscore/ohihiblmolfifcpdaecacmbhopfognbm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:40:47Z",
+      "updated_at": "2025-03-27T03:01:14.84887Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "749218bc-9392-4f00-9fba-26cec19c768c",
+      "name": "GPTXtend",
+      "slug": "gptxtend",
+      "description": "AI platform for content navigation and productivity enhancement.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptxtend.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptxtend/cmkkfbnjfpmdnleebgbgnfgjmamhkejf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:39Z",
+      "updated_at": "2025-03-27T03:01:20.540723Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a3bc1270-9a26-4198-9076-79bb0aa2a0c3",
+      "name": "GPTeammate",
+      "slug": "gpteammate",
+      "description": "Communicate with ChatGPT in Slack. Enhance collaboration and productivity with AI assistance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpteammate.jpg",
+      "website_url": "https://www.gpteammate.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-30T09:28:54Z",
+      "updated_at": "2025-03-27T03:56:27.4839Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-notes-assistant",
+        "ai-productivity-tools",
+        "ai-project-management",
+        "ai-reply-assistant",
+        "ai-scheduling",
+        "ai-task-management",
+        "ai-team-collaboration",
+        "ai-workflow-management"
+      ]
+    },
+    {
+      "id": "babcece9-89e1-45e6-a952-7941b8dec132",
+      "name": "GPTify",
+      "slug": "gptify",
+      "description": "Simplify tasks, generate text, and customize commands with GPTify.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptify.jpg",
+      "website_url": "https://gptifyai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T06:14:10Z",
+      "updated_at": "2025-03-27T04:03:31.482147Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-code-generator",
+        "ai-content-generator"
+      ]
+    },
+    {
+      "id": "2c01e79b-1f6e-411f-890a-63caf67713a1",
+      "name": "GPToDo",
+      "slug": "gptodo",
+      "description": "Convert ChatGPT responses to tasks",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptodo.webp",
+      "website_url": "https://chromewebstore.google.com/detail/gptodo/kfchhmbdllpcidblmkijbpjdmhfhidne?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:20Z",
+      "updated_at": "2025-03-27T03:01:51.376683Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8109d5fd-9257-48cb-975b-f9ae33400e4d",
+      "name": "GPTranslate-翻译",
+      "slug": "gptranslate-翻译",
+      "description": "Text translation plugin using chatGpt-3.5.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptranslate-%E7%BF%BB%E8%AF%91.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptranslate-翻译/ppfhdgbgjbbeoemlcoamnhcmgngoknge?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:29Z",
+      "updated_at": "2025-03-27T07:32:18.205902Z",
+      "category_slugs": [
+        "translate"
+      ]
+    },
+    {
+      "id": "ece5c819-700b-4726-a009-7bad50ddcadd",
+      "name": "GPTs",
+      "slug": "gpts",
+      "description": "Marketplace for custom GPTs with monetization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpts/acedmmhmkpfccocbbacehghklnnpekdm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:58Z",
+      "updated_at": "2025-03-27T03:05:51.98727Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b89fd986-3395-4d8b-a81e-dab33420f5dc",
+      "name": "GPTs Bus",
+      "slug": "gpts-bus",
+      "description": "Access creative GPT ideas",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-bus.jpg",
+      "website_url": "https://gptsbus.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-11-18T11:10:24Z",
+      "updated_at": "2025-03-27T09:04:51.683858Z",
+      "category_slugs": [
+        "ai-tools-directory",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "c70c4de0-5d05-4b7f-922a-38613ba45ac0",
+      "name": "GPTs Hub",
+      "slug": "gpts-hub",
+      "description": "Reviewed and Hand-Picked GPT Directory",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-hub.jpg",
+      "website_url": "https://gptsfor.me?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-12-01T18:14:03Z",
+      "updated_at": "2025-03-27T09:08:17.949491Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "37796509-4bcf-48ea-95e7-147ed7e3688b",
+      "name": "GPTs Hunter - Discover GPT Store",
+      "slug": "gpts-hunter-discover-gpt-store",
+      "description": "Platform for custom GPTs",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-hunter-discover-gpt-store.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpts-hunter-discover-gpt/nnomlbpbkeaancjgfgplecfgkgecgmka?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:16Z",
+      "updated_at": "2025-03-27T03:07:23.551964Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a5e51a00-ebd8-45dc-8740-5fda2fcd8c36",
+      "name": "GPTs List",
+      "slug": "gpts-list",
+      "description": "Unleashing the Power of AI in Every Sphere.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-list.jpg",
+      "website_url": "https://gptslist.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-12-17T14:37:43Z",
+      "updated_at": "2025-03-27T04:09:17.12545Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-code-assistant",
+        "ai-content-generator",
+        "ai-developer-docs",
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "6237de1d-1f80-4522-b301-3a5a3b4ea0ec",
+      "name": "GPTs Map",
+      "slug": "gpts-map",
+      "description": "Discover and share GPT collections easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-map.jpg",
+      "website_url": "https://gptsmap.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-11-15T08:48:50Z",
+      "updated_at": "2025-03-27T09:08:44.980023Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "2156f920-4946-4f3b-9684-8b6c1f8b6c69",
+      "name": "GPTs Store",
+      "slug": "gpts-store-1",
+      "description": "Explore diverse GPTs at GPTs Store.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-store-1.jpg",
+      "website_url": "https://gpt-stores.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-11-17T16:32:47Z",
+      "updated_at": "2025-03-27T06:38:05.955764Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-content-generator",
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "21c3a3de-5b15-4e6b-8b0d-45f4a0d71a2c",
+      "name": "GPTs Store Search and Favorite GPTs",
+      "slug": "gpts-store-search-and-favorite-gpts",
+      "description": "Find custom GPT models quickly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-store-search-and-favorite-gpts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpts-store-search-and-fav/ggelblabecfgdgknhkmeffheclpkjiie?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:16Z",
+      "updated_at": "2025-03-27T03:07:24.886406Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6b73bd88-d69f-42c5-aae5-040aad0bc8db",
+      "name": "GPTs base",
+      "slug": "gpts-base",
+      "description": "Discover and supercharge AI chatbots with high quality custom GPTs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-base.jpg",
+      "website_url": "https://gpts-base.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-11-18T11:10:25Z",
+      "updated_at": "2025-03-27T09:03:45.07288Z",
+      "category_slugs": [
+        "ai-developer-tools",
+        "ai-education-assistant",
+        "ai-tools-directory",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "b01c81fc-69b0-4f6e-838d-9e1e9e6c949f",
+      "name": "GPTs share on X",
+      "slug": "gpts-share-on-x",
+      "description": "Effortlessly share GPT conversations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpts-share-on-x.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpts-share-on-x/bkofgmimbdaeojnpeacpdjkgikjeineh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:35Z",
+      "updated_at": "2025-03-27T03:05:30.955423Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d7901c35-aafc-403f-8242-ac87c8d4734e",
+      "name": "GPTsLab: Smartly Filter and Discover Top GPTs",
+      "slug": "gptslab-smartly-filter-and-discover-top-gpts",
+      "description": "Access 20k+ GPT apps easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptslab-smartly-filter-and-discover-top-gpts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptslab-smartly-filter-an/jidbnibepfkkecifanjkneaeaclkkaii?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:02Z",
+      "updated_at": "2025-03-27T09:07:40.642725Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "7845c500-0fdd-4b27-a433-3cebb00ba84e",
+      "name": "GPTx",
+      "slug": "gptx",
+      "description": "Enhance browsing with GPTX Chrome Extension.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptx.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptx/ljmohcbobmmelbiijhpigdmmoboabjcl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:33Z",
+      "updated_at": "2025-03-27T03:06:14.394713Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "60ec2f00-be0b-44df-ae97-3a9ff6886b2e",
+      "name": "GPTzign",
+      "slug": "gptzign",
+      "description": "Marketing prompts generator",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gptzign.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gptzign/imofefmmbpeobgdeodklbmdjbkkdbibp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:53:47Z",
+      "updated_at": "2025-03-27T03:47:23.359206Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-content-generator",
+        "ai-email-marketing",
+        "ai-lead-generation",
+        "ai-product-description-generator",
+        "copywriting",
+        "digital-marketing-generator",
+        "general-writing",
+        "marketing-plan-generator",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "7ffee460-eb10-48b8-ba0c-be0826cf0657",
+      "name": "GPT帮我翻译",
+      "slug": "gpt帮我翻译",
+      "description": "Text and image translation tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt%E5%B8%AE%E6%88%91%E7%BF%BB%E8%AF%91.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt帮我翻译/lgnnhbndodopfbfhhdilnbefikmeppck?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:24Z",
+      "updated_at": "2025-03-27T07:32:15.80984Z",
+      "category_slugs": [
+        "translate"
+      ]
+    },
+    {
+      "id": "97a2b20d-928d-4fe1-acfb-b525a896c295",
+      "name": "GPT幫手(翻譯/摘要/潤飾)",
+      "slug": "gpt幫手-翻譯-摘要-潤飾",
+      "description": "Text processing tool with translation and summarization features",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt%E5%B9%AB%E6%89%8B-%E7%BF%BB%E8%AD%AF-%E6%91%98%E8%A6%81-%E6%BD%A4%E9%A3%BE.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt幫手翻譯摘要潤飾/gefkdjoflajblgigblmlemaldgobkkbl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-23T04:24:32Z",
+      "updated_at": "2025-03-27T07:33:03.780493Z",
+      "category_slugs": [
+        "translate"
+      ]
+    },
+    {
+      "id": "347f40b5-92f0-40d4-acfa-fc3a9be7aeb0",
+      "name": "GPU Finder",
+      "slug": "gpu-finder",
+      "description": "A website that helps customers find GPU instances from cloud providers globally.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpu-finder.png",
+      "website_url": "http://gpufinder.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-22T15:04:01Z",
+      "updated_at": "2025-03-27T03:20:43.643062Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b5ddb532-dfeb-40d1-8044-b16c42d40c37",
+      "name": "GabbyGPT",
+      "slug": "gabbygpt",
+      "description": "GabbyGPT is an AI voice assistant for WhatsApp, enabling seniors to send voice notes and chat with an AI companion.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gabbygpt.jpg",
+      "website_url": "https://www.gabbygpt.uk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-18T10:53:49Z",
+      "updated_at": "2025-03-27T07:27:58.464146Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-speech-recognition",
+        "ai-speech-synthesis",
+        "ai-voice-assistants",
+        "ai-voice-chat-generator",
+        "speech-to-text",
+        "text-to-speech",
+        "transcriber",
+        "transcription"
+      ]
+    },
+    {
+      "id": "8befcb51-3742-4abf-bfd8-b5959c73b89d",
+      "name": "GalacTex",
+      "slug": "galactex",
+      "description": "Enhance Overleaf with LLMs",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/galactex.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/galactex/mkkbiefcllablljdpkmcgmjkikobemjb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:41Z",
+      "updated_at": "2025-03-27T09:02:12.624935Z",
+      "category_slugs": [
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "f47bc368-f414-4b0c-9dec-0ec483581f4d",
+      "name": "Galactica",
+      "slug": "galactica",
+      "description": "Explore and interact with Galactica's machine learning model on Galactica Demo website.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/galactica.jpeg",
+      "website_url": "https://galactica.org?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-03-07T08:48:47Z",
+      "updated_at": "2025-03-27T09:06:55.931093Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    }
+  ]
+}

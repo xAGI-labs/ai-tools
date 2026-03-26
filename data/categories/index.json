@@ -1,0 +1,3841 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "items": [
+    {
+      "id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "name": "Other",
+      "slug": "other",
+      "description": "Main category for Other",
+      "level": 0,
+      "tool_count": 3685,
+      "first_page": "categories/other/page-0001.json"
+    },
+    {
+      "id": "6fe8853e-9051-457a-871d-07fa158a557b",
+      "name": "AI Content Generator",
+      "slug": "ai-content-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 3082,
+      "first_page": "categories/ai-content-generator/page-0001.json"
+    },
+    {
+      "id": "2243e86e-34e5-4317-a984-0c4dbfb95169",
+      "name": "AI Chatbot",
+      "slug": "ai-chatbot",
+      "description": "Tools in the AI Chatbot category",
+      "level": 0,
+      "tool_count": 2517,
+      "first_page": "categories/ai-chatbot/page-0001.json"
+    },
+    {
+      "id": "df9717ab-8bad-4b64-8787-21479a30653a",
+      "name": "Writing Assistants",
+      "slug": "writing-assistants",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 2411,
+      "first_page": "categories/writing-assistants/page-0001.json"
+    },
+    {
+      "id": "22e8b5fc-eb17-4461-a5cb-61bd702f0ee9",
+      "name": "AI Analytics Assistant",
+      "slug": "ai-analytics-assistant",
+      "description": "Tools in the AI Analytics Assistant category",
+      "level": 0,
+      "tool_count": 1968,
+      "first_page": "categories/ai-analytics-assistant/page-0001.json"
+    },
+    {
+      "id": "86f91e66-cb5e-4d0a-8471-fd2b6968733c",
+      "name": "Large Language Models (LLMs)",
+      "slug": "large-language-models-(llms)",
+      "description": "Tools in the Large Language Models (LLMs) category",
+      "level": 0,
+      "tool_count": 1748,
+      "first_page": "categories/large-language-models-(llms)/page-0001.json"
+    },
+    {
+      "id": "cea672dd-e6c2-4c7c-a5cc-2f7c89084f74",
+      "name": "AI Photo \u0026 Image Generator",
+      "slug": "ai-photo-image-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 1601,
+      "first_page": "categories/ai-photo-image-generator/page-0001.json"
+    },
+    {
+      "id": "9c7f2981-a860-42dc-9217-8f05e275f81e",
+      "name": "AI Product Description Generator",
+      "slug": "ai-product-description-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 1458,
+      "first_page": "categories/ai-product-description-generator/page-0001.json"
+    },
+    {
+      "id": "0d2b0917-c95c-4e66-96f3-8ee462ecd0fb",
+      "name": "AI Response Generator",
+      "slug": "ai-response-generator",
+      "description": "Tools in the AI Response Generator category",
+      "level": 0,
+      "tool_count": 1133,
+      "first_page": "categories/ai-response-generator/page-0001.json"
+    },
+    {
+      "id": "eb13abcb-e74f-4932-908b-d24a27a86056",
+      "name": "AI Reply Assistant",
+      "slug": "ai-reply-assistant",
+      "description": "Tools in the AI Reply Assistant category",
+      "level": 0,
+      "tool_count": 1126,
+      "first_page": "categories/ai-reply-assistant/page-0001.json"
+    },
+    {
+      "id": "c6a8f4a4-75c5-43b7-9aa7-166365b9750a",
+      "name": "Summarizer",
+      "slug": "summarizer",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 1019,
+      "first_page": "categories/summarizer/page-0001.json"
+    },
+    {
+      "id": "7bab753c-7b60-4b36-96db-6aafc276c40f",
+      "name": "AI Customer Service Assistant",
+      "slug": "ai-customer-service-assistant",
+      "description": "Tools in the AI Customer Service Assistant category",
+      "level": 0,
+      "tool_count": 1011,
+      "first_page": "categories/ai-customer-service-assistant/page-0001.json"
+    },
+    {
+      "id": "d63e8798-e892-4a75-91a9-ac351da89378",
+      "name": "AI Lead Generation",
+      "slug": "ai-lead-generation",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 992,
+      "first_page": "categories/ai-lead-generation/page-0001.json"
+    },
+    {
+      "id": "6c7eb5dc-eeb9-4a77-82bb-32f2b298815c",
+      "name": "AI Art Generator",
+      "slug": "ai-art-generator",
+      "description": "Tools in the AI Art Generator category",
+      "level": 0,
+      "tool_count": 989,
+      "first_page": "categories/ai-art-generator/page-0001.json"
+    },
+    {
+      "id": "f6c56601-9a04-481a-851f-5ac11a3f8eaf",
+      "name": "AI Accessibility Tools",
+      "slug": "ai-accessibility-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 985,
+      "first_page": "categories/ai-accessibility-tools/page-0001.json"
+    },
+    {
+      "id": "fa39a31b-4633-420b-8447-9ee251682e0a",
+      "name": "AI Social Media Assistant",
+      "slug": "ai-social-media-assistant",
+      "description": "Tools in the AI Social Media Assistant category",
+      "level": 0,
+      "tool_count": 974,
+      "first_page": "categories/ai-social-media-assistant/page-0001.json"
+    },
+    {
+      "id": "03153c99-3973-4020-9726-27be76ca5fff",
+      "name": "AI Productivity Tools",
+      "slug": "ai-productivity-tools",
+      "description": "Tools in the AI Productivity Tools category",
+      "level": 0,
+      "tool_count": 909,
+      "first_page": "categories/ai-productivity-tools/page-0001.json"
+    },
+    {
+      "id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "name": "3D",
+      "slug": "3d",
+      "description": "Main category for 3D",
+      "level": 0,
+      "tool_count": 826,
+      "first_page": "categories/3d/page-0001.json"
+    },
+    {
+      "id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "name": "Text \u0026 Writing",
+      "slug": "text-writing",
+      "description": "Main category for Text \u0026 Writing",
+      "level": 0,
+      "tool_count": 823,
+      "first_page": "categories/text-writing/page-0001.json"
+    },
+    {
+      "id": "73e8930e-1ff6-4f5b-80ac-885e51bf9da5",
+      "name": "General Writing",
+      "slug": "general-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 809,
+      "first_page": "categories/general-writing/page-0001.json"
+    },
+    {
+      "id": "7406e0e4-a9b3-435b-b3a2-6e8d9823411b",
+      "name": "AI Email Assistant",
+      "slug": "ai-email-assistant",
+      "description": "Tools in the AI Email Assistant category",
+      "level": 0,
+      "tool_count": 797,
+      "first_page": "categories/ai-email-assistant/page-0001.json"
+    },
+    {
+      "id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "name": "Design \u0026 Art",
+      "slug": "design-art",
+      "description": "Main category for Design \u0026 Art",
+      "level": 0,
+      "tool_count": 779,
+      "first_page": "categories/design-art/page-0001.json"
+    },
+    {
+      "id": "16c49dff-6bd4-4a8b-aa44-abc46033529a",
+      "name": "Photo \u0026 Image Editor",
+      "slug": "photo-image-editor",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 756,
+      "first_page": "categories/photo-image-editor/page-0001.json"
+    },
+    {
+      "id": "5b94b5bd-e32d-484e-aba5-7936709259e4",
+      "name": "AI 3D Animation",
+      "slug": "ai-3d-animation",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 748,
+      "first_page": "categories/ai-3d-animation/page-0001.json"
+    },
+    {
+      "id": "fdc577e1-d89c-4a96-ad52-2e06227d7f08",
+      "name": "Text to Image",
+      "slug": "text-to-image",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 743,
+      "first_page": "categories/text-to-image/page-0001.json"
+    },
+    {
+      "id": "da16a007-02e8-473d-8bed-002ad3cac0d7",
+      "name": "Copywriting",
+      "slug": "copywriting",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 719,
+      "first_page": "categories/copywriting/page-0001.json"
+    },
+    {
+      "id": "0e40262c-cd15-45fe-8691-19a81ee764ec",
+      "name": "AI Blog Writer",
+      "slug": "ai-blog-writer",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 698,
+      "first_page": "categories/ai-blog-writer/page-0001.json"
+    },
+    {
+      "id": "307de2c8-b12f-4f98-a698-398934a9a318",
+      "name": "AI Email Writer",
+      "slug": "ai-email-writer",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 670,
+      "first_page": "categories/ai-email-writer/page-0001.json"
+    },
+    {
+      "id": "02160755-3e56-4fb0-bd35-7de6be51a515",
+      "name": "AI SEO Assistant",
+      "slug": "ai-seo-assistant",
+      "description": "Tools in the AI SEO Assistant category",
+      "level": 0,
+      "tool_count": 635,
+      "first_page": "categories/ai-seo-assistant/page-0001.json"
+    },
+    {
+      "id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "name": "Business",
+      "slug": "business",
+      "description": "Main category for Business",
+      "level": 0,
+      "tool_count": 634,
+      "first_page": "categories/business/page-0001.json"
+    },
+    {
+      "id": "af222d61-0174-40dc-bbf2-a0a24e7818f3",
+      "name": "AI Email Marketing",
+      "slug": "ai-email-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 622,
+      "first_page": "categories/ai-email-marketing/page-0001.json"
+    },
+    {
+      "id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "name": "Image",
+      "slug": "image",
+      "description": "Main category for Image",
+      "level": 0,
+      "tool_count": 582,
+      "first_page": "categories/image/page-0001.json"
+    },
+    {
+      "id": "620c8082-c9f5-4458-9b88-9a43aa50a08e",
+      "name": "AI Knowledge Base",
+      "slug": "ai-knowledge-base",
+      "description": "Tools in the AI Knowledge Base category",
+      "level": 0,
+      "tool_count": 558,
+      "first_page": "categories/ai-knowledge-base/page-0001.json"
+    },
+    {
+      "id": "4dba923d-3324-4396-9b2b-e452f823ebd9",
+      "name": "AI Design Generator",
+      "slug": "ai-design-generator",
+      "description": "Tools in the AI Design Generator category",
+      "level": 0,
+      "tool_count": 555,
+      "first_page": "categories/ai-design-generator/page-0001.json"
+    },
+    {
+      "id": "063a368c-a3af-4c5c-ab9d-71f3499abbcd",
+      "name": "Sales Assistant",
+      "slug": "sales-assistant",
+      "description": "Tools in the Sales Assistant category",
+      "level": 0,
+      "tool_count": 548,
+      "first_page": "categories/sales-assistant/page-0001.json"
+    },
+    {
+      "id": "d1f169b4-9bad-4d61-9181-2c53173b4509",
+      "name": "AI 3D Design",
+      "slug": "ai-3d-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 543,
+      "first_page": "categories/ai-3d-design/page-0001.json"
+    },
+    {
+      "id": "f236f9b6-e9b0-4f11-8a69-51aa9c2e287f",
+      "name": "AI Workflow Management",
+      "slug": "ai-workflow-management",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 543,
+      "first_page": "categories/ai-workflow-management/page-0001.json"
+    },
+    {
+      "id": "8966c972-ace3-44be-a381-edcd96ae71cf",
+      "name": "AI Ad Generator",
+      "slug": "ai-ad-generator",
+      "description": "Tools in the AI Ad Generator category",
+      "level": 0,
+      "tool_count": 539,
+      "first_page": "categories/ai-ad-generator/page-0001.json"
+    },
+    {
+      "id": "c6147106-aef6-4944-93a4-df4d27ab535c",
+      "name": "AI Rewriter",
+      "slug": "ai-rewriter",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 524,
+      "first_page": "categories/ai-rewriter/page-0001.json"
+    },
+    {
+      "id": "e461b098-6a73-4692-9ed7-dad8224ec76b",
+      "name": "AI Ad Creative Assistant",
+      "slug": "ai-ad-creative-assistant",
+      "description": "Tools in the AI Ad Creative Assistant category",
+      "level": 0,
+      "tool_count": 512,
+      "first_page": "categories/ai-ad-creative-assistant/page-0001.json"
+    },
+    {
+      "id": "481776be-155d-4d05-8305-b33c05bcbfc3",
+      "name": "Transcription",
+      "slug": "transcription",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 501,
+      "first_page": "categories/transcription/page-0001.json"
+    },
+    {
+      "id": "5f8fdff3-a3f5-44be-8e62-8143b8476a16",
+      "name": "Translate",
+      "slug": "translate",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 501,
+      "first_page": "categories/translate/page-0001.json"
+    },
+    {
+      "id": "344f6b37-d55a-4193-bcef-4bfa9afd81e5",
+      "name": "AI Code Assistant",
+      "slug": "ai-code-assistant",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 500,
+      "first_page": "categories/ai-code-assistant/page-0001.json"
+    },
+    {
+      "id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "name": "Video",
+      "slug": "video",
+      "description": "Main category for Video",
+      "level": 0,
+      "tool_count": 491,
+      "first_page": "categories/video/page-0001.json"
+    },
+    {
+      "id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "name": "Chatbot",
+      "slug": "chatbot",
+      "description": "Main category for Chatbot",
+      "level": 0,
+      "tool_count": 487,
+      "first_page": "categories/chatbot/page-0001.json"
+    },
+    {
+      "id": "1f8228c7-846f-4f56-9a6d-dedeeedc7b99",
+      "name": "AI Graphic Design",
+      "slug": "ai-graphic-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 485,
+      "first_page": "categories/ai-graphic-design/page-0001.json"
+    },
+    {
+      "id": "b2bcbef5-f760-45cc-a58a-090d75252d3d",
+      "name": "AI Photo Enhancer",
+      "slug": "ai-photo-enhancer",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 484,
+      "first_page": "categories/ai-photo-enhancer/page-0001.json"
+    },
+    {
+      "id": "9089a97d-e2e6-4884-994f-cb75f1a92fff",
+      "name": "Image to Image",
+      "slug": "image-to-image",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 481,
+      "first_page": "categories/image-to-image/page-0001.json"
+    },
+    {
+      "id": "dbb0a2f0-fc72-4a7a-9ec6-fb67bbf31eff",
+      "name": "AI Developer Tools",
+      "slug": "ai-developer-tools",
+      "description": "Tools in the AI Developer Tools category",
+      "level": 0,
+      "tool_count": 480,
+      "first_page": "categories/ai-developer-tools/page-0001.json"
+    },
+    {
+      "id": "0cdf0f9b-b18d-45a8-a06c-ca951ef79228",
+      "name": "AI Creative Writing",
+      "slug": "ai-creative-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 471,
+      "first_page": "categories/ai-creative-writing/page-0001.json"
+    },
+    {
+      "id": "dca8330e-cbcd-4dff-b710-8bdf6d6a833a",
+      "name": "Paraphraser",
+      "slug": "paraphraser",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 465,
+      "first_page": "categories/paraphraser/page-0001.json"
+    },
+    {
+      "id": "a2cca37f-db01-493f-aa3f-187c01d5506b",
+      "name": "AI Tools Directory",
+      "slug": "ai-tools-directory",
+      "description": "Tools in the AI Tools Directory category",
+      "level": 0,
+      "tool_count": 462,
+      "first_page": "categories/ai-tools-directory/page-0001.json"
+    },
+    {
+      "id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "name": "Life Assistant",
+      "slug": "life-assistant",
+      "description": "Main category for Life Assistant",
+      "level": 0,
+      "tool_count": 457,
+      "first_page": "categories/life-assistant/page-0001.json"
+    },
+    {
+      "id": "fa55228a-9328-45e2-a08d-716864449a8e",
+      "name": "AI Email Generator",
+      "slug": "ai-email-generator",
+      "description": "Tools in the AI Email Generator category",
+      "level": 0,
+      "tool_count": 444,
+      "first_page": "categories/ai-email-generator/page-0001.json"
+    },
+    {
+      "id": "473348e8-c0f3-4476-b4f3-3578a06f4a55",
+      "name": "AI YouTube Assistant",
+      "slug": "ai-youtube-assistant",
+      "description": "Tools in the AI YouTube Assistant category",
+      "level": 0,
+      "tool_count": 434,
+      "first_page": "categories/ai-youtube-assistant/page-0001.json"
+    },
+    {
+      "id": "0b95af26-2213-45f8-bbae-b72208f1cc38",
+      "name": "AI Website Builder",
+      "slug": "ai-website-builder",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 433,
+      "first_page": "categories/ai-website-builder/page-0001.json"
+    },
+    {
+      "id": "f651deab-b5f8-4e65-a668-d0f41bbd6c36",
+      "name": "AI Education Assistant",
+      "slug": "ai-education-assistant",
+      "description": "Tools in the AI Education Assistant category",
+      "level": 0,
+      "tool_count": 430,
+      "first_page": "categories/ai-education-assistant/page-0001.json"
+    },
+    {
+      "id": "60163625-2b86-4797-b2c6-25ddd25d24cc",
+      "name": "AI Task Management",
+      "slug": "ai-task-management",
+      "description": "Tools in the AI Task Management category",
+      "level": 0,
+      "tool_count": 424,
+      "first_page": "categories/ai-task-management/page-0001.json"
+    },
+    {
+      "id": "4ea0aa06-4e98-4100-9424-ca495e8f446c",
+      "name": "AI Story Writing",
+      "slug": "ai-story-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 422,
+      "first_page": "categories/ai-story-writing/page-0001.json"
+    },
+    {
+      "id": "a49d8649-a1b4-4c56-9035-c908a29d6827",
+      "name": "Transcriber",
+      "slug": "transcriber",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 419,
+      "first_page": "categories/transcriber/page-0001.json"
+    },
+    {
+      "id": "722752ef-bb54-46ee-805d-b7379bd1006a",
+      "name": "AI CRM Assistant",
+      "slug": "ai-crm-assistant",
+      "description": "Tools in the AI CRM Assistant category",
+      "level": 0,
+      "tool_count": 409,
+      "first_page": "categories/ai-crm-assistant/page-0001.json"
+    },
+    {
+      "id": "076a155f-1927-46d6-b839-520ee06cc948",
+      "name": "Captions or Subtitle",
+      "slug": "captions-or-subtitle",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 401,
+      "first_page": "categories/captions-or-subtitle/page-0001.json"
+    },
+    {
+      "id": "c043444d-24bc-4370-9df6-b572255bc0ac",
+      "name": "Speech-to-Text",
+      "slug": "speech-to-text",
+      "description": "Tools in the Speech-to-Text category",
+      "level": 0,
+      "tool_count": 399,
+      "first_page": "categories/speech-to-text/page-0001.json"
+    },
+    {
+      "id": "3b480047-7a4e-4299-a309-fdf4e729a15e",
+      "name": "AI Video Generator",
+      "slug": "ai-video-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 381,
+      "first_page": "categories/ai-video-generator/page-0001.json"
+    },
+    {
+      "id": "df6e65a6-e710-4564-8379-4be88f9d1507",
+      "name": "AI Illustration Generator",
+      "slug": "ai-illustration-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 375,
+      "first_page": "categories/ai-illustration-generator/page-0001.json"
+    },
+    {
+      "id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "name": "Marketing",
+      "slug": "marketing",
+      "description": "Main category for Marketing",
+      "level": 0,
+      "tool_count": 375,
+      "first_page": "categories/marketing/page-0001.json"
+    },
+    {
+      "id": "462b0575-c3a1-4a99-b705-20fdb8b3843c",
+      "name": "No-Code \u0026 Low-Code",
+      "slug": "no-code-low-code",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 362,
+      "first_page": "categories/no-code-low-code/page-0001.json"
+    },
+    {
+      "id": "46840c2f-3adf-4dfe-afa0-d4bd08c18157",
+      "name": "AI Knowledge Management",
+      "slug": "ai-knowledge-management",
+      "description": "Tools in the AI Knowledge Management category",
+      "level": 0,
+      "tool_count": 353,
+      "first_page": "categories/ai-knowledge-management/page-0001.json"
+    },
+    {
+      "id": "edbbdf27-b852-4ed6-9b27-f37c5ed7544d",
+      "name": "AI Image Enhancer",
+      "slug": "ai-image-enhancer",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 352,
+      "first_page": "categories/ai-image-enhancer/page-0001.json"
+    },
+    {
+      "id": "b780cfe2-da6c-4252-ab62-aa91dc323bc0",
+      "name": "AI Character",
+      "slug": "ai-character",
+      "description": "Tools in the AI Character category",
+      "level": 0,
+      "tool_count": 351,
+      "first_page": "categories/ai-character/page-0001.json"
+    },
+    {
+      "id": "cb0dcc5a-e030-44f8-836d-8c003d3cbd84",
+      "name": "Prompt",
+      "slug": "prompt",
+      "description": "Main category for Prompt",
+      "level": 0,
+      "tool_count": 351,
+      "first_page": "categories/prompt/page-0001.json"
+    },
+    {
+      "id": "b61521ad-7e92-49ff-9a99-02d52d62d46f",
+      "name": "AI Project Management",
+      "slug": "ai-project-management",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 350,
+      "first_page": "categories/ai-project-management/page-0001.json"
+    },
+    {
+      "id": "15265ed0-fadc-464b-b577-ce49f01b01bb",
+      "name": "Research Tool",
+      "slug": "research-tool",
+      "description": "Tools in the Research Tool category",
+      "level": 0,
+      "tool_count": 348,
+      "first_page": "categories/research-tool/page-0001.json"
+    },
+    {
+      "id": "ac0774e2-ba79-4e76-a1cb-9783e8ac6577",
+      "name": "E-commerce Assistant",
+      "slug": "e-commerce-assistant",
+      "description": "Tools in the E-commerce Assistant category",
+      "level": 0,
+      "tool_count": 340,
+      "first_page": "categories/e-commerce-assistant/page-0001.json"
+    },
+    {
+      "id": "9732486a-0a36-4eff-bfcc-0b905a68bf3b",
+      "name": "Essay Writer",
+      "slug": "essay-writer",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 340,
+      "first_page": "categories/essay-writer/page-0001.json"
+    },
+    {
+      "id": "cde5020b-6835-4175-a7de-2f8b4b464cb0",
+      "name": "Design Assistant",
+      "slug": "design-assistant",
+      "description": "Tools in the Design Assistant category",
+      "level": 0,
+      "tool_count": 339,
+      "first_page": "categories/design-assistant/page-0001.json"
+    },
+    {
+      "id": "ce1d89fe-0771-4d59-b582-2856bae12c5f",
+      "name": "AI Code Generator",
+      "slug": "ai-code-generator",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 337,
+      "first_page": "categories/ai-code-generator/page-0001.json"
+    },
+    {
+      "id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "name": "Education",
+      "slug": "education",
+      "description": "Main category for Education",
+      "level": 0,
+      "tool_count": 337,
+      "first_page": "categories/education/page-0001.json"
+    },
+    {
+      "id": "236ff05c-5144-4bcd-b843-ec1d40d1e98b",
+      "name": "AI Image Recognition",
+      "slug": "ai-image-recognition",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 332,
+      "first_page": "categories/ai-image-recognition/page-0001.json"
+    },
+    {
+      "id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "name": "Productivity",
+      "slug": "productivity",
+      "description": "Main category for Productivity",
+      "level": 0,
+      "tool_count": 330,
+      "first_page": "categories/productivity/page-0001.json"
+    },
+    {
+      "id": "694edf6e-e7ae-4b5f-ac99-2fb20fd7873d",
+      "name": "AI Prompt Generator",
+      "slug": "ai-prompt-generator",
+      "description": "Subcategory of Prompt",
+      "parent_id": "cb0dcc5a-e030-44f8-836d-8c003d3cbd84",
+      "level": 1,
+      "tool_count": 327,
+      "first_page": "categories/ai-prompt-generator/page-0001.json"
+    },
+    {
+      "id": "7d02ac3b-5d3f-474f-b369-67949e3025d2",
+      "name": "AI Avatar Generator",
+      "slug": "ai-avatar-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 316,
+      "first_page": "categories/ai-avatar-generator/page-0001.json"
+    },
+    {
+      "id": "bb493b1e-d454-403c-9bc3-67ea58c2e306",
+      "name": "AI Website Designer",
+      "slug": "ai-website-designer",
+      "description": "Tools in the AI Website Designer category",
+      "level": 0,
+      "tool_count": 315,
+      "first_page": "categories/ai-website-designer/page-0001.json"
+    },
+    {
+      "id": "cf2271c2-9b7f-4fa5-9c77-fafd8d027c34",
+      "name": "AI Chatbot Builder",
+      "slug": "ai-chatbot-builder",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 314,
+      "first_page": "categories/ai-chatbot-builder/page-0001.json"
+    },
+    {
+      "id": "064dadf4-aa8b-4211-8488-caa8de154b1f",
+      "name": "AI Profile Picture Generator",
+      "slug": "ai-profile-picture-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 311,
+      "first_page": "categories/ai-profile-picture-generator/page-0001.json"
+    },
+    {
+      "id": "9d3cc5c3-81b9-495b-9ac7-505740403b97",
+      "name": "Report Writing",
+      "slug": "report-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 304,
+      "first_page": "categories/report-writing/page-0001.json"
+    },
+    {
+      "id": "f3f82d19-8fd6-4989-8ebc-616baa2b59d7",
+      "name": "AI Instagram Assistant",
+      "slug": "ai-instagram-assistant",
+      "description": "Tools in the AI Instagram Assistant category",
+      "level": 0,
+      "tool_count": 298,
+      "first_page": "categories/ai-instagram-assistant/page-0001.json"
+    },
+    {
+      "id": "79249c67-d2e8-4955-9e13-14385c905e2a",
+      "name": "Text to Video",
+      "slug": "text-to-video",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 298,
+      "first_page": "categories/text-to-video/page-0001.json"
+    },
+    {
+      "id": "1039b2cd-64ef-41e4-afa6-2e491a826857",
+      "name": "AI Notes Assistant",
+      "slug": "ai-notes-assistant",
+      "description": "Tools in the AI Notes Assistant category",
+      "level": 0,
+      "tool_count": 296,
+      "first_page": "categories/ai-notes-assistant/page-0001.json"
+    },
+    {
+      "id": "46792aa7-2f91-4940-b67c-982002a8e075",
+      "name": "AI Tutorial",
+      "slug": "ai-tutorial",
+      "description": "Tools in the AI Tutorial category",
+      "level": 0,
+      "tool_count": 293,
+      "first_page": "categories/ai-tutorial/page-0001.json"
+    },
+    {
+      "id": "51f33cc6-093f-4454-85e4-cc84b0d793b4",
+      "name": "AI Team Collaboration",
+      "slug": "ai-team-collaboration",
+      "description": "Tools in the AI Team Collaboration category",
+      "level": 0,
+      "tool_count": 288,
+      "first_page": "categories/ai-team-collaboration/page-0001.json"
+    },
+    {
+      "id": "6b7c8add-cae4-469e-ad3d-4d5856ca1c51",
+      "name": "AI Voice Assistants",
+      "slug": "ai-voice-assistants",
+      "level": 0,
+      "tool_count": 286,
+      "first_page": "categories/ai-voice-assistants/page-0001.json"
+    },
+    {
+      "id": "21e5ed89-3eae-4321-b8e3-aa49147bfb18",
+      "name": "AI Video Editor",
+      "slug": "ai-video-editor",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 283,
+      "first_page": "categories/ai-video-editor/page-0001.json"
+    },
+    {
+      "id": "e8dc2b4d-ac65-4b35-856d-6ec0e714f71c",
+      "name": "AI Speech Recognition",
+      "slug": "ai-speech-recognition",
+      "description": "Tools in the AI Speech Recognition category",
+      "level": 0,
+      "tool_count": 281,
+      "first_page": "categories/ai-speech-recognition/page-0001.json"
+    },
+    {
+      "id": "23909ba1-c705-43a6-a98a-0eda6034d53f",
+      "name": "AI Animated Video",
+      "slug": "ai-animated-video",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 277,
+      "first_page": "categories/ai-animated-video/page-0001.json"
+    },
+    {
+      "id": "a3ee7e74-ca87-4a33-8b11-9260ec5466d4",
+      "name": "AI Document Extraction",
+      "slug": "ai-document-extraction",
+      "description": "Tools in the AI Document Extraction category",
+      "level": 0,
+      "tool_count": 277,
+      "first_page": "categories/ai-document-extraction/page-0001.json"
+    },
+    {
+      "id": "bd2e8adc-508b-4abb-aeee-7aaea7a94249",
+      "name": "AI Script Writing",
+      "slug": "ai-script-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 277,
+      "first_page": "categories/ai-script-writing/page-0001.json"
+    },
+    {
+      "id": "1dc8ad3c-97ae-4e8c-a6b0-d5cfada4d269",
+      "name": "AI Background Generator",
+      "slug": "ai-background-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 274,
+      "first_page": "categories/ai-background-generator/page-0001.json"
+    },
+    {
+      "id": "579fa69c-c972-4b0f-9392-6e56da8e9638",
+      "name": "AI Recruiting",
+      "slug": "ai-recruiting",
+      "description": "Tools in the AI Recruiting category",
+      "level": 0,
+      "tool_count": 269,
+      "first_page": "categories/ai-recruiting/page-0001.json"
+    },
+    {
+      "id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "name": "Code \u0026 IT",
+      "slug": "code-it",
+      "description": "Main category for Code \u0026 IT",
+      "level": 0,
+      "tool_count": 267,
+      "first_page": "categories/code-it/page-0001.json"
+    },
+    {
+      "id": "2ea6d9e8-1f99-4990-9e06-373d8cfc65f3",
+      "name": "AI App Builder",
+      "slug": "ai-app-builder",
+      "description": "Tools in the AI App Builder category",
+      "level": 0,
+      "tool_count": 262,
+      "first_page": "categories/ai-app-builder/page-0001.json"
+    },
+    {
+      "id": "78f66a74-32d0-40a4-b1ef-4a2d8ffbfe16",
+      "name": "Text-to-Speech",
+      "slug": "text-to-speech",
+      "description": "Tools in the Text-to-Speech category",
+      "level": 0,
+      "tool_count": 257,
+      "first_page": "categories/text-to-speech/page-0001.json"
+    },
+    {
+      "id": "dca781b8-58a9-4c97-8b66-2fc766f2de01",
+      "name": "Letter Writer",
+      "slug": "letter-writer",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 254,
+      "first_page": "categories/letter-writer/page-0001.json"
+    },
+    {
+      "id": "186b7573-54e2-4839-86e8-de9db52041d4",
+      "name": "AI PDF",
+      "slug": "ai-pdf",
+      "description": "Tools in the AI PDF category",
+      "level": 0,
+      "tool_count": 251,
+      "first_page": "categories/ai-pdf/page-0001.json"
+    },
+    {
+      "id": "5dd376ba-3367-4fbc-ae25-8dc669448391",
+      "name": "AI Scheduling",
+      "slug": "ai-scheduling",
+      "description": "Tools in the AI Scheduling category",
+      "level": 0,
+      "tool_count": 251,
+      "first_page": "categories/ai-scheduling/page-0001.json"
+    },
+    {
+      "id": "65a68af9-7ac8-419f-9cc0-6151fa6e0d66",
+      "name": "AI Grammar Checker",
+      "slug": "ai-grammar-checker",
+      "description": "Tools in the AI Grammar Checker category",
+      "level": 0,
+      "tool_count": 248,
+      "first_page": "categories/ai-grammar-checker/page-0001.json"
+    },
+    {
+      "id": "4760662a-597a-49cd-abf9-b43d3e8bff8b",
+      "name": "AI Music Generator",
+      "slug": "ai-music-generator",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 248,
+      "first_page": "categories/ai-music-generator/page-0001.json"
+    },
+    {
+      "id": "972f2d8e-f627-43ac-96ed-276feb91ffc7",
+      "name": "AI Repurpose Assistant",
+      "slug": "ai-repurpose-assistant",
+      "description": "Tools in the AI Repurpose Assistant category",
+      "level": 0,
+      "tool_count": 248,
+      "first_page": "categories/ai-repurpose-assistant/page-0001.json"
+    },
+    {
+      "id": "bf9b3d0b-7f73-4288-b2dd-07845a46f2a0",
+      "name": "AI Meeting Assistant",
+      "slug": "ai-meeting-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 244,
+      "first_page": "categories/ai-meeting-assistant/page-0001.json"
+    },
+    {
+      "id": "e3153768-9407-404d-b830-26e8385eed27",
+      "name": "AI Dating Assistant",
+      "slug": "ai-dating-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 242,
+      "first_page": "categories/ai-dating-assistant/page-0001.json"
+    },
+    {
+      "id": "d16c54de-6c31-4e71-b677-9445120fa306",
+      "name": "AI Selfie \u0026 Portrait",
+      "slug": "ai-selfie-portrait",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 238,
+      "first_page": "categories/ai-selfie-portrait/page-0001.json"
+    },
+    {
+      "id": "d118fee7-9edf-480e-9fc9-96012134a092",
+      "name": "AI Twitter Assistant",
+      "slug": "ai-twitter-assistant",
+      "description": "Tools in the AI Twitter Assistant category",
+      "level": 0,
+      "tool_count": 238,
+      "first_page": "categories/ai-twitter-assistant/page-0001.json"
+    },
+    {
+      "id": "3ece6b85-3ee1-4e82-aab8-5014fbc11298",
+      "name": "AI Book Writing",
+      "slug": "ai-book-writing",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 232,
+      "first_page": "categories/ai-book-writing/page-0001.json"
+    },
+    {
+      "id": "58248da7-a33f-46e5-8578-324daf88d67d",
+      "name": "AI Podcast Assistant",
+      "slug": "ai-podcast-assistant",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 232,
+      "first_page": "categories/ai-podcast-assistant/page-0001.json"
+    },
+    {
+      "id": "edf28f65-ad43-4f38-b0a4-5dce78d1ae72",
+      "name": "AI Cooking Assistant",
+      "slug": "ai-cooking-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 230,
+      "first_page": "categories/ai-cooking-assistant/page-0001.json"
+    },
+    {
+      "id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "name": "Voice",
+      "slug": "voice",
+      "description": "Main category for Voice",
+      "level": 0,
+      "tool_count": 228,
+      "first_page": "categories/voice/page-0001.json"
+    },
+    {
+      "id": "1c0b5f68-a7be-4378-b244-e682a25dd3f7",
+      "name": "Image to Video",
+      "slug": "image-to-video",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 226,
+      "first_page": "categories/image-to-video/page-0001.json"
+    },
+    {
+      "id": "97a8d63f-5a84-456c-84dd-8705feb2f746",
+      "name": "AI Reviews Assistant",
+      "slug": "ai-reviews-assistant",
+      "description": "Tools in the AI Reviews Assistant category",
+      "level": 0,
+      "tool_count": 224,
+      "first_page": "categories/ai-reviews-assistant/page-0001.json"
+    },
+    {
+      "id": "ce1880a0-f0b0-42dc-a7bf-b39e9e16932b",
+      "name": "AI Search Engine",
+      "slug": "ai-search-engine",
+      "description": "Tools in the AI Search Engine category",
+      "level": 0,
+      "tool_count": 216,
+      "first_page": "categories/ai-search-engine/page-0001.json"
+    },
+    {
+      "id": "a11bb209-42c8-4df5-aedc-351eee680f15",
+      "name": "Papers",
+      "slug": "papers",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 216,
+      "first_page": "categories/papers/page-0001.json"
+    },
+    {
+      "id": "bdfc7f07-a8ed-45a0-bedb-9c5878697bd5",
+      "name": "AI Landing Page Builder",
+      "slug": "ai-landing-page-builder",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 212,
+      "first_page": "categories/ai-landing-page-builder/page-0001.json"
+    },
+    {
+      "id": "c459f197-45ce-47d0-a6ab-b35b7462ba72",
+      "name": "AI Video Recording",
+      "slug": "ai-video-recording",
+      "description": "Tools in the AI Video Recording category",
+      "level": 0,
+      "tool_count": 212,
+      "first_page": "categories/ai-video-recording/page-0001.json"
+    },
+    {
+      "id": "39eaedcf-5245-439b-8abe-8c04dd146b73",
+      "name": "AI Cover Generator",
+      "slug": "ai-cover-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 211,
+      "first_page": "categories/ai-cover-generator/page-0001.json"
+    },
+    {
+      "id": "c4115a58-36c9-42f9-9653-50b2ddfc34a2",
+      "name": "AI Tiktok Assistant",
+      "slug": "ai-tiktok-assistant",
+      "description": "Tools in the AI Tiktok Assistant category",
+      "level": 0,
+      "tool_count": 207,
+      "first_page": "categories/ai-tiktok-assistant/page-0001.json"
+    },
+    {
+      "id": "333a7c3f-e899-411a-9c31-c3347f835d29",
+      "name": "AI Background Remover",
+      "slug": "ai-background-remover",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 202,
+      "first_page": "categories/ai-background-remover/page-0001.json"
+    },
+    {
+      "id": "6211f539-37a6-40f4-8ecb-c650df275416",
+      "name": "AI Interview Assistant",
+      "slug": "ai-interview-assistant",
+      "description": "Tools in the AI Interview Assistant category",
+      "level": 0,
+      "tool_count": 202,
+      "first_page": "categories/ai-interview-assistant/page-0001.json"
+    },
+    {
+      "id": "3987003f-af8d-4c94-9205-d699c7cdcccb",
+      "name": "AI Speech Synthesis",
+      "slug": "ai-speech-synthesis",
+      "description": "Tools in the AI Speech Synthesis category",
+      "level": 0,
+      "tool_count": 202,
+      "first_page": "categories/ai-speech-synthesis/page-0001.json"
+    },
+    {
+      "id": "a49486da-0738-47c0-afd5-1bbf83f28169",
+      "name": "Digital Marketing Generator",
+      "slug": "digital-marketing-generator",
+      "description": "Tools in the Digital Marketing Generator category",
+      "level": 0,
+      "tool_count": 202,
+      "first_page": "categories/digital-marketing-generator/page-0001.json"
+    },
+    {
+      "id": "5f93b7f5-151c-46e2-b2bd-dd609d1e8f38",
+      "name": "AI Facebook Assistant",
+      "slug": "ai-facebook-assistant",
+      "description": "Tools in the AI Facebook Assistant category",
+      "level": 0,
+      "tool_count": 197,
+      "first_page": "categories/ai-facebook-assistant/page-0001.json"
+    },
+    {
+      "id": "665e57c8-ee4e-4bcf-8829-07975a57f514",
+      "name": "AI Course",
+      "slug": "ai-course",
+      "description": "Tools in the AI Course category",
+      "level": 0,
+      "tool_count": 196,
+      "first_page": "categories/ai-course/page-0001.json"
+    },
+    {
+      "id": "0d638172-1cd1-4f78-8235-a65eed51250f",
+      "name": "Healthcare",
+      "slug": "healthcare",
+      "description": "Tools in the Healthcare category",
+      "level": 0,
+      "tool_count": 196,
+      "first_page": "categories/healthcare/page-0001.json"
+    },
+    {
+      "id": "c469836a-07bd-498e-ab49-cc5dcebe3bd8",
+      "name": "AI Banner Generator",
+      "slug": "ai-banner-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 191,
+      "first_page": "categories/ai-banner-generator/page-0001.json"
+    },
+    {
+      "id": "82a4ab81-d9cc-49f4-bf1a-c612e8a7b2bd",
+      "name": "Resume Builder",
+      "slug": "ai-resume-builder",
+      "description": "Tools in the Resume Builder category",
+      "level": 0,
+      "tool_count": 186,
+      "first_page": "categories/ai-resume-builder/page-0001.json"
+    },
+    {
+      "id": "3f5ce65b-c4cd-48bb-a5b1-1588b05da006",
+      "name": "AI Coaching",
+      "slug": "ai-coaching",
+      "description": "Tools in the AI Coaching category",
+      "level": 0,
+      "tool_count": 185,
+      "first_page": "categories/ai-coaching/page-0001.json"
+    },
+    {
+      "id": "93ec7679-8289-4392-8487-9286bb9eb211",
+      "name": "AI Logo Generator",
+      "slug": "ai-logo-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 184,
+      "first_page": "categories/ai-logo-generator/page-0001.json"
+    },
+    {
+      "id": "9eb15005-4b7d-40da-be36-131fddc80468",
+      "name": "AI Documents Assistant",
+      "slug": "ai-documents-assistant",
+      "description": "Tools in the AI Documents Assistant category",
+      "level": 0,
+      "tool_count": 176,
+      "first_page": "categories/ai-documents-assistant/page-0001.json"
+    },
+    {
+      "id": "4ccd16cc-c999-41a4-a8fa-de9ab91b13c4",
+      "name": "AI Content Detector",
+      "slug": "ai-content-detector",
+      "description": "Tools in the AI Content Detector category",
+      "level": 0,
+      "tool_count": 173,
+      "first_page": "categories/ai-content-detector/page-0001.json"
+    },
+    {
+      "id": "bb5ce1f3-7c59-4e85-bd43-2705ba24dc42",
+      "name": "Investing Assistant",
+      "slug": "investing-assistant",
+      "description": "Tools in the Investing Assistant category",
+      "level": 0,
+      "tool_count": 171,
+      "first_page": "categories/investing-assistant/page-0001.json"
+    },
+    {
+      "id": "6cf04376-bfe5-4501-94de-8a34d92dfe3d",
+      "name": "Video to Video",
+      "slug": "video-to-video",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 171,
+      "first_page": "categories/video-to-video/page-0001.json"
+    },
+    {
+      "id": "2cb51e34-c1ca-48af-82e3-fa9dddd2033a",
+      "name": "AI Knowledge Graph",
+      "slug": "ai-knowledge-graph",
+      "description": "Tools in the AI Knowledge Graph category",
+      "level": 0,
+      "tool_count": 167,
+      "first_page": "categories/ai-knowledge-graph/page-0001.json"
+    },
+    {
+      "id": "31e3d9db-b0ae-45b7-81e5-bb9d9ab77ca4",
+      "name": "AI Bio Generator",
+      "slug": "ai-bio-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 161,
+      "first_page": "categories/ai-bio-generator/page-0001.json"
+    },
+    {
+      "id": "01cae253-80fe-4df0-be30-c60051bb0f08",
+      "name": "AI Quizzes",
+      "slug": "ai-quizzes",
+      "description": "Tools in the AI Quizzes category",
+      "level": 0,
+      "tool_count": 160,
+      "first_page": "categories/ai-quizzes/page-0001.json"
+    },
+    {
+      "id": "073a3ae0-543f-4e5c-a9b8-89a3412c17b6",
+      "name": "Marketing Plan Generator",
+      "slug": "marketing-plan-generator",
+      "description": "Tools in the Marketing Plan Generator category",
+      "level": 0,
+      "tool_count": 159,
+      "first_page": "categories/marketing-plan-generator/page-0001.json"
+    },
+    {
+      "id": "beec9cf3-6d08-45e7-8fb3-9d657029b304",
+      "name": "AI Face Swap Generator",
+      "slug": "ai-face-swap-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 154,
+      "first_page": "categories/ai-face-swap-generator/page-0001.json"
+    },
+    {
+      "id": "680155bb-b11a-4406-9887-6e23eec6fe13",
+      "name": "AI Lyrics Generator",
+      "slug": "ai-lyrics-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 154,
+      "first_page": "categories/ai-lyrics-generator/page-0001.json"
+    },
+    {
+      "id": "110b6d1f-457a-4646-8e91-9c8b037b14dc",
+      "name": "AI Short Clips Generator",
+      "slug": "ai-short-clips-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 154,
+      "first_page": "categories/ai-short-clips-generator/page-0001.json"
+    },
+    {
+      "id": "8c62b658-bbbc-4aed-b374-08c8e3538878",
+      "name": "Mental Health",
+      "slug": "mental-health",
+      "description": "Tools in the Mental Health category",
+      "level": 0,
+      "tool_count": 153,
+      "first_page": "categories/mental-health/page-0001.json"
+    },
+    {
+      "id": "0f053c04-ce81-4d55-9788-4c515b18a6ec",
+      "name": "Homework Helper",
+      "slug": "ai-homework-helper",
+      "description": "Tools in the Homework Helper category",
+      "level": 0,
+      "tool_count": 149,
+      "first_page": "categories/ai-homework-helper/page-0001.json"
+    },
+    {
+      "id": "131b1875-93f4-49c9-95ac-26e46eb93eaa",
+      "name": "AI Video Search",
+      "slug": "ai-video-search",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 147,
+      "first_page": "categories/ai-video-search/page-0001.json"
+    },
+    {
+      "id": "cb7dab71-2da7-47ad-aa07-de78e0110c89",
+      "name": "AI Charting",
+      "slug": "ai-charting",
+      "description": "Tools in the AI Charting category",
+      "level": 0,
+      "tool_count": 146,
+      "first_page": "categories/ai-charting/page-0001.json"
+    },
+    {
+      "id": "5bfc6e20-5b17-4f9c-b1f5-8c01e8c20c00",
+      "name": "AI Monitor \u0026 Report Builder",
+      "slug": "ai-monitor-report-builder",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 146,
+      "first_page": "categories/ai-monitor-report-builder/page-0001.json"
+    },
+    {
+      "id": "8c2fd5a0-471e-4f2e-8efb-fcbf9e7efb06",
+      "name": "AI Wallpaper Generator",
+      "slug": "ai-wallpaper-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 145,
+      "first_page": "categories/ai-wallpaper-generator/page-0001.json"
+    },
+    {
+      "id": "74fa9ec7-f5f2-4434-afff-fca34275cf3c",
+      "name": "AI Consulting Assistant",
+      "slug": "ai-consulting-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 144,
+      "first_page": "categories/ai-consulting-assistant/page-0001.json"
+    },
+    {
+      "id": "9c020f9b-6734-4b9a-91a3-3c4aaaa1602b",
+      "name": "AI Anime \u0026 Cartoon Generator",
+      "slug": "ai-anime-cartoon-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 141,
+      "first_page": "categories/ai-anime-cartoon-generator/page-0001.json"
+    },
+    {
+      "id": "905f4431-7922-4125-a06d-ba0d19a7e77d",
+      "name": "AI Plagiarism Checker",
+      "slug": "ai-plagiarism-checker",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 141,
+      "first_page": "categories/ai-plagiarism-checker/page-0001.json"
+    },
+    {
+      "id": "5ae22aa1-e8ac-45ad-9638-70d944457d85",
+      "name": "AI Home Automation",
+      "slug": "ai-home-automation",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 140,
+      "first_page": "categories/ai-home-automation/page-0001.json"
+    },
+    {
+      "id": "03ef1e69-ded6-4165-9598-bfa237d27053",
+      "name": "Game",
+      "slug": "game",
+      "description": "Tools in the Game category",
+      "level": 0,
+      "tool_count": 140,
+      "first_page": "categories/game/page-0001.json"
+    },
+    {
+      "id": "d2c4858d-f2d0-4b74-804e-7a630def89a6",
+      "name": "AI Voice Cloning",
+      "slug": "ai-voice-cloning",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 138,
+      "first_page": "categories/ai-voice-cloning/page-0001.json"
+    },
+    {
+      "id": "dbc307b5-2805-4f93-b77c-a3a187daf8a8",
+      "name": "AI Data Mining",
+      "slug": "ai-data-mining",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 136,
+      "first_page": "categories/ai-data-mining/page-0001.json"
+    },
+    {
+      "id": "8f6cf6dd-bd06-46bd-a8f6-d3dc6eba5055",
+      "name": "Cover Letter Generator",
+      "slug": "ai-cover-letter-generator",
+      "description": "Tools in the Cover Letter Generator category",
+      "level": 0,
+      "tool_count": 136,
+      "first_page": "categories/ai-cover-letter-generator/page-0001.json"
+    },
+    {
+      "id": "655244d2-6e5e-494f-ae96-62d24302f4b7",
+      "name": "AI Architecture Design",
+      "slug": "ai-architecture-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 134,
+      "first_page": "categories/ai-architecture-design/page-0001.json"
+    },
+    {
+      "id": "772c3357-d22e-435b-91ee-987d8a0af6ba",
+      "name": "Newsletter",
+      "slug": "newsletter",
+      "description": "Tools in the Newsletter category",
+      "level": 0,
+      "tool_count": 133,
+      "first_page": "categories/newsletter/page-0001.json"
+    },
+    {
+      "id": "4d28da3c-906f-48d9-872c-cff12ba54ef0",
+      "name": "AI Presentation Generator",
+      "slug": "ai-presentation-generator",
+      "description": "Tools in the AI Presentation Generator category",
+      "level": 0,
+      "tool_count": 131,
+      "first_page": "categories/ai-presentation-generator/page-0001.json"
+    },
+    {
+      "id": "45328122-0445-461c-a2ab-89ef85da7213",
+      "name": "AI Personalized Video Generator",
+      "slug": "ai-personalized-video-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 130,
+      "first_page": "categories/ai-personalized-video-generator/page-0001.json"
+    },
+    {
+      "id": "c5f7ba46-5354-4c14-b318-34509063a12f",
+      "name": "AI Accounting Assistant",
+      "slug": "ai-accounting-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 129,
+      "first_page": "categories/ai-accounting-assistant/page-0001.json"
+    },
+    {
+      "id": "5b9054ff-40ab-481c-b28b-4ea305382d3b",
+      "name": "AI Health Assistant",
+      "slug": "ai-health-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 128,
+      "first_page": "categories/ai-health-assistant/page-0001.json"
+    },
+    {
+      "id": "85d54eb5-0aaf-4a0c-9b5a-0d08669c7ddd",
+      "name": "AI Image Scanning",
+      "slug": "ai-image-scanning",
+      "description": "Tools in the AI Image Scanning category",
+      "level": 0,
+      "tool_count": 128,
+      "first_page": "categories/ai-image-scanning/page-0001.json"
+    },
+    {
+      "id": "9bd8379f-ef71-48f3-a978-49ac4fd61fd5",
+      "name": "AI Checker Essay",
+      "slug": "ai-checker-essay",
+      "description": "Tools in the AI Checker Essay category",
+      "level": 0,
+      "tool_count": 124,
+      "first_page": "categories/ai-checker-essay/page-0001.json"
+    },
+    {
+      "id": "b8a25629-701b-4fc4-a20c-6f792e851f92",
+      "name": "AI Customer Support Chatbot",
+      "slug": "ai-customer-support-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 124,
+      "first_page": "categories/ai-customer-support-chatbot/page-0001.json"
+    },
+    {
+      "id": "9687ebe8-13ee-45fa-9b7a-9fb0f5ec35e3",
+      "name": "AI Prompt Optimization",
+      "slug": "ai-prompt-optimization",
+      "description": "Subcategory of Prompt",
+      "parent_id": "cb0dcc5a-e030-44f8-836d-8c003d3cbd84",
+      "level": 1,
+      "tool_count": 121,
+      "first_page": "categories/ai-prompt-optimization/page-0001.json"
+    },
+    {
+      "id": "69055bc2-2fbc-40c4-8917-afc95d78f81d",
+      "name": "AI Developer Docs",
+      "slug": "ai-developer-docs",
+      "description": "Tools in the AI Developer Docs category",
+      "level": 0,
+      "tool_count": 119,
+      "first_page": "categories/ai-developer-docs/page-0001.json"
+    },
+    {
+      "id": "e8337c7b-2821-403e-bbc5-c45128ac64ea",
+      "name": "Recording",
+      "slug": "recording",
+      "description": "Tools in the Recording category",
+      "level": 0,
+      "tool_count": 119,
+      "first_page": "categories/recording/page-0001.json"
+    },
+    {
+      "id": "821f9cde-8a59-4c8d-8df4-c4d6183a25ec",
+      "name": "AI API Design",
+      "slug": "ai-api-design",
+      "description": "Tools in the AI API Design category",
+      "level": 0,
+      "tool_count": 118,
+      "first_page": "categories/ai-api-design/page-0001.json"
+    },
+    {
+      "id": "700153a9-c323-4499-8f58-4cc6ed617c74",
+      "name": "AI Business Idea Generator",
+      "slug": "ai-business-idea-generator",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 118,
+      "first_page": "categories/ai-business-idea-generator/page-0001.json"
+    },
+    {
+      "id": "cabc4360-19be-432e-8e3e-37b6a0061213",
+      "name": "AI Anime Art",
+      "slug": "ai-anime-ai-art",
+      "description": "Tools in the AI Anime Art category",
+      "level": 0,
+      "tool_count": 117,
+      "first_page": "categories/ai-anime-ai-art/page-0001.json"
+    },
+    {
+      "id": "a99a0561-3d47-4c02-802b-88fc4f0920c6",
+      "name": "AI Hashtag Assistant",
+      "slug": "ai-hashtag-assistant",
+      "description": "Tools in the AI Hashtag Assistant category",
+      "level": 0,
+      "tool_count": 117,
+      "first_page": "categories/ai-hashtag-assistant/page-0001.json"
+    },
+    {
+      "id": "3274f939-eb61-449e-b868-ec158827040c",
+      "name": "AI Girlfriend",
+      "slug": "ai-girlfriend",
+      "description": "Tools in the AI Girlfriend category",
+      "level": 0,
+      "tool_count": 116,
+      "first_page": "categories/ai-girlfriend/page-0001.json"
+    },
+    {
+      "id": "4ee1eb95-c900-4efa-9098-d3dfc9b56316",
+      "name": "AI Product Design",
+      "slug": "ai-product-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 111,
+      "first_page": "categories/ai-product-design/page-0001.json"
+    },
+    {
+      "id": "bfb609fb-db8d-4f7d-9fa7-5c64b695b430",
+      "name": "AI Prompt Repository",
+      "slug": "ai-prompt-repository",
+      "description": "Subcategory of Prompt",
+      "parent_id": "cb0dcc5a-e030-44f8-836d-8c003d3cbd84",
+      "level": 1,
+      "tool_count": 111,
+      "first_page": "categories/ai-prompt-repository/page-0001.json"
+    },
+    {
+      "id": "3c6e3734-31ff-4355-a6da-b96c37db91bc",
+      "name": "AI Content Marketing",
+      "slug": "ai-content-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 108,
+      "first_page": "categories/ai-content-marketing/page-0001.json"
+    },
+    {
+      "id": "1865fcd7-16f4-486b-b737-8c36481decab",
+      "name": "AI Data Analysis",
+      "slug": "ai-data-analysis",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 105,
+      "first_page": "categories/ai-data-analysis/page-0001.json"
+    },
+    {
+      "id": "92c6ffc8-17bf-4ba3-bc60-9f799d9655c3",
+      "name": "AI Recipe Assistant",
+      "slug": "ai-recipe-assistant",
+      "description": "Tools in the AI Recipe Assistant category",
+      "level": 0,
+      "tool_count": 105,
+      "first_page": "categories/ai-recipe-assistant/page-0001.json"
+    },
+    {
+      "id": "d7ed8f2c-32f5-4f44-ab0f-5e6537fb65a1",
+      "name": "AI UGC Video Generator",
+      "slug": "ai-ugc-video-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 105,
+      "first_page": "categories/ai-ugc-video-generator/page-0001.json"
+    },
+    {
+      "id": "023cfcb0-731d-45b1-b75c-373f0923da7a",
+      "name": "AI 3D Model Generator",
+      "slug": "3d-model-generator",
+      "description": "Tools in the AI 3D Model Generator category",
+      "level": 0,
+      "tool_count": 100,
+      "first_page": "categories/3d-model-generator/page-0001.json"
+    },
+    {
+      "id": "d69eb952-094d-4efb-b787-fabb8e537ccf",
+      "name": "AI Business Management",
+      "slug": "ai-business-management",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 99,
+      "first_page": "categories/ai-business-management/page-0001.json"
+    },
+    {
+      "id": "d09415ad-91ca-49d0-88ee-605c76f30a70",
+      "name": "AI Maps Generator",
+      "slug": "ai-maps-generator",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 99,
+      "first_page": "categories/ai-maps-generator/page-0001.json"
+    },
+    {
+      "id": "0b0e9fe1-a987-4f3f-bd2a-c59b74280aa3",
+      "name": "AI Clothing Generator",
+      "slug": "ai-clothing-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 98,
+      "first_page": "categories/ai-clothing-generator/page-0001.json"
+    },
+    {
+      "id": "51912856-f5f2-43c8-99b1-523e805fd63c",
+      "name": "AI Trading Bot Assistant",
+      "slug": "ai-trading-bot-assistant",
+      "description": "Tools in the AI Trading Bot Assistant category",
+      "level": 0,
+      "tool_count": 98,
+      "first_page": "categories/ai-trading-bot-assistant/page-0001.json"
+    },
+    {
+      "id": "b13fde4a-da77-4902-8799-e64e3729326f",
+      "name": "AI Brand Design",
+      "slug": "ai-brand-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 97,
+      "first_page": "categories/ai-brand-design/page-0001.json"
+    },
+    {
+      "id": "995f9702-a54a-497f-b45f-2062a8bd51b7",
+      "name": "AI Forms \u0026 Surveys",
+      "slug": "ai-forms-surveys",
+      "description": "Tools in the AI Forms \u0026 Surveys category",
+      "level": 0,
+      "tool_count": 96,
+      "first_page": "categories/ai-forms-surveys/page-0001.json"
+    },
+    {
+      "id": "705c2fa4-3d5b-436d-80a9-4fac4a9ac78f",
+      "name": "AI Data Collection",
+      "slug": "ai-data-collection",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 95,
+      "first_page": "categories/ai-data-collection/page-0001.json"
+    },
+    {
+      "id": "d0007ca9-e19e-4a2c-b15a-c327f1141f9f",
+      "name": "Blockchain",
+      "slug": "blockchain",
+      "description": "Tools in the Blockchain category",
+      "level": 0,
+      "tool_count": 95,
+      "first_page": "categories/blockchain/page-0001.json"
+    },
+    {
+      "id": "1e25a451-d8f8-40b1-a032-0c658f2420c1",
+      "name": "NSFW",
+      "slug": "nsfw",
+      "description": "Tools in the NSFW category",
+      "level": 0,
+      "tool_count": 95,
+      "first_page": "categories/nsfw/page-0001.json"
+    },
+    {
+      "id": "58b30018-5718-416c-8aed-05e56a58ff78",
+      "name": "AI Email Management",
+      "slug": "ai-email-management",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 93,
+      "first_page": "categories/ai-email-management/page-0001.json"
+    },
+    {
+      "id": "6b997f3c-e4ca-4099-9e46-bb624f2ccfa2",
+      "name": "AI Code Refactoring",
+      "slug": "ai-code-refactoring",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 92,
+      "first_page": "categories/ai-code-refactoring/page-0001.json"
+    },
+    {
+      "id": "2e9cfe09-416d-415c-92ab-8a48f7cbdcea",
+      "name": "AI Interior \u0026 Room Design",
+      "slug": "ai-interior-room-design",
+      "description": "Tools in the AI Interior \u0026 Room Design category",
+      "level": 0,
+      "tool_count": 92,
+      "first_page": "categories/ai-interior-room-design/page-0001.json"
+    },
+    {
+      "id": "6e8b0118-0238-4a24-949c-aec10ea06194",
+      "name": "AI Personal Finance Assistant",
+      "slug": "ai-personal-finance-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 91,
+      "first_page": "categories/ai-personal-finance-assistant/page-0001.json"
+    },
+    {
+      "id": "ab78eb42-769a-4a54-8e28-773a62d22ee3",
+      "name": "AI Personalized Learning",
+      "slug": "ai-personalized-learning",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 90,
+      "first_page": "categories/ai-personalized-learning/page-0001.json"
+    },
+    {
+      "id": "f779f103-584b-4f92-9210-22302a224821",
+      "name": "AI Business Ideas Generator",
+      "slug": "ai-business-ideas-generator",
+      "description": "Tools in the AI Business Ideas Generator category",
+      "level": 0,
+      "tool_count": 89,
+      "first_page": "categories/ai-business-ideas-generator/page-0001.json"
+    },
+    {
+      "id": "0a24a8dd-0f7f-4daa-a985-0cd6605752cb",
+      "name": "AI Photo Restoration",
+      "slug": "ai-photo-restoration",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 89,
+      "first_page": "categories/ai-photo-restoration/page-0001.json"
+    },
+    {
+      "id": "bebde7a2-8045-4497-8ce7-18d2f146b44e",
+      "name": "AI Photography",
+      "slug": "ai-photography",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 89,
+      "first_page": "categories/ai-photography/page-0001.json"
+    },
+    {
+      "id": "ee992681-f088-432a-aca1-ca1b290c7a80",
+      "name": "Legal Assistant",
+      "slug": "legal-assistant",
+      "description": "Tools in the Legal Assistant category",
+      "level": 0,
+      "tool_count": 89,
+      "first_page": "categories/legal-assistant/page-0001.json"
+    },
+    {
+      "id": "d86eaa68-542f-4eec-97b3-4ab45c505fd4",
+      "name": "Web Scraping",
+      "slug": "ai-web-scraping",
+      "description": "Tools in the Web Scraping category",
+      "level": 0,
+      "tool_count": 89,
+      "first_page": "categories/ai-web-scraping/page-0001.json"
+    },
+    {
+      "id": "ae1452c7-2e40-480f-a618-fd4e80a95217",
+      "name": "AI Files Assistant",
+      "slug": "ai-files-assistant",
+      "description": "Tools in the AI Files Assistant category",
+      "level": 0,
+      "tool_count": 88,
+      "first_page": "categories/ai-files-assistant/page-0001.json"
+    },
+    {
+      "id": "5350f9f5-5134-4ab7-9bba-d0a450844590",
+      "name": "AI Spreadsheet",
+      "slug": "ai-spreadsheet",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 87,
+      "first_page": "categories/ai-spreadsheet/page-0001.json"
+    },
+    {
+      "id": "6fcb882e-77ff-4111-8a21-0ae2d6077a1a",
+      "name": "Fun Tools",
+      "slug": "fun-tools",
+      "description": "Tools in the Fun Tools category",
+      "level": 0,
+      "tool_count": 84,
+      "first_page": "categories/fun-tools/page-0001.json"
+    },
+    {
+      "id": "c52e5d19-b8e9-46b2-b9bb-a4d4c7b146d3",
+      "name": "AI Thumbnail Maker",
+      "slug": "ai-thumbnail-maker",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 83,
+      "first_page": "categories/ai-thumbnail-maker/page-0001.json"
+    },
+    {
+      "id": "653f5043-d790-456c-a9b0-274ca06590e1",
+      "name": "Code Explanation",
+      "slug": "code-explanation",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 83,
+      "first_page": "categories/code-explanation/page-0001.json"
+    },
+    {
+      "id": "45d7a7f7-4062-4aa0-b19a-c15c80740a41",
+      "name": "AI Data Visualization",
+      "slug": "ai-data-visualization",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 82,
+      "first_page": "categories/ai-data-visualization/page-0001.json"
+    },
+    {
+      "id": "639a2259-83db-4189-9f66-f1be762280e1",
+      "name": "AI Poem \u0026 Poetry Generator",
+      "slug": "ai-poem-poetry-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 80,
+      "first_page": "categories/ai-poem-poetry-generator/page-0001.json"
+    },
+    {
+      "id": "d2ec221a-420b-475e-b55f-8301a0806388",
+      "name": "AI Ad Copy Generator",
+      "slug": "ai-ad-copy-generator",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 79,
+      "first_page": "categories/ai-ad-copy-generator/page-0001.json"
+    },
+    {
+      "id": "223865e7-3f78-4c3f-8fb7-8def455896b4",
+      "name": "AI Agriculture Tools",
+      "slug": "ai-agriculture-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 79,
+      "first_page": "categories/ai-agriculture-tools/page-0001.json"
+    },
+    {
+      "id": "39d733b5-feb9-45bc-b17b-7475444f3242",
+      "name": "AI Personal Shopping Assistant",
+      "slug": "ai-personal-shopping-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 78,
+      "first_page": "categories/ai-personal-shopping-assistant/page-0001.json"
+    },
+    {
+      "id": "ee3bbfff-5687-41ca-8c0d-f80e01df2069",
+      "name": "Text-to-Music",
+      "slug": "text-to-music",
+      "description": "Tools in the Text-to-Music category",
+      "level": 0,
+      "tool_count": 78,
+      "first_page": "categories/text-to-music/page-0001.json"
+    },
+    {
+      "id": "f392a3f4-69c0-4619-aac4-7857db640935",
+      "name": "AI Astronomy Tools",
+      "slug": "ai-astronomy-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 77,
+      "first_page": "categories/ai-astronomy-tools/page-0001.json"
+    },
+    {
+      "id": "15ba6982-57ff-496c-a77b-b9ee57c49210",
+      "name": "AI Icon Generator",
+      "slug": "ai-icon-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 74,
+      "first_page": "categories/ai-icon-generator/page-0001.json"
+    },
+    {
+      "id": "0fe071b2-54f5-411e-a41a-7b5e5d1eb42c",
+      "name": "AI Personal Development",
+      "slug": "ai-personal-development",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 74,
+      "first_page": "categories/ai-personal-development/page-0001.json"
+    },
+    {
+      "id": "dab7f03a-ade8-4f03-a359-4169a2764b78",
+      "name": "AI Proposal Writing",
+      "slug": "ai-proposal-writing",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 74,
+      "first_page": "categories/ai-proposal-writing/page-0001.json"
+    },
+    {
+      "id": "09fe5ae3-6101-4ace-be3d-1a266463b755",
+      "name": "AI Audio Enhancer",
+      "slug": "ai-audio-enhancer",
+      "description": "Tools in the AI Audio Enhancer category",
+      "level": 0,
+      "tool_count": 73,
+      "first_page": "categories/ai-audio-enhancer/page-0001.json"
+    },
+    {
+      "id": "f4fcb68d-1265-47f5-a788-669c6e652c39",
+      "name": "AI Social Media Chatbot",
+      "slug": "ai-social-media-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 73,
+      "first_page": "categories/ai-social-media-chatbot/page-0001.json"
+    },
+    {
+      "id": "e6674661-d399-438a-91c9-e28b4a477442",
+      "name": "Fitness",
+      "slug": "fitness",
+      "description": "Tools in the Fitness category",
+      "level": 0,
+      "tool_count": 73,
+      "first_page": "categories/fitness/page-0001.json"
+    },
+    {
+      "id": "b5fb5e81-4008-4029-88f2-e855b20d624a",
+      "name": "AI Colorize",
+      "slug": "ai-colorize",
+      "description": "Tools in the AI Colorize category",
+      "level": 0,
+      "tool_count": 71,
+      "first_page": "categories/ai-colorize/page-0001.json"
+    },
+    {
+      "id": "37b42141-5ec6-4518-b560-29e4c834c685",
+      "name": "AI WORD",
+      "slug": "ai-word",
+      "description": "Tools in the AI WORD category",
+      "level": 0,
+      "tool_count": 71,
+      "first_page": "categories/ai-word/page-0001.json"
+    },
+    {
+      "id": "10f3cd61-78b7-4935-a49d-78180a3d9997",
+      "name": "AI Business Development",
+      "slug": "ai-business-development",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 70,
+      "first_page": "categories/ai-business-development/page-0001.json"
+    },
+    {
+      "id": "7361dccf-d22c-4cbd-8c53-2db53fb1589f",
+      "name": "AI Contract Management",
+      "slug": "ai-contract-management",
+      "description": "Tools in the AI Contract Management category",
+      "level": 0,
+      "tool_count": 70,
+      "first_page": "categories/ai-contract-management/page-0001.json"
+    },
+    {
+      "id": "751d1114-0218-46ec-8f84-b70107480674",
+      "name": "AI Video Enhancer",
+      "slug": "ai-video-enhancer",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 70,
+      "first_page": "categories/ai-video-enhancer/page-0001.json"
+    },
+    {
+      "id": "7ec8dd36-0413-49f6-8558-647ce7dce32a",
+      "name": "Web3",
+      "slug": "web3",
+      "description": "Tools in the Web3 category",
+      "level": 0,
+      "tool_count": 70,
+      "first_page": "categories/web3/page-0001.json"
+    },
+    {
+      "id": "9c015878-7c28-4e28-ab8c-7912b7607b2a",
+      "name": "AI Affiliate Marketing",
+      "slug": "ai-affiliate-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 69,
+      "first_page": "categories/ai-affiliate-marketing/page-0001.json"
+    },
+    {
+      "id": "ac410558-d306-4e64-920d-7e55c8bd415e",
+      "name": "AI Audio Editing",
+      "slug": "ai-audio-editing",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 69,
+      "first_page": "categories/ai-audio-editing/page-0001.json"
+    },
+    {
+      "id": "eb6d3779-c468-4832-9f25-d804e5e538c2",
+      "name": "AI Task Automation",
+      "slug": "ai-task-automation",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 68,
+      "first_page": "categories/ai-task-automation/page-0001.json"
+    },
+    {
+      "id": "ed7b60bd-5d68-47cc-bceb-a23b541955c8",
+      "name": "AI Landing Page Optimization",
+      "slug": "ai-landing-page-optimization",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 66,
+      "first_page": "categories/ai-landing-page-optimization/page-0001.json"
+    },
+    {
+      "id": "519f0d4b-5ee6-456a-9627-fbfda0a0897a",
+      "name": "AI Poster Generator",
+      "slug": "ai-poster-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 65,
+      "first_page": "categories/ai-poster-generator/page-0001.json"
+    },
+    {
+      "id": "806e5c84-952e-4784-9b91-6d0b80436464",
+      "name": "AI E-commerce Chatbot",
+      "slug": "ai-e-commerce-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 64,
+      "first_page": "categories/ai-e-commerce-chatbot/page-0001.json"
+    },
+    {
+      "id": "0254e78d-eb62-42e3-a078-49c0fc7fe68c",
+      "name": "AI Voice Changer",
+      "slug": "ai-voice-changer",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 63,
+      "first_page": "categories/ai-voice-changer/page-0001.json"
+    },
+    {
+      "id": "5e94dd98-3cc3-480a-97b6-283af4ff407a",
+      "name": "Sports",
+      "slug": "sports",
+      "description": "Tools in the Sports category",
+      "level": 0,
+      "tool_count": 62,
+      "first_page": "categories/sports/page-0001.json"
+    },
+    {
+      "id": "fe0e4cdf-1159-4e73-9ef4-680d2f8f1a29",
+      "name": "AI Time Management",
+      "slug": "ai-time-management",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 61,
+      "first_page": "categories/ai-time-management/page-0001.json"
+    },
+    {
+      "id": "c58afa3a-047d-44a1-932c-a368d2159980",
+      "name": "Pick-up Lines Generator",
+      "slug": "pick-up-lines-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 60,
+      "first_page": "categories/pick-up-lines-generator/page-0001.json"
+    },
+    {
+      "id": "28d90180-b44d-4559-8c5c-b727a1927893",
+      "name": "AI Personal Assistant Chatbot",
+      "slug": "ai-personal-assistant-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 59,
+      "first_page": "categories/ai-personal-assistant-chatbot/page-0001.json"
+    },
+    {
+      "id": "4506703f-6d99-402f-a21e-2429f9ecd5fe",
+      "name": "AI Language Translation",
+      "slug": "ai-language-translation",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 56,
+      "first_page": "categories/ai-language-translation/page-0001.json"
+    },
+    {
+      "id": "a772e020-d2e6-47a5-b929-00acbf697d57",
+      "name": "AI Lip Sync Generator",
+      "slug": "ai-lip-sync-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 53,
+      "first_page": "categories/ai-lip-sync-generator/page-0001.json"
+    },
+    {
+      "id": "abb3d372-82f7-49b0-b69b-fd0e4b76cbaa",
+      "name": "AI Trip Planner",
+      "slug": "ai-trip-planner",
+      "description": "Tools in the AI Trip Planner category",
+      "level": 0,
+      "tool_count": 53,
+      "first_page": "categories/ai-trip-planner/page-0001.json"
+    },
+    {
+      "id": "9c2cca55-9924-4ed3-a87d-7c0fd0c87b25",
+      "name": "Bio Link",
+      "slug": "bio-link",
+      "description": "Tools in the Bio Link category",
+      "level": 0,
+      "tool_count": 53,
+      "first_page": "categories/bio-link/page-0001.json"
+    },
+    {
+      "id": "7bb1bf49-a9bb-4c1d-bc8f-089df09b0e4d",
+      "name": "AI Color Palette Generator",
+      "slug": "ai-color-palette-generator",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 52,
+      "first_page": "categories/ai-color-palette-generator/page-0001.json"
+    },
+    {
+      "id": "fd20a4c0-f16f-43b4-b456-d8ce6e2e874f",
+      "name": "AI Customer Service",
+      "slug": "ai-customer-service",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 52,
+      "first_page": "categories/ai-customer-service/page-0001.json"
+    },
+    {
+      "id": "1fa297ba-4a83-43fb-b380-7c8a0103064b",
+      "name": "AI Digital Marketing",
+      "slug": "ai-digital-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 51,
+      "first_page": "categories/ai-digital-marketing/page-0001.json"
+    },
+    {
+      "id": "3995ba8f-44aa-4fb7-b9c7-c9b6fb465d7f",
+      "name": "AI Font Generator",
+      "slug": "ai-font-generator",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 51,
+      "first_page": "categories/ai-font-generator/page-0001.json"
+    },
+    {
+      "id": "b789a8fe-6355-4ebd-afb7-ba1d1eb089eb",
+      "name": "AI Voice Assistant",
+      "slug": "ai-voice-assistant",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 50,
+      "first_page": "categories/ai-voice-assistant/page-0001.json"
+    },
+    {
+      "id": "325a187d-bded-430d-8084-57e62684887d",
+      "name": "AI Career Coach",
+      "slug": "ai-career-coach",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 49,
+      "first_page": "categories/ai-career-coach/page-0001.json"
+    },
+    {
+      "id": "1dce6339-be8d-483e-8504-20841eb3c0a1",
+      "name": "AI Music Video Generator",
+      "slug": "ai-music-video-generator",
+      "description": "Subcategory of Video",
+      "parent_id": "57996247-3ede-4c3c-af70-a203ded16228",
+      "level": 1,
+      "tool_count": 49,
+      "first_page": "categories/ai-music-video-generator/page-0001.json"
+    },
+    {
+      "id": "46ce0252-9bb8-4c1e-946d-ee63fda4821c",
+      "name": "AI Calendar Assistant",
+      "slug": "ai-calendar-assistant",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 48,
+      "first_page": "categories/ai-calendar-assistant/page-0001.json"
+    },
+    {
+      "id": "60c13a5a-941e-4635-90d6-1c935f159c04",
+      "name": "AI Gift Ideas",
+      "slug": "ai-gift-ideas",
+      "description": "Tools in the AI Gift Ideas category",
+      "level": 0,
+      "tool_count": 48,
+      "first_page": "categories/ai-gift-ideas/page-0001.json"
+    },
+    {
+      "id": "c8b7e6b8-4564-43ef-8da6-e368d974ecb3",
+      "name": "AI Market Analysis",
+      "slug": "ai-market-analysis",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 48,
+      "first_page": "categories/ai-market-analysis/page-0001.json"
+    },
+    {
+      "id": "ef956ec0-e909-4b65-b5b4-a8654f6d3c60",
+      "name": "AI SQL Query Builder",
+      "slug": "ai-sql-query-builder",
+      "description": "Tools in the AI SQL Query Builder category",
+      "level": 0,
+      "tool_count": 48,
+      "first_page": "categories/ai-sql-query-builder/page-0001.json"
+    },
+    {
+      "id": "bdd689cd-aac4-43f4-b21a-d25ee3c19b9d",
+      "name": "AI Speech to Text",
+      "slug": "ai-speech-to-text",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 47,
+      "first_page": "categories/ai-speech-to-text/page-0001.json"
+    },
+    {
+      "id": "594c8482-d2dc-4946-acb7-38400839d103",
+      "name": "AI Manga \u0026 Comic",
+      "slug": "ai-manga-comic",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 46,
+      "first_page": "categories/ai-manga-comic/page-0001.json"
+    },
+    {
+      "id": "c8078d54-1aa0-4e61-96dc-66f6a9d43565",
+      "name": "AI Roadmap Generator",
+      "slug": "ai-roadmap-generator",
+      "description": "Tools in the AI Roadmap Generator category",
+      "level": 0,
+      "tool_count": 46,
+      "first_page": "categories/ai-roadmap-generator/page-0001.json"
+    },
+    {
+      "id": "f19f36f9-af53-42ae-997d-50c7bbb64ac7",
+      "name": "AI Document Processing",
+      "slug": "ai-document-processing",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 45,
+      "first_page": "categories/ai-document-processing/page-0001.json"
+    },
+    {
+      "id": "6c0bb505-ca42-46d7-813b-0419bebc3590",
+      "name": "AI Finance Assistant",
+      "slug": "ai-finance-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 45,
+      "first_page": "categories/ai-finance-assistant/page-0001.json"
+    },
+    {
+      "id": "c03a1c95-9be1-48c1-94b7-aefa5176d66b",
+      "name": "AI Text to Speech",
+      "slug": "ai-text-to-speech",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 45,
+      "first_page": "categories/ai-text-to-speech/page-0001.json"
+    },
+    {
+      "id": "7596990c-8052-4635-be24-41d9d1f1e33c",
+      "name": "Parenting",
+      "slug": "parenting",
+      "description": "Tools in the Parenting category",
+      "level": 0,
+      "tool_count": 45,
+      "first_page": "categories/parenting/page-0001.json"
+    },
+    {
+      "id": "0eed1da9-90b6-4b6e-ae49-1d24dae8694f",
+      "name": "AI Celebrity Voice Generator",
+      "slug": "ai-celebrity-voice-generator",
+      "description": "Tools in the AI Celebrity Voice Generator category",
+      "level": 0,
+      "tool_count": 44,
+      "first_page": "categories/ai-celebrity-voice-generator/page-0001.json"
+    },
+    {
+      "id": "07fb7c88-e1a3-4546-bd9d-96940169e06b",
+      "name": "AI Real Estate Tools",
+      "slug": "ai-real-estate-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 44,
+      "first_page": "categories/ai-real-estate-tools/page-0001.json"
+    },
+    {
+      "id": "e13a53d1-81f1-4ed9-b9c6-1ec8a5e8a848",
+      "name": "Handwriting",
+      "slug": "handwriting",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 44,
+      "first_page": "categories/handwriting/page-0001.json"
+    },
+    {
+      "id": "f0ba48fb-85c7-433d-8454-0d5bac14f61e",
+      "name": "AI Image Segmentation",
+      "slug": "ai-image-segmentation",
+      "description": "Tools in the AI Image Segmentation category",
+      "level": 0,
+      "tool_count": 42,
+      "first_page": "categories/ai-image-segmentation/page-0001.json"
+    },
+    {
+      "id": "af150cfa-7ebc-4d9b-9331-ce89cb5b2dad",
+      "name": "AI Mind Mapping",
+      "slug": "ai-mind-mapping",
+      "description": "Tools in the AI Mind Mapping category",
+      "level": 0,
+      "tool_count": 42,
+      "first_page": "categories/ai-mind-mapping/page-0001.json"
+    },
+    {
+      "id": "775c6f80-88f6-4876-8aef-7092386a3a2c",
+      "name": "AI Research Assistant",
+      "slug": "ai-research-assistant",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 41,
+      "first_page": "categories/ai-research-assistant/page-0001.json"
+    },
+    {
+      "id": "73e54db8-fabc-4f8e-a2ce-bbed8604e0a1",
+      "name": "AI Testing \u0026 QA",
+      "slug": "ai-testing-qa",
+      "description": "Tools in the AI Testing \u0026 QA category",
+      "level": 0,
+      "tool_count": 41,
+      "first_page": "categories/ai-testing-qa/page-0001.json"
+    },
+    {
+      "id": "be5b5664-63f0-43e4-96f8-c30d27dd8183",
+      "name": "Voice \u0026 Audio Editing",
+      "slug": "voice-audio-editing",
+      "description": "Tools in the Voice \u0026 Audio Editing category",
+      "level": 0,
+      "tool_count": 41,
+      "first_page": "categories/voice-audio-editing/page-0001.json"
+    },
+    {
+      "id": "64eac31b-0253-4900-b1a8-ce4fd6736f3e",
+      "name": "AI Sales Assistant",
+      "slug": "ai-sales-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 40,
+      "first_page": "categories/ai-sales-assistant/page-0001.json"
+    },
+    {
+      "id": "ec7df009-a5aa-49ee-b647-1c9f7740237a",
+      "name": "AI Mockup Generator",
+      "slug": "ai-mockup-generator",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 39,
+      "first_page": "categories/ai-mockup-generator/page-0001.json"
+    },
+    {
+      "id": "0edfcb77-0e9c-4c74-a9e6-808fd2dcb21f",
+      "name": "AI Social Media Marketing",
+      "slug": "ai-social-media-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 39,
+      "first_page": "categories/ai-social-media-marketing/page-0001.json"
+    },
+    {
+      "id": "59bd5454-fc26-45df-9cbc-0514d876b80c",
+      "name": "Domain Name Generator",
+      "slug": "ai-domain-name-generator",
+      "description": "Tools in the Domain Name Generator category",
+      "level": 0,
+      "tool_count": 39,
+      "first_page": "categories/ai-domain-name-generator/page-0001.json"
+    },
+    {
+      "id": "01569b7e-6b28-447e-ac37-a1047b220620",
+      "name": "AI Tattoo Generator",
+      "slug": "ai-tattoo-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 38,
+      "first_page": "categories/ai-tattoo-generator/page-0001.json"
+    },
+    {
+      "id": "d0e9fc83-ff72-413b-9014-176475bfc4c0",
+      "name": "AI Singing Generator",
+      "slug": "ai-singing-generator",
+      "description": "Tools in the AI Singing Generator category",
+      "level": 0,
+      "tool_count": 37,
+      "first_page": "categories/ai-singing-generator/page-0001.json"
+    },
+    {
+      "id": "8d177ef3-d636-4a26-b6f8-70769b6fadde",
+      "name": "AI Voice Chat Generator",
+      "slug": "ai-voice-chat-generator",
+      "description": "Tools in the AI Voice Chat Generator category",
+      "level": 0,
+      "tool_count": 37,
+      "first_page": "categories/ai-voice-chat-generator/page-0001.json"
+    },
+    {
+      "id": "ea8f6eb6-1eee-48ee-8221-1535573b00a3",
+      "name": "AI Course Creation",
+      "slug": "ai-course-creation",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 35,
+      "first_page": "categories/ai-course-creation/page-0001.json"
+    },
+    {
+      "id": "10645eea-56b5-4879-a4c5-9263a128e650",
+      "name": "AI DevOps Assistant",
+      "slug": "ai-devops-assistant",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 35,
+      "first_page": "categories/ai-devops-assistant/page-0001.json"
+    },
+    {
+      "id": "d076432c-5f0f-43d7-9c30-e2b72947da56",
+      "name": "AI Diagram Generator",
+      "slug": "ai-diagram-generator",
+      "description": "Tools in the AI Diagram Generator category",
+      "level": 0,
+      "tool_count": 35,
+      "first_page": "categories/ai-diagram-generator/page-0001.json"
+    },
+    {
+      "id": "d607c785-3350-4732-8494-f5e85e0c79da",
+      "name": "AI Meeting Scheduler",
+      "slug": "ai-meeting-scheduler",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 35,
+      "first_page": "categories/ai-meeting-scheduler/page-0001.json"
+    },
+    {
+      "id": "99533de0-b52e-48fa-95b0-f416b5aee1be",
+      "name": "AI Social Media Management",
+      "slug": "ai-social-media-management",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 35,
+      "first_page": "categories/ai-social-media-management/page-0001.json"
+    },
+    {
+      "id": "6191c6fc-df92-43ce-8921-3549f58241be",
+      "name": "Image to 3D Model",
+      "slug": "image-to-3d-model",
+      "description": "Tools in the Image to 3D Model category",
+      "level": 0,
+      "tool_count": 35,
+      "first_page": "categories/image-to-3d-model/page-0001.json"
+    },
+    {
+      "id": "6d51cf6a-2170-4704-a2fb-5de475e7a88e",
+      "name": "AI Emoji Generator",
+      "slug": "ai-emoji-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 34,
+      "first_page": "categories/ai-emoji-generator/page-0001.json"
+    },
+    {
+      "id": "5bb77bc7-3e89-429f-94de-8f5a6435d6a5",
+      "name": "AI Game Development",
+      "slug": "ai-game-development",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 34,
+      "first_page": "categories/ai-game-development/page-0001.json"
+    },
+    {
+      "id": "3742bd20-4781-46a3-91e9-fbf3917920a1",
+      "name": "NFTs",
+      "slug": "nfts",
+      "description": "Tools in the NFTs category",
+      "level": 0,
+      "tool_count": 34,
+      "first_page": "categories/nfts/page-0001.json"
+    },
+    {
+      "id": "234e2991-06a1-40c2-aaa8-f3244e02228a",
+      "name": "Religion",
+      "slug": "religion",
+      "description": "Tools in the Religion category",
+      "level": 0,
+      "tool_count": 34,
+      "first_page": "categories/religion/page-0001.json"
+    },
+    {
+      "id": "3c2eb5df-c828-49b1-9d8f-998cd087dd17",
+      "name": "AI Detector",
+      "slug": "ai-detector",
+      "description": "Main category for AI Detector",
+      "level": 0,
+      "tool_count": 32,
+      "first_page": "categories/ai-detector/page-0001.json"
+    },
+    {
+      "id": "b33c0aec-5ead-4c95-91b8-31c69406e8f8",
+      "name": "AI Classroom Management",
+      "slug": "ai-classroom-management",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 31,
+      "first_page": "categories/ai-classroom-management/page-0001.json"
+    },
+    {
+      "id": "f0650ff6-2aac-4706-9235-4c7875dd6aea",
+      "name": "AI STEM Education",
+      "slug": "ai-stem-education",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 31,
+      "first_page": "categories/ai-stem-education/page-0001.json"
+    },
+    {
+      "id": "c1754d76-c0aa-4ea4-ad6d-e4832df7e684",
+      "name": "Tax Assistant",
+      "slug": "tax-assistant",
+      "description": "Tools in the Tax Assistant category",
+      "level": 0,
+      "tool_count": 29,
+      "first_page": "categories/tax-assistant/page-0001.json"
+    },
+    {
+      "id": "31e0a24f-e072-41e2-84fe-de9974cabd6f",
+      "name": "Text to 3D",
+      "slug": "text-to-3d",
+      "description": "Tools in the Text to 3D category",
+      "level": 0,
+      "tool_count": 29,
+      "first_page": "categories/text-to-3d/page-0001.json"
+    },
+    {
+      "id": "c9c60835-6ba9-4973-87f1-dbc36775c461",
+      "name": "AI Brand Management",
+      "slug": "ai-brand-management",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 28,
+      "first_page": "categories/ai-brand-management/page-0001.json"
+    },
+    {
+      "id": "5539732d-a9cc-45a0-b99a-68382647958d",
+      "name": "AI Operations Management",
+      "slug": "ai-operations-management",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 28,
+      "first_page": "categories/ai-operations-management/page-0001.json"
+    },
+    {
+      "id": "fa24373b-3714-4110-a3ca-320395aa6b67",
+      "name": "AI Virtual Classroom",
+      "slug": "ai-virtual-classroom",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 27,
+      "first_page": "categories/ai-virtual-classroom/page-0001.json"
+    },
+    {
+      "id": "6a66a617-0283-4a5f-91fb-70a3beabd7dc",
+      "name": "AI Visual Design",
+      "slug": "ai-visual-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 27,
+      "first_page": "categories/ai-visual-design/page-0001.json"
+    },
+    {
+      "id": "15043657-5255-4591-8483-76bec812710b",
+      "name": "AI Pattern Generator",
+      "slug": "ai-pattern-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 23,
+      "first_page": "categories/ai-pattern-generator/page-0001.json"
+    },
+    {
+      "id": "4e80f1fb-7505-41f7-96e8-7818be44d2a1",
+      "name": "AI Pixel Art",
+      "slug": "ai-pixel-art",
+      "description": "Tools in the AI Pixel Art category",
+      "level": 0,
+      "tool_count": 22,
+      "first_page": "categories/ai-pixel-art/page-0001.json"
+    },
+    {
+      "id": "98e0c91e-0729-41ab-b165-e52ebfaaa0bf",
+      "name": "AI Voice Generator",
+      "slug": "ai-voice-generator",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 22,
+      "first_page": "categories/ai-voice-generator/page-0001.json"
+    },
+    {
+      "id": "f1092641-aba2-43be-a938-62b5f615b552",
+      "name": "AI Focus Tools",
+      "slug": "ai-focus-tools",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 21,
+      "first_page": "categories/ai-focus-tools/page-0001.json"
+    },
+    {
+      "id": "69fccaed-87a3-4f9a-9c3c-0e32b43f5167",
+      "name": "AI News Aggregation",
+      "slug": "ai-news-aggregation",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 21,
+      "first_page": "categories/ai-news-aggregation/page-0001.json"
+    },
+    {
+      "id": "bfeeadbe-7a9b-4871-8cff-f62e07a643fe",
+      "name": "AI Fitness Coach",
+      "slug": "ai-fitness-coach",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 20,
+      "first_page": "categories/ai-fitness-coach/page-0001.json"
+    },
+    {
+      "id": "46da6666-13d3-4354-a584-dcad4119901a",
+      "name": "AI GIF Generator",
+      "slug": "ai-gif-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 20,
+      "first_page": "categories/ai-gif-generator/page-0001.json"
+    },
+    {
+      "id": "7703b545-5a2a-47e3-882a-cf1e8d8a9bfa",
+      "name": "AI Motion Design",
+      "slug": "ai-motion-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 20,
+      "first_page": "categories/ai-motion-design/page-0001.json"
+    },
+    {
+      "id": "696a5b95-2ecb-4d8d-b4dc-a4e4a93f0b7f",
+      "name": "AI Travel Assistant",
+      "slug": "ai-travel-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 20,
+      "first_page": "categories/ai-travel-assistant/page-0001.json"
+    },
+    {
+      "id": "04425d9f-5cbc-4bc9-b12c-43e24c758b8d",
+      "name": "AI Homework Assistant",
+      "slug": "ai-homework-assistant",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 19,
+      "first_page": "categories/ai-homework-assistant/page-0001.json"
+    },
+    {
+      "id": "dac521e3-f03e-4deb-96ec-9b913b468e52",
+      "name": "AI Mental Health Assistant",
+      "slug": "ai-mental-health-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 19,
+      "first_page": "categories/ai-mental-health-assistant/page-0001.json"
+    },
+    {
+      "id": "172b9135-e2c9-45b6-833b-14d4727566b7",
+      "name": "AI Rap Generator",
+      "slug": "ai-rap-generator",
+      "description": "Tools in the AI Rap Generator category",
+      "level": 0,
+      "tool_count": 19,
+      "first_page": "categories/ai-rap-generator/page-0001.json"
+    },
+    {
+      "id": "e3a0990e-c2aa-4023-a35a-7d6a778ab0d6",
+      "name": "AI Student Assessment",
+      "slug": "ai-student-assessment",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 19,
+      "first_page": "categories/ai-student-assessment/page-0001.json"
+    },
+    {
+      "id": "50abdd18-0886-4ad0-892d-da73ff3c9f2f",
+      "name": "AI Study Tools",
+      "slug": "ai-study-tools",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 19,
+      "first_page": "categories/ai-study-tools/page-0001.json"
+    },
+    {
+      "id": "33231df6-6aac-4e51-913b-bd1efe4cae3b",
+      "name": "AI Joke",
+      "slug": "ai-joke",
+      "description": "Tools in the AI Joke category",
+      "level": 0,
+      "tool_count": 18,
+      "first_page": "categories/ai-joke/page-0001.json"
+    },
+    {
+      "id": "1459db9e-1009-4ddb-a3e8-c4679a0c06a5",
+      "name": "AI Relationship Coach",
+      "slug": "ai-relationship-coach",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 18,
+      "first_page": "categories/ai-relationship-coach/page-0001.json"
+    },
+    {
+      "id": "a42fa3ed-c5e4-4302-964b-77916571ddd6",
+      "name": "AI Interior Design",
+      "slug": "ai-interior-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 17,
+      "first_page": "categories/ai-interior-design/page-0001.json"
+    },
+    {
+      "id": "9a689ed5-d16c-4630-89ac-f2662cc5edcb",
+      "name": "AI Lead Nurturing",
+      "slug": "ai-lead-nurturing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 17,
+      "first_page": "categories/ai-lead-nurturing/page-0001.json"
+    },
+    {
+      "id": "363d94ee-ddda-4b76-b275-16b391c3bc49",
+      "name": "AI SOP",
+      "slug": "ai-sop",
+      "description": "Tools in the AI SOP category",
+      "level": 0,
+      "tool_count": 17,
+      "first_page": "categories/ai-sop/page-0001.json"
+    },
+    {
+      "id": "56f80414-5fc4-4dd7-b3ef-ade3ffe55558",
+      "name": "AI Browsers Builder",
+      "slug": "ai-browsers-builder",
+      "description": "Tools in the AI Browsers Builder category",
+      "level": 0,
+      "tool_count": 16,
+      "first_page": "categories/ai-browsers-builder/page-0001.json"
+    },
+    {
+      "id": "89ef2c89-212a-4974-be44-9620c5efd17a",
+      "name": "AI Campaign Management",
+      "slug": "ai-campaign-management",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 16,
+      "first_page": "categories/ai-campaign-management/page-0001.json"
+    },
+    {
+      "id": "14ef1626-d754-4583-987d-74c166a693fc",
+      "name": "AI Log Management",
+      "slug": "ai-log-management",
+      "description": "Subcategory of Code \u0026 IT",
+      "parent_id": "ebaa2831-8523-47f8-a269-008227e64222",
+      "level": 1,
+      "tool_count": 16,
+      "first_page": "categories/ai-log-management/page-0001.json"
+    },
+    {
+      "id": "38dfa79a-12f8-406b-89b6-9c0b49f1a946",
+      "name": "AI Market Research",
+      "slug": "ai-market-research",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 16,
+      "first_page": "categories/ai-market-research/page-0001.json"
+    },
+    {
+      "id": "c42dc97a-b75e-435c-ba29-5ea14f661e06",
+      "name": "AI Pet Care Assistant",
+      "slug": "ai-pet-care-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 16,
+      "first_page": "categories/ai-pet-care-assistant/page-0001.json"
+    },
+    {
+      "id": "f332b265-de04-4970-bd1c-1797d1f889f3",
+      "name": "AI Advertising Assistant",
+      "slug": "ai-advertising-assistant",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 15,
+      "first_page": "categories/ai-advertising-assistant/page-0001.json"
+    },
+    {
+      "id": "4b290ad1-7a90-4c90-aed4-5a308b11c339",
+      "name": "AI Cosplay Generator",
+      "slug": "ai-cosplay-generator",
+      "description": "Tools in the AI Cosplay Generator category",
+      "level": 0,
+      "tool_count": 15,
+      "first_page": "categories/ai-cosplay-generator/page-0001.json"
+    },
+    {
+      "id": "af763419-f324-408f-8205-6bc5b987140d",
+      "name": "AI Noise Cancellation",
+      "slug": "ai-noise-cancellation",
+      "description": "Tools in the AI Noise Cancellation category",
+      "level": 0,
+      "tool_count": 15,
+      "first_page": "categories/ai-noise-cancellation/page-0001.json"
+    },
+    {
+      "id": "188bcf25-2d66-4d4b-ba18-9b269d951991",
+      "name": "AI Product Marketing",
+      "slug": "ai-product-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 15,
+      "first_page": "categories/ai-product-marketing/page-0001.json"
+    },
+    {
+      "id": "51ec8af1-ba36-4379-8b21-f6a41346cf86",
+      "name": "AI Sports Analytics",
+      "slug": "ai-sports-analytics",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 15,
+      "first_page": "categories/ai-sports-analytics/page-0001.json"
+    },
+    {
+      "id": "813f7443-d004-4204-967a-28fcca1d9d0e",
+      "name": "AI Landscape Generator",
+      "slug": "ai-landscape-generator",
+      "description": "Subcategory of Image",
+      "parent_id": "ab0a53ca-4d2c-4d33-973a-c199f16ecbdc",
+      "level": 1,
+      "tool_count": 14,
+      "first_page": "categories/ai-landscape-generator/page-0001.json"
+    },
+    {
+      "id": "dbe3eaa6-ded1-4cf0-b9c1-a99c40dab88c",
+      "name": "AI Video Marketing",
+      "slug": "ai-video-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 14,
+      "first_page": "categories/ai-video-marketing/page-0001.json"
+    },
+    {
+      "id": "35d606c5-085e-4033-a26f-a200d3571fd4",
+      "name": "AI WhatsApp Chatbot",
+      "slug": "ai-whatsapp-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 14,
+      "first_page": "categories/ai-whatsapp-chatbot/page-0001.json"
+    },
+    {
+      "id": "2e311fba-1cd3-4286-a400-d9c5912e3ef7",
+      "name": "AI Art Creation",
+      "slug": "ai-art-creation",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 13,
+      "first_page": "categories/ai-art-creation/page-0001.json"
+    },
+    {
+      "id": "6211be09-a317-4717-b6b0-c50bdd6d7ec5",
+      "name": "AI Font",
+      "slug": "ai-font",
+      "description": "Tools in the AI Font category",
+      "level": 0,
+      "tool_count": 13,
+      "first_page": "categories/ai-font/page-0001.json"
+    },
+    {
+      "id": "8e8aa912-0617-466a-acfd-07655842c99f",
+      "name": "AI Language Learning",
+      "slug": "ai-language-learning",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 13,
+      "first_page": "categories/ai-language-learning/page-0001.json"
+    },
+    {
+      "id": "8136532a-5b0e-42f4-8ec7-5392361749dd",
+      "name": "AI Payment Processing",
+      "slug": "ai-payment-processing",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 13,
+      "first_page": "categories/ai-payment-processing/page-0001.json"
+    },
+    {
+      "id": "8ec5abf9-c42a-43b6-b566-1b3a2f4ecb88",
+      "name": "AI Personal Finance",
+      "slug": "ai-personal-finance",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 13,
+      "first_page": "categories/ai-personal-finance/page-0001.json"
+    },
+    {
+      "id": "76c17821-bc12-4ea9-97b9-b0c318676e85",
+      "name": "AI 3D Asset Creation",
+      "slug": "ai-3d-asset-creation",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 12,
+      "first_page": "categories/ai-3d-asset-creation/page-0001.json"
+    },
+    {
+      "id": "fcbb8d3c-4118-4d7d-92b8-11b6b9bb5fbd",
+      "name": "AI Climate Science Tools",
+      "slug": "ai-climate-science-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 12,
+      "first_page": "categories/ai-climate-science-tools/page-0001.json"
+    },
+    {
+      "id": "32163e76-9eb1-494c-94c5-4e364acaa88c",
+      "name": "AI Legal Assistant",
+      "slug": "ai-legal-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 12,
+      "first_page": "categories/ai-legal-assistant/page-0001.json"
+    },
+    {
+      "id": "b34bcf1d-5e19-4169-a6b8-3449fc30edc8",
+      "name": "AI Lesson Planning",
+      "slug": "ai-lesson-planning",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 12,
+      "first_page": "categories/ai-lesson-planning/page-0001.json"
+    },
+    {
+      "id": "5ef7281b-4604-4c40-a58a-37b9e55391ff",
+      "name": "AI Marketing Copywriting",
+      "slug": "ai-marketing-copywriting",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 12,
+      "first_page": "categories/ai-marketing-copywriting/page-0001.json"
+    },
+    {
+      "id": "27b2b6ef-2fec-41d9-9f64-f6ac872904ff",
+      "name": "AI Project Planning",
+      "slug": "ai-project-planning",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 12,
+      "first_page": "categories/ai-project-planning/page-0001.json"
+    },
+    {
+      "id": "eaa273b6-a023-43ca-b740-447127f77085",
+      "name": "AI CAD Tools",
+      "slug": "ai-cad-tools",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 11,
+      "first_page": "categories/ai-cad-tools/page-0001.json"
+    },
+    {
+      "id": "3d2ab86e-7b62-4d46-a042-4943912a3712",
+      "name": "AI Keyword Research",
+      "slug": "ai-keyword-research",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 11,
+      "first_page": "categories/ai-keyword-research/page-0001.json"
+    },
+    {
+      "id": "2ee5423f-f16f-42bc-ab02-eeec7e7ec221",
+      "name": "AI Workflow Automation",
+      "slug": "ai-workflow-automation",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 11,
+      "first_page": "categories/ai-workflow-automation/page-0001.json"
+    },
+    {
+      "id": "a794ee69-de24-437d-9dc4-982d47c48151",
+      "name": "AI Bias Detection",
+      "slug": "ai-bias-detection",
+      "description": "Subcategory of AI Detector",
+      "parent_id": "3c2eb5df-c828-49b1-9d8f-998cd087dd17",
+      "level": 1,
+      "tool_count": 10,
+      "first_page": "categories/ai-bias-detection/page-0001.json"
+    },
+    {
+      "id": "19af9c1d-ed79-4821-8837-acdb49ccd0bb",
+      "name": "AI Marketing Automation",
+      "slug": "ai-marketing-automation",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 10,
+      "first_page": "categories/ai-marketing-automation/page-0001.json"
+    },
+    {
+      "id": "7f1c029a-5446-4b6d-912a-4117a676e6ab",
+      "name": "AI Survey Chatbot",
+      "slug": "ai-survey-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 10,
+      "first_page": "categories/ai-survey-chatbot/page-0001.json"
+    },
+    {
+      "id": "4b365c17-8ba6-4d0a-a8e9-d23bbc7c8b07",
+      "name": "AI Virtual Companion",
+      "slug": "ai-virtual-companion",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 10,
+      "first_page": "categories/ai-virtual-companion/page-0001.json"
+    },
+    {
+      "id": "2400e423-71f5-4c99-bd24-7e419f12890a",
+      "name": "AI Voice Chatbot",
+      "slug": "ai-voice-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 10,
+      "first_page": "categories/ai-voice-chatbot/page-0001.json"
+    },
+    {
+      "id": "5dcae873-19b4-417c-8010-50a20bdec40e",
+      "name": "AI Augmented Reality",
+      "slug": "ai-augmented-reality",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-augmented-reality/page-0001.json"
+    },
+    {
+      "id": "e2809740-1796-4c59-89db-532cef7acfd4",
+      "name": "AI Educational Games",
+      "slug": "ai-educational-games",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-educational-games/page-0001.json"
+    },
+    {
+      "id": "e0479bb6-9f52-4e7a-9738-1d0820357fc7",
+      "name": "AI Exam Preparation",
+      "slug": "ai-exam-preparation",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-exam-preparation/page-0001.json"
+    },
+    {
+      "id": "3024bc22-7aab-4b8f-9d94-db9a0e91a14c",
+      "name": "AI Logo Design",
+      "slug": "ai-logo-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-logo-design/page-0001.json"
+    },
+    {
+      "id": "53a06b21-5ae4-45a7-9b4e-7b3ce2ca8d04",
+      "name": "AI Media Planning",
+      "slug": "ai-media-planning",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-media-planning/page-0001.json"
+    },
+    {
+      "id": "38d2313e-6323-4efd-b97a-6f8ac59f9a6a",
+      "name": "AI SEO Optimization",
+      "slug": "ai-seo-optimization",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-seo-optimization/page-0001.json"
+    },
+    {
+      "id": "baf7d52c-c8a7-450e-be33-75d1c6a3dbd1",
+      "name": "AI Virtual Reality",
+      "slug": "ai-virtual-reality",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 9,
+      "first_page": "categories/ai-virtual-reality/page-0001.json"
+    },
+    {
+      "id": "8027e479-6b92-42ce-88d3-217ece4ab8cb",
+      "name": "AI Content Detection",
+      "slug": "ai-content-detection",
+      "description": "Subcategory of AI Detector",
+      "parent_id": "3c2eb5df-c828-49b1-9d8f-998cd087dd17",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-content-detection/page-0001.json"
+    },
+    {
+      "id": "aa6988b5-4d77-4fee-83a3-b8227ac13237",
+      "name": "AI Customer Engagement",
+      "slug": "ai-customer-engagement",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-customer-engagement/page-0001.json"
+    },
+    {
+      "id": "372a8824-3f8a-4a1a-9f7a-7d076893a410",
+      "name": "AI E-Learning Platforms",
+      "slug": "ai-e-learning-platforms",
+      "description": "Subcategory of Education",
+      "parent_id": "d90cb030-aec4-4036-b103-89913151f8dc",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-e-learning-platforms/page-0001.json"
+    },
+    {
+      "id": "deb64c31-b764-41f9-a011-5fec3b629890",
+      "name": "AI Fashion Design",
+      "slug": "ai-fashion-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-fashion-design/page-0001.json"
+    },
+    {
+      "id": "b8d3707a-6fc8-4e3a-a1b7-875b2d5cdac2",
+      "name": "AI Plagiarism Detection",
+      "slug": "ai-plagiarism-detection",
+      "description": "Subcategory of AI Detector",
+      "parent_id": "3c2eb5df-c828-49b1-9d8f-998cd087dd17",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-plagiarism-detection/page-0001.json"
+    },
+    {
+      "id": "875a8543-2113-4c2f-89e5-d238a26854c0",
+      "name": "AI Security Tools",
+      "slug": "ai-security-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-security-tools/page-0001.json"
+    },
+    {
+      "id": "ead1acff-ce01-413a-8318-4ef435062729",
+      "name": "AI Voiceover Generator",
+      "slug": "ai-voiceover-generator",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 8,
+      "first_page": "categories/ai-voiceover-generator/page-0001.json"
+    },
+    {
+      "id": "1504828e-deae-4aa6-b65c-4afd74a53638",
+      "name": "AI Prompt Templates",
+      "slug": "ai-prompt-templates",
+      "description": "Subcategory of Prompt",
+      "parent_id": "cb0dcc5a-e030-44f8-836d-8c003d3cbd84",
+      "level": 1,
+      "tool_count": 7,
+      "first_page": "categories/ai-prompt-templates/page-0001.json"
+    },
+    {
+      "id": "9a4b0513-9971-426b-a2f7-586dd31cb375",
+      "name": "AI Real Estate",
+      "slug": "ai-real-estate",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 7,
+      "first_page": "categories/ai-real-estate/page-0001.json"
+    },
+    {
+      "id": "32bfe9b0-4e51-4006-9ed9-2718a2c97c10",
+      "name": "AI Lead Qualification Chatbot",
+      "slug": "ai-lead-qualification-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 6,
+      "first_page": "categories/ai-lead-qualification-chatbot/page-0001.json"
+    },
+    {
+      "id": "1948ec88-91b6-4b6b-939e-3ada97d4c53c",
+      "name": "AI Productivity Assistant",
+      "slug": "ai-productivity-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 6,
+      "first_page": "categories/ai-productivity-assistant/page-0001.json"
+    },
+    {
+      "id": "2db40b0e-8b6d-41e3-a614-df9488b336b3",
+      "name": "AI Virtual Assistant",
+      "slug": "ai-virtual-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 6,
+      "first_page": "categories/ai-virtual-assistant/page-0001.json"
+    },
+    {
+      "id": "5e4656ce-0028-45d1-b1c1-13e253276433",
+      "name": "Novel",
+      "slug": "novel",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 6,
+      "first_page": "categories/novel/page-0001.json"
+    },
+    {
+      "id": "a4dff7ce-bcc6-47f0-a37f-24e4c4678d16",
+      "name": "AI Animation",
+      "slug": "ai-animation",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-animation/page-0001.json"
+    },
+    {
+      "id": "70cba2ea-a507-4310-941a-5a9f139b09d9",
+      "name": "AI Deepfake Detection",
+      "slug": "ai-deepfake-detection",
+      "description": "Subcategory of AI Detector",
+      "parent_id": "3c2eb5df-c828-49b1-9d8f-998cd087dd17",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-deepfake-detection/page-0001.json"
+    },
+    {
+      "id": "659c45bb-3bd2-46f0-bcc6-6288ba46baea",
+      "name": "AI God",
+      "slug": "ai-god",
+      "description": "Tools in the AI God category",
+      "level": 0,
+      "tool_count": 5,
+      "first_page": "categories/ai-god/page-0001.json"
+    },
+    {
+      "id": "82f9cfa1-6704-4503-9500-c3828fb6dbe7",
+      "name": "AI Illustration",
+      "slug": "ai-illustration",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-illustration/page-0001.json"
+    },
+    {
+      "id": "1326c38a-1aab-42e6-9e1c-f70a2164d3a5",
+      "name": "AI Influencer Marketing",
+      "slug": "ai-influencer-marketing",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-influencer-marketing/page-0001.json"
+    },
+    {
+      "id": "c5eb5bf1-9f4f-4b21-98fe-cede91ddf867",
+      "name": "AI Real Estate Chatbot",
+      "slug": "ai-real-estate-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-real-estate-chatbot/page-0001.json"
+    },
+    {
+      "id": "b699bb91-39b6-4fe4-9b43-924e7647d0ca",
+      "name": "AI Songwriting Assistant",
+      "slug": "ai-songwriting-assistant",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-songwriting-assistant/page-0001.json"
+    },
+    {
+      "id": "1fa38065-63a7-4640-b1e2-ffe16510555c",
+      "name": "AI Voice Recognition",
+      "slug": "ai-voice-recognition",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-voice-recognition/page-0001.json"
+    },
+    {
+      "id": "5890ea1f-2f98-4be0-86b2-9ab8b3527eb5",
+      "name": "AI Weather Forecasting",
+      "slug": "ai-weather-forecasting",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 5,
+      "first_page": "categories/ai-weather-forecasting/page-0001.json"
+    },
+    {
+      "id": "a5f23722-edce-4eda-ab42-0cbccf4eb664",
+      "name": "AI Financial Planning",
+      "slug": "ai-financial-planning",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 4,
+      "first_page": "categories/ai-financial-planning/page-0001.json"
+    },
+    {
+      "id": "1063341c-abe0-4abd-a954-414bc4b0911d",
+      "name": "AI Pattern Design",
+      "slug": "ai-pattern-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 4,
+      "first_page": "categories/ai-pattern-design/page-0001.json"
+    },
+    {
+      "id": "a3762f89-8446-4914-b0b2-65ec848ea828",
+      "name": "AI Voice Removal",
+      "slug": "ai-voice-removal",
+      "description": "Subcategory of Voice",
+      "parent_id": "00306934-d8f2-4378-87f2-19bb6e625ab4",
+      "level": 1,
+      "tool_count": 4,
+      "first_page": "categories/ai-voice-removal/page-0001.json"
+    },
+    {
+      "id": "7c3771ac-aeed-444e-af9d-b41a7e80d10c",
+      "name": "AI Gaming Tools",
+      "slug": "ai-gaming-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 3,
+      "first_page": "categories/ai-gaming-tools/page-0001.json"
+    },
+    {
+      "id": "7296ab21-b5b2-4c68-a204-9704e2ea7133",
+      "name": "AI Marketing Analytics",
+      "slug": "ai-marketing-analytics",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 3,
+      "first_page": "categories/ai-marketing-analytics/page-0001.json"
+    },
+    {
+      "id": "a8d73a56-8ef8-49b0-a2d8-fdd3484f8080",
+      "name": "AI Note-Taking",
+      "slug": "ai-note-taking",
+      "description": "Subcategory of Productivity",
+      "parent_id": "5e029898-d8d7-48e3-916b-4177ac0e45e2",
+      "level": 1,
+      "tool_count": 3,
+      "first_page": "categories/ai-note-taking/page-0001.json"
+    },
+    {
+      "id": "f2f11141-f932-479e-8511-2d737ccd774a",
+      "name": "AI Prompt Tuning",
+      "slug": "ai-prompt-tuning",
+      "description": "Subcategory of Prompt",
+      "parent_id": "cb0dcc5a-e030-44f8-836d-8c003d3cbd84",
+      "level": 1,
+      "tool_count": 3,
+      "first_page": "categories/ai-prompt-tuning/page-0001.json"
+    },
+    {
+      "id": "529ae725-c38d-47f3-9cd7-6bce0630d0f8",
+      "name": "AI Recruiting Assistant",
+      "slug": "ai-recruiting-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 3,
+      "first_page": "categories/ai-recruiting-assistant/page-0001.json"
+    },
+    {
+      "id": "aa74f5d3-5375-4d2a-b603-c3ed7f24b1e0",
+      "name": "AI Wellness Coach",
+      "slug": "ai-wellness-coach",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 3,
+      "first_page": "categories/ai-wellness-coach/page-0001.json"
+    },
+    {
+      "id": "1b70f10c-0204-4daa-8302-f8ad67fc7660",
+      "name": "AI 3D Modeling",
+      "slug": "ai-3d-modeling",
+      "description": "Subcategory of 3D",
+      "parent_id": "baed3ff4-5857-4a9f-b48f-fd8614d9f75b",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-3d-modeling/page-0001.json"
+    },
+    {
+      "id": "3f80414d-1743-44fd-a2ad-17a3ace5a7e6",
+      "name": "AI E-commerce",
+      "slug": "ai-e-commerce",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-e-commerce/page-0001.json"
+    },
+    {
+      "id": "9bb270f5-2f36-40ac-a5d5-ae9b3b1f35b0",
+      "name": "AI Fundraising Assistant",
+      "slug": "ai-fundraising-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-fundraising-assistant/page-0001.json"
+    },
+    {
+      "id": "81da689f-83f3-4548-b192-f4a17406e0e1",
+      "name": "AI Healthcare Chatbot",
+      "slug": "ai-healthcare-chatbot",
+      "description": "Subcategory of Chatbot",
+      "parent_id": "fd5d8729-5f05-4681-839c-dc4979bf465b",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-healthcare-chatbot/page-0001.json"
+    },
+    {
+      "id": "d4c8a0ab-dd93-4c53-8211-ca5897d91bd6",
+      "name": "AI Lifestyle Assistant",
+      "slug": "ai-lifestyle-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-lifestyle-assistant/page-0001.json"
+    },
+    {
+      "id": "cec4b046-dac0-400e-b2ba-09a352268aac",
+      "name": "AI Marketing Planning",
+      "slug": "ai-marketing-planning",
+      "description": "Subcategory of Marketing",
+      "parent_id": "3ce588b2-b4c3-4a3c-a57d-6e4309da3991",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-marketing-planning/page-0001.json"
+    },
+    {
+      "id": "cbf5a069-bf16-4dc9-9eb4-72064f8f76e1",
+      "name": "AI Nutrition Assistant",
+      "slug": "ai-nutrition-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-nutrition-assistant/page-0001.json"
+    },
+    {
+      "id": "e56852f7-321b-4150-a6e6-268d8a6281f0",
+      "name": "AI Office Assistant",
+      "slug": "ai-office-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-office-assistant/page-0001.json"
+    },
+    {
+      "id": "597f514d-2fc4-43f2-b1b7-ac495a0ee93a",
+      "name": "AI Poster Design",
+      "slug": "ai-poster-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-poster-design/page-0001.json"
+    },
+    {
+      "id": "ca1e5ea3-f69e-4cb7-9c1f-32d89d895fd4",
+      "name": "AI Spam Detection",
+      "slug": "ai-spam-detection",
+      "description": "Subcategory of AI Detector",
+      "parent_id": "3c2eb5df-c828-49b1-9d8f-998cd087dd17",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/ai-spam-detection/page-0001.json"
+    },
+    {
+      "id": "46003b95-07fd-4e6f-b7f5-ac96feb39b1e",
+      "name": "Quotes Generator",
+      "slug": "quotes-generator",
+      "description": "Subcategory of Text \u0026 Writing",
+      "parent_id": "b91e891e-7f51-4164-9582-d45a93380b4c",
+      "level": 1,
+      "tool_count": 2,
+      "first_page": "categories/quotes-generator/page-0001.json"
+    },
+    {
+      "id": "ea49841c-3187-4c95-8e23-2e83dbe85a87",
+      "name": "AI Meditation Assistant",
+      "slug": "ai-meditation-assistant",
+      "description": "Subcategory of Life Assistant",
+      "parent_id": "dcada44f-2a96-4d9d-b98e-b411ba16de47",
+      "level": 1,
+      "tool_count": 1,
+      "first_page": "categories/ai-meditation-assistant/page-0001.json"
+    },
+    {
+      "id": "96244921-532f-4eb7-b384-4a8db7a87c1b",
+      "name": "AI Politics Tools",
+      "slug": "ai-politics-tools",
+      "description": "Subcategory of Other",
+      "parent_id": "3352ef73-f85d-47bc-b881-69a989ab125a",
+      "level": 1,
+      "tool_count": 1,
+      "first_page": "categories/ai-politics-tools/page-0001.json"
+    },
+    {
+      "id": "5ff5c9e1-4fa0-43e5-a3e8-4c8e4b28d7fd",
+      "name": "AI Tax Assistant",
+      "slug": "ai-tax-assistant",
+      "description": "Subcategory of Business",
+      "parent_id": "a003cced-aa9a-42e9-925b-dc8ffbcc4781",
+      "level": 1,
+      "tool_count": 1,
+      "first_page": "categories/ai-tax-assistant/page-0001.json"
+    },
+    {
+      "id": "14434ab6-33ba-4652-9c77-14ee7d1059a6",
+      "name": "AI UI/UX Design",
+      "slug": "ai-uiux-design",
+      "description": "Subcategory of Design \u0026 Art",
+      "parent_id": "ccab9f69-c633-4082-981d-d018ce853994",
+      "level": 1,
+      "tool_count": 1,
+      "first_page": "categories/ai-uiux-design/page-0001.json"
+    }
+  ]
+}

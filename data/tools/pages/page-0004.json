@@ -1,0 +1,993 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 4,
+    "page_size": 48,
+    "total_items": 32604,
+    "total_pages": 680,
+    "next_path": "tools/pages/page-0005.json",
+    "prev_path": "tools/pages/page-0003.json"
+  },
+  "items": [
+    {
+      "id": "d59a1efa-1e3c-44cf-b4a5-68e27f43a920",
+      "name": "QuillGenius - AI Copywriting Assistant",
+      "slug": "quillgenius-ai-copywriting-assistant",
+      "description": "Generate high-quality content in minutes.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/quillgenius-ai-copywriting-assistant.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.quillgenius.aicopywritingassistant\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-11T13:35:01Z",
+      "updated_at": "2025-03-27T05:56:09.0998Z",
+      "category_slugs": [
+        "ai-blog-writer",
+        "ai-content-generator",
+        "ai-product-description-generator",
+        "copywriting"
+      ]
+    },
+    {
+      "id": "9d7f2b29-08e4-46f7-a8d5-9c8948a80ed1",
+      "name": "Reply Muse: GenAI for Conversations",
+      "slug": "reply-muse-genai-for-conversations",
+      "description": "Elevate your Tinder game with genAI wingman!",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/reply-muse-genai-for-conversations.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.rolegenie.reply_muse\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-06-24T15:04:18Z",
+      "updated_at": "2025-03-27T05:37:42.574737Z",
+      "category_slugs": [
+        "ai-dating-assistant",
+        "ai-reply-assistant",
+        "ai-response-generator"
+      ]
+    },
+    {
+      "id": "aa5efd63-c29f-4af0-b2ba-f8b2574777d2",
+      "name": "Shera Ai",
+      "slug": "shera-ai",
+      "description": "An AI system combining chat bot and image generator functionalities.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/shera-ai.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.sheraai.chatgpt\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-08-02T13:44:34Z",
+      "updated_at": "2025-03-27T08:18:09.945788Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "19326562-c3ae-4867-ba6c-edf1bb1beb1e",
+      "name": "Smart Typer",
+      "slug": "smart-typer",
+      "description": "Transform your writing with AI-powered Android keyboard.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/smart-typer.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-23T14:49:14Z",
+      "updated_at": "2025-03-27T06:19:50.234614Z",
+      "category_slugs": [
+        "ai-content-generator"
+      ]
+    },
+    {
+      "id": "5b9f60b4-06ce-481f-aba7-c32b243ee558",
+      "name": "Social Genie AI",
+      "slug": "social-genie-ai",
+      "description": "AI-powered app for generating engaging social media content.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/social-genie-ai.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=linc.social.genie\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-27T08:34:51Z",
+      "updated_at": "2025-03-27T05:50:53.357262Z",
+      "category_slugs": [
+        "ai-bio-generator",
+        "ai-content-generator",
+        "ai-hashtag-assistant",
+        "ai-social-media-assistant"
+      ]
+    },
+    {
+      "id": "857b46fc-088a-465d-bb66-999c9127c05c",
+      "name": "Sparkz.AI",
+      "slug": "sparkz-ai",
+      "description": "Create a standout dating profile with AI guidance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/sparkz-ai.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.flutterflow.sparkzai\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-29T14:06:11Z",
+      "updated_at": "2025-03-27T05:29:36.846928Z",
+      "category_slugs": [
+        "ai-bio-generator",
+        "ai-dating-assistant",
+        "ai-profile-picture-generator"
+      ]
+    },
+    {
+      "id": "d3738078-f6a6-4aca-8841-e3d47d96ce71",
+      "name": "SpeakWise AI",
+      "slug": "speakwise-ai",
+      "description": "Powerful virtual assistant with intelligent answers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/speakwise-ai.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=chat.gpt.speakwise.gpt3.ai.chatbot\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-10T12:26:24Z",
+      "updated_at": "2025-03-27T09:06:59.592108Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "fd806a16-e4c4-4586-86d3-addbca75d9f7",
+      "name": "Speaksai (TalkerAI)",
+      "slug": "speaksai-talkerai",
+      "description": "A context aware, voice-based conversation buddy.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/speaksai-talkerai.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.farsab.TalkerAI\u0026hl=en\u0026gl=US\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-07-03T09:30:41Z",
+      "updated_at": "2025-03-27T08:23:38.138212Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "4e00afef-ce1c-4e27-a8e2-7cbdc2600596",
+      "name": "Stepseed",
+      "slug": "stepseed",
+      "description": "App for goal setting and tracking with an AI-powered life coach.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/stepseed.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.subfocal.stepseed\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-06-04T02:34:34Z",
+      "updated_at": "2025-03-27T06:54:36.497056Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-coaching",
+        "ai-product-description-generator",
+        "ai-productivity-tools",
+        "ai-task-management"
+      ]
+    },
+    {
+      "id": "d0c7774b-11f9-479f-9f67-55fcfcd69af8",
+      "name": "Talk AI - Chatbot AI Assistant",
+      "slug": "talk-ai-chatbot-ai-assistant",
+      "description": "The latest AI chatbot app powered by GPT-4 for smart and engaging conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/talk-ai-chatbot-ai-assistant.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.chiefgpt.talkai\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-07-11T16:35:47Z",
+      "updated_at": "2025-03-27T05:25:47.616622Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-chatbot",
+        "ai-photo-image-generator"
+      ]
+    },
+    {
+      "id": "1018fe0f-a9c1-4214-aa6f-581c9346d539",
+      "name": "Text To Audio—TTS \u0026 MP3_WAV",
+      "slug": "text-to-audio-tts-mp3-wav",
+      "description": "Create custom voices by adjusting speed and pitch.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/text-to-audio-tts-mp3-wav.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.nextdiscover.audio\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-27T14:11:24Z",
+      "updated_at": "2025-03-27T07:46:04.845672Z",
+      "category_slugs": [
+        "ai-celebrity-voice-generator",
+        "ai-lip-sync-generator",
+        "ai-speech-synthesis"
+      ]
+    },
+    {
+      "id": "2821d564-0be9-4074-ab69-92d7dca1c3a8",
+      "name": "Translator",
+      "slug": "translator",
+      "description": "Real-time translation for phrases and words.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/translator.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.audacityittranslator.translatetexttranslator\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-27T07:31:47Z",
+      "updated_at": "2025-03-27T06:54:16.868867Z",
+      "category_slugs": [
+        "ai-product-description-generator",
+        "translate"
+      ]
+    },
+    {
+      "id": "25463743-7bb8-4079-b698-263a93e45b22",
+      "name": "Ultimate GPToolkit",
+      "slug": "ultimate-gptoolkit",
+      "description": "Enhance content creation with 100+ GPT-4-powered AI tools.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ultimate-gptoolkit.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.neuralminds.ultimategptoolkit\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-22T12:27:01Z",
+      "updated_at": "2025-03-27T06:06:20.13703Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-productivity-tools",
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "61175fd8-6ca2-4b98-a239-5ef6a309cd9f",
+      "name": "Vera AIChatBot 4.0 - Turbo",
+      "slug": "vera-aichatbot-4-0-turbo",
+      "description": "High-ranking friendly smart client powered by OpenAI and AI assistant capabilities.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/vera-aichatbot-4-0-turbo.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=app.syntagma.chatgptchatapp\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-06-03T09:01:36Z",
+      "updated_at": "2025-03-27T08:09:40.647094Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "3f4b0813-aff8-4458-83ad-5f088798b234",
+      "name": "Video To Pdf Converter",
+      "slug": "video-to-pdf-converter",
+      "description": "Convert video files to PDF format easily.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/video-to-pdf-converter.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=convert.video.to.pdf.file\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-23T15:28:00Z",
+      "updated_at": "2025-03-27T06:48:59.712719Z",
+      "category_slugs": [
+        "ai-pdf",
+        "ai-product-description-generator"
+      ]
+    },
+    {
+      "id": "d53d286b-dba8-4366-9715-2e04f3374c88",
+      "name": "Vox Pop AI",
+      "slug": "vox-pop-ai",
+      "description": "Engage in audio conversations with AI avatars of celebrities.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/vox-pop-ai.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=ai.voxpop.app\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-06-04T04:09:18Z",
+      "updated_at": "2025-03-27T07:55:36.406961Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "ai-chatbot",
+        "ai-voice-assistants",
+        "ai-voice-chat-generator"
+      ]
+    },
+    {
+      "id": "d56af0cf-c71a-47cb-89a4-e13ed1423d02",
+      "name": "Wave - AI Browser with GPT",
+      "slug": "wave-ai-browser-with-gpt",
+      "description": "Enhance your internet experience with our high-tech mobile browser.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/wave-ai-browser-with-gpt.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=wave.ai.browser\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-06-19T13:27:48Z",
+      "updated_at": "2025-03-27T08:35:36.695888Z",
+      "category_slugs": [
+        "ai-ad-generator",
+        "ai-browsers-builder",
+        "ai-search-engine"
+      ]
+    },
+    {
+      "id": "a903d3be-77a1-485b-9354-5f4900e5f5d5",
+      "name": "World Translator: Transl.Learn",
+      "slug": "world-translator-transl-learn",
+      "description": "Powerful language translation app.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/world-translator-transl-learn.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.world.translator.translate.learn\u0026hl=en_IN\u0026gl=US\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-27T14:11:22Z",
+      "updated_at": "2025-03-27T07:31:45.217897Z",
+      "category_slugs": [
+        "translate"
+      ]
+    },
+    {
+      "id": "e0217e39-7702-4fea-8aa8-5148a47f2312",
+      "name": "Write better with AI Writing Tool",
+      "slug": "write-better-with-ai-writing-tool",
+      "description": "AI-powered grammar, voice recording, and translation in 20+ languages.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/write-better-with-ai-writing-tool.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.taggo.aigrammar\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-11-29T12:25:33Z",
+      "updated_at": "2025-03-27T07:31:59.629166Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "translate"
+      ]
+    },
+    {
+      "id": "fd5d9ada-b080-4b4e-8f18-b2c5c852e46a",
+      "name": "YouTube Create",
+      "slug": "youtube-create",
+      "description": "Enhance your videos easily with YouTube Create.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/youtube-create.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.producer\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-09-26T16:16:17Z",
+      "updated_at": "2025-03-27T07:47:00.286396Z",
+      "category_slugs": [
+        "ai-short-clips-generator",
+        "ai-video-editor",
+        "ai-youtube-assistant"
+      ]
+    },
+    {
+      "id": "44754f35-8b7b-4ee3-ab5c-2f007413b27e",
+      "name": "diffground",
+      "slug": "diffground",
+      "description": "AI-powered image editing and upscaling.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/diffground.jpg",
+      "website_url": "https://play.google.com/store/apps/details?id=com.radicho.diffground\u0026utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1065058949,
+      "created_at": "2023-05-27T14:11:21Z",
+      "updated_at": "2025-03-27T05:08:00.195478Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-image-enhancer",
+        "ai-photo-enhancer",
+        "ai-photo-image-generator",
+        "ai-photo-restoration"
+      ]
+    },
+    {
+      "id": "f195bce1-6280-4867-89e8-88c3242b93e5",
+      "name": "Deepseek",
+      "slug": "deepseek",
+      "description": "Advanced AI platform for coding and chat with open-source models.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/deepseek.png",
+      "website_url": "https://www.deepseek.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 614743154,
+      "created_at": "2025-02-07T03:12:07Z",
+      "updated_at": "2025-03-27T08:04:19.598925Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "6739875a-08d8-4cc5-9b59-f77b16d0667f",
+      "name": "OpenAI Sora",
+      "slug": "openai-sora",
+      "description": "AI model creating scenes from text.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/openai-sora.jpg",
+      "website_url": "https://openai.com/sora?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 505000892,
+      "created_at": "2024-02-16T04:32:31Z",
+      "updated_at": "2025-03-27T07:49:57.695172Z",
+      "category_slugs": [
+        "large-language-models-(llms)",
+        "text-to-video"
+      ]
+    },
+    {
+      "id": "e79a0e03-f6f4-4999-a838-cdd66c77c608",
+      "name": "Awesome ChatGPT Prompts",
+      "slug": "awesome-chatgpt-prompts",
+      "description": "Prompt examples for ChatGPT.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/awesome-chatgpt-prompts.jpg",
+      "website_url": "https://github.com/f/awesome-chatgpt-prompts?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 424818287,
+      "created_at": "2023-04-26T06:30:02Z",
+      "updated_at": "2025-03-27T08:08:43.26496Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "0e644d3c-d659-439f-8fc5-8d2148a471c6",
+      "name": "Deep floyd",
+      "slug": "deep-floyd",
+      "description": "Modular image generation with text prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/deep-floyd.jpg",
+      "website_url": "https://github.com/deep-floyd/IF?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 424818287,
+      "created_at": "2023-05-03T14:01:37Z",
+      "updated_at": "2025-03-27T05:17:54.653607Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-photo-image-generator",
+        "image-to-image"
+      ]
+    },
+    {
+      "id": "ce792b3a-ddd5-4c7a-926c-da618e824317",
+      "name": "PandasAI",
+      "slug": "pandasai",
+      "description": "Conversational interaction with Pandas data frames.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pandasai.jpg",
+      "website_url": "https://github.com/gventuri/pandas-ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 424818287,
+      "created_at": "2023-05-06T17:35:01Z",
+      "updated_at": "2025-03-27T04:06:22.126702Z",
+      "category_slugs": [
+        "ai-charting",
+        "ai-code-assistant",
+        "ai-developer-tools"
+      ]
+    },
+    {
+      "id": "8842b767-54b6-48e8-bcdd-f8bf296cef0a",
+      "name": "Shumai (Meta)",
+      "slug": "shumai-meta",
+      "description": "An open-source, fast, network-connected, differentiable tensor library.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/shumai-meta.png",
+      "website_url": "https://github.com/facebookresearch/shumai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 424818287,
+      "created_at": "2023-03-07T08:48:52Z",
+      "updated_at": "2025-03-27T04:08:08.543591Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-developer-tools"
+      ]
+    },
+    {
+      "id": "69f25b90-c98c-4fe2-99ab-65378e918066",
+      "name": "Adobe",
+      "slug": "adobe-com",
+      "description": "Leading company providing creative, marketing, and document management solutions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/adobe-com.jpg",
+      "website_url": "https://adobe.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 327602074,
+      "created_at": "2023-12-25T10:20:19Z",
+      "updated_at": "2025-03-27T04:32:40.418931Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-graphic-design"
+      ]
+    },
+    {
+      "id": "df861d01-ffa1-4ed8-9d50-6fa29a668583",
+      "name": "Getprospect",
+      "slug": "getprospect",
+      "description": "LinkedIn email finder tool for extracting and verifying email addresses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/getprospect.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/email-finder-getprospect/bhbcbkonalnjkflmdkdodieehnmmeknp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 274349133,
+      "created_at": "2024-12-10T06:00:09Z",
+      "updated_at": "2025-03-27T03:24:56.099985Z",
+      "category_slugs": [
+        "ai-email-assistant",
+        "ai-email-generator",
+        "ai-email-marketing",
+        "ai-lead-generation"
+      ]
+    },
+    {
+      "id": "f6da4a15-2313-4316-8cd4-79c23eed03eb",
+      "name": "DeepL",
+      "slug": "deepl",
+      "description": "DeepL is a highly accurate translator that translates texts and documents instantly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/deepl.jpg",
+      "website_url": "https://deepl.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 186062790,
+      "created_at": "2023-03-07T08:48:56Z",
+      "updated_at": "2025-03-27T07:30:43.702757Z",
+      "category_slugs": [
+        "ai-word",
+        "translate"
+      ]
+    },
+    {
+      "id": "d7f1abac-077f-4720-a334-46c74f2528f8",
+      "name": "A.I.Prompt Log",
+      "slug": "a-i-prompt-log",
+      "description": "Build and organize your own collection of A.I. prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/a-i-prompt-log.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/ai-prompt-log/kikagfjhbfjnbdhfibcledcojlfcnnin?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-22T11:47:12Z",
+      "updated_at": "2025-03-27T03:19:00.652525Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cc296654-d972-402a-9229-3b3731f0a14a",
+      "name": "AI Prompt Saver",
+      "slug": "ai-prompt-saver",
+      "description": "Save and re-use prompts with ease.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-prompt-saver.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/ai-prompt-saver/ipplfghnambhfflimmpbicbjhfgpfeoo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-07-25T14:19:41Z",
+      "updated_at": "2025-03-27T08:00:28.242222Z",
+      "category_slugs": [
+        "ai-developer-tools",
+        "ai-productivity-tools"
+      ]
+    },
+    {
+      "id": "460b18f9-020d-4182-a47e-20a2fd3cdf92",
+      "name": "AI User Story Assistant",
+      "slug": "ai-user-story-assistant",
+      "description": "AI-powered Chrome Extension for user story writing.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-user-story-assistant.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/ai-user-story-assistant/omoihmmjgcldhfipanobidamdimkfope?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-23T04:33:44Z",
+      "updated_at": "2025-03-27T04:03:10.49754Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-developer-tools"
+      ]
+    },
+    {
+      "id": "6a138f97-64b6-4363-b63d-c8f3ac4eed21",
+      "name": "AIFLASH GPT-4",
+      "slug": "aiflash-gpt-4",
+      "description": "Revolutionary GPT chatbot enhancing online experiences.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aiflash-gpt-4.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/ai-flash-gpt-4-chatbot/mcpndckncneckmnbjopgcfifbamiiebg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-30T09:21:36Z",
+      "updated_at": "2025-03-27T03:19:42.114821Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4eac2626-f59a-4bca-a0e0-291ee192ad3c",
+      "name": "AIPRM for SEO",
+      "slug": "aiprm-for-seo",
+      "description": "Curated prompt templates for SEO tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aiprm-for-seo.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/aiprm-for-seo/ojnbohmppadfgpejeebfnmnknjdlckgj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-22T13:29:42Z",
+      "updated_at": "2025-03-27T06:29:14.117112Z",
+      "category_slugs": [
+        "ai-content-generator"
+      ]
+    },
+    {
+      "id": "02cb0bb5-00b0-4359-ab43-e06c3432797e",
+      "name": "AIQUEST: CHATGPT Powered Search",
+      "slug": "aiquest-chatgpt-powered-search-1",
+      "description": "Web Knowledge Plus integrates web knowledge into CHATGPT, providing summarized web results alongside Google.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aiquest-chatgpt-powered-search-1.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/aiquest-chatgpt-powered-s/ccpcojggodkhjbjahddhcaobkhlaaanl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-27T11:46:58Z",
+      "updated_at": "2025-03-27T08:34:56.690972Z",
+      "category_slugs": [
+        "ai-search-engine"
+      ]
+    },
+    {
+      "id": "666dbd1f-116b-495c-88d6-b203ec73c2cc",
+      "name": "AiQUEST : CHATGPT powered Search",
+      "slug": "aiquest-chatgpt-powered-search",
+      "description": "Web search tool with summarized and referenced information.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aiquest-chatgpt-powered-search.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/aiquest/ccpcojggodkhjbjahddhcaobkhlaaanl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-27T08:30:42Z",
+      "updated_at": "2025-03-27T08:34:55.966637Z",
+      "category_slugs": [
+        "ai-search-engine"
+      ]
+    },
+    {
+      "id": "e33f6b52-4e7a-4e46-800e-1f5b2c61c1d7",
+      "name": "Amazon reviews summarizer",
+      "slug": "amazon-reviews-summarizer",
+      "description": "GPT-3-powered Chrome extension for Amazon product reviews.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/amazon-reviews-summarizer.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/amazon-reviews-summarizer/eaijhgdolgeagojiilakecophfmhichf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-26T12:29:17Z",
+      "updated_at": "2025-03-27T07:17:44.692229Z",
+      "category_slugs": [
+        "ai-developer-tools",
+        "ai-reviews-assistant",
+        "large-language-models-(llms)",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "2338616b-6164-4247-8e4a-f5a64c375a36",
+      "name": "AmazonGPT Pros \u0026 Cons Analyzer",
+      "slug": "amazongpt-pros-cons-analyzer",
+      "description": "Get detailed pros and cons of Amazon products based on reviews.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/amazongpt-pros-cons-analyzer.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/amazongpt-pros-cons-analy/mplcpnaajjdidnodamhcfcljohdgnjlh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-08-20T13:43:53Z",
+      "updated_at": "2025-03-27T06:55:15.65116Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-product-description-generator",
+        "ai-reviews-assistant"
+      ]
+    },
+    {
+      "id": "34e1561d-7cb9-4347-9af6-d9042398abcc",
+      "name": "Amy Reviews",
+      "slug": "amy-reviews",
+      "description": "Make informed purchases with expert review summaries.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/amy-reviews.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/amy-reviews-amazon-ali-ex/mipnefchpellhkpophgfmefngglacjkl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-06-03T16:17:08Z",
+      "updated_at": "2025-03-27T05:42:54.386998Z",
+      "category_slugs": [
+        "ai-email-marketing",
+        "ai-reviews-assistant"
+      ]
+    },
+    {
+      "id": "67ada958-89e7-4e48-a708-8b7267cd0055",
+      "name": "Appdron ChatGPT - Become A Marketing God",
+      "slug": "appdron-chatgpt-become-a-marketing-god",
+      "description": "Enhance productivity and creativity with Appdron AI's ChatGPT UI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/appdron-chatgpt-become-a-marketing-god.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/appdron-ai/lphgogeplcjpmhikjehmcfedkeocpfej?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-30T09:33:23Z",
+      "updated_at": "2025-03-27T08:00:22.668043Z",
+      "category_slugs": [
+        "ai-productivity-tools"
+      ]
+    },
+    {
+      "id": "8c9460a3-f77e-4bde-b2ab-50df4c83f1c0",
+      "name": "AskYourPDF Chrome Extension",
+      "slug": "askyourpdf-chrome-extension",
+      "description": "A powerful Chrome Extension for PDF interaction.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/askyourpdf-chrome-extension.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/askyourpdf-the-best-chatp/gaieenaffioioljpcocdkpphlifbhaig?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-08-27T11:13:06Z",
+      "updated_at": "2025-03-27T03:21:29.392138Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2445d223-737a-4496-94f0-4ee760fc7360",
+      "name": "Bard for Google Pro",
+      "slug": "bard-for-google-pro",
+      "description": "A Chrome extension for simultaneous access to Bard AI and Google search results.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/bard-for-google-pro.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/bard-for-google-pro/nfjkjldlkjkgogamkjjifgabbbonmeif?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-06-11T08:22:15Z",
+      "updated_at": "2025-03-27T08:35:35.88796Z",
+      "category_slugs": [
+        "ai-search-engine",
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "22af8a44-753e-4d8d-89ef-3c593bb86a63",
+      "name": "Bard for google",
+      "slug": "bard-for-google",
+      "description": "Chrome extension for accessing Google Bard AI responses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/bard-for-google.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/bard-for-google/hnadleianomnjcoeplifgbkiejchjmah?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-16T18:29:43Z",
+      "updated_at": "2025-03-27T08:34:52.2023Z",
+      "category_slugs": [
+        "ai-search-engine"
+      ]
+    },
+    {
+      "id": "86e1e761-43df-42cd-aad0-9591faedfe52",
+      "name": "Chat GPT Youtube Summarizer",
+      "slug": "chat-gpt-youtube-summarizer",
+      "description": "A Chrome extension that summarizes YouTube™ videos.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chat-gpt-youtube-summarizer.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/youtube-summary-with-chat/ghdjjmnkpgminongdkinjdcccmncijog?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-30T14:30:49Z",
+      "updated_at": "2025-03-27T07:17:48.770282Z",
+      "category_slugs": [
+        "ai-short-clips-generator",
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "a226eeef-7709-404c-9974-7ca2932f6129",
+      "name": "ChatGPT - Lets talk",
+      "slug": "chatgpt-lets-talk",
+      "description": "Enhance ChatGPT with voice capabilities.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-lets-talk.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/chatgpt-lets-talk/ldkeljfcpadfpkfdloofmhamhkgdcpbo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-30T15:24:34Z",
+      "updated_at": "2025-03-27T07:53:39.154179Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-speech-recognition",
+        "ai-speech-synthesis",
+        "ai-voice-assistants",
+        "ai-voice-changer",
+        "ai-voice-chat-generator"
+      ]
+    },
+    {
+      "id": "c72951bc-fd44-4531-9470-5108ca5dc0cf",
+      "name": "ChatGPT AI Email Writer",
+      "slug": "chatgpt-ai-email-writer",
+      "description": "AI-powered email completion and suggestion tool for Gmail.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-ai-email-writer.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/chatgpt-ai-email-writer/fenfplbdbhdaifehnplebempchjmbmlb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-30T14:36:16Z",
+      "updated_at": "2025-03-27T06:42:45.582144Z",
+      "category_slugs": [
+        "ai-email-assistant",
+        "ai-email-writer",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "large-language-models-(llms)",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "66f5a8f7-e24f-40d8-a52e-1c7993d57d1c",
+      "name": "ChatGPT Assistant - Autocomplete Prompts",
+      "slug": "chatgpt-assistant-autocomplete-prompts",
+      "description": "Autocomplete Common Prompts provides autocomplete suggestions for phrases and questions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-assistant-autocomplete-prompts.jpg",
+      "website_url": "https://chrome.google.com/webstore/detail/chatgpt-assistant-autocom/ndpnkidldbbanbbnfihfhhclokghfaem/related?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 144761426,
+      "created_at": "2023-05-30T15:24:33Z",
+      "updated_at": "2025-03-27T08:00:23.328435Z",
+      "category_slugs": [
+        "ai-productivity-tools"
+      ]
+    }
+  ]
+}

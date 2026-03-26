@@ -1,0 +1,273 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 12,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "0bdcc81f-6313-4fc2-9ec9-9320b0c37331",
+      "name": "AI Lawyer",
+      "slug": "ai-lawyer-1",
+      "description": "AI Lawyer - instant AI-powered legal help",
+      "logo_url": "https://icons.duckduckgo.com/ip3/ailawyer.pro.ico",
+      "website_url": "https://ailawyer.pro/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-legal-assistant",
+        "business"
+      ]
+    },
+    {
+      "id": "14f921c8-1387-4e56-806d-23629459ab9f",
+      "name": "AI Lawyer",
+      "slug": "ai-lawyer",
+      "description": "AI Lawyer - instant AI-powered legal help",
+      "logo_url": "https://icons.duckduckgo.com/ip3/ailawyer.pro.ico",
+      "website_url": "https://ailawyer.pro/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-legal-assistant",
+        "business"
+      ]
+    },
+    {
+      "id": "cbb5e646-5157-423c-8c43-eb90c1ffa139",
+      "name": "E-Legal AI",
+      "slug": "e-legal-ai",
+      "description": "E-Legal - AI Legal Doc Translator",
+      "logo_url": "https://icon.horse/icon/e-legal.ai",
+      "website_url": "https://www.e-legal.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-21T00:00:00Z",
+      "updated_at": "2023-05-21T00:00:00Z",
+      "category_slugs": [
+        "ai-legal-assistant",
+        "business"
+      ]
+    },
+    {
+      "id": "b697c9ca-e98c-4f88-b290-cec67a41ce51",
+      "name": "Legal Robot",
+      "slug": "legal-robot-1",
+      "description": "Legal Robot",
+      "logo_url": "https://legalrobot.com/favicon.ico",
+      "website_url": "https://legalrobot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-legal-assistant",
+        "business"
+      ]
+    },
+    {
+      "id": "6e209692-b6bc-4d95-8c2b-72e62804f26b",
+      "name": "Legal Robot",
+      "slug": "legal-robot",
+      "description": "Legal Robot",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/6e209692-b6bc-4d95-8c2b-72e62804f26b_legal_robot.jpeg?",
+      "website_url": "https://legalrobot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-legal-assistant",
+        "business"
+      ]
+    },
+    {
+      "id": "9cd9cede-2390-468f-ae6c-1bd87b5f1dc1",
+      "name": "Legalese Decoder",
+      "slug": "legalese-decoder-1",
+      "description": "Instantly Interpret Free: Legalese Decoder - AI Lawyer Translate Legal Docs To Plain English",
+      "logo_url": "https://icons.duckduckgo.com/ip3/legalesedecoder.com.ico",
+      "website_url": "https://legalesedecoder.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-code-generator",
+        "ai-legal-assistant",
+        "business",
+        "code-explanation",
+        "code-it",
+        "text-writing",
+        "translate"
+      ]
+    },
+    {
+      "id": "516d81e8-dc9c-4aee-b516-07b1fd9fcca6",
+      "name": "Legalese Decoder",
+      "slug": "legalese-decoder",
+      "description": "Instantly Interpret Free: Legalese Decoder - AI Lawyer Translate Legal Docs To Plain English",
+      "logo_url": "https://icons.duckduckgo.com/ip3/legalesedecoder.com.ico",
+      "website_url": "https://legalesedecoder.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-code-generator",
+        "ai-legal-assistant",
+        "business",
+        "code-explanation",
+        "code-it",
+        "text-writing",
+        "translate"
+      ]
+    },
+    {
+      "id": "01a9a694-abd5-456d-b98b-7032406eb02f",
+      "name": "Legalysis",
+      "slug": "legalysis",
+      "description": "Legalysis - Advanced Legal Document Analysis",
+      "logo_url": "https://icon.horse/icon/legalysis.co",
+      "website_url": "https://legalysis.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-12T00:00:00Z",
+      "updated_at": "2023-06-12T00:00:00Z",
+      "category_slugs": [
+        "ai-data-analysis",
+        "ai-document-processing",
+        "ai-legal-assistant",
+        "ai-market-analysis",
+        "business",
+        "marketing"
+      ]
+    },
+    {
+      "id": "544747b7-8551-45f3-a358-3ad1f79a58b2",
+      "name": "LegesGPT",
+      "slug": "legesgpt",
+      "description": "The #1 AI legal assistant for everyday legal issues",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/ac2e0f25-edae-4056-b8f7-59b5cc28aeb4_1768564570433.PNG",
+      "website_url": "https://www.legesgpt.com/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-14T15:23:31.135945Z",
+      "updated_at": "2026-01-16T11:56:10.835Z",
+      "category_slugs": [
+        "ai-legal-assistant"
+      ]
+    },
+    {
+      "id": "f32cc09c-6935-40ac-92c3-5d67efba6756",
+      "name": "Linksquares",
+      "slug": "linksquares",
+      "description": "LinkSquares | AI-Powered Contract Management For Legal Teams",
+      "logo_url": "https://linksquares.com/favicon.ico",
+      "website_url": "https://linksquares.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-business-management",
+        "ai-legal-assistant",
+        "ai-operations-management",
+        "business"
+      ]
+    },
+    {
+      "id": "672dac7c-3add-4231-b614-3bf46cd4bef9",
+      "name": "Linksquares",
+      "slug": "linksquares-1",
+      "description": "LinkSquares | AI-Powered Contract Management For Legal Teams",
+      "logo_url": "https://linksquares.com/favicon.ico",
+      "website_url": "https://linksquares.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-business-management",
+        "ai-legal-assistant",
+        "ai-operations-management",
+        "business"
+      ]
+    },
+    {
+      "id": "6ae3ffee-c619-4627-a3b5-d4dae7780970",
+      "name": "MoiAi",
+      "slug": "moiai",
+      "description": "It helps you review, draft, compare, and manage contracts with speed and accuracy — all while keeping your client data secure on your own device.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e1795e05-96d8-43c7-a738-5092ea15d9c2_1768484484652.PNG",
+      "website_url": "https://moi-ai.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-15T10:46:22.996713Z",
+      "updated_at": "2026-01-15T13:41:41.075Z",
+      "category_slugs": [
+        "ai-legal-assistant"
+      ]
+    }
+  ]
+}

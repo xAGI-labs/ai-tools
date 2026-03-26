@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>xAGI Tools Directory</title>
+    <meta name="description" content="Static AI tools directory for xAGI Labs, built from chunked JSON and optimized for GitHub Pages.">
+    <link rel="stylesheet" href="./assets/styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="#/">
+          <span class="brand-mark">x</span>
+          <span class="brand-copy">
+            <strong>xAGI Tools</strong>
+            <small>Static AI directory</small>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="#/">Home</a>
+          <a href="#/tools">Browse</a>
+          <a href="#/categories">Categories</a>
+        </nav>
+      </header>
+
+      <main id="app" class="app-shell" aria-live="polite">
+        <section class="hero hero-loading">
+          <div class="hero-copy">
+            <p class="eyebrow">xAGI Labs</p>
+            <h1>Loading tool data…</h1>
+            <p>The static catalog is warming up.</p>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <template id="card-template">
+      <article class="tool-card">
+        <a class="tool-card__link"></a>
+      </article>
+    </template>
+
+    <script type="module" src="./assets/app.js"></script>
+  </body>
+</html>

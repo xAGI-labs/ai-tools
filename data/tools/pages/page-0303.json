@@ -1,0 +1,991 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 303,
+    "page_size": 48,
+    "total_items": 32604,
+    "total_pages": 680,
+    "next_path": "tools/pages/page-0304.json",
+    "prev_path": "tools/pages/page-0302.json"
+  },
+  "items": [
+    {
+      "id": "d53561c5-227a-48e3-a70f-4c8265caf7a8",
+      "name": "SummGen-Summary for Google/YouTube (ChatGPT)",
+      "slug": "summgen-summary-for-google-youtube-chatgpt",
+      "description": "Enhances browsing with concise summaries.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summgen-summary-for-google-youtube-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summgen-summary-for-googl/oicglfpilabkgmnmddphahbemifahiak?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:52Z",
+      "updated_at": "2025-03-27T07:22:32.897009Z",
+      "category_slugs": [
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "e32ae9c4-37fb-4c48-a186-bca4db80e21f",
+      "name": "SummTube",
+      "slug": "summtube",
+      "description": "Summarizes YouTube videos into concise, easy-to-read formats.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summtube.jpg",
+      "website_url": "https://summtube.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:38Z",
+      "updated_at": "2025-03-27T07:19:48.128265Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "ai-youtube-assistant",
+        "newsletter",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "26af0001-55b5-404d-a78f-b56be858bcf0",
+      "name": "Summaixt",
+      "slug": "summaixt",
+      "description": "AI tool for text summarization and mind mapping.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summaixt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summaixt/jngljadjlfkcmflmlhhgoooklhgddccp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-22T05:53:15Z",
+      "updated_at": "2025-03-27T07:20:15.057646Z",
+      "category_slugs": [
+        "ai-mind-mapping",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "39b78e55-16d7-4c27-b221-ca88884b9b24",
+      "name": "SummarAI",
+      "slug": "summarai",
+      "description": "AI-powered text summarization tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarai/encjjcjbeaedgjegbimgamieoadakpcn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:38Z",
+      "updated_at": "2025-03-27T07:18:11.762802Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "38fcc8e7-9b80-4a63-adc4-0814f1f0e881",
+      "name": "SummarAIzer",
+      "slug": "summaraizer",
+      "description": "Revolutionize online reading with multilingual summaries",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summaraizer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summaraizer/jnkpbpeaaimlncaakooidiokimhpccda?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:27Z",
+      "updated_at": "2025-03-27T07:18:20.296835Z",
+      "category_slugs": [
+        "large-language-models-(llms)",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "1f169e23-75ed-467f-a3ad-3b140f064990",
+      "name": "SummarEase ChatGPT Toolkit",
+      "slug": "summarease-chatgpt-toolkit",
+      "description": "AI tool for idea generation, error correction, politeness, and summarization.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarease-chatgpt-toolkit.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarease-chatgpt-toolki/eapkfdljobplooogogdbiegmhaibcifp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:08Z",
+      "updated_at": "2025-03-27T07:00:55.51292Z",
+      "category_slugs": [
+        "ai-grammar-checker",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "ai-rewriter",
+        "general-writing",
+        "paraphraser",
+        "summarizer",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "28fa63ca-b808-4dbc-8131-c107545905c8",
+      "name": "SummarQ",
+      "slug": "summarq",
+      "description": "SummarQ provides free intelligent YouTube video summaries and Q\u0026A with ChatGPT.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarq.jpg",
+      "website_url": "https://summarq.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-29T11:54:59Z",
+      "updated_at": "2025-03-27T07:01:13.979253Z",
+      "category_slugs": [
+        "ai-rewriter",
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "f8656124-09c9-42bf-8ff3-ee0a1dce6b43",
+      "name": "Summarie",
+      "slug": "summarie",
+      "description": "AI platform for concise summaries and key information extraction.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarie.jpg",
+      "website_url": "https://summarie.sp-lutsk.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-20T11:04:48Z",
+      "updated_at": "2025-03-27T07:25:02.778054Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-website-designer",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "a2ea729f-3cdf-4718-b61f-d7084fa43ceb",
+      "name": "Summarize",
+      "slug": "summarize",
+      "description": "AI-powered assistant for instant summarization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize/kjbpaokegiilajekbohjipdkojgekfij?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:53:50Z",
+      "updated_at": "2025-03-27T07:18:43.183183Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "70804f79-3cde-4671-817d-a141a05b257d",
+      "name": "Summarize \u0026 Chat Pro - AI-Powered Productivity Assistant",
+      "slug": "summarize-chat-pro-ai-powered-productivity-assistant",
+      "description": "Boost productivity with AI text summarization and chat",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-chat-pro-ai-powered-productivity-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-chat-pro-ai-pow/elojhchbdedbhjipflbdmhcllplmgfdo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:37Z",
+      "updated_at": "2025-03-27T07:18:08.935269Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-response-generator",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "059b0fbc-e236-4ec8-85f6-4f0fb8fcc996",
+      "name": "Summarize (ChatGPT and Bard)",
+      "slug": "summarize-chatgpt-and-bard",
+      "description": "Enhance browsing by summarizing text with AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-chatgpt-and-bard.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-chatgpt-and-bar/caicahkimjnhcepnhnipgbcbigdpeifi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:16Z",
+      "updated_at": "2025-03-27T07:18:37.774746Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "9d7091da-3006-4f14-baf4-d264f35e1017",
+      "name": "Summarize *this* Article",
+      "slug": "summarize-this-article",
+      "description": "Chrome extension for article summarization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-this-article.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-this-article/ajcgiaoochfabkfgecgkfmmpekhljhdg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:30Z",
+      "updated_at": "2025-03-27T07:21:40.960437Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "3636c3ba-697a-4584-8a62-533ad747aa11",
+      "name": "Summarize AI",
+      "slug": "summarize-ai",
+      "description": "Efficient video comprehension with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-ai.webp",
+      "website_url": "https://www.summarizeai.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-03T13:13:35Z",
+      "updated_at": "2025-03-27T07:18:01.161394Z",
+      "category_slugs": [
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "29698fc5-efdf-41d6-aeab-7c7c854a22af",
+      "name": "Summarize This",
+      "slug": "summarize-this",
+      "description": "Summarize any content for free.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-this.jpg",
+      "website_url": "https://summarizethis.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-09-22T12:17:50Z",
+      "updated_at": "2025-03-27T07:21:05.606114Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "210192bb-21a6-4029-8fb1-078ef256535d",
+      "name": "Summarize Tweet: I Ain't Reading All That",
+      "slug": "summarize-tweet-i-ain-t-reading-all-that",
+      "description": "Summarize long tweets quickly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-tweet-i-ain-t-reading-all-that.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-tweet-i-aint-re/ggdndaidddfoebmkgpbhpafpnmhbbfmm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:31Z",
+      "updated_at": "2025-03-27T07:18:28.170133Z",
+      "category_slugs": [
+        "ai-twitter-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "e3d4acfd-0a10-4dfd-8eb7-d64855f7f6a2",
+      "name": "Summarize and Translate with Claude",
+      "slug": "summarize-and-translate-with-claude",
+      "description": "AI-driven web page summary and translation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-and-translate-with-claude.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-and-translate-w/ciikfihmdpcbmehhggahlgljimikipbm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:17Z",
+      "updated_at": "2025-03-27T07:18:59.141855Z",
+      "category_slugs": [
+        "summarizer",
+        "translate"
+      ]
+    },
+    {
+      "id": "43d7d38b-3ad6-4546-8d4a-e37adfcd57f5",
+      "name": "Summarize and Translate with Gemini",
+      "slug": "summarize-and-translate-with-gemini",
+      "description": "Summarize and translate web pages instantly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-and-translate-with-gemini.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-and-translate-w/hmdcbbbdmfapkpdaganadiihfmdnpngi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:16Z",
+      "updated_at": "2025-03-27T07:22:43.783542Z",
+      "category_slugs": [
+        "summarizer",
+        "translate"
+      ]
+    },
+    {
+      "id": "9f2ac924-a428-47a2-9333-0b03f08c11ec",
+      "name": "Summarize article",
+      "slug": "summarize-article",
+      "description": "Summarize any article quickly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-article.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-article/neaojoggfnkoimnhaedohmmignohhebh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:59Z",
+      "updated_at": "2025-03-27T07:18:30.360903Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "5f2a5992-a7b8-46d0-9fc2-98ba2335090d",
+      "name": "Summarize everything",
+      "slug": "summarize-everything",
+      "description": "Get concise summaries of lengthy content",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-everything.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-everything/cimlaalgemfdpoahdbjefgpbamdldpac?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:32Z",
+      "updated_at": "2025-03-27T07:21:53.103435Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "c7196f46-94ae-48f6-b758-7221e5f359d4",
+      "name": "Summarize with Gemini",
+      "slug": "summarize-with-gemini",
+      "description": "AI extension for video and article summarization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-with-gemini.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarize-with-gemini/mondegnfnhaoghbnmlmaaocbajfjmiok?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:35Z",
+      "updated_at": "2025-03-27T07:18:06.604194Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "0c50d638-cf5d-4f8b-a69e-c25bca58dfb6",
+      "name": "Summarize.wtf - AI Copilot",
+      "slug": "summarize-wtf-ai-copilot",
+      "description": "Summarize web content instantly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarize-wtf-ai-copilot.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarizewtf-ai-copilot/pkfcbbmdnpgfdjoghgochfkljhihgiac?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-20T08:43:51Z",
+      "updated_at": "2025-03-27T07:18:04.978544Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "b9a3758d-8985-4280-a099-80c29236f4a2",
+      "name": "SummarizeYT - YouTube Summary with ChatGPT",
+      "slug": "summarizeyt-youtube-summary-with-chatgpt",
+      "description": "Enhance YouTube with quick video summaries",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarizeyt-youtube-summary-with-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarizeyt-youtube-summa/dlhkccijmkgmbmiognpmoplbpldbaoej?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:07Z",
+      "updated_at": "2025-03-27T07:21:46.680685Z",
+      "category_slugs": [
+        "ai-reply-assistant",
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "e7a4d3c6-8600-44e8-ac77-a6496010ee8f",
+      "name": "Summarizely",
+      "slug": "summarizely",
+      "description": "AI-powered concise web summaries",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarizely.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarizely/abkfpgooidjkipjnhnbjeopjklonjhkl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:28Z",
+      "updated_at": "2025-03-27T07:18:45.413896Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "42edab6d-54fa-4c55-833a-a861ec07130e",
+      "name": "Summarizer",
+      "slug": "summarizer",
+      "description": "Summarize long texts with NLP",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarizer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarizer/hfgahomakkpfejedbihfpfjohafdmkab?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:34Z",
+      "updated_at": "2025-03-27T07:15:12.479897Z",
+      "category_slugs": [
+        "large-language-models-(llms)",
+        "paraphraser",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "2947d8f4-571d-4654-bad9-2bcf58179378",
+      "name": "Summarizer Tool",
+      "slug": "summarizer-tool",
+      "description": "Summarize text effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarizer-tool.jpg",
+      "website_url": "https://www.summarizertool.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-02-12T13:53:55Z",
+      "updated_at": "2025-03-27T07:25:38.125262Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "3ffa015e-ed17-43d5-b33e-a9f64d90e60e",
+      "name": "SummarizerAi",
+      "slug": "summarizerai",
+      "description": "Summarizer is a website for generating text summaries.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarizerai.jpg",
+      "website_url": "https://summarizer-Ai.live?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-30T14:12:22Z",
+      "updated_at": "2025-03-27T07:17:47.832421Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "c866e967-053e-4a5d-a1fa-4efea91312a6",
+      "name": "Summary Box",
+      "slug": "summary-box",
+      "description": "AI copilot for fast content summarization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-box.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summary-box/jcbfebakonmpfdgeflcomgpgefmbhlck?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:35Z",
+      "updated_at": "2025-03-27T07:22:12.09951Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "e31b495f-5a19-4f28-b8df-3f3ee62ab1ad",
+      "name": "Summary Cat",
+      "slug": "summary-cat",
+      "description": "Get concise summaries of YouTube videos",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-cat.jpg",
+      "website_url": "https://summarycat.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-02-17T08:20:33Z",
+      "updated_at": "2025-03-27T07:21:09.822533Z",
+      "category_slugs": [
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "5f1e5551-8a0b-4d0c-967b-d7afcd5c2248",
+      "name": "Summary Duck Assistant",
+      "slug": "summary-duck-assistant",
+      "description": "Effortlessly summarize web content",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-duck-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summary-duck-assistant/kdmiipofdmffkgfpkigioehfdehcienf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:39Z",
+      "updated_at": "2025-03-27T07:22:16.766922Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "0f892ef1-0928-4ea3-999f-ee6007976cbb",
+      "name": "Summary Of Book (chatgpt)",
+      "slug": "summary-of-book-chatgpt",
+      "description": "Get book summaries in 5 minutes from Summary Of best books website.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-of-book-chatgpt.jpg",
+      "website_url": "https://summaryofbook.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-22T12:59:12Z",
+      "updated_at": "2025-03-27T06:41:16.978402Z",
+      "category_slugs": [
+        "ai-creative-writing"
+      ]
+    },
+    {
+      "id": "746fc784-b6c7-4fc2-b02b-8bcae4112908",
+      "name": "Summary and Chat with YouTube Video",
+      "slug": "summary-and-chat-with-youtube-video",
+      "description": "AI tool for summarizing and discussing YouTube videos.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-and-chat-with-youtube-video.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summary-and-chat-with-you/dkeibkbnmakpgdbajfmfecjchpaffkje?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-07T10:05:32Z",
+      "updated_at": "2025-03-27T07:23:18.541455Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "b683ea0b-2960-4780-9d5e-fb7834fd3ae3",
+      "name": "Summary for Bilibili",
+      "slug": "summary-for-bilibili",
+      "description": "Summarize long videos efficiently",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-for-bilibili.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summary-for-bilibili/hjjdhgophcjfgkempifgiflgekhecnme?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:24Z",
+      "updated_at": "2025-03-27T07:24:12.276375Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "81c42c01-a51e-4491-877d-3a9ca9a59884",
+      "name": "Summary with Bing Chat for YouTube",
+      "slug": "summary-with-bing-chat-for-youtube",
+      "description": "Access YouTube video summaries quickly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-with-bing-chat-for-youtube.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summary-with-bing-chat-fo/aohgbidimgkcolmkopencknhbnchfnkm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:52Z",
+      "updated_at": "2025-03-27T07:07:47.295687Z",
+      "category_slugs": [
+        "ai-youtube-assistant",
+        "captions-or-subtitle",
+        "summarizer",
+        "transcription"
+      ]
+    },
+    {
+      "id": "267da880-9cf1-4b4b-8057-e48a381a6dae",
+      "name": "Summary with ChatGPT for Google and YouTube",
+      "slug": "summary-with-chatgpt-for-google-and-youtube",
+      "description": "AI language model for human-like text generation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-with-chatgpt-for-google-and-youtube.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summary-with-chatgpt-for/gfecljmddkaiphnmhgaeekgkadnooafb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:35Z",
+      "updated_at": "2025-03-27T07:22:11.459278Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "109b2a5d-2889-4772-b017-8193cbb29263",
+      "name": "Summary.ai",
+      "slug": "summary-ai",
+      "description": "AI-driven page understanding.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summary-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summaryai/mhnldopecokgbhjglepggmhpgjfgalgm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:58Z",
+      "updated_at": "2025-03-27T07:22:47.438627Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "79b38da2-b5cf-47ac-9ba7-3202293e434f",
+      "name": "SummaryAI",
+      "slug": "summaryai",
+      "description": "Revolutionize browsing with SummaryAI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summaryai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summaryai/kkkjcbipmodpadpfflfjmleiibkalfik?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:04Z",
+      "updated_at": "2025-03-27T07:22:36.872913Z",
+      "category_slugs": [
+        "large-language-models-(llms)",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "96a34067-e7ac-4fa5-b154-eb06244b06b3",
+      "name": "SummaryGPT",
+      "slug": "summarygpt",
+      "description": "Tool for instant article summaries and key idea extraction.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summarygpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summarygpt/efpbjkcbgfneckcppbnnjfkikhlnenkm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:13Z",
+      "updated_at": "2025-03-27T07:20:21.621969Z",
+      "category_slugs": [
+        "large-language-models-(llms)",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "c1828c10-57d8-4b43-88a1-48bf900dc2b9",
+      "name": "Summate - Summarize Any Website",
+      "slug": "summate-summarize-any-website",
+      "description": "AI tool for summarizing articles and videos efficiently.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summate-summarize-any-website.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summate-summarize-any-web/gckcmnmnijlejpodgccnblkpnlcflpmg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:10Z",
+      "updated_at": "2025-03-27T07:23:21.760938Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "d8e8543a-1179-4b46-ba0e-85b24563485a",
+      "name": "Summatim",
+      "slug": "summatim",
+      "description": "Save time watching videos",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summatim.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summatim/gjpmpcddpeemanolopmkidmfljmidpgh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:38Z",
+      "updated_at": "2025-03-27T07:18:31.905172Z",
+      "category_slugs": [
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "4be330c4-845e-4cd4-8bb3-61fed7a0c364",
+      "name": "Summer",
+      "slug": "summer",
+      "description": "AI summary button for content engagement",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summer.jpg",
+      "website_url": "https://getsummer.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-08T09:48:08Z",
+      "updated_at": "2025-03-27T03:44:34.289021Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-lead-generation",
+        "sales-assistant",
+        "summarizer",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "e03d0cda-868f-4e6b-a830-15e3dc3231c2",
+      "name": "SummerEyes - AI Productivity Tool",
+      "slug": "summereyes-ai-productivity-tool",
+      "description": "AI text summarization for quick info processing.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summereyes-ai-productivity-tool.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summereyes-ai-productivit/hipjhgcpienlgjnecbhdaipgghicigei?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:15Z",
+      "updated_at": "2025-03-27T07:22:02.148066Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-document-extraction",
+        "ai-repurpose-assistant",
+        "ai-response-generator",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "56ff9a79-ddea-47ba-a87d-5ba256a56563",
+      "name": "Summify: AI Youtube Summarizer With ChatGPT",
+      "slug": "summify-ai-youtube-summarizer-with-chatgpt",
+      "description": "AI tool for summarizing YouTube videos and extracting key insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summify-ai-youtube-summarizer-with-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summify-ai-youtube-summar/lejingbdigbgngpfhckdmjajmgjhnala?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:14:47Z",
+      "updated_at": "2025-03-27T07:19:14.578938Z",
+      "category_slugs": [
+        "ai-podcast-assistant",
+        "ai-youtube-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "2cf4ae3f-d376-49f5-8d08-fd4b745fbcc1",
+      "name": "Summify: Summarize YouTube and Web Content",
+      "slug": "summify-summarize-youtube-and-web-content",
+      "description": "AI summary tool for content",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summify-summarize-youtube-and-web-content.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summify-summarize-youtube/gdcpchnnadknakfgicdbfhajpgnfbeog?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:22Z",
+      "updated_at": "2025-03-27T07:22:40.390479Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "485019c4-20db-4fb9-bd8f-03a9256d6b71",
+      "name": "Summizer",
+      "slug": "summizer",
+      "description": "AI-driven content analysis and summarization tool for webpages.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summizer.jpg",
+      "website_url": "https://www.summizer.tech?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-20T09:47:12Z",
+      "updated_at": "2025-03-27T07:16:08.069477Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-document-extraction",
+        "ai-forms-surveys",
+        "ai-productivity-tools",
+        "large-language-models-(llms)",
+        "report-writing",
+        "research-tool",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "c061e124-db30-4fd7-90a1-9e112684e16d",
+      "name": "Summme - Text to Speech (TTS) for AI Chatbots",
+      "slug": "summme-text-to-speech-tts-for-ai-chatbots",
+      "description": "Text-to-speech integration for diverse chatbots",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summme-text-to-speech-tts-for-ai-chatbots.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/summme-text-to-speech-tts/ehefcdakfbkmpeimjcnhdlhjhinhkhpn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:53:49Z",
+      "updated_at": "2025-03-27T08:19:22.808972Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "text-to-speech"
+      ]
+    },
+    {
+      "id": "20694ea5-88c7-479a-af4c-8029d2e07acb",
+      "name": "SummrAIz - Condensed Newsletters",
+      "slug": "summraiz-condensed-newsletters",
+      "description": "SummrAIz consolidates newsletters for easy reading, keeping you informed without overwhelm.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/summraiz-condensed-newsletters.jpg",
+      "website_url": "https://summraiz.fyi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-28T14:08:10Z",
+      "updated_at": "2025-03-27T06:19:56.738159Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-repurpose-assistant",
+        "newsletter",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "52f1b65d-51f1-4179-a682-8cfd2fd0f018",
+      "name": "Sumo",
+      "slug": "sumo",
+      "description": "Effortlessly extract essence from audio files",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/sumo.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/sumo/laljnbhbcjehlihijpodndihciphpgdl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:40Z",
+      "updated_at": "2025-03-27T07:18:13.306605Z",
+      "category_slugs": [
+        "ai-podcast-assistant",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "4ac719bd-d2a2-4847-8898-d958ea0bf38c",
+      "name": "Sune",
+      "slug": "sune",
+      "description": "AI-first workspace Sune offers infinite canvas for visual organization and enhanced productivity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/sune.jpg",
+      "website_url": "https://SuneAI.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-20T18:14:20Z",
+      "updated_at": "2025-03-27T03:58:24.319298Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "ai-project-management",
+        "ai-task-management",
+        "ai-team-collaboration",
+        "ai-workflow-management"
+      ]
+    }
+  ]
+}

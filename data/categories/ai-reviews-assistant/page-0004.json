@@ -1,0 +1,203 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 4,
+    "page_size": 72,
+    "total_items": 224,
+    "total_pages": 4,
+    "prev_path": "categories/ai-reviews-assistant/page-0003.json"
+  },
+  "items": [
+    {
+      "id": "5229bd93-6dc1-4fce-a201-7a697c5acd62",
+      "name": "UX Eyer",
+      "slug": "ux-eyer",
+      "description": "AI tool for instant UX reviews and design improvements.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ux-eyer.jpg",
+      "website_url": "https://www.uxeyer.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-27T01:37:56Z",
+      "updated_at": "2025-03-27T07:08:22.631755Z",
+      "category_slugs": [
+        "ai-reviews-assistant",
+        "copywriting",
+        "design-assistant"
+      ]
+    },
+    {
+      "id": "4c8a3dde-da7c-4405-8b49-bc402b529409",
+      "name": "Umbi Space",
+      "slug": "umbi-space",
+      "description": "AI-powered website builder and online ordering system for restaurants",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/umbi-space.jpg",
+      "website_url": "https://umbispace.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-27T14:33:27Z",
+      "updated_at": "2025-03-27T04:21:53.869313Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-reviews-assistant",
+        "ai-seo-assistant",
+        "ai-website-builder",
+        "ai-website-designer"
+      ]
+    },
+    {
+      "id": "309fd25f-8f40-4844-8534-1047d8fe9f8a",
+      "name": "Vibing",
+      "slug": "vibing",
+      "description": "Authentic dating app using AI for real connections.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/vibing.jpg",
+      "website_url": "https://apps.apple.com/us/app/vibing-check-vibe-start-date/id6670462536?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-13T01:34:14Z",
+      "updated_at": "2025-03-27T05:37:03.606201Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-dating-assistant",
+        "ai-quizzes",
+        "ai-reviews-assistant",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "1c9e0c7d-d65d-4bb7-84ce-b6ccf290af82",
+      "name": "Viff.ai - Guest Review Replier",
+      "slug": "viff-ai-guest-review-replier",
+      "description": "AI assistant for quick, personalized guest review responses",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/viff-ai-guest-review-replier.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/viffai-guest-review-repli/bmbjkbgajgoclngmfcpbijbeagldnclc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-20T08:43:51Z",
+      "updated_at": "2025-03-27T07:41:20.121422Z",
+      "category_slugs": [
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "ai-reviews-assistant",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "9e7d458e-0142-4a31-8807-e5fee61a3ce5",
+      "name": "WorkflowPad",
+      "slug": "workflowpad",
+      "description": "Streamlines automation through an intuitive spreadsheet interface.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/workflowpad.jpg",
+      "website_url": "https://www.workflowpad.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-24T06:38:48Z",
+      "updated_at": "2025-03-27T03:30:44.588702Z",
+      "category_slugs": [
+        "ai-crm-assistant",
+        "ai-email-writer",
+        "ai-lead-generation",
+        "ai-productivity-tools",
+        "ai-reviews-assistant",
+        "ai-seo-assistant",
+        "ai-spreadsheet",
+        "ai-workflow-management",
+        "healthcare",
+        "no-code-low-code"
+      ]
+    },
+    {
+      "id": "ba40d3d8-eafb-442b-9997-b233bbedce3b",
+      "name": "puurl",
+      "slug": "puurl",
+      "description": "Hotel review management with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/puurl.webp",
+      "website_url": "https://www.getpuurl.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-06T07:39:11Z",
+      "updated_at": "2025-03-27T08:52:17.430441Z",
+      "category_slugs": [
+        "ai-analytics-assistant",
+        "ai-crm-assistant",
+        "ai-reply-assistant",
+        "ai-response-generator",
+        "ai-reviews-assistant"
+      ]
+    },
+    {
+      "id": "620e7122-badc-4f4b-8c48-bdd8ec8c3828",
+      "name": "uReview",
+      "slug": "ureview",
+      "description": "Automated reviews and competitor analysis powered by AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ureview.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/ureview/aapjjgmljkpcnhfgogcigehcgimbnbnl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:32Z",
+      "updated_at": "2025-03-27T03:47:35.90298Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-lead-generation",
+        "ai-reviews-assistant"
+      ]
+    },
+    {
+      "id": "80335318-448f-48be-9ad4-dd46d856b6bb",
+      "name": "propertysimple.com",
+      "slug": "propertysimple-com",
+      "description": "Revolutionizing property journey with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/propertysimple-com.webp",
+      "website_url": "https://propertysimple.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 3,
+      "views_count": 16335,
+      "created_at": "2024-04-05T11:40:35Z",
+      "updated_at": "2025-03-27T03:25:27.353514Z",
+      "category_slugs": [
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-crm-assistant",
+        "ai-email-assistant",
+        "ai-email-marketing",
+        "ai-facebook-assistant",
+        "ai-instagram-assistant",
+        "ai-lead-generation",
+        "ai-reviews-assistant",
+        "ai-social-media-assistant",
+        "ai-tiktok-assistant",
+        "sales-assistant"
+      ]
+    }
+  ]
+}

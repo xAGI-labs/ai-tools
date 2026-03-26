@@ -1,0 +1,240 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 10,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "1073c6c0-24a9-481f-bfa7-4d771279f11b",
+      "name": "Horseman",
+      "slug": "horseman",
+      "description": "Horseman | Your endlessly configurable crawling companion | gethorseman.app",
+      "logo_url": "https://icons.duckduckgo.com/ip3/gethorseman.app.ico",
+      "website_url": "https://gethorseman.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-16T00:00:00Z",
+      "updated_at": "2023-05-16T00:00:00Z",
+      "category_slugs": [
+        "ai-virtual-companion",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "6fa69670-c621-4151-80f4-7dea84dda5bd",
+      "name": "Luw.ai",
+      "slug": "luw-ai",
+      "description": "Free AI Room Planner \u0026 Virtual Home Designer for Interior \u0026 Exterior | Luw.ai",
+      "logo_url": "https://luw.ai/favicon.ico",
+      "website_url": "https://luw.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-10T00:00:00Z",
+      "updated_at": "2023-06-10T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-architecture-design",
+        "ai-home-automation",
+        "ai-interior-design",
+        "ai-virtual-classroom",
+        "ai-virtual-companion",
+        "design-art",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "26df72f5-bfd4-4d22-afc1-752ef3396924",
+      "name": "PillowTalks",
+      "slug": "pillowtalks",
+      "description": "PillowTalks | AI Chatbot Companion",
+      "logo_url": "https://icon.horse/icon/pillowtalks.chat",
+      "website_url": "https://www.pillowtalks.chat",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-21T00:00:00Z",
+      "updated_at": "2023-05-21T00:00:00Z",
+      "category_slugs": [
+        "ai-chatbot-builder",
+        "ai-customer-support-chatbot",
+        "ai-e-commerce-chatbot",
+        "ai-virtual-companion",
+        "chatbot",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "85853179-dd09-425f-9fd7-88398924078c",
+      "name": "SommerAI",
+      "slug": "sommerai",
+      "description": "SommerAI: Your Mental Health Companion",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/85853179-dd09-425f-9fd7-88398924078c_sommerai.jpg?",
+      "website_url": "http://www.sommerai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-08T00:00:00Z",
+      "updated_at": "2023-04-08T00:00:00Z",
+      "category_slugs": [
+        "ai-health-assistant",
+        "ai-mental-health-assistant",
+        "ai-virtual-companion",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "40461600-8d9c-442b-8ccb-e1ffb8a94f4d",
+      "name": "TheoAssist",
+      "slug": "theoassist-1",
+      "description": "Theo :Bible Companion, Bible Sermons, Bible Teacher, Bible Question \u0026 Answer",
+      "logo_url": "https://icon.horse/icon/theoassist.com",
+      "website_url": "https://theoassist.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-classroom-management",
+        "ai-virtual-companion",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "6c38cfdf-b526-4044-bd24-810d89ebc5a7",
+      "name": "TheoAssist",
+      "slug": "theoassist",
+      "description": "Theo :Bible Companion, Bible Sermons, Bible Teacher, Bible Question \u0026 Answer",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/6c38cfdf-b526-4044-bd24-810d89ebc5a7_theoassist.jpeg?",
+      "website_url": "https://theoassist.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-classroom-management",
+        "ai-virtual-companion",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "fb70bfa1-5716-4c8a-ab4c-51a7e251b2ea",
+      "name": "Trellis",
+      "slug": "trellis-1",
+      "description": "Trellis - your education companion",
+      "logo_url": "https://readtrellis.com/favicon.ico",
+      "website_url": "https://www.readtrellis.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-stem-education",
+        "ai-virtual-companion",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "e79045e0-9bf6-45f5-9f13-021ddf348286",
+      "name": "Trellis",
+      "slug": "trellis",
+      "description": "Trellis - your education companion",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/e79045e0-9bf6-45f5-9f13-021ddf348286_trellis.jpg?",
+      "website_url": "https://www.readtrellis.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-stem-education",
+        "ai-virtual-companion",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "a67a9b67-0306-4339-9e41-990d792f1011",
+      "name": "Ulog",
+      "slug": "ulog",
+      "description": "uLog.ai - Defines conversational journaling with an intelligent AI companion that asks great questions to create detailed timelines for any subject.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/ulog.ai.ico",
+      "website_url": "https://ulog.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-12T00:00:00Z",
+      "updated_at": "2023-06-12T00:00:00Z",
+      "category_slugs": [
+        "ai-time-management",
+        "ai-virtual-companion",
+        "life-assistant",
+        "pick-up-lines-generator",
+        "productivity",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "27191381-5e57-41d2-9145-de0989f247f3",
+      "name": "Ultimate Blogging Companion",
+      "slug": "ultimate-blogging-companion",
+      "description": "Anmol Mishra",
+      "logo_url": "https://anmolmishra.gumroad.com/favicon.ico",
+      "website_url": "https://anmolmishra.gumroad.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-24T00:00:00Z",
+      "updated_at": "2023-04-24T00:00:00Z",
+      "category_slugs": [
+        "ai-accounting-assistant",
+        "ai-blog-writer",
+        "ai-virtual-companion",
+        "business",
+        "life-assistant",
+        "text-writing"
+      ]
+    }
+  ]
+}

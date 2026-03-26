@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 6,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "bec0efb7-45ba-44df-b66a-0a2ac26aaa7a",
+      "name": "Frontu Max AI",
+      "slug": "frontu-max-ai",
+      "description": "AI FSM tool that makes field data work",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8b8f0540-4d78-4ea9-aa86-a79a67506bbb_1770138574613.jpg",
+      "website_url": "https://frontu.com/field-service-management/max-ai",
+      "pricing_type": "paid",
+      "featured": true,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-03T17:09:36.282925Z",
+      "updated_at": "2026-02-04T09:17:35.216Z",
+      "category_slugs": [
+        "ai-productivity-assistant",
+        "ai-productivity-tools",
+        "ai-project-management"
+      ]
+    },
+    {
+      "id": "c8670776-70c3-45e0-8f5e-1e091a5edd27",
+      "name": "Hints",
+      "slug": "hints",
+      "description": "Hints AI Assistant | Save time and boost productivity",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hints.so.ico",
+      "website_url": "https://hints.so",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-06T00:00:00Z",
+      "updated_at": "2023-05-06T00:00:00Z",
+      "category_slugs": [
+        "ai-calendar-assistant",
+        "ai-cooking-assistant",
+        "ai-dating-assistant",
+        "ai-product-design",
+        "ai-productivity-assistant",
+        "ai-time-management",
+        "design-art",
+        "life-assistant",
+        "productivity"
+      ]
+    },
+    {
+      "id": "19e10099-66be-4e0b-a718-059c9be0d216",
+      "name": "Lindy.ai",
+      "slug": "lindy-ai",
+      "description": "\u003ch2 class=\"MuiTypography-root MuiTypography-body2 DMSans css-1vn6t3q\"\u003eLindy.ai Features\u003c/h2\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003cdiv\u003e\r\n\u003cp class=\"MuiTypography-root MuiTypography-body1 css-gy2lsd\"\u003eLindy is an advanced AI assistant designed to streamline various tasks, both personal and professional, for \u003cem\u003eincreased efficiency\u003c/em\u003e and productivity. The tool offers a wide range of features to assist users in managing their daily activities effectively.\u003c/p\u003e\r\n\u003cp class=\"MuiTypography-root MuiTypo...",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lindy.ai.ico",
+      "website_url": "https://www.lindy.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-27T00:00:00Z",
+      "updated_at": "2023-05-27T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-architecture-design",
+        "ai-calendar-assistant",
+        "ai-personal-finance-assistant",
+        "ai-personal-shopping-assistant",
+        "ai-product-design",
+        "ai-productivity-assistant",
+        "ai-task-automation",
+        "design-art",
+        "life-assistant",
+        "productivity"
+      ]
+    },
+    {
+      "id": "d8d556b2-d2b5-47fe-8c1d-609f3ce83a5d",
+      "name": "Peter AI",
+      "slug": "peter-ai",
+      "description": "\u003ch2 class=\"MuiTypography-root MuiTypography-body2 DMSans css-1vn6t3q\"\u003ePeter AI Features\u003c/h2\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003cdiv\u003e\r\n\u003cp class=\"MuiTypography-root MuiTypography-body1 css-gy2lsd\"\u003eThe Ultimate AI Assistant by Peter AI is a beta software that offers a comprehensive suite of AI tools designed to enhance productivity and automate content generation. With over 30 AI tools available, users can streamline their text and image generation, text summarization, translation, SEO optimizat...",
+      "logo_url": "https://icons.duckduckgo.com/ip3/peter.gtechgroup.it.ico",
+      "website_url": "https://peter.gtechgroup.it/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-architecture-design",
+        "ai-content-generator",
+        "ai-cooking-assistant",
+        "ai-dating-assistant",
+        "ai-product-description-generator",
+        "ai-product-design",
+        "ai-productivity-assistant",
+        "design-art",
+        "life-assistant",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "3eef8b5c-14cc-45bc-b869-0940a7846bb9",
+      "name": "Superflows",
+      "slug": "superflows-2",
+      "description": "Superflows is your assistant for email productivity. Blaze through your inbox with email summaries and pre-generated replies written in your voice. It makes replying to emails as easy as clicking a button.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/superflows.ai.ico",
+      "website_url": "https://www.superflows.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-11T00:00:00Z",
+      "updated_at": "2023-04-12T00:00:00Z",
+      "category_slugs": [
+        "ai-calendar-assistant",
+        "ai-cooking-assistant",
+        "ai-dating-assistant",
+        "ai-email-management",
+        "ai-product-design",
+        "ai-productivity-assistant",
+        "design-art",
+        "life-assistant",
+        "productivity"
+      ]
+    },
+    {
+      "id": "20be7d2d-1ac6-4842-85b8-dc586d5c36e2",
+      "name": "Time",
+      "slug": "time",
+      "description": "Time is a native macOS menu bar app for managing time zones and calendar events. Track unlimited zones, see when teammates are awake, and join meetings with one click.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/f62f0a8e-a5b0-4c3b-b991-6d0b49f9b4f1_1771417147247.JPG",
+      "website_url": "https://menubartime.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-21T12:02:05.091426Z",
+      "updated_at": "2026-02-18T12:19:19.807Z",
+      "category_slugs": [
+        "ai-productivity-assistant"
+      ]
+    }
+  ]
+}

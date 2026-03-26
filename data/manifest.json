@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "source": "supabase",
+  "tool_count": 32604,
+  "category_count": 398,
+  "all_tools_page_size": 48,
+  "category_page_size": 72,
+  "search_chunk_size": 1000,
+  "detail_shard_size": 250,
+  "all_tools_page_count": 680,
+  "search_chunk_count": 33,
+  "detail_shard_count": 131,
+  "preload": [
+    "home.json",
+    "categories/index.json",
+    "tools/pages/page-0001.json",
+    "search/manifest.json",
+    "tools/detail/manifest.json"
+  ],
+  "paths": {
+    "home": "home.json",
+    "categories": "categories/index.json",
+    "all_tools": "tools/pages/page-0001.json",
+    "search": "search/manifest.json",
+    "details": "tools/detail/manifest.json"
+  }
+}

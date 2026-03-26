@@ -1,0 +1,993 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 7,
+    "page_size": 48,
+    "total_items": 32604,
+    "total_pages": 680,
+    "next_path": "tools/pages/page-0008.json",
+    "prev_path": "tools/pages/page-0006.json"
+  },
+  "items": [
+    {
+      "id": "412efae4-f189-4efb-b10a-3b0b588c90ef",
+      "name": "AI Rap Song Generator",
+      "slug": "ai-rap-song-generator",
+      "description": "Create catchy rap songs with AI Rap Song Generator.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-rap-song-generator.jpg",
+      "website_url": "https://apps.apple.com/us/app/ai-rap-song-generator/id6448916248?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-07-03T09:28:29Z",
+      "updated_at": "2025-03-27T06:20:25.504457Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "ai-content-generator",
+        "ai-lyrics-generator",
+        "ai-music-generator",
+        "ai-rap-generator"
+      ]
+    },
+    {
+      "id": "e39c9cac-bf0b-4e00-a443-0ca90a8cc455",
+      "name": "AI Recipes - Your Meal Planner",
+      "slug": "ai-recipes-your-meal-planner",
+      "description": "AI-powered recipe recommendations and personalized cooking experience.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-recipes-your-meal-planner.jpg",
+      "website_url": "https://apps.apple.com/app/ai-recipes-your-meal-planner/id6445809000?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-27T10:54:05Z",
+      "updated_at": "2025-03-27T05:34:48.788712Z",
+      "category_slugs": [
+        "ai-cooking-assistant",
+        "ai-recipe-assistant"
+      ]
+    },
+    {
+      "id": "899a4e57-f748-410c-b7e6-4ef6b1646f63",
+      "name": "AI Speech to Text",
+      "slug": "ai-speech-to-text",
+      "description": "Convert spoken words into written text.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-speech-to-text.jpg",
+      "website_url": "https://apps.apple.com/us/app/ai-speech-to-text/id6445964986?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:24:29Z",
+      "updated_at": "2025-03-27T07:29:50.309507Z",
+      "category_slugs": [
+        "ai-speech-recognition",
+        "speech-to-text",
+        "transcription"
+      ]
+    },
+    {
+      "id": "9e91ab7a-247b-4bf7-9ec7-e4fff5f37968",
+      "name": "AI Transcribe",
+      "slug": "ai-transcribe",
+      "description": "Offline AI-Powered transcription service.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-transcribe.jpg",
+      "website_url": "https://apps.apple.com/app/id6445858353?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-28T16:54:44Z",
+      "updated_at": "2025-03-27T07:28:00.248284Z",
+      "category_slugs": [
+        "ai-speech-recognition",
+        "speech-to-text",
+        "transcriber",
+        "transcription"
+      ]
+    },
+    {
+      "id": "4632f1d8-519d-428b-b516-f35228741c89",
+      "name": "AI Wallpapers Generator",
+      "slug": "ai-wallpapers-generator",
+      "description": "AI-powered platform for creating and sharing wallpapers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-wallpapers-generator.jpg",
+      "website_url": "https://apps.apple.com/app/ai-wallpapers-generator/id1662227892?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-22T16:02:17Z",
+      "updated_at": "2025-03-27T04:52:12.999007Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-background-generator",
+        "ai-content-generator",
+        "ai-photo-image-generator",
+        "ai-video-generator",
+        "ai-wallpaper-generator"
+      ]
+    },
+    {
+      "id": "6c79ab72-28b5-485c-b5ed-999f6cdb9b9a",
+      "name": "AIDA",
+      "slug": "aida",
+      "description": "Enhance ChatGPT \u0026 GPT-4 on the go with AIDA's mobile app and supporting features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aida.jpg",
+      "website_url": "https://apps.apple.com/us/app/aida-ai-chatbot-assistant/id1665298806?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:27:06Z",
+      "updated_at": "2025-03-27T06:07:09.606238Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-content-generator",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "b80dd89d-e2c6-4754-ad8d-19266439508f",
+      "name": "AIpal - AI Writing Assistant",
+      "slug": "aipal-ai-writing-assistant",
+      "description": "Advanced AI chatbot for real-time responses and task assistance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aipal-ai-writing-assistant.jpg",
+      "website_url": "https://apps.apple.com/app/apple-store/id1662088498?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-30T09:44:47Z",
+      "updated_at": "2025-03-27T08:09:26.004347Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "ce6bbcd4-9549-45f9-a861-ff2c9da82df6",
+      "name": "Aidiet.io",
+      "slug": "aidiet-io",
+      "description": "Plan meals, control food preferences, and connect with friends for a healthy diet.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aidiet-io.jpg",
+      "website_url": "https://apps.apple.com/us/app/aidiet-eat-with-ai-every-day/id1669101632?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-27T08:30:39Z",
+      "updated_at": "2025-03-27T05:35:43.922918Z",
+      "category_slugs": [
+        "ai-cooking-assistant",
+        "ai-recipe-assistant"
+      ]
+    },
+    {
+      "id": "9cd7fba7-4daf-4e75-a12e-26f3b8406be2",
+      "name": "Ainder - Find AI Friends like Tinder",
+      "slug": "ainder-find-ai-friends-like-tinder",
+      "description": "AI Character World offers diverse AI characters for language practice and entertainment.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ainder-find-ai-friends-like-tinder.jpg",
+      "website_url": "https://apps.apple.com/us/app/id6450455171?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-07-06T09:47:28Z",
+      "updated_at": "2025-03-27T07:45:31.376619Z",
+      "category_slugs": [
+        "ai-anime-ai-art",
+        "ai-anime-cartoon-generator",
+        "ai-character",
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "f25f14ec-21f8-4cbd-9fbf-aaa8b649ba8f",
+      "name": "Aladdin lamp",
+      "slug": "aladdin-lamp",
+      "description": "Wrist Q\u0026A tool powered by advanced AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aladdin-lamp.jpg",
+      "website_url": "https://apps.apple.com/us/app/aladdin-lamp/id6446077052?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-11T08:22:35Z",
+      "updated_at": "2025-03-27T07:54:47.382987Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "ai-chatbot",
+        "ai-voice-assistants"
+      ]
+    },
+    {
+      "id": "edcc199a-189e-44a3-9c8c-7015d256ebd4",
+      "name": "Aladin the most powerful AI chatbot",
+      "slug": "aladin-the-most-powerful-ai-chatbot",
+      "description": "Enhanced language model for English and Latin languages.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aladin-the-most-powerful-ai-chatbot.jpg",
+      "website_url": "https://apps.apple.com/us/app/aladin-al-chatbot-assistant/id1664303521?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-27T14:21:40Z",
+      "updated_at": "2025-03-27T03:19:33.229747Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "31ae22a4-8e2a-4a15-9ead-ecbbfd0bd65c",
+      "name": "AmberAI",
+      "slug": "amberai",
+      "description": "Meaningful conversations on the go.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/amberai.jpg",
+      "website_url": "https://apps.apple.com/app/id6446290308?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:27:05Z",
+      "updated_at": "2025-03-27T07:55:33.522711Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-voice-assistants"
+      ]
+    },
+    {
+      "id": "992ad625-d240-44db-abce-ffed0c5712d3",
+      "name": "Anime AI - AI Art Photo",
+      "slug": "anime-ai-ai-art-photo",
+      "description": "Transform yourself into anime characters with AI-powered creativity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/anime-ai-ai-art-photo.jpg",
+      "website_url": "https://apps.apple.com/us/app/anime-ai-ai-art-photo/id6469041322?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-12-18T02:03:23Z",
+      "updated_at": "2025-03-27T04:46:30.858115Z",
+      "category_slugs": [
+        "ai-anime-ai-art",
+        "ai-anime-cartoon-generator",
+        "ai-art-generator",
+        "ai-avatar-generator",
+        "ai-photo-image-generator",
+        "photo-image-editor"
+      ]
+    },
+    {
+      "id": "367759ee-fe46-46bc-9c18-5cc566d37746",
+      "name": "Answer.ai",
+      "slug": "answer-ai",
+      "description": "An innovative homework help app powered by chatgpt.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/answer-ai.jpg",
+      "website_url": "https://apps.apple.com/us/app/answer-ai/id6446047896?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-10T17:55:38Z",
+      "updated_at": "2025-03-27T08:42:06.762224Z",
+      "category_slugs": [
+        "ai-education-assistant",
+        "ai-homework-helper",
+        "ai-image-scanning"
+      ]
+    },
+    {
+      "id": "714c9934-aa3c-4b03-a08a-f7d1b352cf89",
+      "name": "AnyTracker",
+      "slug": "anytracker",
+      "description": "Track prices, get notified, and find the best deals with AnyTracker.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/anytracker.jpg",
+      "website_url": "https://apps.apple.com/app/anytracker-track-anything/id6450756953?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-08-10T06:29:01Z",
+      "updated_at": "2025-03-27T06:58:11.847929Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "ai-product-description-generator"
+      ]
+    },
+    {
+      "id": "1d92082b-f585-427d-986f-9006efedfd22",
+      "name": "Anyone AI Group Selfies",
+      "slug": "anyone-ai-group-selfies",
+      "description": "Create stunning selfies with friends using AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/anyone-ai-group-selfies.jpg",
+      "website_url": "https://apps.apple.com/fr/app/anyone-ai-avatar-maker/id6444796060?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-25T17:40:33Z",
+      "updated_at": "2025-03-27T03:20:47.241242Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "db6a4921-94cc-416c-a530-9e5224c2706d",
+      "name": "Appediet: AI Calorie Counter",
+      "slug": "appediet-ai-calorie-counter",
+      "description": "AI-powered nutrition app for personalized recipes and health insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/appediet-ai-calorie-counter.jpg",
+      "website_url": "https://apps.apple.com/.../appediet-ai.../id6450329545?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-08-25T10:05:53Z",
+      "updated_at": "2025-03-27T03:21:27.913631Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0cc732b1-dbc3-4b0f-a740-b837e2aa4773",
+      "name": "Art Filter for Camera",
+      "slug": "art-filter-for-camera",
+      "description": "Experience the world through famous artists with ArtVision.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/art-filter-for-camera.jpg",
+      "website_url": "https://apps.apple.com/us/app/vangogh-style-camera/id6450634361?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-09-05T14:26:40Z",
+      "updated_at": "2025-03-27T05:25:51.244438Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-photo-image-generator",
+        "photo-image-editor"
+      ]
+    },
+    {
+      "id": "fd050e28-9532-4824-b487-958c7fe0d9a3",
+      "name": "Ask \u0026 Summarize",
+      "slug": "ask-summarize",
+      "description": "Summarator - Extract article insights effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ask-summarize.jpg",
+      "website_url": "https://apps.apple.com/us/app/ask-summarize/id6446225669?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-15T14:24:39Z",
+      "updated_at": "2025-03-27T07:17:39.910084Z",
+      "category_slugs": [
+        "ai-voice-assistants",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "f9b65327-3c06-4ce6-9fc6-3489358c0dca",
+      "name": "AskAI: Chat Now",
+      "slug": "askai-chat-now",
+      "description": "Intelligent Assistant providing answers, recommendations, and chat.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/askai-chat-now.jpg",
+      "website_url": "https://apps.apple.com/us/app/askai-chat-now/id6448807559?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-29T11:56:34Z",
+      "updated_at": "2025-03-27T08:23:36.239473Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "c5a3b3fe-2a36-40d2-ba8b-2a9deea6850a",
+      "name": "Assistant : AI Essay Writer",
+      "slug": "assistant-ai-essay-writer",
+      "description": "AI-powered platform for high-quality essay writing.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/assistant-ai-essay-writer.jpg",
+      "website_url": "https://apps.apple.com/us/app/assistant-ai-essay-writer/id1660730876?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:27:07Z",
+      "updated_at": "2025-03-27T08:09:34.377432Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "cb52402f-b4c0-46f0-9980-9763cff2f0de",
+      "name": "Astara",
+      "slug": "astara",
+      "description": "Your personal AI astrologer that answers any question.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/astara.jpg",
+      "website_url": "https://apps.apple.com/us/app/astara/id1620808183?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-08-16T17:09:53Z",
+      "updated_at": "2025-03-27T08:10:24.964819Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "d6324e8a-b873-454a-aa45-ac56e6aa9bf6",
+      "name": "BarBot AI",
+      "slug": "barbot-ai",
+      "description": "Cocktail recipe generator based on your liquor and liqueurs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/barbot-ai.jpg",
+      "website_url": "https://apps.apple.com/us/app/barbot-ai/id1669668242?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:19:33Z",
+      "updated_at": "2025-03-27T05:35:46.254515Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-cooking-assistant",
+        "ai-recipe-assistant"
+      ]
+    },
+    {
+      "id": "7d537e9a-fee0-4602-9abd-e903feb80bde",
+      "name": "Basketball Betting Tipster",
+      "slug": "basketball-betting-tipster",
+      "description": "Betting predictions and odds for NBA and major basketball leagues.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/basketball-betting-tipster.jpg",
+      "website_url": "https://apps.apple.com/se/app/vip-basketball-betting-tipster/id6444616604?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-22T12:53:32Z",
+      "updated_at": "2025-03-27T08:29:27.431585Z",
+      "category_slugs": [
+        "ai-trading-bot-assistant",
+        "game",
+        "sports"
+      ]
+    },
+    {
+      "id": "6d88fb43-3df4-4f54-8056-c782c89fabaa",
+      "name": "Be Awesome - AI Photos of You",
+      "slug": "be-awesome-ai-photos-of-you",
+      "description": "Create unique and stunning photos with AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/be-awesome-ai-photos-of-you.jpg",
+      "website_url": "https://apps.apple.com/kr/app/be-awesome-ai-photos-of-you/id1663423183?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-22T16:06:44Z",
+      "updated_at": "2025-03-27T05:29:35.781114Z",
+      "category_slugs": [
+        "ai-profile-picture-generator",
+        "ai-selfie-portrait"
+      ]
+    },
+    {
+      "id": "97b37fa4-9310-414d-bb29-601fcbbdfe0f",
+      "name": "BeReady",
+      "slug": "beready",
+      "description": "AI-powered personalized task generation for achieving goals and aspirations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/beready.jpg",
+      "website_url": "https://apps.apple.com/us/app/beread/id6446637167?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-07-17T13:02:47Z",
+      "updated_at": "2025-03-27T07:59:38.836363Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "ai-task-management"
+      ]
+    },
+    {
+      "id": "939d0e73-bdcf-430e-9f10-d9cc29ee50af",
+      "name": "Beddy: Bedtime Stories for Kids",
+      "slug": "beddy-bedtime-stories-for-kids",
+      "description": "AI bedtime story creator sparking imagination.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/beddy-bedtime-stories-for-kids.jpg",
+      "website_url": "https://apps.apple.com/app/id6447703854?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-11T13:35:00Z",
+      "updated_at": "2025-03-27T06:29:08.357149Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-creative-writing",
+        "ai-speech-synthesis",
+        "ai-story-writing"
+      ]
+    },
+    {
+      "id": "99d98a0c-de6b-4f94-9309-4f60d9b0764c",
+      "name": "Best ChatGPT iOS App: KnowItAll AI Chat",
+      "slug": "best-chatgpt-ios-app-knowitall-ai-chat",
+      "description": "Free AI chatbot assistant for iPhone.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/best-chatgpt-ios-app-knowitall-ai-chat.jpg",
+      "website_url": "https://apps.apple.com/us/app/ai-chatbot-ai-chat-knowitall/id6446508895?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:28:21Z",
+      "updated_at": "2025-03-27T07:37:57.94037Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-productivity-tools",
+        "large-language-models-(llms)",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "2262ec71-edc1-4dbc-97b7-64e3f9881e91",
+      "name": "Brain Draft",
+      "slug": "brain-draft",
+      "description": "AI-powered productivity app for enhanced creativity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/brain-draft.jpg",
+      "website_url": "https://apps.apple.com/ro/app/gptalk-ai-chatbot/id1666176202?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:28:24Z",
+      "updated_at": "2025-03-27T07:58:25.944344Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-productivity-tools"
+      ]
+    },
+    {
+      "id": "b6ff129d-94b1-4036-a170-6c107ec937db",
+      "name": "Buzz Chat : iOS",
+      "slug": "buzz-chat-ios",
+      "description": "Revolutionizing how Africa connects and creates.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/buzz-chat-ios.jpg",
+      "website_url": "https://apps.apple.com/us/app/buzz-chat/id6450714581?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-07-11T16:35:46Z",
+      "updated_at": "2025-03-27T03:20:58.33865Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a1145938-eaf6-4f29-949b-c17ac059c7fb",
+      "name": "CHATGPT Ai Assistant - BuzzAi",
+      "slug": "chatgpt-ai-assistant-buzzai",
+      "description": "Revolutionary AI assistant for engaging conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-ai-assistant-buzzai.jpg",
+      "website_url": "https://apps.apple.com/app/apple-store/id1667396243?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-24T15:13:57Z",
+      "updated_at": "2025-03-27T07:56:10.239048Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-productivity-tools",
+        "ai-voice-assistants",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "36712c61-728b-450c-8802-7daf8dbcfb09",
+      "name": "Calculator Air",
+      "slug": "calculator-air",
+      "description": "Effortlessly solve math problems with AI tutor.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/calculator-air.jpg",
+      "website_url": "https://apps.apple.com/st/app/calculator-air/id1173365557?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-04-27T06:52:56Z",
+      "updated_at": "2025-03-27T07:31:42.441143Z",
+      "category_slugs": [
+        "ai-education-assistant",
+        "ai-homework-helper",
+        "translate"
+      ]
+    },
+    {
+      "id": "a768448c-5f17-46da-8359-34a13099b89d",
+      "name": "Call Pi",
+      "slug": "call-pi",
+      "description": "An AI voice assistant for natural, hands-free conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/call-pi.jpg",
+      "website_url": "https://apps.apple.com/us/app/pi-the-curious-ai/id6445815935?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-07-08T15:10:57Z",
+      "updated_at": "2025-03-27T08:18:02.182377Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "15de2dff-9d2a-4dda-8c57-22c2ebfe7220",
+      "name": "CamPlan AI",
+      "slug": "camplan-ai",
+      "description": "Create stunning floor plans with AR and AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/camplan-ai.jpg",
+      "website_url": "https://apps.apple.com/us/app/ai-floor-plan-design-camplan/id6444421373?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:27:05Z",
+      "updated_at": "2025-03-27T08:30:50.819829Z",
+      "category_slugs": [
+        "3d-model-generator",
+        "ai-design-generator",
+        "ai-image-scanning",
+        "ai-interior-room-design"
+      ]
+    },
+    {
+      "id": "008e6a13-2f22-4dfa-bd73-4d15447d48a0",
+      "name": "Cancer Finder",
+      "slug": "cancer-finder",
+      "description": "Find and delete hidden folders to reclaim storage space.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/cancer-finder.jpg",
+      "website_url": "https://apps.apple.com/us/app/cancerfinder/id6446483815?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-09-01T12:40:23Z",
+      "updated_at": "2025-03-27T03:21:36.530814Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b64f8405-b435-452f-b47d-273c18c157b9",
+      "name": "CaptionR - AI Generated Photo Captions",
+      "slug": "captionr-ai-generated-photo-captions",
+      "description": "Create captivating captions for social media posts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/captionr-ai-generated-photo-captions.jpg",
+      "website_url": "https://apps.apple.com/us/app/captionr-ai-generated-caption/id6447811994?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-07T13:42:27Z",
+      "updated_at": "2025-03-27T06:19:35.067119Z",
+      "category_slugs": [
+        "ai-content-generator",
+        "ai-response-generator",
+        "ai-social-media-assistant",
+        "captions-or-subtitle"
+      ]
+    },
+    {
+      "id": "60d83aa4-d207-45ed-812f-ba24b9d43004",
+      "name": "Chat Answer",
+      "slug": "chat-answer",
+      "description": "An open-source client powered by AI dialogue technology for easy and accurate answer retrieval.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chat-answer.jpg",
+      "website_url": "https://apps.apple.com/app/id6446219556?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-30T14:07:26Z",
+      "updated_at": "2025-03-27T08:09:26.72972Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "large-language-models-(llms)"
+      ]
+    },
+    {
+      "id": "1bbe9277-3986-46f6-bcc7-c7af6a85eab7",
+      "name": "ChatAi Unlimited - Native ChatGPT Client",
+      "slug": "chatai-unlimited-native-chatgpt-client",
+      "description": "ChatGPT with on-device conversation storage and API integration.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatai-unlimited-native-chatgpt-client.jpg",
+      "website_url": "https://apps.apple.com/us/app/chatai-unlimited-ai-client/id6446180384?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-01T15:24:28Z",
+      "updated_at": "2025-03-27T08:00:24.766578Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-productivity-tools"
+      ]
+    },
+    {
+      "id": "73ba0ff5-87e9-4a79-80cf-b4359f1f97a8",
+      "name": "ChatGPT That Works Where You Write",
+      "slug": "chatgpt-that-works-where-you-write",
+      "description": "Use ChatGPT on any Mac app or website effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-that-works-where-you-write.jpg",
+      "website_url": "https://apps.apple.com/us/app/ai-chatbot-assistant/id6443925235?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-30T16:22:02Z",
+      "updated_at": "2025-03-27T08:09:31.591789Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "eba24ef1-a7a4-4283-b7cc-6577e51818c9",
+      "name": "ChatGuru : ChatGPT With Long Term Memory",
+      "slug": "chatguru-chatgpt-with-long-term-memory",
+      "description": "Personal AI assistant with memory.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatguru-chatgpt-with-long-term-memory.jpg",
+      "website_url": "https://apps.apple.com/us/app/chatguru-ai-chat-bot-assistant/id6443925235?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-06-04T15:15:25Z",
+      "updated_at": "2025-03-27T08:09:49.441859Z",
+      "category_slugs": [
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "76e0be7c-8abc-4148-856c-520c3da229ad",
+      "name": "ChatMe: Intelligent AI Assistant",
+      "slug": "chatme-intelligent-ai-assistant",
+      "description": "AI chat assistant powered by ChatGPT 4.0.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatme-intelligent-ai-assistant.jpg",
+      "website_url": "https://apps.apple.com/app/chatme-chat-assistant/id1662519901?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-04-27T07:00:49Z",
+      "updated_at": "2025-03-27T06:53:55.131764Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-product-description-generator"
+      ]
+    },
+    {
+      "id": "253aba42-fa87-4ba2-85ef-b003ff42f0df",
+      "name": "ChatMirror",
+      "slug": "chatmirror",
+      "description": "See a better version of yourself with the Magic Mirror.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatmirror.jpg",
+      "website_url": "https://apps.apple.com/us/app/chatmirror/id6446114132?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-10T12:26:24Z",
+      "updated_at": "2025-03-27T09:06:58.902253Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "1e5cccb5-b28a-4781-89e7-a49a401d975f",
+      "name": "Chatrobo",
+      "slug": "chatrobo",
+      "description": "AI-powered chatbot that provides quick and accurate answers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatrobo.jpg",
+      "website_url": "https://apps.apple.com/us/app/chatrobo-ai-chatbot/id1661466292?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-23T06:52:12Z",
+      "updated_at": "2025-03-27T09:07:06.093699Z",
+      "category_slugs": [
+        "ai-tools-directory"
+      ]
+    },
+    {
+      "id": "1afdf025-8350-414b-a68a-d0b0fea08efa",
+      "name": "ChattyGPT",
+      "slug": "chattygpt",
+      "description": "AI-powered text generator and template tool.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chattygpt.jpg",
+      "website_url": "https://apps.apple.com/app/id6446117176?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-07T15:46:34Z",
+      "updated_at": "2025-03-27T06:57:34.635565Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-product-description-generator"
+      ]
+    },
+    {
+      "id": "7b31131f-bd22-42a8-951b-4be3cb85e15e",
+      "name": "CodeHub AI",
+      "slug": "codehub-ai",
+      "description": "Boost coding skills with personalized lessons and powerful AI insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/codehub-ai.jpg",
+      "website_url": "https://apps.apple.com/us/app/coding-python-java-code/id1632477791?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-30T14:50:06Z",
+      "updated_at": "2025-03-27T04:03:24.562703Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-education-assistant",
+        "ai-tutorial"
+      ]
+    },
+    {
+      "id": "c6e296ab-b551-4f0c-b9e5-2e4a15427d2a",
+      "name": "Color Pop AI",
+      "slug": "color-pop-ai",
+      "description": "Enjoy realistic coloring on your device with Color Pop.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/color-pop-ai.jpg",
+      "website_url": "https://apps.apple.com/us/app/color-pop-coloring-games/id1517805311?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-24T16:09:11Z",
+      "updated_at": "2025-03-27T08:29:28.444471Z",
+      "category_slugs": [
+        "fun-tools",
+        "game"
+      ]
+    },
+    {
+      "id": "6050986a-6485-44f7-b471-72a602e82a22",
+      "name": "Cooking-Genie",
+      "slug": "cooking-genie",
+      "description": "AI-powered recipe recommendations for personalized meals.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/cooking-genie.jpg",
+      "website_url": "https://apps.apple.com/us/app/cooking-genie/id6447326698?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-05-07T10:26:53Z",
+      "updated_at": "2025-03-27T05:34:45.974837Z",
+      "category_slugs": [
+        "ai-cooking-assistant",
+        "ai-recipe-assistant"
+      ]
+    },
+    {
+      "id": "7deaf8a7-50f4-4eb8-b220-72eed12abdd1",
+      "name": "Cosmic",
+      "slug": "cosmic",
+      "description": "Find your perfect match with Cosmic's advanced machine learning.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/cosmic.jpg",
+      "website_url": "https://apps.apple.com/us/app/cosmic/id1636153304?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 116632274,
+      "created_at": "2023-09-06T15:50:52Z",
+      "updated_at": "2025-03-27T05:36:42.656775Z",
+      "category_slugs": [
+        "ai-dating-assistant"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 15,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0016.json",
+    "prev_path": "categories/other/page-0014.json"
+  },
+  "items": [
+    {
+      "id": "4688d849-7747-422d-aba3-fff2e5dbc600",
+      "name": "ChatGPT Delete All Chats",
+      "slug": "chatgpt-delete-all-chats",
+      "description": "Manage ChatGPT conversations with bulk delete and archive features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-delete-all-chats.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-delete-all-chats/daipnaolfenpglcjgjkgeaandppiabgn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-05T01:53:50Z",
+      "updated_at": "2025-03-27T03:14:06.544649Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5f6d3578-73ef-4f54-baea-148d635741cc",
+      "name": "ChatGPT Dialog",
+      "slug": "chatgpt-dialog",
+      "description": "ChatGPT support via dialog window",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-dialog.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-dialog/clfgippfjldblbbmhmgpelgcjdfibkfg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:35Z",
+      "updated_at": "2025-03-27T03:01:32.226298Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6626f323-2266-44c8-ab97-a4a6c4f254d4",
+      "name": "ChatGPT Download For PC, Mac, Windows - Free",
+      "slug": "chatgpt-download-for-pc-mac-windows-free",
+      "description": "Access ChatGPT 3.5 on Chrome.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-download-for-pc-mac-windows-free.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-download-for-pc-m/nllgcmmepbpamdcbmikmlflnljifghlg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:35Z",
+      "updated_at": "2025-03-27T03:03:39.811232Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dc0bc7d8-0048-4201-a948-fbaba13edabe",
+      "name": "ChatGPT Enhanced",
+      "slug": "chatgpt-enhanced",
+      "description": "Enhances ChatGPT with text-to-speech",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-enhanced.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-enhanced/bpfpceoliebopalajhhgdpkepnkadlod?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:53Z",
+      "updated_at": "2025-03-27T03:06:24.679126Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "04848f4c-8f7a-43d8-99fd-4c4c7d4b24dd",
+      "name": "ChatGPT Enhancer for Extensive Text Operation",
+      "slug": "chatgpt-enhancer-for-extensive-text-operation",
+      "description": "Text optimization browser extension for ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-enhancer-for-extensive-text-operation.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-enhancer-for-exte/miballmeadddlcjmiicbopgoogickgjg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-05T03:28:21Z",
+      "updated_at": "2025-03-27T03:10:16.499727Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ad6e21ab-6ec2-430c-aa2d-557063b8efc7",
+      "name": "ChatGPT Everywhere: Gmail, Google \u0026 more",
+      "slug": "chatgpt-everywhere-gmail-google-more",
+      "description": "ChatGPT on every Chrome page",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-everywhere-gmail-google-more.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-everywhere-gmail/jcpijhoapodijpdpnbpgjjmjlipbcmmp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:52Z",
+      "updated_at": "2025-03-27T03:03:22.021953Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0e1eac60-de98-4cd7-8edc-259c27b7f03c",
+      "name": "ChatGPT Explain",
+      "slug": "chatgpt-explain",
+      "description": "Simplify complex concepts effortlessly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-explain.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-explain/inllflnokfkadlfjmdimlngdniccmodp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:18Z",
+      "updated_at": "2025-03-27T03:04:15.2035Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e82debae-5f8a-450d-88ff-a15a9398d0ba",
+      "name": "ChatGPT Folders",
+      "slug": "chatgpt-folders",
+      "description": "Extension to organize ChatGPT chats via drag and drop.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-folders.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-folders/lonpanncgnbjddnjbibmikpegkejbhkm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-20T03:15:48Z",
+      "updated_at": "2025-03-27T03:14:44.348673Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b63582a9-d49d-49c1-bb80-e2458aefd4b5",
+      "name": "ChatGPT Helper. Quick Access \u0026 Download",
+      "slug": "chatgpt-helper-quick-access-download",
+      "description": "Boost productivity with ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-helper-quick-access-download.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-helper-quick-acce/iinnhbfjbahmddefhdgelochopnanmcg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:32Z",
+      "updated_at": "2025-03-27T03:04:15.825581Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b75fd87a-b0a2-4128-a641-1cb301bbd8b4",
+      "name": "ChatGPT History Manager",
+      "slug": "chatgpt-history-manager",
+      "description": "Manage ChatGPT conversations effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-history-manager.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-history-manager/eaahblnmdpkfokgcelfnnkkkgpfiodhf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:34Z",
+      "updated_at": "2025-03-27T03:02:43.664891Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6de67764-de44-41d9-9500-d5c27c4576cd",
+      "name": "ChatGPT Keyboard Shortcuts",
+      "slug": "chatgpt-keyboard-shortcuts",
+      "description": "Enhanced terminal-like experience in ChatGPT/Perplexity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-keyboard-shortcuts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-keyboard-shortcut/oemehpipfokijnpilnnmbnjonngpimhb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-14T01:56:29Z",
+      "updated_at": "2025-03-27T03:07:30.464731Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dde10b20-0061-4288-9568-5ac6a3856519",
+      "name": "ChatGPT Moments",
+      "slug": "chatgpt-moments",
+      "description": "Enhance ChatGPT interactions with key question extraction and seamless navigation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-moments.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-moments/ojnljjhlkdaipljdkfcikjigfafenlnp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:52Z",
+      "updated_at": "2025-03-27T03:05:43.158168Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c1d143c0-de82-4a72-afee-d717e90eb0a0",
+      "name": "ChatGPT News De-ensationalizer - Generate less biased headlines",
+      "slug": "chatgpt-news-de-ensationalizer-generate-less-biased-headlines",
+      "description": "Browser extension for unbiased news headlines",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-news-de-ensationalizer-generate-less-biased-headlines.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-news-de-ensationa/mollmdlkcjbbbemgkhgocphdiibkllfc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-21T03:14:51Z",
+      "updated_at": "2025-03-27T03:09:25.7505Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "78bd0111-929b-4aa9-9ebf-a9dcb038b0b2",
+      "name": "ChatGPT Now",
+      "slug": "chatgpt-now",
+      "description": "AI chatbot interaction without OpenAI account.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-now.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-now/ppkjbjnflojmgolglemmkgadgihnejdj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:28Z",
+      "updated_at": "2025-03-27T03:05:06.884953Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3dffeb01-e764-434b-b454-fe20e76b0ef0",
+      "name": "ChatGPT Organizer",
+      "slug": "chatgpt-organizer",
+      "description": "Chat conversation organization tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-organizer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-organizer/egjpiahgepfakfnlccaajkdjllbaklpc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-23T04:24:29Z",
+      "updated_at": "2025-03-27T03:12:19.308574Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b636170b-0535-463e-a4d9-da07a7602f6f",
+      "name": "ChatGPT PLUS | MODE MAESTRO",
+      "slug": "chatgpt-plus-mode-maestro",
+      "description": "Access different modes of GPT models swiftly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-plus-mode-maestro.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-plus-mode-maestro/laplfpgcjbabmknjemmojhlmfebbibho?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:35Z",
+      "updated_at": "2025-03-27T03:01:34.811108Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ca2ba757-8494-4efa-8547-6efffbbc69f8",
+      "name": "ChatGPT Plus",
+      "slug": "chatgpt-plus",
+      "description": "Enhance AI conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-plus.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-plus/pkdcpohhilpdgdooafpjnenmnhgbmdmh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:24Z",
+      "updated_at": "2025-03-27T03:02:09.573957Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "07b92f56-90a8-46c0-8cf8-c263d982a13c",
+      "name": "ChatGPT Plus - Batch Export GPT Conversations",
+      "slug": "chatgpt-plus-batch-export-gpt-conversations",
+      "description": "Enhance GPT conversations with advanced features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-plus-batch-export-gpt-conversations.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-plus-batch-export/ddihmlagdkjhjolfdjcehlphmhkpmabb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:13Z",
+      "updated_at": "2025-03-27T03:03:12.964105Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "78672330-fc3a-46d9-865c-9e005ea2c46a",
+      "name": "ChatGPT Polsku",
+      "slug": "chatgpt-polsku",
+      "description": "Polish language chatbot based on GPT-3.5 and GPT-4 OpenAI models",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-polsku.jpg",
+      "website_url": "https://chatgptpolsku.org?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-14T14:21:00Z",
+      "updated_at": "2025-03-27T03:09:15.39016Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "75a9b9cd-a3fe-46df-86aa-183924796cfb",
+      "name": "ChatGPT Pro - Advanced Features",
+      "slug": "chatgpt-pro-advanced-features",
+      "description": "Enhancing productivity and communication",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-pro-advanced-features.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-pro-advanced-feat/beemdfkfplebccejjcmjfngjjnmhnkae?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:39Z",
+      "updated_at": "2025-03-27T03:05:38.730374Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f11da65e-502d-40c5-b336-fce04ea4ba88",
+      "name": "ChatGPT Prompt Generator",
+      "slug": "chatgpt-prompt-generator",
+      "description": "AI prompt generation tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-prompt-generator.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-prompt-generator/jjppjkpfpieljegclkbhpdlpocmdbjlf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:11Z",
+      "updated_at": "2025-03-27T03:00:57.556934Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b742a14a-997c-4895-90c5-6d73d3232c53",
+      "name": "ChatGPT Prompt Manager",
+      "slug": "chatgpt-prompt-manager",
+      "description": "Effortlessly manage prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-prompt-manager.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-prompt-manager/fpgdhccnlfjokogfeacdpaepkebekmih?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:16Z",
+      "updated_at": "2025-03-27T03:04:07.435751Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0df9702f-4b36-4823-b953-b7b316b350dd",
+      "name": "ChatGPT Revenue Estimator",
+      "slug": "chatgpt-revenue-estimator",
+      "description": "Revenue estimation tool for custom ChatGPT models",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-revenue-estimator.jpg",
+      "website_url": "https://gptrevenue.stream?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-10T15:19:05Z",
+      "updated_at": "2025-03-27T03:09:07.2592Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8ef69c6b-afb6-4a52-83fb-4b938ee25c2a",
+      "name": "ChatGPT Save \u0026 Copy - Export your chats!",
+      "slug": "chatgpt-save-copy-export-your-chats",
+      "description": "Export and copy ChatGPT conversations effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-save-copy-export-your-chats.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-save-copy-export/dbckgjjdkmofomcjmldnphmcbmhdblfd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:33Z",
+      "updated_at": "2025-03-27T03:02:40.43109Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "87665e59-15e9-41d6-8e08-19957a9059a6",
+      "name": "ChatGPT Search Connect with internet access",
+      "slug": "chatgpt-search-connect-with-internet-access",
+      "description": "Free extension for integrating Google search results into ChatGPT prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-search-connect-with-internet-access.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-search-connect-wi/odclajchhopeklkiekamigakopnkflom?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:53:47Z",
+      "updated_at": "2025-03-27T03:04:23.726818Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cef32463-f74d-4c1b-813c-475865dcdab8",
+      "name": "ChatGPT Search Google",
+      "slug": "chatgpt-search-google",
+      "description": "Optimize search with ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-search-google.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-search-google/gfjblggkimebjolmnfokhmjlfgghbmje?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:39Z",
+      "updated_at": "2025-03-27T03:05:11.316088Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "10378cea-2d3b-4127-baf9-a581adfda46f",
+      "name": "ChatGPT Sensei",
+      "slug": "chatgpt-sensei",
+      "description": "Convenient access to ChatGPT from Chrome's new tab.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-sensei.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-sensei/dmnglkcebicfngnbhijehpoeigimhacn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:25Z",
+      "updated_at": "2025-03-27T03:04:55.26563Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "86b12991-062f-4872-b580-0ee37381f099",
+      "name": "ChatGPT Session Exporter",
+      "slug": "chatgpt-session-exporter",
+      "description": "Export ChatGPT conversations to clean HTML files.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-session-exporter.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-session-exporter/obljmfemfmmhlcodmcenihjoahemllnl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:32Z",
+      "updated_at": "2025-03-27T03:03:35.725755Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "af4123c6-69c7-44cd-a23a-b6cccde0749c",
+      "name": "ChatGPT Share 2.0 - Markdown \u0026 Image",
+      "slug": "chatgpt-share-2-0-markdown-image",
+      "description": "Effortlessly save and share ChatGPT conversations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-share-2-0-markdown-image.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-share-20-markdown/gciegekcjpkmepcogapddinippmjiehd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:38Z",
+      "updated_at": "2025-03-27T03:02:53.301202Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d3c7d832-2049-4db1-95bf-d6cd2f1ff740",
+      "name": "ChatGPT Shortcut - Open from the Address Bar",
+      "slug": "chatgpt-shortcut-open-from-the-address-bar",
+      "description": "Quickly access ChatGPT from the browser",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-shortcut-open-from-the-address-bar.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-shortcut-open-fro/ppjhahkjaabkjgaoelbokpgleaoeeboa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:53:49Z",
+      "updated_at": "2025-03-27T03:04:26.942892Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "69760ead-0259-4c92-b9b8-eda3f21e3b72",
+      "name": "ChatGPT Snippet Saver",
+      "slug": "chatgpt-snippet-saver",
+      "description": "Chrome extension for saving ChatGPT insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-snippet-saver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-snippet-saver/hngolfeaafcbeidamknalniaoifhchcc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:55Z",
+      "updated_at": "2025-03-27T03:06:30.438538Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1413d564-c5f7-4136-9190-d067b5aa97c9",
+      "name": "ChatGPT Spotlight",
+      "slug": "chatgpt-spotlight",
+      "description": "Efficient search tool for conversations and GPTs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-spotlight.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-spotlight/bccnghnbganmehniefnhcmnmphoflhem?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:53Z",
+      "updated_at": "2025-03-27T03:06:25.960749Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "954f625c-7846-4fd5-9f3f-c7babc20d063",
+      "name": "ChatGPT Summarizer",
+      "slug": "chatgpt-summarizer",
+      "description": "Generate web page summaries instantly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-summarizer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-summarizer/jhdleckkjdnifdeddnlclgckkhgaionc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:21Z",
+      "updated_at": "2025-03-27T03:01:57.137922Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "57f47247-9b40-4726-a681-98ab39a8085f",
+      "name": "ChatGPT VarExt",
+      "slug": "chatgpt-varext",
+      "description": "Enhance ChatGPT with variables and prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-varext.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-varext/ejokphliphhfmfgjhegcigdbjjfalgej?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:41Z",
+      "updated_at": "2025-03-27T03:01:23.817527Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "79e22062-fc53-4eaf-9c15-ba2df125eaed",
+      "name": "ChatGPT Visioner for Screenshot Reading and Analysis",
+      "slug": "chatgpt-visioner-for-screenshot-reading-and-analysis",
+      "description": "Chrome plugin for seamless screenshot analysis",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-visioner-for-screenshot-reading-and-analysis.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-visioner-for-scre/gmckkjioaelolodmmfnmcjdadimnhacn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:34Z",
+      "updated_at": "2025-03-27T03:10:53.808989Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "64f017f4-845b-4bca-b2bb-77421e9b6b66",
+      "name": "ChatGPT Voice Plus Game and Translation",
+      "slug": "chatgpt-voice-plus-game-and-translation",
+      "description": "Enhance ChatGPT with voice, games, and translations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-voice-plus-game-and-translation.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-voice-plus-game-a/dlkhjfihkbikdgbfkfjamhkeilnacigm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:37Z",
+      "updated_at": "2025-03-27T03:03:45.870029Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4165828e-727a-4316-b723-24f0615b37a8",
+      "name": "ChatGPT WhatsApp Template Generator",
+      "slug": "chatgpt-whatsapp-template-generator",
+      "description": "Tool for generating compliant WhatsApp message templates.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-whatsapp-template-generator.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-whatsapp-template/kpgekjjnaaccgngmhhlejljmddnjkdgb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:13Z",
+      "updated_at": "2025-03-27T03:15:06.543357Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5bbf3fb8-3cd8-4c1a-8aad-71d336547201",
+      "name": "ChatGPT Xtra",
+      "slug": "chatgpt-xtra",
+      "description": "Enhance ChatGPT chat experience",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-xtra.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-xtra/baagbnbocpdlgifpillkgicofdgamajp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:50Z",
+      "updated_at": "2025-03-27T03:04:40.101362Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "befa6f80-7ddf-4609-adc0-7dd2773d71a5",
+      "name": "ChatGPT extension for Google Search",
+      "slug": "chatgpt-extension-for-google-search",
+      "description": "Enhance searches with ChatGPT responses",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-extension-for-google-search.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-extension-for-goo/bpbgnlhipfpnkdlpjcjlmkbcnmlhpghl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:21Z",
+      "updated_at": "2025-03-27T03:02:01.045856Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "872241bb-4b99-4779-8e56-1c0af1434a90",
+      "name": "ChatGPT for Chrome - search GPT",
+      "slug": "chatgpt-for-chrome-search-gpt",
+      "description": "Boost ChatGPT interactions",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-for-chrome-search-gpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-for-chrome-search/hhclmnigoigikdgiflfihpkglefbaaoa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:33Z",
+      "updated_at": "2025-03-27T03:03:37.151144Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "26486e3a-bf25-47e9-97af-d91d064e40b7",
+      "name": "ChatGPT for Google Chrome™",
+      "slug": "chatgpt-for-google-chrome",
+      "description": "A Chrome extension for quick AI access and interaction.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-for-google-chrome.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-for-google-chrome/pkcoogcpeheamgkhfhelaifnpmehdgmp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-20T03:15:35Z",
+      "updated_at": "2025-03-27T03:14:40.893693Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ada76345-2784-432c-8924-6d252c2f6e57",
+      "name": "ChatGPT for Google Search",
+      "slug": "chatgpt-for-google-search",
+      "description": "AI-powered search assistant",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-for-google-search.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-for-google-search/fmgdaijoloejblknjgnbmdhinchoihid?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:53Z",
+      "updated_at": "2025-03-27T03:05:46.391103Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1dab1a2b-744f-40b1-b058-27acf38547b6",
+      "name": "ChatGPT for Google for free",
+      "slug": "chatgpt-for-google-for-free",
+      "description": "Enhance Google searches with ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-for-google-for-free.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-for-google-for-fr/pabeminldebomngnkgffiejipjjaaogi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-14T01:56:28Z",
+      "updated_at": "2025-03-27T03:07:28.452717Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ecd7597d-6998-48a3-88aa-4c0fcc394749",
+      "name": "ChatGPT for Web Search Tab",
+      "slug": "chatgpt-for-web-search-tab",
+      "description": "Enhances Google search with ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-for-web-search-tab.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-for-web-search-ta/dhncdpndppkbcihedmkjbnmkdngalmkh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:51Z",
+      "updated_at": "2025-03-27T03:03:20.063476Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cf8ef40b-8119-493e-b21c-689d8aa0facb",
+      "name": "ChatGPT in Google",
+      "slug": "chatgpt-in-google",
+      "description": "Google search results combined with ChatGPT insights",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-in-google.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-in-google/gmkgjhlphncdlagnlkideonkiagkogjc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:40Z",
+      "updated_at": "2025-03-27T03:03:52.317916Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8ab32242-6dda-4333-998a-44c2fc3b1fc0",
+      "name": "ChatGPT of OpenAI for Google",
+      "slug": "chatgpt-of-openai-for-google",
+      "description": "Browser plugin for accessing ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-of-openai-for-google.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-of-openai-for-goo/kglajnlchongolikjlbcchdapioghjib?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:31Z",
+      "updated_at": "2025-03-27T03:06:11.897529Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b962aa5a-699c-4939-8a56-808dbd6f2449",
+      "name": "ChatGPT on Amazon",
+      "slug": "chatgpt-on-amazon",
+      "description": "AI assistant for smarter shopping",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-on-amazon.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-on-amazon/eknekodjilpjfneaoehdmipgijgjkmee?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:08Z",
+      "updated_at": "2025-03-27T03:00:41.564156Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a43a0e6c-0ccc-4b82-a770-ab428a9b1dbf",
+      "name": "ChatGPT on new tab",
+      "slug": "chatgpt-on-new-tab",
+      "description": "AI chat extension for instant answers",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-on-new-tab.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-on-new-tab/aodbopgpdbbeeifnpefojenoaffmpoba?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:06Z",
+      "updated_at": "2025-03-27T03:03:02.479985Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "243caff7-b0a0-40e4-8454-79094d7b63da",
+      "name": "ChatGPT para pesquisa no Google",
+      "slug": "chatgpt-para-pesquisa-no-google",
+      "description": "Revolutionizing Google searches",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-para-pesquisa-no-google.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-para-pesquisa-no/dpbmphcflghiapioekmahdeleeikmgjp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:51Z",
+      "updated_at": "2025-03-27T03:06:20.867018Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4708fc70-b856-433c-8d1a-4cc0cc01c352",
+      "name": "ChatGPT plugin search",
+      "slug": "chatgpt-plugin-search",
+      "description": "Efficiently explore and find ChatGPT plugins.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-plugin-search.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-plugin-search/hjdhbhggcljjjfenfbdbbhhngmkglpkl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:15Z",
+      "updated_at": "2025-03-27T03:07:21.590911Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "44c7e051-12aa-4e8c-8dd3-994afd874aea",
+      "name": "ChatGPT to MarkDown plus",
+      "slug": "chatgpt-to-markdown-plus",
+      "description": "Convert chat records into Markdown",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-to-markdown-plus.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-to-markdown-plus/gcocgmkjaagjcijfmocbjghbpinamnhp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:17Z",
+      "updated_at": "2025-03-27T03:06:46.193584Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "13929efa-ce7f-4132-955a-1313872b55c3",
+      "name": "ChatGPT to Markdown",
+      "slug": "chatgpt-to-markdown",
+      "description": "Convert ChatGPT conversations to Markdown effortlessly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-to-markdown.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-to-markdown/adghjpdmpbcmppeafpodcjpagmegdpci?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:36Z",
+      "updated_at": "2025-03-27T03:04:34.631497Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4a8cd9c5-c6d7-40ef-9596-67c7f98b0e24",
+      "name": "ChatGPT to PNG",
+      "slug": "chatgpt-to-png",
+      "description": "Effortlessly save GPT chat conversations as images.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-to-png.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-to-png/kpbjkfajjjhpcponilijmmhpdifapcmd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:31Z",
+      "updated_at": "2025-03-27T03:03:32.960406Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ac8dbb4a-d52b-4190-83f4-dde7f1cd39b6",
+      "name": "ChatGPT vs Bard",
+      "slug": "chatgpt-vs-bard",
+      "description": "Compare Google Bard and ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-vs-bard.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-vs-bard/dbndihjefcldfjlleakpkkaidakbakmi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:06Z",
+      "updated_at": "2025-03-27T03:03:41.821506Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "600628b2-3002-414f-b257-cd02aa9b5a7c",
+      "name": "ChatGPT with Internet",
+      "slug": "chatgpt-with-internet",
+      "description": "Enhance ChatGPT with web results and conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-with-internet.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-with-internet/iiipomfgfgggpgobcknaebmfmpoafeib?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:18Z",
+      "updated_at": "2025-03-27T03:01:46.775311Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "737f5977-6eec-48d8-bffe-7fdb519aa670",
+      "name": "ChatGPT カスタムインストラクション スイッチャー",
+      "slug": "chatgpt-2",
+      "description": "Sync and share prompts seamlessly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-2.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-カスタムインストラクション-スイッ/afobkphkcmglgcddmfllddhogeflaoka?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:57Z",
+      "updated_at": "2025-03-27T03:05:49.522839Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e9d3477d-a068-4e2b-a6d3-38a0d3340eff",
+      "name": "ChatGPT 保持连接",
+      "slug": "chatgpt-保持连接",
+      "description": "Enhance ChatGPT connectivity",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-%E4%BF%9D%E6%8C%81%E8%BF%9E%E6%8E%A5.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-保持连接/chlaiikfdmmmeolgeeklfnmkolfeeplo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:25Z",
+      "updated_at": "2025-03-27T03:02:24.233087Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "965c26af-b294-4664-bbaf-8cc209f048c1",
+      "name": "ChatGPT-Box",
+      "slug": "chatgpt-box",
+      "description": "AI toolbox for ChatGPT with customizable prompts and model selection.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-box.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-box/bpnffccnbopjjgkcffmgcbhjiahiebbk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:40Z",
+      "updated_at": "2025-03-27T03:03:54.309264Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f3cb6cf1-b7a6-46ef-b4ea-7bc710540c50",
+      "name": "ChatGPT-Pro",
+      "slug": "chatgpt-pro",
+      "description": "Real-time token count display for efficient messaging.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-pro.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-pro/kolkklpaoobmfblcifkmnbgoohklkejk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:33:30Z",
+      "updated_at": "2025-03-27T03:03:31.653375Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a17ce8bf-7da1-4f30-8284-65569a214ad6",
+      "name": "ChatGPTING",
+      "slug": "chatgpting",
+      "description": "Fill UE TING deliverables with ChatGPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpting.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpting/ejagbkldbbbaffahghjkpmiehlefbfnn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:41:40Z",
+      "updated_at": "2025-03-27T03:01:22.508394Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "543a0692-c18b-4830-8bce-2ff2e6fc3131",
+      "name": "ChatGPTSearch",
+      "slug": "chatgptsearch",
+      "description": "Efficiently search past dialogues and GPTs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgptsearch.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgptsearch/pclncfmliblnjdjgjiamdmggkocpocgk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:27Z",
+      "updated_at": "2025-03-27T03:02:29.431871Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "261bd72d-54fc-45c3-9115-98e869c8d18a",
+      "name": "ChatGPThing",
+      "slug": "chatgpthing",
+      "description": "Access AI within your browser.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpthing.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpthing/amiibkaljanlkpjljhlkgjdfemgkklbo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:38Z",
+      "updated_at": "2025-03-27T03:03:48.445203Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7c1b9806-8066-463f-8c38-eb11c74630e2",
+      "name": "ChatGPT免费中文版(GPT4，绘图)",
+      "slug": "chatgpt免费中文版-gpt4-绘图",
+      "description": "Free chatbot with GPT-4 and drawing features",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt%E5%85%8D%E8%B4%B9%E4%B8%AD%E6%96%87%E7%89%88-gpt4-%E7%BB%98%E5%9B%BE.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt免费中文版gpt4，绘图/adipfcmchpbnbchohnjkdhcjpbndplgd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:50Z",
+      "updated_at": "2025-03-27T03:00:19.923882Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "715ec319-8916-4de7-8860-00a0bb4369a6",
+      "name": "ChatGPT学习",
+      "slug": "chatgpt学习",
+      "description": "Enhance productivity with AI toolkit.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt%E5%AD%A6%E4%B9%A0.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt学习/lpbhmlbicmgjpacbofijdfpcplfhakeo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:57Z",
+      "updated_at": "2025-03-27T03:06:32.396605Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "832f72f3-b76b-4693-bc1c-8d2100198cb8",
+      "name": "ChatHub - $37 for Lifetime Deal",
+      "slug": "chathub-37-for-lifetime-deal",
+      "description": "Chat with 6 Chatbot at Once, Compare AI responses with real-time web searches.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chathub-37-for-lifetime-deal.png",
+      "website_url": "https://oncely.ai/products/chathub?utm_source=Toolify",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-11T13:58:49Z",
+      "updated_at": "2025-03-27T03:22:09.614095Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e60691b8-246c-4739-98c3-dc052a5454da",
+      "name": "ChatKuma 🐻 ChatGPT插件",
+      "slug": "chatkuma-chatgpt插件",
+      "description": "AI plugin enabling search, drawing, and knowledge base access",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatkuma-chatgpt%E6%8F%92%E4%BB%B6.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatkuma-🐻-chatgpt插件/pnmakbfgobmpjinpcionjmmagehihocn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:35Z",
+      "updated_at": "2025-03-27T03:00:01.43779Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4b2ae08e-2806-402c-84dc-e504f791c607",
+      "name": "ChatPLG",
+      "slug": "chatplg",
+      "description": "On-demand PLG expert powered by Open AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatplg.jpg",
+      "website_url": "https://chatplg.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-10T11:40:06Z",
+      "updated_at": "2025-03-27T03:09:06.271339Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "18e6ed65-d0c2-4d5c-b9e7-6d1eeb0ef84e",
+      "name": "ChatPrep",
+      "slug": "chatprep",
+      "description": "Flutter Project provides information and resources for Flutter, a cross-platform mobile app development framework.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatprep.jpg",
+      "website_url": "https://chatprep.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T09:28:04Z",
+      "updated_at": "2025-03-27T03:20:12.93797Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "04665b42-5816-4340-addd-5f44cb465634",
+      "name": "ChatWork GPT4-128K GPT4-Vision Sidebar",
+      "slug": "chatwork-gpt4-128k-gpt4-vision-sidebar",
+      "description": "A versatile toolkit for AI enthusiasts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatwork-gpt4-128k-gpt4-vision-sidebar.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatwork-gpt4-128k-gpt4-v/kmbgcodjfgjingdhbeaedkjpafdaicka?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:23Z",
+      "updated_at": "2025-03-27T03:02:21.659347Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "23b302a0-9dd5-46e8-9963-0978538f1895",
+      "name": "ChatYY",
+      "slug": "chatyy",
+      "description": "AI assistant for all tasks",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatyy.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatyy/ennmnfichkhmcecpnllkjklgmfdcenlc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:50Z",
+      "updated_at": "2025-03-27T03:07:17.596144Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "95c74d6d-9403-4bc3-a54e-c05ea76073a6",
+      "name": "Chatgpt Plus Waitlist Skipper",
+      "slug": "chatgpt-plus-waitlist-skipper",
+      "description": "Skip the waitlist for ChatGPT Plus",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-plus-waitlist-skipper.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/chatgpt-plus-waitlist-ski/oencmopafhalibekkfffgjmdakbpnnfe?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:38Z",
+      "updated_at": "2025-03-27T03:05:36.156962Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3c2667b7-c1fe-4d4b-b940-21c3b5152655",
+      "name": "Chatgpt for product management",
+      "slug": "chatgpt-for-product-management",
+      "description": "Ghost is a user-friendly platform for blogging and website management.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-for-product-management.jpg",
+      "website_url": "https://www.jottery.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-19T14:02:53Z",
+      "updated_at": "2025-03-27T03:18:58.875266Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

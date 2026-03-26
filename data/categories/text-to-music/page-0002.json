@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 78,
+    "total_pages": 2,
+    "prev_path": "categories/text-to-music/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "0ebb6e6b-9811-4095-846e-a599fc5aab48",
+      "name": "SunoPrompt - Suno AI Song Style and Lyrics Generator",
+      "slug": "sunoprompt-suno-ai-song-style-and-lyrics-generator",
+      "description": "Discover high-quality Suno AI prompts to help you generate better songs, styles, and lyrics instantly.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4dc71018-73c9-44f0-9462-7558400f6786_1764643072008.png",
+      "website_url": "https://sunoprompt.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-02T02:38:01.217204Z",
+      "updated_at": "2025-12-03T11:39:01.801Z",
+      "category_slugs": [
+        "ai-singing-generator",
+        "text-to-music"
+      ]
+    },
+    {
+      "id": "5e4dfbf5-98cb-416d-a8a6-7a3d4971d244",
+      "name": "Text to Song",
+      "slug": "text-to-song",
+      "description": "Text to Song AI is an online music generator that transforms any text or lyrics into a complete song with vocals and full instrumental backing in seconds.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/189fe6d6-2184-468c-8f41-03a3d6126dcf_1771309864878.jpg",
+      "website_url": "https://texttosong.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-17T06:31:15.196005Z",
+      "updated_at": "2026-02-18T11:34:06.651Z",
+      "category_slugs": [
+        "text-to-music"
+      ]
+    },
+    {
+      "id": "02f2e491-8160-49c2-9614-ec775acf8c60",
+      "name": "TextMusic– The AI Text-to-Music Generato",
+      "slug": "textmusic-the-ai-text-to-music-generato",
+      "description": "Create custom songs effortlessly—lyrics, melodies, and styles at your fingertips. Transform your thoughts into songs instantly and unleash your creativity with TextMusic.net's Text to Music. Unleash creativity with the best free AI music tool. Create now!",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/70bfdfbc-b166-4480-8640-1a4018bc1391_1761560515951.png",
+      "website_url": "https://www.textmusic.net",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-27T10:22:02.267787Z",
+      "updated_at": "2025-10-27T17:55:50.042Z",
+      "category_slugs": [
+        "ai-rap-generator",
+        "life-assistant",
+        "productivity",
+        "text-to-music"
+      ]
+    },
+    {
+      "id": "ac343a3d-2d70-4d48-87ed-12f60196ee07",
+      "name": "TextSong AI",
+      "slug": "textsong-ai",
+      "description": "TextSong.ai – The Free AI Text-to-Song Generator",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/70bfdfbc-b166-4480-8640-1a4018bc1391_1763965203165.png",
+      "website_url": "https://www.textsong.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-24T06:20:11.173292Z",
+      "updated_at": "2025-11-24T10:14:51.638Z",
+      "category_slugs": [
+        "text-to-music"
+      ]
+    },
+    {
+      "id": "e539bbc6-6a2d-4bc7-964b-4aa150a91061",
+      "name": "Vibe Musicing AI",
+      "slug": "vibe-musicing-ai",
+      "description": "Unleash your creativity—let AI compose your next great track.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1307d714-c511-4f1f-b457-7576ad8a5c9a_1749550307304.png",
+      "website_url": "https://vibemusicing.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-10T10:11:50.356899Z",
+      "updated_at": "2025-06-13T09:31:09.54Z",
+      "category_slugs": [
+        "ai-rap-generator",
+        "ai-singing-generator",
+        "text-to-music"
+      ]
+    },
+    {
+      "id": "d01bbf82-c117-44b6-a31d-1afa683eb928",
+      "name": "love song generator",
+      "slug": "love-song-generator",
+      "description": "Custom Love Songs That Tell Your Unique Story",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/522be8cb-0fc2-4de5-a6b8-c70e9d28e20a_1756192186235.png",
+      "website_url": "https://lovesonggenerator.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-26T07:09:51.985432Z",
+      "updated_at": "2025-08-28T14:44:49.07Z",
+      "category_slugs": [
+        "text-to-music"
+      ]
+    }
+  ]
+}

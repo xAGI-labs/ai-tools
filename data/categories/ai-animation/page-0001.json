@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 5,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "59276a22-ac41-497b-a6f2-67c8112571ac",
+      "name": "Animate Photo",
+      "slug": "animate-photo",
+      "description": "Animate photo or animate picture online with a powerful AI image animator. Upload an image and our AI animation generator will animate photos and turn them into smooth, dynamic videos in seconds.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1eea58a0-3f5a-481c-bff5-5e9de19da159_1773836476580.JPG",
+      "website_url": "https://animatephoto.app/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-17T08:57:25.481319Z",
+      "updated_at": "2026-03-18T12:21:18.915Z",
+      "category_slugs": [
+        "ai-animation"
+      ]
+    },
+    {
+      "id": "731d199d-710a-475e-affb-8528f74fbaaf",
+      "name": "AnividAI",
+      "slug": "anividai",
+      "description": "AnividAI - The Original Character Driven AI Anime Creation Platform",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/c5ea56f3-0525-4883-ac92-e226b95c9e62_1767123151184.PNG",
+      "website_url": "https://anividai.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-30T12:50:37.307111Z",
+      "updated_at": "2025-12-30T19:32:49.572Z",
+      "category_slugs": [
+        "ai-animation",
+        "ai-anime-cartoon-generator"
+      ]
+    },
+    {
+      "id": "e10c0c63-d4ea-479e-9993-26adef665e71",
+      "name": "ComicsAI",
+      "slug": "comicsai",
+      "description": "Transform Your Stories intoBeautiful Anime Comics",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/c4c22370-740e-456a-8f23-db4b1c6b02c8_1771987440276.png",
+      "website_url": "https://comicsai.org/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-25T02:44:18.623925Z",
+      "updated_at": "2026-02-25T10:55:08.182Z",
+      "category_slugs": [
+        "ai-animation",
+        "ai-anime-ai-art"
+      ]
+    },
+    {
+      "id": "4c68d707-dd07-4940-8e8e-44ad245df20d",
+      "name": "Neural frames",
+      "slug": "neural-frames",
+      "description": "neural frames | AI animation generation",
+      "logo_url": "https://neuralframes.com/favicon.ico",
+      "website_url": "https://www.neuralframes.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-02T00:00:00Z",
+      "updated_at": "2023-05-02T00:00:00Z",
+      "category_slugs": [
+        "ai-animation",
+        "ai-anime-cartoon-generator",
+        "ai-lead-generation",
+        "business",
+        "design-art",
+        "video"
+      ]
+    },
+    {
+      "id": "22c49ada-eecb-47f7-9c11-24462fb87103",
+      "name": "betterani",
+      "slug": "betterani",
+      "description": "BetterAni: Free AI Anime Generator. Make stunning anime art in seconds. Turn text or photos into anime with the ultimate OC Maker \u0026 Character Design tool for creators.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/862a0227-4290-4a08-a66b-c920564ccc47_1773223671189.png",
+      "website_url": "https://www.betterani.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-11T10:07:59.010993Z",
+      "updated_at": "2026-03-11T14:03:07.03Z",
+      "category_slugs": [
+        "ai-animation",
+        "ai-anime-ai-art"
+      ]
+    }
+  ]
+}

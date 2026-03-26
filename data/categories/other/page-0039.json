@@ -1,0 +1,1475 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 39,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0040.json",
+    "prev_path": "categories/other/page-0038.json"
+  },
+  "items": [
+    {
+      "id": "ffb535ed-09b3-4c34-b542-df7266e1be08",
+      "name": "Elektrif AI",
+      "slug": "elektrif-ai",
+      "description": "Elektrif.ai",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/ffb535ed-09b3-4c34-b542-df7266e1be08_elektrif_ai.jpeg?",
+      "website_url": "https://www.elektrif.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2eb824c9-acbc-490e-8d69-f6acbc91e76d",
+      "name": "Elektrif AI",
+      "slug": "elektrif-ai-1",
+      "description": "Elektrif.ai",
+      "logo_url": "https://icon.horse/icon/elektrif.ai",
+      "website_url": "https://www.elektrif.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9fc48f58-f73f-4add-9dd6-47dc0a76d9fc",
+      "name": "Elf Help",
+      "slug": "elf-help",
+      "description": "Elf Help",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/9fc48f58-f73f-4add-9dd6-47dc0a76d9fc_elf_help.jpeg?",
+      "website_url": "https://www.elfhelp.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5b77f48b-9c5b-48de-abea-17d27609b915",
+      "name": "Elf Help",
+      "slug": "elf-help-1",
+      "description": "Elf Help",
+      "logo_url": "https://icon.horse/icon/elfhelp.ai",
+      "website_url": "https://www.elfhelp.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "597d8ce7-5a7e-4135-a30d-89d68e628b7b",
+      "name": "Elusidate",
+      "slug": "elusidate",
+      "description": "ElusidateAI",
+      "logo_url": "https://elusidate.app/favicon.ico",
+      "website_url": "https://www.elusidate.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-16T00:00:00Z",
+      "updated_at": "2023-05-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7b69349a-482f-48fa-8d2c-17a716e200ff",
+      "name": "Emergent Drums",
+      "slug": "emergent-drums-1",
+      "description": "Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI",
+      "logo_url": "https://icon.horse/icon/audialab.com",
+      "website_url": "https://audialab.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d19bfed6-0cc5-47f0-97a6-658c1a97420c",
+      "name": "Emergent Drums",
+      "slug": "emergent-drums",
+      "description": "Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/d19bfed6-0cc5-47f0-97a6-658c1a97420c_emergent_drums.jpeg?",
+      "website_url": "https://audialab.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "cfc326fb-d662-419a-a116-a789660a5816",
+      "name": "EmulateMe",
+      "slug": "emulateme",
+      "description": "Almaya - Making forever possible",
+      "logo_url": "https://icons.duckduckgo.com/ip3/almayalife.com.ico",
+      "website_url": "https://www.almayalife.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-06T00:00:00Z",
+      "updated_at": "2023-04-06T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7da126e1-dd80-4351-b7e4-ee8c164f7f17",
+      "name": "Epique AI",
+      "slug": "epique-ai-1",
+      "description": "Epique AI | Epique Cloud",
+      "logo_url": "https://icons.duckduckgo.com/ip3/epique.ai.ico",
+      "website_url": "https://epique.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "af6d08bf-40c4-497e-a784-686cdbf0aeba",
+      "name": "Epique AI",
+      "slug": "epique-ai",
+      "description": "Epique AI | Epique Cloud",
+      "logo_url": "https://icons.duckduckgo.com/ip3/epique.ai.ico",
+      "website_url": "https://epique.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "4aa0f06f-4e5d-4aad-99d8-90dc632a4798",
+      "name": "ErasewatermarkAI",
+      "slug": "erasewatermarkai-111771",
+      "description": "EraseWatermarkAI is an AI-powered online tool that removes unwanted watermarks from photos and videos in seconds.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e627e9ff-547a-4830-8d05-9432136da342_1762314109368.jpeg",
+      "website_url": "https://erasewatermark.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-05T03:41:52.206552Z",
+      "updated_at": "2025-11-07T11:28:16.513Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "23b2f5c0-6058-495f-ab15-e6928f659c5e",
+      "name": "Ermine",
+      "slug": "ermine",
+      "description": "\u003cdiv class=\"css-qz6wej\"\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003ch2 class=\"MuiTypography-root MuiTypography-body2 DMSans css-1vn6t3q\"\u003eErmine Features\u003c/h2\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003cdiv\u003e\r\n\u003cp class=\"MuiTypography-root MuiTypography-body1 css-gy2lsd\"\u003e\u003cstrong\u003eErmine.ai\u003c/strong\u003e is an AI-powered tool that allows users to transcribe audio recordings directly from their device's microphone. The tool stands out by offering 100% local/client-side processing, \u003cem\u003eensuring privacy and data security\u003c...",
+      "logo_url": "https://ermine.ai/favicon.ico",
+      "website_url": "https://www.ermine.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-audio-editing",
+        "ai-data-analysis",
+        "ai-data-collection",
+        "ai-data-visualization",
+        "ai-security-tools",
+        "business",
+        "other",
+        "voice"
+      ]
+    },
+    {
+      "id": "ccd49840-3d26-48e7-9f93-bc8a2edf87d4",
+      "name": "Escape",
+      "slug": "escape",
+      "description": "Escape - GraphQL Security",
+      "logo_url": "https://icons.duckduckgo.com/ip3/escape.tech.ico",
+      "website_url": "https://escape.tech/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-19T00:00:00Z",
+      "updated_at": "2023-05-19T00:00:00Z",
+      "category_slugs": [
+        "ai-security-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "decbdade-a87c-4ad2-ac8a-040c8c4100eb",
+      "name": "Eto News",
+      "slug": "eto-news",
+      "description": "Eto News | Substack",
+      "logo_url": "https://eto.news/favicon.ico",
+      "website_url": "https://eto.news",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-08T00:00:00Z",
+      "updated_at": "2023-06-08T00:00:00Z",
+      "category_slugs": [
+        "ai-news-aggregation",
+        "other"
+      ]
+    },
+    {
+      "id": "7968f274-a1c6-4fb5-903f-e6f33a208257",
+      "name": "Evaligo",
+      "slug": "evaligo-992233",
+      "description": "Optimize your prompts for cost, accuracy, and speed—no code required.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/a49b27aa-7031-457d-88f6-59d808fe99f0_1759999987749.png",
+      "website_url": "https://www.evaligo.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-09T08:53:12.636682Z",
+      "updated_at": "2025-10-10T12:49:02.83Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "50b6abce-2608-44ae-9dbb-99910f7bdb62",
+      "name": "Evoke",
+      "slug": "evoke-1",
+      "description": "Run AI models with our cloud API - Evoke",
+      "logo_url": "https://icon.horse/icon/evoke-app.com",
+      "website_url": "https://evoke-app.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c4470b8c-00c8-48ee-8c89-7fbf4b868998",
+      "name": "Evoke",
+      "slug": "evoke",
+      "description": "Run AI models with our cloud API - Evoke",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/c4470b8c-00c8-48ee-8c89-7fbf4b868998_evoke.jpeg?",
+      "website_url": "https://evoke-app.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8f820eee-2589-4f48-83a3-0ce53f722b7c",
+      "name": "Evolia Protocol",
+      "slug": "evolia-protocol",
+      "description": "Evolia Protocol",
+      "logo_url": "https://icon.horse/icon/evoliaprotocol.net",
+      "website_url": "https://www.evoliaprotocol.net",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-13T00:00:00Z",
+      "updated_at": "2023-06-13T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "dd31b42c-1439-4d11-ac7f-24182bbeca8e",
+      "name": "Excelmatic",
+      "slug": "excelmatic",
+      "description": "Ask Excel questions in plain English and get instant formulas, charts, and insights.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1f61c384-d543-4f0d-ab6f-126620bc4714_1769075725099.png",
+      "website_url": "https://excelmatic.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-22T09:55:27.832624Z",
+      "updated_at": "2026-01-23T14:22:13.545Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b68c6da6-f58f-48d7-8b26-63ce8ad77490",
+      "name": "Excelmatic.ai",
+      "slug": "excelmatic-ai",
+      "description": "Excelmatic.ai is an AI-powered Excel workflow automation tool that helps users simplify data analysis and report generation.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8a418c23-3c5c-4cc7-a1e1-905fd0987dad_1769771438450.png",
+      "website_url": "https://excelmatic.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-30T11:10:43.72216Z",
+      "updated_at": "2026-02-04T09:58:02.678Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0f4bb4f3-7587-453c-96e5-16db1fa3cbfd",
+      "name": "Existential",
+      "slug": "existential",
+      "description": "Existential – Find your true calling",
+      "logo_url": "https://icons.duckduckgo.com/ip3/getexistential.com.ico",
+      "website_url": "https://getexistential.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-04T00:00:00Z",
+      "updated_at": "2023-06-05T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9a4d4657-c84d-4e58-8799-7a4e739a8374",
+      "name": "Exo",
+      "slug": "exo",
+      "logo_url": "https://icon.horse/icon/getexo.dev",
+      "website_url": "https://www.getexo.dev",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a39dc66b-6a8b-4949-9399-e56b4cac6781",
+      "name": "ExperAI",
+      "slug": "experai",
+      "description": "ExperAI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/a39dc66b-6a8b-4949-9399-e56b4cac6781_experai.jpeg?",
+      "website_url": "https://www.experai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0b8f075e-3e68-435c-87cd-c7e8ae673125",
+      "name": "ExperAI",
+      "slug": "experai-1",
+      "description": "ExperAI",
+      "logo_url": "https://experai.com/favicon.ico",
+      "website_url": "https://www.experai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "737b935a-65be-4df5-b1c5-a840b5d96bcf",
+      "name": "ExplainPaper",
+      "slug": "explainpaper-1",
+      "description": "Explainpaper",
+      "logo_url": "https://explainpaper.com/favicon.ico",
+      "website_url": "https://www.explainpaper.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "bfaeb4bf-d1a1-4d20-bdad-b93178ad14bd",
+      "name": "ExplainPaper",
+      "slug": "explainpaper",
+      "description": "Explainpaper",
+      "logo_url": "https://explainpaper.com/favicon.ico",
+      "website_url": "https://www.explainpaper.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "64f8ef9a-e0c6-401b-bb23-cce762b93cdd",
+      "name": "ExplainThis",
+      "slug": "explainthis",
+      "description": "ExplainThis.AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/64f8ef9a-e0c6-401b-bb23-cce762b93cdd_explainthis.jpeg?",
+      "website_url": "https://explainthis.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c9f411ae-c3c2-4437-8dde-db2abb31e04c",
+      "name": "ExplainThis",
+      "slug": "explainthis-1",
+      "description": "ExplainThis.AI",
+      "logo_url": "https://icon.horse/icon/explainthis.ai",
+      "website_url": "https://explainthis.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ffd6b8d3-07cf-465e-8204-1d813e559e0d",
+      "name": "Eye for AI",
+      "slug": "eye-for-ai-1",
+      "description": "Eye for AI - Eye for AI",
+      "logo_url": "https://eyeforai.xyz/favicon.ico",
+      "website_url": "https://eyeforai.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5968d92c-30c6-4cf6-aa24-77626b068783",
+      "name": "Eye for AI",
+      "slug": "eye-for-ai",
+      "description": "Eye for AI - Eye for AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/5968d92c-30c6-4cf6-aa24-77626b068783_eye_for_ai.jpeg?",
+      "website_url": "https://eyeforai.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "1f0d5dcf-6031-49cc-a6f1-44c0e439cf59",
+      "name": "FGenEds",
+      "slug": "fgeneds-1",
+      "description": "FGenEds | Turn Lecture Slides to Cheat Sheets",
+      "logo_url": "https://fgeneds.com/favicon.ico",
+      "website_url": "https://fgeneds.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ac147b2e-38b0-4ef1-953d-0414126022c9",
+      "name": "FGenEds",
+      "slug": "fgeneds",
+      "description": "FGenEds | Turn Lecture Slides to Cheat Sheets",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/ac147b2e-38b0-4ef1-953d-0414126022c9_fgeneds.jpeg?",
+      "website_url": "https://fgeneds.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "66ce799c-bb74-4724-89a1-557727d63731",
+      "name": "FREE OCR AI",
+      "slug": "free-ocr-ai",
+      "description": "Batch OCR tool to extract text from multiple images online",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/b8eb1c11-a7a0-4b49-9d2d-a6602b4f6d89_1770372606875.png",
+      "website_url": "https://www.freeocrai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-06T10:10:12.903263Z",
+      "updated_at": "2026-02-06T11:28:48.803Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "212e09c0-43c1-426d-b594-65eb65717ee7",
+      "name": "Face26",
+      "slug": "face26",
+      "description": "Face26 is an AI-powered photo enhancer that offers a suite of tools for improving image quality. Features include unblurring photos, adding color to black and white images, photo restoration, upscaling images to HD without quality loss, enhancing image quality, transforming drawings into photo-realistic images, and animating photos. While basic features are available for free, Pro features require purchasing credits, with packages starting at $9.99 for 10 credits. The credits system allows fo...",
+      "logo_url": "https://face26.com/favicon.ico",
+      "website_url": "https://face26.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-02T00:00:00Z",
+      "updated_at": "2024-02-26T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-color-palette-generator",
+        "ai-image-enhancer",
+        "ai-photo-image-generator",
+        "ai-real-estate-tools",
+        "design-art",
+        "image",
+        "other",
+        "photo-image-editor"
+      ]
+    },
+    {
+      "id": "c62c340b-a2c9-471f-9a08-6ce6d3757ae0",
+      "name": "FaceCall",
+      "slug": "facecall",
+      "description": "First Video Caller ID App to personalize your calls with AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/a7d1c8c2-d228-4871-b369-a7577290f1ee_1764586422321.PNG",
+      "website_url": "https://facecall.com/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-01T08:31:16.103356Z",
+      "updated_at": "2025-12-01T10:53:43.138Z",
+      "category_slugs": [
+        "other",
+        "recording"
+      ]
+    },
+    {
+      "id": "8af792b8-31f6-4a76-a57d-9aafab8f219e",
+      "name": "Faceless.video",
+      "slug": "faceless-video-644776",
+      "description": "Create your own faceless channel in 3 clicks. Faceless.video writes, edits, and posts videos for you every day, fully on autopilot.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e9e0f29b-d4be-467e-92d3-5fab059ff685_1755440641573.png",
+      "website_url": "https://faceless.video/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-17T14:24:05.701087Z",
+      "updated_at": "2025-08-18T10:37:42.644Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c886b33c-c5c5-4a72-a6a6-9ae06af137af",
+      "name": "Facial Assessment Tool",
+      "slug": "facial-assessment-tool",
+      "description": "Tools To Improve Your Looks | QOVES",
+      "logo_url": "https://qoves.com/favicon.ico",
+      "website_url": "https://qoves.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-student-assessment",
+        "ai-study-tools",
+        "education",
+        "other"
+      ]
+    },
+    {
+      "id": "0082f9d7-d34e-4f1e-9bfb-d0f892787e9d",
+      "name": "Fama.one",
+      "slug": "fama-one",
+      "description": "Fama.one",
+      "logo_url": "https://icon.horse/icon/fama.one",
+      "website_url": "https://fama.one",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-15T00:00:00Z",
+      "updated_at": "2023-06-15T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "cc831323-39b4-4953-9c91-6866eefdb835",
+      "name": "Fantasy.ai",
+      "slug": "fantasy-ai",
+      "description": "Fantasy.ai",
+      "logo_url": "https://fantasy.ai/favicon.ico",
+      "website_url": "https://fantasy.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-30T00:00:00Z",
+      "updated_at": "2023-04-30T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "917933ed-16a8-4af5-b0f0-0a42c9039f9e",
+      "name": "Fast Image AI",
+      "slug": "fast-image-ai-008580",
+      "description": "Free Online Convert Image to Any Style",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/291b810d-15ce-4a02-a510-060696451691_1773831003168.png",
+      "website_url": "https://fastimage.ai/ai-headshot-generator",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-18T10:50:07.274823Z",
+      "updated_at": "2026-03-18T11:57:01.459Z",
+      "category_slugs": [
+        "image",
+        "image-to-image",
+        "other"
+      ]
+    },
+    {
+      "id": "6ffd5e83-0858-4a1c-8ade-ea61451102d1",
+      "name": "Felvin",
+      "slug": "felvin",
+      "description": "Felvin",
+      "logo_url": "https://icon.horse/icon/felvin.com",
+      "website_url": "https://felvin.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e9fd9f6c-45a8-4ce9-adba-c6413ca95985",
+      "name": "Felvin",
+      "slug": "felvin-1",
+      "description": "Felvin",
+      "logo_url": "https://icon.horse/icon/felvin.com",
+      "website_url": "https://felvin.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "deb1dc97-ba44-4298-9a84-2a8c1c6d7168",
+      "name": "Fermi Dev",
+      "slug": "fermi-dev",
+      "description": "Fermi Dev is the AI Operational Brain for Modern Enterprises. Connect your systems, build dynamic models, and automate business processes and operations with intelligent agents.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/189fe6d6-2184-468c-8f41-03a3d6126dcf_1765868818476.png",
+      "website_url": "https://www.fermi.dev/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-16T07:07:09.005628Z",
+      "updated_at": "2025-12-22T12:16:40.348Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a71ac22a-747d-4dd9-a32b-6a50ed38de90",
+      "name": "Feyn",
+      "slug": "feyn",
+      "description": "feyn",
+      "logo_url": "https://icon.horse/icon/feyn.ai",
+      "website_url": "https://www.feyn.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-15T00:00:00Z",
+      "updated_at": "2023-05-15T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c6359019-0ce0-49b4-84e5-ce9660ae96a3",
+      "name": "FileGPT",
+      "slug": "filegpt",
+      "description": "FileGPT - The Most Powerful GPT-AI for your custom knowledge base",
+      "logo_url": "https://filegpt.app/favicon.ico",
+      "website_url": "https://filegpt.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-01T00:00:00Z",
+      "updated_at": "2023-06-01T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "fe240c04-eddf-425f-8118-4457906c750e",
+      "name": "Findsight AI",
+      "slug": "findsight-ai",
+      "description": "Findsight AI",
+      "logo_url": "https://icon.horse/icon/findsight.ai",
+      "website_url": "https://findsight.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9ba99d90-4eb1-4112-89cb-9420f8bd2167",
+      "name": "Fine Tuner AI",
+      "slug": "fine-tuner-ai",
+      "description": "Fine-Tuner.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fine-tuner.ai.ico",
+      "website_url": "https://fine-tuner.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-08T00:00:00Z",
+      "updated_at": "2023-05-08T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c009d4fd-6b8a-4e2f-bf4f-b62c764d2198",
+      "name": "Finsheet",
+      "slug": "finsheet-1",
+      "description": "Finsheet | Stock Price in Excel and Google Sheets",
+      "logo_url": "https://icons.duckduckgo.com/ip3/finsheet.io.ico",
+      "website_url": "https://finsheet.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c7234922-e407-419c-8f40-f7ddc25cc477",
+      "name": "Finsheet",
+      "slug": "finsheet",
+      "description": "Finsheet | Stock Price in Excel and Google Sheets",
+      "logo_url": "https://icons.duckduckgo.com/ip3/finsheet.io.ico",
+      "website_url": "https://finsheet.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e9895e72-a8ad-4276-b107-12034698981a",
+      "name": "FitForge",
+      "slug": "fitforge",
+      "description": "FitForge",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fitforge.me.ico",
+      "website_url": "https://fitforge.me",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-17T00:00:00Z",
+      "updated_at": "2023-04-17T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "244816a6-dd8a-4fcf-89b1-01bd78929e3d",
+      "name": "Flair AI",
+      "slug": "flair-ai",
+      "description": "Flair",
+      "logo_url": "https://icons.duckduckgo.com/ip3/flair.ai.ico",
+      "website_url": "https://flair.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "697605ad-946a-49b9-91fa-ec4a4d3a9c8e",
+      "name": "Flawless AI",
+      "slug": "flawless-ai",
+      "description": "Flawless - Bringing Generative AI to Hollywood",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/697605ad-946a-49b9-91fa-ec4a4d3a9c8e_flawless_ai.jpeg?",
+      "website_url": "https://www.flawlessai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d20fb566-2cce-43d3-a0de-18618f2b3d50",
+      "name": "Flawless AI",
+      "slug": "flawless-ai-1",
+      "description": "Flawless - Bringing Generative AI to Hollywood",
+      "logo_url": "https://flawlessai.com/favicon.ico",
+      "website_url": "https://www.flawlessai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e0d72e98-6526-4b15-8233-665fdcb3873a",
+      "name": "Flight Path",
+      "slug": "flight-path",
+      "description": "Flight Path - Tweet scheduling for twitter growth",
+      "logo_url": "https://icon.horse/icon/flight-path.io",
+      "website_url": "https://flight-path.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-16T00:00:00Z",
+      "updated_at": "2023-04-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "73531cab-507a-4733-a050-61e6b05ca3db",
+      "name": "Flippit",
+      "slug": "flippit",
+      "description": "Flippit",
+      "logo_url": "https://icon.horse/icon/flippit.ai",
+      "website_url": "https://www.flippit.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-12T00:00:00Z",
+      "updated_at": "2023-05-12T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "fe81cd96-3988-45e0-872c-01549018b787",
+      "name": "FlowEngine",
+      "slug": "flowengine",
+      "description": "n8n made easy- deploy AI flows in seconds",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/776ff182-d18a-480f-b5cd-89b6d4dec590_1765975061681.PNG",
+      "website_url": "https://flowengine.cloud/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-16T13:39:58.734974Z",
+      "updated_at": "2025-12-17T12:37:43.1Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0ec8db68-e362-4374-9e10-1cbbd72df9dd",
+      "name": "Flowshot",
+      "slug": "flowshot-1",
+      "description": "Flowshot — Google Sheets AI Plugin | AI Formulas",
+      "logo_url": "https://icons.duckduckgo.com/ip3/flowshot.ai.ico",
+      "website_url": "https://flowshot.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "74959ebf-1f69-4950-9c7b-f3a89f9f5509",
+      "name": "Flowshot",
+      "slug": "flowshot",
+      "description": "Flowshot — Google Sheets AI Plugin | AI Formulas",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/74959ebf-1f69-4950-9c7b-f3a89f9f5509_flowshot.jpeg?",
+      "website_url": "https://flowshot.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "4591d94b-cefa-49a9-a481-68d22f3fcd8a",
+      "name": "FluentDictation",
+      "slug": "fluentdictation",
+      "description": "YouTube Dictation - Practice English Dictation with YouTube Videos Online",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/286b52ac-0ad5-4daa-905d-4d3e5144386a_1769595503085.png",
+      "website_url": "https://fluentdictation.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-28T10:18:28.184636Z",
+      "updated_at": "2026-01-28T14:56:00.991Z",
+      "category_slugs": [
+        "ai-language-learning",
+        "other"
+      ]
+    },
+    {
+      "id": "2ecff4cf-28bc-4e7f-92df-f2cc22a88db5",
+      "name": "Fluentify",
+      "slug": "fluentify",
+      "description": "Fluentify",
+      "logo_url": "https://icon.horse/icon/fluentify.io",
+      "website_url": "http://www.fluentify.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "518c37b2-9160-4102-9aed-aeef66821344",
+      "name": "Fluentify",
+      "slug": "fluentify-1",
+      "description": "Fluentify",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fluentify.io.ico",
+      "website_url": "http://www.fluentify.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6451eeee-2897-4c23-95ed-0fbcc7406bdb",
+      "name": "Fluents",
+      "slug": "fluents-760444",
+      "description": "Fluents.ai is a unified AI voice agent platform that automates inbound and outbound calls, web conversations, and integrations. It replaces call centers and answering services with natural-sounding AI agents that set up in minutes, scale instantly, and adapt to any workflow.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/14ee553f-6750-43f8-8f16-2d1f983a90cb_1757476757187.png",
+      "website_url": "https://fluents.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-10T03:59:21.759332Z",
+      "updated_at": "2025-09-10T12:37:01.216Z",
+      "category_slugs": [
+        "other",
+        "video",
+        "voice"
+      ]
+    },
+    {
+      "id": "1f8a20f4-288c-40bd-8880-9f61abde77fc",
+      "name": "Fobizz",
+      "slug": "fobizz-1",
+      "description": "fobizz tools | Digitale Tools für Unterricht und Schule",
+      "logo_url": "https://tools.fobizz.com/favicon.ico",
+      "website_url": "https://tools.fobizz.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-digital-marketing",
+        "marketing",
+        "other"
+      ]
+    },
+    {
+      "id": "f7a4d35e-fa8e-47b2-88d8-78037d78c4b1",
+      "name": "Fobizz",
+      "slug": "fobizz",
+      "description": "fobizz tools | Digitale Tools für Unterricht und Schule",
+      "logo_url": "https://tools.fobizz.com/favicon.ico",
+      "website_url": "https://tools.fobizz.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-digital-marketing",
+        "marketing",
+        "other"
+      ]
+    },
+    {
+      "id": "cc6e19e7-5a6a-454f-a2d9-399dbf2c84dc",
+      "name": "Food for Blood Pressure",
+      "slug": "food-for-blood-pressure",
+      "description": "Food for Blood Pressure",
+      "logo_url": "https://icon.horse/icon/foodforbp.com",
+      "website_url": "https://foodforbp.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-20T00:00:00Z",
+      "updated_at": "2023-05-20T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "fea11261-b663-497b-a41c-82dcdb48ee8f",
+      "name": "FormWise.AI",
+      "slug": "formwise-ai",
+      "description": "FormWise - Create AI tools with your favorite GPT prompts for your end users.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/formwise.ai.ico",
+      "website_url": "https://www.formwise.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-02T00:00:00Z",
+      "updated_at": "2023-04-02T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-prompt-generator",
+        "ai-prompt-optimization",
+        "ai-prompt-repository",
+        "other",
+        "prompt"
+      ]
+    },
+    {
+      "id": "fb0a6921-a279-4d44-9d25-b2b7ef480c4b",
+      "name": "Free AI Beauty Test: Get Your Precise Beauty Rating Instantly",
+      "slug": "free-ai-beauty-test-get-your-precise-beauty-rating-instantly",
+      "description": "Our advanced AI Beauty Rating tool analyzes your facial features and provides a detailed attractiveness score and Normality Percentage. 100% free, private, and accurate.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/f34e4f66-7c4f-4aeb-b6d5-186731f44356_1746514968311.png",
+      "website_url": "https://aibeautytest.org/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-05-06T07:02:55.487889Z",
+      "updated_at": "2025-05-06T11:53:18.095Z",
+      "category_slugs": [
+        "ai-joke",
+        "other"
+      ]
+    },
+    {
+      "id": "58e19c20-e660-4ca1-81ca-c1ac8afcfef0",
+      "name": "Free AI Logo Remover-LogoRemover AI (no sign-up)",
+      "slug": "free-ai-logo-remover-logoremover-ai-no-sign-up-826831",
+      "description": "LogoRemover AI lets content creators easily remove logos and watermarks from their images, saving time and avoiding expensive editing services.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/651a3c65-329e-4269-8f70-de11a63fad3f_1760698821370.png",
+      "website_url": "https://logoremover.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-17T11:00:27.087934Z",
+      "updated_at": "2025-10-20T15:01:30.99Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8e243249-6168-4d88-a80e-543673fb891e",
+      "name": "Free Background Remover",
+      "slug": "free-background-remover-451954",
+      "description": "AI-powered background removal tool. Free, fast, and no watermark.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/262e7bad-9e1d-45cb-bbe1-2c47e12f7285_1760500448460.png",
+      "website_url": "https://freebackgroundremover.net/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-15T03:54:12.416704Z",
+      "updated_at": "2025-10-15T10:37:18.1Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4690c3bb-5095-46b8-8187-14c23cff2e91",
+      "name": "FreeAiKit",
+      "slug": "freeaikit",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/4690c3bb-5095-46b8-8187-14c23cff2e91_freeaikit.jpg?",
+      "website_url": "https://freeaikit.tech/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-08-01T00:00:00Z",
+      "updated_at": "2023-08-01T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2c7fdd2e-8250-4005-a8b2-77d922994c1c",
+      "name": "FreePlanTour",
+      "slug": "freeplantour",
+      "logo_url": "https://freeplantour.com/favicon.ico",
+      "website_url": "https://www.freeplantour.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-19T00:00:00Z",
+      "updated_at": "2023-04-19T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "821543b1-8adb-4657-97d3-3a7f5b10648b",
+      "name": "Frequently.AI",
+      "slug": "frequently-ai",
+      "description": "Frequently Ai - Answering Your Frequently Asked Amazon Questions",
+      "logo_url": "https://icon.horse/icon/frequently.ai",
+      "website_url": "https://www.frequently.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-14T00:00:00Z",
+      "updated_at": "2023-04-14T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    }
+  ]
+}

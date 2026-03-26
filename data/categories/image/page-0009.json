@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 9,
+    "page_size": 72,
+    "total_items": 582,
+    "total_pages": 9,
+    "prev_path": "categories/image/page-0008.json"
+  },
+  "items": [
+    {
+      "id": "16929ca1-853b-4b4b-825c-fae78379a3ac",
+      "name": "photobackgroundchange.net",
+      "slug": "photobackgroundchange-net",
+      "description": "AI photo editor",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/747896e5-ec10-4cb1-94bf-467e9a5d9e2f_1750074383165.png",
+      "website_url": "https://photobackgroundchange.net/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-16T11:46:30.004652Z",
+      "updated_at": "2025-06-20T08:42:51.427Z",
+      "category_slugs": [
+        "image"
+      ]
+    },
+    {
+      "id": "bc43f181-0433-406e-877e-0e887fd66622",
+      "name": "stampdy",
+      "slug": "stampdy",
+      "description": "Free Online Stamp Maker Create — StampDy",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/31fdaaf4-4067-4d38-a789-26232ffebb9d_1755328127933.png",
+      "website_url": "https://stampdy.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-16T07:08:53.319736Z",
+      "updated_at": "2025-09-15T09:18:19.428Z",
+      "category_slugs": [
+        "design-assistant",
+        "image"
+      ]
+    },
+    {
+      "id": "fd3d3d89-4cd5-43ea-998e-1cb269051ccf",
+      "name": "text remover",
+      "slug": "text-remover",
+      "description": "AI-Powered Image Text Removal Tool",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5f1a3ba5-fb0f-4eed-b75c-eb2b9a91e819_1753256933909.ico",
+      "website_url": "https://text-remover.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-23T07:49:03.851504Z",
+      "updated_at": "2025-07-25T18:33:45.286Z",
+      "category_slugs": [
+        "ai-image-scanning",
+        "ai-image-segmentation",
+        "image"
+      ]
+    },
+    {
+      "id": "9d77bf2e-56dc-4126-8956-24f62bc9ff65",
+      "name": "text remover",
+      "slug": "text-remover-956141",
+      "description": "AI-Powered Image Text Removal Tool",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5f1a3ba5-fb0f-4eed-b75c-eb2b9a91e819_1753256950757.ico",
+      "website_url": "https://text-remover.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-23T07:49:17.483332Z",
+      "updated_at": "2025-07-25T09:56:50.969Z",
+      "category_slugs": [
+        "ai-image-scanning",
+        "ai-image-segmentation",
+        "image"
+      ]
+    },
+    {
+      "id": "44c3fea5-0b6d-4d0b-b122-57189855b8e2",
+      "name": "vidbump",
+      "slug": "vidbump",
+      "description": "AI-powered tool for creating stunning images and videos in seconds.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/eb41d506-9040-4efb-be5f-3f11abd42109_1773122765941.png",
+      "website_url": "https://vidbump.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-10T06:06:13.98637Z",
+      "updated_at": "2026-03-11T08:58:53.483Z",
+      "category_slugs": [
+        "image",
+        "text-to-image"
+      ]
+    },
+    {
+      "id": "10e078cd-2fec-4d29-8aec-9a26a5a1dc0d",
+      "name": "z-image.me",
+      "slug": "z-image-me",
+      "description": "A free-to-use, unlimited-access online AI image generator with no mandatory paid tiers, featuring a free library of nearly 1000 ready-to-use prompts and an exclusive free AI prompt creativity assistant tool for visual content creation.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/f9db33ca-c6e2-4dbf-9006-37a885d9fd1d_1767063237451.png",
+      "website_url": "https://z-image.me/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-30T02:54:03.645616Z",
+      "updated_at": "2025-12-30T19:45:58.26Z",
+      "category_slugs": [
+        "image"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 1,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "35eb3dfe-0b94-4168-9c67-f15f5d478a28",
+      "name": "TaxLens",
+      "slug": "taxlens",
+      "description": "AI receipt scanner that finds your tax deductions instantly",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1da0a273-621a-4c0d-9f29-17ae5c960294_1773377654996.jpg",
+      "website_url": "https://taxlensapp.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-13T04:54:25.929139Z",
+      "updated_at": "2026-03-16T17:29:03.159Z",
+      "category_slugs": [
+        "ai-tax-assistant"
+      ]
+    }
+  ]
+}

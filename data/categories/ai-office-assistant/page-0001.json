@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "ce9f5341-0699-4975-b68d-f2291422a467",
+      "name": "AI Office Bot",
+      "slug": "ai-office-bot",
+      "description": "AI Office Bot",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/ce9f5341-0699-4975-b68d-f2291422a467_ai_office_bot.jpeg?",
+      "website_url": "https://aiofficebot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-office-assistant",
+        "business"
+      ]
+    },
+    {
+      "id": "c8bf43db-7c70-4c23-ac18-84f67893be8c",
+      "name": "AI Office Bot",
+      "slug": "ai-office-bot-1",
+      "description": "AI Office Bot",
+      "logo_url": "https://icons.duckduckgo.com/ip3/aiofficebot.com.ico",
+      "website_url": "https://aiofficebot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-office-assistant",
+        "business"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 4,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "21627656-0392-4ead-803b-38e8ab61d14c",
+      "name": "Patternaly",
+      "slug": "patternaly",
+      "description": "Free AI pattern generator for seamless designs. No design skills needed.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/0046e879-2da2-4a95-a602-190a1fceffdb_1766047579824.png",
+      "website_url": "https://patternaly.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-18T08:46:31.826271Z",
+      "updated_at": "2025-12-22T11:50:51.177Z",
+      "category_slugs": [
+        "ai-pattern-design",
+        "other"
+      ]
+    },
+    {
+      "id": "7234c6ec-f8c6-45b4-9770-bbad4edd57de",
+      "name": "Patterned AI",
+      "slug": "patterned-ai-1",
+      "description": "PatternedAI - Seamless Pattern Maker with Artificial Intelligence",
+      "logo_url": "https://patterned.ai/favicon.ico",
+      "website_url": "http://patterned.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-pattern-design",
+        "ai-thumbnail-maker",
+        "design-art",
+        "video"
+      ]
+    },
+    {
+      "id": "c2aaa375-5c47-4d96-ac6e-903e19c812c3",
+      "name": "Patterned AI",
+      "slug": "patterned-ai",
+      "description": "PatternedAI - Seamless Pattern Maker with Artificial Intelligence",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/c2aaa375-5c47-4d96-ac6e-903e19c812c3_patterned_ai.jpeg?",
+      "website_url": "http://patterned.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-pattern-design",
+        "ai-thumbnail-maker",
+        "design-art",
+        "video"
+      ]
+    },
+    {
+      "id": "48753927-a79c-4481-b89e-edd4ab6f799b",
+      "name": "Type Whisperer",
+      "slug": "type-whisperer",
+      "description": "Are you interested in the MBTI (Myers-Briggs Type Indicator)? If so, we have some exciting news to share with you! We've developed a unique platform that harnesses the power of advanced AI to predict your MBTI personality type based on text you input!\r\n\r\nOur web application takes in your dialogue and sends it through an intelligent system. This system has been designed to examine your expressions, cognitive patterns, and language use to speculate your MBTI type! Isn't that cool?\r\n\r\nWe've desi...",
+      "logo_url": "https://icons.duckduckgo.com/ip3/typewhisperer.com.ico",
+      "website_url": "https://typewhisperer.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-07T00:00:00Z",
+      "updated_at": "2023-06-08T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-architecture-design",
+        "ai-blog-writer",
+        "ai-exam-preparation",
+        "ai-language-translation",
+        "ai-pattern-design",
+        "ai-stem-education",
+        "design-art",
+        "education",
+        "text-writing"
+      ]
+    }
+  ]
+}

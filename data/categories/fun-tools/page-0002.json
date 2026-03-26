@@ -1,0 +1,262 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 84,
+    "total_pages": 2,
+    "prev_path": "categories/fun-tools/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "23eca4ed-5f2e-4653-b9a8-0629c41da246",
+      "name": "AI Beauty Rating",
+      "slug": "ai-beauty-rating",
+      "description": "Discover your beauty score instantly! Our free Beauty Score AI analyzes your face and reveals your attractiveness rating in seconds.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d0602d8f-7f5f-46bd-879e-ce2ef7ce2237_1753781403746.png",
+      "website_url": "https://www.aibeautyrating.online/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-29T09:30:10.259842Z",
+      "updated_at": "2025-07-30T09:35:24.372Z",
+      "category_slugs": [
+        "fun-tools",
+        "image"
+      ]
+    },
+    {
+      "id": "ffc63e62-0a2d-4ff3-ad3b-ef0c099ae158",
+      "name": "Clothes Swap AI",
+      "slug": "clothes-swap-ai-244024",
+      "description": "Virtually swap outfits in your photos with endless possibilities! Try on dresses",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/a99bb877-27bd-4b26-9f48-fc1cb8462630_1752377240306.png",
+      "website_url": "https://clothesswap.io/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-13T03:27:24.974401Z",
+      "updated_at": "2025-07-14T08:55:05.339Z",
+      "category_slugs": [
+        "fun-tools",
+        "image"
+      ]
+    },
+    {
+      "id": "98c422f1-6827-4e2e-a422-e3cb60891103",
+      "name": "GTA AI",
+      "slug": "gta-ai-505556",
+      "description": "GTA AI - Convert Your Photos to Stunning GTA Style Artwork",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/17b03ce3-2561-4efa-8e45-fa434cebcdbd_1757819500232.png",
+      "website_url": "https://gtaai.app/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-14T03:11:45.875366Z",
+      "updated_at": "2025-09-22T12:45:53.004Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "fun-tools"
+      ]
+    },
+    {
+      "id": "d2fccc60-955f-49d3-8581-fde346d7965f",
+      "name": "Gamertag Generator",
+      "slug": "gamertag-generator",
+      "description": "Gamertag Generator - Create Your Perfect Gamertag for Free",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/17b03ce3-2561-4efa-8e45-fa434cebcdbd_1756697300998.jpg",
+      "website_url": "https://gamertag-generator.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-09-01T03:28:27.049796Z",
+      "updated_at": "2025-09-01T15:12:34.988Z",
+      "category_slugs": [
+        "fun-tools",
+        "game"
+      ]
+    },
+    {
+      "id": "1ae16c25-201e-476b-8d23-e38084c7b197",
+      "name": "HEIC TO PDF",
+      "slug": "heic-to-pdf",
+      "description": "One-Click Image-to-PDF Converter: HEIC, PNG, JPG, SVG \u0026 More",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/cf01ba7c-11be-49e1-ae1e-1f377c0aa5d6_1753265950359.png",
+      "website_url": "https://heictopdftools.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-23T10:19:17.416791Z",
+      "updated_at": "2025-07-25T18:33:00.342Z",
+      "category_slugs": [
+        "fun-tools"
+      ]
+    },
+    {
+      "id": "5c31c725-4ab5-492f-bf50-ca681e3bf2cc",
+      "name": "How Old Do I Look",
+      "slug": "how-old-do-i-look-060186",
+      "description": "An online tool that uses AI to analyze your photo and estimate your apparent age instantly.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/7fad5288-4b86-4e99-b1b7-5e822ffd7078_1753468554648.png",
+      "website_url": "https://how-old-do-i-look.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-21T08:54:20.97476Z",
+      "updated_at": "2025-07-25T18:36:10.136Z",
+      "category_slugs": [
+        "ai-image-scanning",
+        "fun-tools",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "aee9a271-a4a4-425d-9b44-774b06ce3246",
+      "name": "Mew Design",
+      "slug": "mew-design-888822",
+      "description": "A barrier-free and fully modifiable AI agent graphic design platform",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/70aff056-ce9e-4b76-a10c-10a0361702bf_1752240883209.jpg",
+      "website_url": "https://mew.design",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-07-11T13:34:49.889582Z",
+      "updated_at": "2025-07-17T17:42:29.48Z",
+      "category_slugs": [
+        "ai-design-generator",
+        "design-art",
+        "fun-tools"
+      ]
+    },
+    {
+      "id": "8d308981-4975-4cf7-81d9-d1ecf5204ee5",
+      "name": "MindTrial",
+      "slug": "mindtrial",
+      "description": "Evaluate and compare AI language models (LLMs) on text-based tasks with optional file/image attachments. Supports multiple providers (OpenAI, Google, Anthropic, DeepSeek), custom tasks in YAML, and HTML/CSV reports.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/be3f9c9e-3566-43d5-a38b-92af3ac4e5a5_1746140436445.png",
+      "website_url": "https://github.com/petmal/MindTrial",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-05-01T23:00:40.673911Z",
+      "updated_at": "2025-05-02T14:17:15.522Z",
+      "category_slugs": [
+        "ai-developer-tools",
+        "fun-tools",
+        "large-language-models-(llms)",
+        "other",
+        "research-tool"
+      ]
+    },
+    {
+      "id": "afe1799c-3ff2-4c87-b90a-1130f80eb52d",
+      "name": "Superhero Name Generator",
+      "slug": "superhero-name-generator",
+      "description": "Instantly generate unique superhero names and compelling origin stories. Discover a complete identity for your next hero in a single click.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/1968f72e-4fcf-4207-bc62-ee3f57e88de0_1756284169805.png",
+      "website_url": "https://superheroname.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-27T08:42:55.775946Z",
+      "updated_at": "2025-08-27T10:52:37.333Z",
+      "category_slugs": [
+        "fun-tools",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "f9c9e498-37e9-4340-ab79-b30f27aee5ab",
+      "name": "YouTubetoMP4",
+      "slug": "youtubetomp4",
+      "description": "Easily convert YouTube videos to high-quality MP4 and MP3 files online. Free, fast, and no software installation required.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4dc71018-73c9-44f0-9462-7558400f6786_1755162814517.jpg",
+      "website_url": "https://youtubetomp4.pro/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-14T09:13:42.519426Z",
+      "updated_at": "2025-08-14T18:26:34.066Z",
+      "category_slugs": [
+        "ai-youtube-assistant",
+        "fun-tools"
+      ]
+    },
+    {
+      "id": "17793747-f012-456c-86c4-a96bb78dcddd",
+      "name": "charades generator",
+      "slug": "charades-generator",
+      "description": "This is a free online charades generator with over 1000 curated words and ideas",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8f60bae5-740f-42b6-82a1-aafda42b795e_1755740520430.png",
+      "website_url": "https://charades-generator.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-21T01:42:07.859069Z",
+      "updated_at": "2025-08-22T10:23:40.05Z",
+      "category_slugs": [
+        "fun-tools"
+      ]
+    },
+    {
+      "id": "5654dba6-8ef7-4c42-887e-81defdf40c81",
+      "name": "esotericAI",
+      "slug": "esotericai-746568",
+      "description": "AI powered tarot readings",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8b4044a6-8cf3-4102-985b-4596182db902_1756331743026.png",
+      "website_url": "https://esotericai.xyz",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-27T21:55:47.308633Z",
+      "updated_at": "2025-08-28T12:47:59.17Z",
+      "category_slugs": [
+        "ai-coaching",
+        "ai-education-assistant",
+        "ai-repurpose-assistant",
+        "education",
+        "fun-tools",
+        "healthcare",
+        "life-assistant",
+        "mental-health",
+        "religion"
+      ]
+    }
+  ]
+}

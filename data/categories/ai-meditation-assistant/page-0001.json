@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 1,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "e3e31054-416f-4326-9899-10a7593d870b",
+      "name": "TranquilFibroids",
+      "slug": "tranquilfibroids",
+      "description": "Fibroid Pain Relief | Guided Meditation \u0026 Relaxation",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tranquilfibroids.mixo.io.ico",
+      "website_url": "https://tranquilfibroids.mixo.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-18T00:00:00Z",
+      "updated_at": "2023-04-18T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-meditation-assistant",
+        "design-art",
+        "life-assistant"
+      ]
+    }
+  ]
+}

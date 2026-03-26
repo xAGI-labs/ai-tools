@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 74,
+    "total_pages": 2,
+    "prev_path": "categories/ai-personal-development/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "8ae0bc3b-53e6-4462-9518-f28441babb13",
+      "name": "theGist",
+      "slug": "thegist-1",
+      "description": "theGist AI- Overcome your Slack and Gmail Overload with personalized summaries, directly in Slack.",
+      "logo_url": "https://icon.horse/icon/thegist.ai",
+      "website_url": "https://www.thegist.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-personal-development",
+        "ai-personal-finance-assistant",
+        "ai-personal-shopping-assistant",
+        "ai-personalized-learning",
+        "education",
+        "life-assistant"
+      ]
+    },
+    {
+      "id": "39a19ab5-5004-4210-ac26-26d905144546",
+      "name": "theGist",
+      "slug": "thegist",
+      "description": "theGist AI- Overcome your Slack and Gmail Overload with personalized summaries, directly in Slack.",
+      "logo_url": "https://icon.horse/icon/thegist.ai",
+      "website_url": "https://www.thegist.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-personal-development",
+        "ai-personal-finance-assistant",
+        "ai-personal-shopping-assistant",
+        "ai-personalized-learning",
+        "education",
+        "life-assistant"
+      ]
+    }
+  ]
+}

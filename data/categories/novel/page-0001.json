@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 6,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "8d966da1-2ed5-496d-82d0-62ef87f4ed2d",
+      "name": "AI Humanizer",
+      "slug": "ai-humanizer-211673",
+      "description": "AIHumanizeer is an advanced AI text converter designed to rewrite AI-generated content into natural, authentic text. It helps users easily bypass major AI detectors while preserving the original meaning and context of the text.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/634390a5-9ae7-4208-9659-9f384adb9d0c_1774161204775.png",
+      "website_url": "https://aihumanizeer.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-22T06:33:35.128841Z",
+      "updated_at": "2026-03-23T09:37:19.107Z",
+      "category_slugs": [
+        "novel"
+      ]
+    },
+    {
+      "id": "a209593e-ebcb-4220-b3d7-11de79a74a4d",
+      "name": "InstaNovel AI",
+      "slug": "instanovel-ai",
+      "description": "InstaNovel - Generate your Novel with AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/a209593e-ebcb-4220-b3d7-11de79a74a4d_instanovel_ai.jpeg?",
+      "website_url": "https://instanovel.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "novel",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "2f3e42bb-b0ba-43c1-a119-8785aecb0172",
+      "name": "InstaNovel AI",
+      "slug": "instanovel-ai-1",
+      "description": "InstaNovel - Generate your Novel with AI",
+      "logo_url": "https://icon.horse/icon/instanovel.ai",
+      "website_url": "https://instanovel.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "novel",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "9aa12a1c-cb58-4663-9139-3b88528c5e2c",
+      "name": "Novel AI",
+      "slug": "novel-ai",
+      "description": "\u003cp class=\"MuiTypography-root MuiTypography-body1 css-xrmcmn\"\u003eAssisted Authorship and Storytelling Subscription Service\u003c/p\u003e\r\n\r\n\u003cdiv class=\"css-6gd8i7\"\u003e\r\n\u003cdiv\u003e\u003c/div\u003e\r\n\u003c/div\u003e",
+      "logo_url": "https://icons.duckduckgo.com/ip3/novelai.net.ico",
+      "website_url": "https://novelai.net/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-30T00:00:00Z",
+      "updated_at": "2023-04-30T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-customer-service",
+        "ai-script-writing",
+        "ai-story-writing",
+        "business",
+        "design-art",
+        "novel",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "5afcd10d-079a-4c0b-905a-adf9c350e823",
+      "name": "NovelFlow AI",
+      "slug": "novelflow-ai",
+      "description": "NovelFlow.ai",
+      "logo_url": "https://icon.horse/icon/novelflow.ai",
+      "website_url": "https://novelflow.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-07T00:00:00Z",
+      "updated_at": "2023-04-07T00:00:00Z",
+      "category_slugs": [
+        "novel",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "805cd55b-bb85-4647-a2de-43ed270fe1ee",
+      "name": "Novels AI",
+      "slug": "novels-ai",
+      "description": "Novels AI - Become the Star of Your Own AI-Powered Audio Adventure",
+      "logo_url": "https://novels-ai.com/favicon.ico",
+      "website_url": "https://novels-ai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-18T00:00:00Z",
+      "updated_at": "2023-04-18T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-audio-editing",
+        "novel",
+        "text-writing",
+        "voice"
+      ]
+    }
+  ]
+}

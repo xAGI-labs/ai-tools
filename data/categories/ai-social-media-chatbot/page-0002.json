@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 73,
+    "total_pages": 2,
+    "prev_path": "categories/ai-social-media-chatbot/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "2d10898e-7dd9-44ee-a2b8-4397121d250a",
+      "name": "hacksocial.ai",
+      "slug": "hacksocial-ai",
+      "description": "Give more than you get on social media with AI-assisted replies.\r\nUsing GPT-4, you can create meaningful interactions with your audience 100x faster with hacksocial.ai! At hacksocial.ai, we believe that giving is the key to success on social media, and our platform allows you to do just that. By using our AI-powered platform, you can connect with your community, appear smarter, and grow your audience with minimal effort.\r\n\r\nHacksocial.ai is purpose-built for social media sites including Twitt...",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chrome.google.com.ico",
+      "website_url": "https://chrome.google.com/webstore/detail/hacksocialai/ljmjmhnmnmfnjklihbflhkcpdlgmeago",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-12T00:00:00Z",
+      "updated_at": "2023-04-13T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-media-planning",
+        "ai-social-media-chatbot",
+        "ai-social-media-management",
+        "ai-social-media-marketing",
+        "chatbot",
+        "design-art",
+        "marketing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 1,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "d20157fc-53b4-47fd-b407-0513a4f13c23",
+      "name": "NewsNotFound",
+      "slug": "newsnotfound",
+      "description": "NewsNotFound is an AI-powered news website that provides the latest news and information from around the world without any bias or agenda. The site offers various categories, such as world news, politics, regions, science \u0026amp; technology, archives, and more.\r\n\r\nIt also provides different language options such as English, Hindi, Portuguese, and Turkish, making it accessible to a wider audience.The website's home page features a menu that facilitates easy navigation to different categories.\r\n\r...",
+      "logo_url": "https://icon.horse/icon/newsnotfound.com",
+      "website_url": "https://newsnotfound.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-24T00:00:00Z",
+      "category_slugs": [
+        "ai-climate-science-tools",
+        "ai-landing-page-builder",
+        "ai-landing-page-optimization",
+        "ai-news-aggregation",
+        "ai-politics-tools",
+        "ai-website-builder",
+        "code-it",
+        "marketing",
+        "other"
+      ]
+    }
+  ]
+}

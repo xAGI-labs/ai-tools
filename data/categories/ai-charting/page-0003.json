@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 3,
+    "page_size": 72,
+    "total_items": 146,
+    "total_pages": 3,
+    "prev_path": "categories/ai-charting/page-0002.json"
+  },
+  "items": [
+    {
+      "id": "60b04d65-1299-4cc1-bd80-dda961d7f5b1",
+      "name": "PageOn.AI",
+      "slug": "pageon-ai-024268",
+      "description": "Create stunning presentations, infographics, and visual content with AI agents. Beyond static slides - build dynamic, interactive pages like Notion but visual. AI-powered design, research, and layout for educators and content creators.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4dc71018-73c9-44f0-9462-7558400f6786_1764644017602.jpg",
+      "website_url": "https://www.pageon.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-02T02:53:48.390579Z",
+      "updated_at": "2025-12-03T11:36:27.829Z",
+      "category_slugs": [
+        "ai-charting",
+        "ai-diagram-generator",
+        "ai-mind-mapping",
+        "ai-presentation-generator"
+      ]
+    },
+    {
+      "id": "45d50263-01bf-4ca2-87b2-f8ae399743d0",
+      "name": "Picool",
+      "slug": "picool",
+      "description": "An all-in-one image processing website that offers powerful online tools for editing, generating, and enhancing images — all in one place, no installation required.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d8174f3e-72ae-46b4-a624-0b7503c2350c_1750751169572.png",
+      "website_url": "https://picool.ai/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-06-24T07:46:18.375183Z",
+      "updated_at": "2025-06-25T08:22:29.003Z",
+      "category_slugs": [
+        "ai-art-generator",
+        "ai-charting",
+        "ai-image-scanning"
+      ]
+    }
+  ]
+}

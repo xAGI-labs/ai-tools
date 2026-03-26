@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "2d22341d-ddda-4a5e-a2ec-37c3ab2cde4b",
+      "name": "3dly",
+      "slug": "3dly",
+      "description": "3dly.app is an AI-powered platform that transforms 2D images into high-quality 3D models in seconds. Features include browser previews, file optimization, and exports in OBJ, STL, FBX, GLB.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/cef612db-4748-44c4-99bc-f0b3d2c391b7_1765593204374.png",
+      "website_url": "https://3dly.app/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-13T02:33:36.072366Z",
+      "updated_at": "2025-12-15T10:52:21.673Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-modeling"
+      ]
+    },
+    {
+      "id": "76e0bf6c-6f9b-4954-a153-bcd82717e1ad",
+      "name": "Meshy",
+      "slug": "meshy",
+      "description": "Meshy is a 3D generative AI production suite. Use Meshy texturing and AI modeling tools to accelerate 3D content creation. Our AI texturing tool allows artists to choose either text prompt or 2D concept art, as well as an untextured model as input. AI will do the automatic texturing for your model in less than 3 minutes. Meshy Texturing is now in beta test on Discord: https://discord.com/invite/KgD5yVM9Y4",
+      "logo_url": "https://meshy.ai/favicon.ico",
+      "website_url": "https://www.meshy.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-25T00:00:00Z",
+      "updated_at": "2024-03-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-asset-creation",
+        "ai-3d-modeling",
+        "ai-art-creation",
+        "ai-cad-tools",
+        "ai-content-generator",
+        "ai-product-description-generator",
+        "ai-product-design",
+        "design-art",
+        "text-writing"
+      ]
+    }
+  ]
+}

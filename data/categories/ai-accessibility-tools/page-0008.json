@@ -1,0 +1,1455 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 8,
+    "page_size": 72,
+    "total_items": 985,
+    "total_pages": 14,
+    "next_path": "categories/ai-accessibility-tools/page-0009.json",
+    "prev_path": "categories/ai-accessibility-tools/page-0007.json"
+  },
+  "items": [
+    {
+      "id": "454f8a0b-1dde-4d79-bd51-0c2157fb610c",
+      "name": "Latent Labs",
+      "slug": "latent-labs",
+      "description": "Latent Labs",
+      "logo_url": "https://icons.duckduckgo.com/ip3/latentlabs.art.ico",
+      "website_url": "https://www.latentlabs.art",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8f871e10-e60a-4218-b0bb-5dfb6bcc58c8",
+      "name": "Lejrr",
+      "slug": "lejrr",
+      "description": "Lejrr",
+      "logo_url": "https://icon.horse/icon/lejrr.earlybird.rocks",
+      "website_url": "https://lejrr.earlybird.rocks",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "87453785-434e-4092-8cc3-4db8211e9fd7",
+      "name": "Lensa",
+      "slug": "lensa",
+      "description": "Android Apps on Google Play",
+      "logo_url": "https://play.google.com/favicon.ico",
+      "website_url": "https://play.google.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e26da06d-dff7-44d4-9b69-5d70795fe55a",
+      "name": "Lensa",
+      "slug": "lensa-1",
+      "description": "Android Apps on Google Play",
+      "logo_url": "https://play.google.com/favicon.ico",
+      "website_url": "https://play.google.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "63380fab-4b37-4eb3-89ca-2f42c09a4da0",
+      "name": "Lensco",
+      "slug": "lensco",
+      "description": "Lensco.ai",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/63380fab-4b37-4eb3-89ca-2f42c09a4da0_lensco.jpeg?",
+      "website_url": "https://lensco.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2adf21a8-d1e2-4274-8cb0-a08a5dff291c",
+      "name": "Lensco",
+      "slug": "lensco-1",
+      "description": "Lensco.ai",
+      "logo_url": "https://icon.horse/icon/lensco.ai",
+      "website_url": "https://lensco.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "aeeecd69-1cc1-4e36-8d72-66eafdd93fe9",
+      "name": "LetsAsk.AI",
+      "slug": "letsask-ai",
+      "description": "LetsAsk.AI",
+      "logo_url": "https://letsask.ai/favicon.ico",
+      "website_url": "https://letsask.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-24T00:00:00Z",
+      "updated_at": "2023-04-24T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "adc253fd-a73a-4002-bb28-edd61f48e2e6",
+      "name": "Lexica",
+      "slug": "lexica-1",
+      "description": "Lexica",
+      "logo_url": "https://lexica.art/favicon.ico",
+      "website_url": "https://lexica.art",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b27e4875-6713-40b2-ac63-903ac04ca5bf",
+      "name": "Lexica",
+      "slug": "lexica",
+      "description": "Lexica",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/b27e4875-6713-40b2-ac63-903ac04ca5bf_lexica.jpeg?",
+      "website_url": "https://lexica.art",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6c443c71-839b-48db-99db-de84f557a027",
+      "name": "Lexii.ai",
+      "slug": "lexii-ai",
+      "description": "Lexii.ai",
+      "logo_url": "https://icon.horse/icon/lexii.ai",
+      "website_url": "https://lexii.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a16c437f-e3c7-415e-86f0-cca5658a918c",
+      "name": "Lexii.ai",
+      "slug": "lexii-ai-1",
+      "description": "Lexii.ai",
+      "logo_url": "https://icon.horse/icon/lexii.ai",
+      "website_url": "https://lexii.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "781c1060-54b5-4155-9d8e-659a84e57eae",
+      "name": "Liftoff",
+      "slug": "liftoff",
+      "description": "Liftoff - AI-Powered Mock Interviews",
+      "logo_url": "https://demo.useliftoff.com/favicon.ico",
+      "website_url": "https://demo.useliftoff.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-09T00:00:00Z",
+      "updated_at": "2023-06-09T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "bc805820-00db-4313-9309-0be5e7c1ee0e",
+      "name": "Lightning AI",
+      "slug": "lightning-ai",
+      "description": "Lightning AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/bc805820-00db-4313-9309-0be5e7c1ee0e_lightning_ai.jpeg?",
+      "website_url": "https://lightning.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8c371793-0902-4836-bb56-1a30120ea0cf",
+      "name": "Lightning AI",
+      "slug": "lightning-ai-1",
+      "description": "Lightning AI",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lightning.ai.ico",
+      "website_url": "https://lightning.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "940055e9-4e83-4e0d-b374-7f1833f03e19",
+      "name": "LinklessGPT",
+      "slug": "linklessgpt",
+      "description": "LinklessGPT",
+      "logo_url": "https://linklessgpt.com/favicon.ico",
+      "website_url": "https://linklessgpt.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-21T00:00:00Z",
+      "updated_at": "2023-05-21T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a5fcf5fb-00af-4b3b-a68e-677ea66954f2",
+      "name": "LitGrades",
+      "slug": "litgrades",
+      "description": "LitGrades",
+      "logo_url": "https://icons.duckduckgo.com/ip3/litgrades.com.ico",
+      "website_url": "https://litgrades.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-18T00:00:00Z",
+      "updated_at": "2023-04-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "dda19549-b913-4f7f-bd50-c6b495847b64",
+      "name": "Liveform",
+      "slug": "liveform",
+      "description": "Liveform",
+      "logo_url": "https://icon.horse/icon/liveform.ai",
+      "website_url": "https://www.liveform.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-18T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "291116aa-b663-4204-8c72-68a911936ced",
+      "name": "LogSpend",
+      "slug": "logspend",
+      "logo_url": "https://www.google.com/s2/favicons?domain=logspend.com\u0026sz=128",
+      "website_url": "https://logspend.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-25T00:00:00Z",
+      "updated_at": "2023-05-26T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a6e6372e-fff3-4448-b9f3-a60ae08d014b",
+      "name": "Lootgod",
+      "slug": "lootgod",
+      "description": "lootgod | AI Loot For You, By You",
+      "logo_url": "https://lootgod.com/favicon.ico",
+      "website_url": "https://lootgod.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-17T00:00:00Z",
+      "updated_at": "2023-04-17T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "45b49abf-2380-43bc-9697-f8dc616e9d56",
+      "name": "Looti",
+      "slug": "looti",
+      "description": "Looti - AI for B2B Growth",
+      "logo_url": "https://icon.horse/icon/looti.ai",
+      "website_url": "http://looti.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-26T00:00:00Z",
+      "updated_at": "2023-04-26T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "42d4525e-361e-4ebd-a6ae-703d33f10d5a",
+      "name": "Luna AI",
+      "slug": "luna-ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lunaa.io.ico",
+      "website_url": "https://www.lunaa.io/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-17T00:00:00Z",
+      "updated_at": "2023-05-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "6db13ecd-59df-4a51-b498-5c9401483ede",
+      "name": "Lunit",
+      "slug": "lunit",
+      "description": "Lunit Inc.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/6db13ecd-59df-4a51-b498-5c9401483ede_lunit.jpeg?",
+      "website_url": "https://www.lunit.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "24d50f4f-efac-4c8a-b806-6cb989f93aa9",
+      "name": "Lunit",
+      "slug": "lunit-1",
+      "description": "Lunit Inc.",
+      "logo_url": "https://lunit.io/favicon.ico",
+      "website_url": "https://www.lunit.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "aed6c56f-ba83-4a6d-91fd-b18fb007f26d",
+      "name": "Lyrical Labs",
+      "slug": "lyrical-labs",
+      "description": "Lyrical Labs",
+      "logo_url": "https://lyricallabs.io/favicon.ico",
+      "website_url": "https://lyricallabs.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-27T00:00:00Z",
+      "updated_at": "2023-05-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d650ce55-7109-4c24-98d6-2a2a2be0396d",
+      "name": "Maester.app",
+      "slug": "maester-app",
+      "description": "Maester",
+      "logo_url": "https://www.google.com/s2/favicons?domain=maester.app\u0026sz=128",
+      "website_url": "https://maester.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b85f6055-bcf9-4767-8747-e1e609e1112e",
+      "name": "Maester.app",
+      "slug": "maester-app-1",
+      "description": "Maester",
+      "logo_url": "https://icon.horse/icon/maester.app",
+      "website_url": "https://maester.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d84b8a5c-f046-40d0-8c26-d60e54a0d97b",
+      "name": "Magai",
+      "slug": "magai",
+      "description": "Magai • Next generation AI tools for content creators.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/magai.co.ico",
+      "website_url": "https://magai.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-08T00:00:00Z",
+      "updated_at": "2023-04-10T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-content-generator",
+        "ai-lead-generation",
+        "business",
+        "other",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "70c949c0-99b7-445a-acc1-647e2287cc93",
+      "name": "MageAI",
+      "slug": "mageai-1",
+      "description": "Android Apps on Google Play",
+      "logo_url": "https://play.google.com/favicon.ico",
+      "website_url": "https://play.google.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "192aa60d-9074-411e-bc51-6469753676b9",
+      "name": "MageAI",
+      "slug": "mageai",
+      "description": "Android Apps on Google Play",
+      "logo_url": "https://play.google.com/favicon.ico",
+      "website_url": "https://play.google.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ebabea5b-1b11-4234-8afc-ae1e37ad8d8d",
+      "name": "MagicRoomAI",
+      "slug": "magicroomai-1",
+      "description": "Magic Room",
+      "logo_url": "https://icon.horse/icon/magicroom.ai",
+      "website_url": "https://magicroom.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-21T00:00:00Z",
+      "updated_at": "2023-04-21T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "4de4631c-878e-41de-bfa1-a0bbd58be114",
+      "name": "MagicRoomAI",
+      "slug": "magicroomai",
+      "description": "Magic Room",
+      "logo_url": "https://icon.horse/icon/magicroom.ai",
+      "website_url": "https://magicroom.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-21T00:00:00Z",
+      "updated_at": "2023-04-21T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e29a0a40-4fee-4015-955e-352f496be113",
+      "name": "MagicSlides",
+      "slug": "magicslides",
+      "description": "MagicSlides App - Create Presentation With AI in seconds",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/e29a0a40-4fee-4015-955e-352f496be113_magicslides.jpeg?",
+      "website_url": "https://www.magicslides.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "41422fe4-c37d-4848-a5f0-16066ed69d67",
+      "name": "MagicSlides",
+      "slug": "magicslides-1",
+      "description": "MagicSlides App - Create Presentation With AI in seconds",
+      "logo_url": "https://magicslides.app/favicon.ico",
+      "website_url": "https://www.magicslides.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e2d6f1f0-dcb3-48e7-afa3-9c888055acc1",
+      "name": "Magick",
+      "slug": "magick-1",
+      "description": "Magick - AI for Mere Mortals",
+      "logo_url": "https://icon.horse/icon/magickml.com",
+      "website_url": "https://www.magickml.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ecafc1df-7869-45d6-94b9-0e13c32d5792",
+      "name": "Magick",
+      "slug": "magick",
+      "description": "Magick - AI for Mere Mortals",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/ecafc1df-7869-45d6-94b9-0e13c32d5792_magick.svg?",
+      "website_url": "https://www.magickml.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e765af56-42cc-4aa8-8964-1a353b32a923",
+      "name": "MagickPen",
+      "slug": "magickpen-1",
+      "description": "MagickPen",
+      "logo_url": "https://magickpen.com/favicon.ico",
+      "website_url": "https://magickpen.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "44cfbe71-d6d4-481c-864c-fd1f89ffe8e8",
+      "name": "MagickPen",
+      "slug": "magickpen",
+      "description": "MagickPen",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/44cfbe71-d6d4-481c-864c-fd1f89ffe8e8_magickpen.jpeg?",
+      "website_url": "https://magickpen.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "3b5a0ccb-2a09-464e-a406-dbfac543fae3",
+      "name": "Mailyr",
+      "slug": "mailyr",
+      "description": "Mailyr",
+      "logo_url": "https://www.google.com/s2/favicons?domain=getmailyr.com\u0026sz=128",
+      "website_url": "https://getmailyr.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-06T00:00:00Z",
+      "updated_at": "2023-05-06T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9db538a2-4469-4c49-a3e5-8258f3a5437a",
+      "name": "Make My Workout",
+      "slug": "make-my-workout",
+      "description": "Make My Workout",
+      "logo_url": "https://icon.horse/icon/makemyworkout.dev",
+      "website_url": "https://makemyworkout.dev",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-15T00:00:00Z",
+      "updated_at": "2023-06-15T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "63d7d293-9dda-454f-a16d-a535e516d53e",
+      "name": "MakeTales",
+      "slug": "maketales",
+      "description": "MakeTales",
+      "logo_url": "https://icon.horse/icon/maketales.com",
+      "website_url": "https://www.maketales.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-26T00:00:00Z",
+      "updated_at": "2023-05-26T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0044359f-e52b-4af5-9b3d-1a114de94233",
+      "name": "Mancoding",
+      "slug": "mancoding",
+      "description": "Mancoding",
+      "logo_url": "https://icon.horse/icon/mancoding.com",
+      "website_url": "https://mancoding.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "946362b8-404b-4c41-a1e3-22512ecb149e",
+      "name": "MeatGPT",
+      "slug": "meatgpt",
+      "description": "MeatGPT",
+      "logo_url": "https://meat-gpt.sonnet.io/favicon.png",
+      "website_url": "https://meat-gpt.sonnet.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-28T00:00:00Z",
+      "updated_at": "2023-05-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e762ebfd-2e60-4cf8-838f-1bbf34cd29f7",
+      "name": "MediCodio",
+      "slug": "medicodio",
+      "description": "About us - Medicodio",
+      "logo_url": "https://medicodio.com/favicon.ico",
+      "website_url": "https://medicodio.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-18T00:00:00Z",
+      "updated_at": "2023-04-18T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "fbdcc149-264f-4d78-ba6b-b98b64c0bfab",
+      "name": "Meeple",
+      "slug": "meeple",
+      "description": "Meeple",
+      "logo_url": "https://icons.duckduckgo.com/ip3/meeple.ai.ico",
+      "website_url": "https://www.meeple.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5dbbf7aa-3196-4100-84e7-d0b22db715fc",
+      "name": "Meeple",
+      "slug": "meeple-1",
+      "description": "Meeple",
+      "logo_url": "https://icons.duckduckgo.com/ip3/meeple.ai.ico",
+      "website_url": "https://www.meeple.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c84b789a-5778-49b5-b0e8-56ab48b86fae",
+      "name": "Meet Millie",
+      "slug": "meet-millie-1",
+      "description": "Meet Millie",
+      "logo_url": "https://icon.horse/icon/meetmillie.app",
+      "website_url": "https://www.meetmillie.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "995796db-09f4-4cf3-b16d-b5a12b576778",
+      "name": "Meet Millie",
+      "slug": "meet-millie",
+      "description": "Meet Millie",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/995796db-09f4-4cf3-b16d-b5a12b576778_meet_millie.jpeg?",
+      "website_url": "https://www.meetmillie.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0e25c7ff-8c2f-4923-89e9-5f89e61ceab1",
+      "name": "MeetGeek",
+      "slug": "meetgeek",
+      "logo_url": "https://icon.horse/icon/meetgeek.grsm.io",
+      "website_url": "https://meetgeek.grsm.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "077e690b-3b9d-4f70-82aa-74d59b8e93a1",
+      "name": "Mem.ai",
+      "slug": "mem-ai-1",
+      "description": "Mem: The self-organizing workspace",
+      "logo_url": "https://icons.duckduckgo.com/ip3/mem.ai.ico",
+      "website_url": "https://mem.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "03973dc7-ed22-4411-8735-3b3c3d466562",
+      "name": "Mem.ai",
+      "slug": "mem-ai",
+      "description": "Mem: The self-organizing workspace",
+      "logo_url": "https://icons.duckduckgo.com/ip3/mem.ai.ico",
+      "website_url": "https://mem.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2663a6ed-4b47-44e9-9733-b6a26e52cb42",
+      "name": "MemeCam",
+      "slug": "memecam",
+      "description": "MemeCam - Can AI generate memes?",
+      "logo_url": "https://icons.duckduckgo.com/ip3/memecam.dk.ico",
+      "website_url": "https://www.memecam.dk",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-11T00:00:00Z",
+      "updated_at": "2023-04-11T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "1ebe2763-62ba-4379-9fcc-035caea2b5a0",
+      "name": "MemeMorph",
+      "slug": "mememorph",
+      "description": "Turn Yourself Into Your Favorite Memes With AI | MemeMorph",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/1ebe2763-62ba-4379-9fcc-035caea2b5a0_mememorph.jpeg?",
+      "website_url": "https://www.mememorph.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c3a9bd97-101e-4ab2-ae05-295bdbecd252",
+      "name": "MemeMorph",
+      "slug": "mememorph-1",
+      "description": "Turn Yourself Into Your Favorite Memes With AI | MemeMorph",
+      "logo_url": "https://icon.horse/icon/mememorph.com",
+      "website_url": "https://www.mememorph.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "772fc5c4-4210-4024-addf-a5cad57f978b",
+      "name": "Memejourney",
+      "slug": "memejourney",
+      "description": "MemeJourney",
+      "logo_url": "https://icons.duckduckgo.com/ip3/memegpt.thesamur.ai.ico",
+      "website_url": "https://memegpt.thesamur.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-13T00:00:00Z",
+      "updated_at": "2023-04-13T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "78890032-0258-43e9-955c-e4ca2d6d7215",
+      "name": "MergeML",
+      "slug": "mergeml-1",
+      "description": "MergeML",
+      "logo_url": "https://icon.horse/icon/mergeml.com",
+      "website_url": "https://mergeml.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e324fa0e-b4c7-4799-91f8-bffe381cec6a",
+      "name": "MergeML",
+      "slug": "mergeml",
+      "description": "MergeML",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/e324fa0e-b4c7-4799-91f8-bffe381cec6a_mergeml.jpeg?",
+      "website_url": "https://mergeml.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2fddd68f-c397-42f6-84fb-b17ef5e0b651",
+      "name": "Merlin",
+      "slug": "merlin-1",
+      "description": "Merlin",
+      "logo_url": "https://merlin.foyer.work/favicon.ico",
+      "website_url": "https://merlin.foyer.work",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "4ad05ea3-f645-4485-8949-e56d8408f3de",
+      "name": "Merlin",
+      "slug": "merlin",
+      "description": "Merlin",
+      "logo_url": "https://merlin.foyer.work/favicon.ico",
+      "website_url": "https://merlin.foyer.work",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "10adce23-ef23-4318-bdaf-7754f6013278",
+      "name": "MgrWorkbench.ai",
+      "slug": "mgrworkbench-ai-1",
+      "description": "MgrWorkbench.ai",
+      "logo_url": "https://icon.horse/icon/mgrworkbench.ai",
+      "website_url": "https://www.mgrworkbench.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "3630200f-541d-455b-8020-260157423b48",
+      "name": "MgrWorkbench.ai",
+      "slug": "mgrworkbench-ai",
+      "description": "MgrWorkbench.ai",
+      "logo_url": "https://unavatar.io/mgrworkbench.ai",
+      "website_url": "https://www.mgrworkbench.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d7692479-5b63-412d-a2d3-e63ad104fda1",
+      "name": "Microsoft Bing",
+      "slug": "microsoft-bing",
+      "description": "Bing",
+      "logo_url": "https://bing.com/favicon.ico",
+      "website_url": "https://www.bing.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e7847ba7-4dad-4ab3-8073-d5c83322faa0",
+      "name": "Midjourney",
+      "slug": "midjourney",
+      "description": "Midjourney",
+      "logo_url": "https://icons.duckduckgo.com/ip3/midjourney.com.ico",
+      "website_url": "https://www.midjourney.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2f8f1065-7a99-4c60-abb1-0dd79b496ac7",
+      "name": "Midjourney Splitter",
+      "slug": "midjourney-splitter",
+      "description": "Grid Splitter Midjourney - Free tool",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/2f8f1065-7a99-4c60-abb1-0dd79b496ac7_midjourney_splitter.jpeg?",
+      "website_url": "https://www.mjsplitter.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "898c14ec-e6c2-4981-96b8-4e98555f091f",
+      "name": "Midjourney Splitter",
+      "slug": "midjourney-splitter-1",
+      "description": "Grid Splitter Midjourney - Free tool",
+      "logo_url": "https://icon.horse/icon/mjsplitter.com",
+      "website_url": "https://www.mjsplitter.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f94f6e63-3837-4303-aeed-df1a014b6b6f",
+      "name": "Midjourney for Slack",
+      "slug": "midjourney-for-slack",
+      "description": "Midjourney for Slack",
+      "logo_url": "https://icon.horse/icon/mjslackbot.com",
+      "website_url": "https://mjslackbot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-06T00:00:00Z",
+      "updated_at": "2023-05-06T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "99f76ad0-4afe-4e24-a885-9704e1f0781e",
+      "name": "MindMate",
+      "slug": "mindmate",
+      "logo_url": "https://icon.horse/icon/mindmate.tech",
+      "website_url": "https://mindmate.tech",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-16T00:00:00Z",
+      "updated_at": "2023-04-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "05c89ba2-8c62-4560-92dc-6f42fd7c8bff",
+      "name": "MindMateGPT",
+      "slug": "mindmategpt",
+      "description": "MindMateGPT",
+      "logo_url": "https://icon.horse/icon/mindmategpt.com",
+      "website_url": "https://mindmategpt.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-24T00:00:00Z",
+      "updated_at": "2023-05-24T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "aeff9dd3-2f6e-4b23-85dc-403e38e247b2",
+      "name": "Mindgrasp",
+      "slug": "mindgrasp-1",
+      "description": "Mindgrasp",
+      "logo_url": "https://mindgrasp.ai/favicon.ico",
+      "website_url": "https://mindgrasp.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9e262578-23b2-4ea0-939f-45ecd7ddb888",
+      "name": "Mindgrasp",
+      "slug": "mindgrasp",
+      "description": "Mindgrasp",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/9e262578-23b2-4ea0-939f-45ecd7ddb888_mindgrasp.jpeg?",
+      "website_url": "https://mindgrasp.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d3355de1-b217-4e07-8ccf-755643b47d99",
+      "name": "Mirageml",
+      "slug": "mirageml",
+      "description": "Mirage",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/d3355de1-b217-4e07-8ccf-755643b47d99_mirageml.jpeg?",
+      "website_url": "https://www.mirageml.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "adabe12b-51fe-4a01-9b0c-bfa5b21ed3c4",
+      "name": "Mirageml",
+      "slug": "mirageml-1",
+      "description": "Mirage",
+      "logo_url": "https://icons.duckduckgo.com/ip3/mirageml.com.ico",
+      "website_url": "https://www.mirageml.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "532bbc2d-f496-4455-83b3-b5a250e63730",
+      "name": "Mix Check Studio",
+      "slug": "mix-check-studio",
+      "description": "Mix Check Studio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/mixcheck.studio.ico",
+      "website_url": "https://mixcheck.studio",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-28T00:00:00Z",
+      "updated_at": "2023-05-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    }
+  ]
+}

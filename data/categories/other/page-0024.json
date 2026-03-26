@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 24,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0025.json",
+    "prev_path": "categories/other/page-0023.json"
+  },
+  "items": [
+    {
+      "id": "2c637f58-a915-46cf-82bf-7a8fba5ac1c1",
+      "name": "Muzzle",
+      "slug": "muzzle",
+      "description": "Muzzle is a secure chat platform using GPT Chat Completion.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/muzzle.jpg",
+      "website_url": "https://www.muzzle.in?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-07T12:36:32Z",
+      "updated_at": "2025-03-27T03:21:12.920859Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bf586345-f654-4617-a785-45fcbc2effcd",
+      "name": "My AI Assistant (MAIA)",
+      "slug": "my-ai-assistant-maia",
+      "description": "Boost productivity with voice interactions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/my-ai-assistant-maia.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/my-ai-assistant-maia/heaplgobfdojfolbieapaccceajljeho?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:40Z",
+      "updated_at": "2025-03-27T03:02:59.254093Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f25b1a8a-b43b-4671-aa45-f3991c2e655a",
+      "name": "My Driim",
+      "slug": "my-driim",
+      "description": "An AI-powered app helps users explore and interpret dreams.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/my-driim.jpg",
+      "website_url": "https://www.mydriim.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-04T04:09:18Z",
+      "updated_at": "2025-03-27T03:20:30.354427Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "981bbcf5-f3a0-484c-a503-dfc84f4ae6ca",
+      "name": "My Yogi",
+      "slug": "my-yogi",
+      "description": "AI-based tool for creating and managing yoga sequences.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/my-yogi.jpg",
+      "website_url": "https://www.yogi.my?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-24T01:47:44Z",
+      "updated_at": "2025-03-27T03:11:58.490285Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d542d305-ea84-4c8c-ba38-f1f1e9a3b08b",
+      "name": "MyAi",
+      "slug": "myai",
+      "description": "Revolutionary AI search companion.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/myai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/myai/jonannbdilkgcdponnkmdeijnmafjjhp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:50Z",
+      "updated_at": "2025-03-27T03:07:16.276884Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "072332cc-2037-478d-8809-49e6cdd1ab54",
+      "name": "MyContacts.AI",
+      "slug": "mycontacts-ai",
+      "description": "AI Contacts for enhanced productivity",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mycontacts-ai.jpg",
+      "website_url": "https://mycontacts.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T11:23:26Z",
+      "updated_at": "2025-03-27T03:08:51.32818Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "654f1c54-890e-4e17-9690-f8418770c158",
+      "name": "MyHustleAI",
+      "slug": "myhustleai",
+      "description": "Find tailored side hustles based on your skills and interests.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/myhustleai.jpg",
+      "website_url": "https://myhustleai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:39:48Z",
+      "updated_at": "2025-03-27T03:12:44.087462Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7a7570e4-e64a-4207-a040-10dd4f19cfbe",
+      "name": "MySummary",
+      "slug": "mysummary",
+      "description": "Elevate browsing with nature backgrounds",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mysummary.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/mysummary/dplbiefkdiifmcbkdklkddjfljdmnaha?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:21Z",
+      "updated_at": "2025-03-27T03:01:59.741907Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3b99f8ed-629b-4826-bd03-677021091217",
+      "name": "MysticOmni",
+      "slug": "mysticomni",
+      "description": "AI-powered life guide and dream analysis",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mysticomni.jpg",
+      "website_url": "https://mysticomni.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-11T12:33:51Z",
+      "updated_at": "2025-03-27T03:09:10.907535Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9499e63d-374f-4f05-a494-45e50e588775",
+      "name": "NAK3D",
+      "slug": "nak3d",
+      "description": "AI-driven 3D fashion modeling and digital transformation platform.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nak3d.jpg",
+      "website_url": "https://nak3d.xyz?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-22T06:14:35Z",
+      "updated_at": "2025-03-27T03:14:03.114685Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f70aaa53-3576-46c7-b6fe-7120cdee61e0",
+      "name": "NIX Growth LinkedIn Extension",
+      "slug": "nix-growth-linkedin-extension",
+      "description": "Enhance networking and lead generation on LinkedIn",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nix-growth-linkedin-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nix-growth-linkedin-exten/ojfabnjhokmofgnjlofaodgeggokdflh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:35Z",
+      "updated_at": "2025-03-27T03:05:31.578285Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "397ebd94-7e42-4bfb-9846-d7da8968d920",
+      "name": "NaasAI",
+      "slug": "naasai",
+      "description": "Boost productivity with AI and automation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/naasai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/naasai/cpkgfedlkfiknjpkmhcglmjiefnechpp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:52Z",
+      "updated_at": "2025-03-27T03:05:42.234331Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c728e4b6-d490-404a-8b1f-11b8023794b2",
+      "name": "NamesWhiz",
+      "slug": "nameswhiz",
+      "description": "AI-powered name generator for babies and pets.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nameswhiz.jpg",
+      "website_url": "https://nameswhiz.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T08:50:43Z",
+      "updated_at": "2025-03-27T03:20:11.417653Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0779b4dc-020e-4410-aef1-16172f2ef6d4",
+      "name": "Namu Ask",
+      "slug": "namu-ask",
+      "description": "AI Q\u0026A program using Namu Wiki content",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/namu-ask.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/namu-ask/ekpaaocohcahlakpgpgkbcbbjhofgchj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:49Z",
+      "updated_at": "2025-03-27T03:04:38.816832Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "85699129-0a93-42b2-a2eb-5c9060c8bdda",
+      "name": "Nanu",
+      "slug": "nanu",
+      "description": "AI baby name generator with GPT tech",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nanu.webp",
+      "website_url": "https://nanu.fun?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-17T04:44:02Z",
+      "updated_at": "2025-03-27T02:59:41.865245Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c7218fd9-4836-4dca-93b4-564090d07b44",
+      "name": "Narrated Tours (On Demand Audio Guides)",
+      "slug": "narrated-tours-on-demand-audio-guides",
+      "description": "Narrated Tours offers audio-guided tours to enhance travel experience.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/narrated-tours-on-demand-audio-guides.jpg",
+      "website_url": "https://narratedtours.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-26T07:40:57Z",
+      "updated_at": "2025-03-27T03:19:17.053975Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0ab25063-319f-4f4f-936b-b2801f2447b5",
+      "name": "Narrative AI Beta",
+      "slug": "narrative-ai-beta",
+      "description": "AI tool for personalized account-based outreach strategies.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/narrative-ai-beta.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/narrative-ai-beta/pmjgphgkpenapkfmcnnammpgbaialgde?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-05T01:53:49Z",
+      "updated_at": "2025-03-27T03:14:03.96709Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f477fbf8-f6e0-4ed6-b232-16c47d3f17f2",
+      "name": "Natural Advanced Search for GitHub",
+      "slug": "natural-advanced-search-for-github",
+      "description": "GitHub search boosted with ML.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/natural-advanced-search-for-github.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/natural-advanced-search-f/mepaacibaogonhhhacklhngfkkhlclfj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:53Z",
+      "updated_at": "2025-03-27T03:06:23.428253Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "62d4ab5e-0904-4165-9d06-8daf734b8287",
+      "name": "Naturobot RPA",
+      "slug": "naturobot-rpa",
+      "description": "Robotic process automation platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/naturobot-rpa.jpg",
+      "website_url": "https://www.naturobot.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-27T14:33:26Z",
+      "updated_at": "2025-03-27T03:09:46.538152Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fdfa3e01-8444-4780-9c3b-9831ccdb269d",
+      "name": "NaughtyBot",
+      "slug": "naughtybot",
+      "description": "Join NaughtyBot for interactive naughty conversations and activities with Mia and friends.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/naughtybot.jpg",
+      "website_url": "https://naughtybot.link?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-02T15:43:11Z",
+      "updated_at": "2025-03-27T03:19:57.996787Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5fc6dbba-782f-4441-88ed-3fdaaf9a9ce0",
+      "name": "NeckCheckUp: Prevent Neck Pain",
+      "slug": "neckcheckup-prevent-neck-pain",
+      "description": "Prevent neck pain with daily stretches and AI measurements.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/neckcheckup-prevent-neck-pain.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/neckcheckup-prevent-neck/emennpjipnkdkcnphfllhlglbcojnipi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:27Z",
+      "updated_at": "2025-03-27T03:02:30.08478Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1f2f20a5-c856-4388-8beb-d1da8a44011b",
+      "name": "Nefer - AI Message Customizer for LinkedIn",
+      "slug": "nefer-ai-message-customizer-for-linkedin",
+      "description": "Optimize LinkedIn messages using AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nefer-ai-message-customizer-for-linkedin.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nefer-ai-message-customiz/gopkdmhdjdcjmhnfjnoijiabhpeamoob?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:35Z",
+      "updated_at": "2025-03-27T03:00:02.129178Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0332e3c1-2378-42e0-9fbb-6141e980fda3",
+      "name": "NeoPaths",
+      "slug": "neopaths",
+      "description": "Empower growth with gamified learning",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/neopaths.webp",
+      "website_url": "https://neopaths.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-27T10:45:13Z",
+      "updated_at": "2025-03-27T02:58:57.770812Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "71b44c81-bafd-455f-ac8c-5923614b36e4",
+      "name": "Neoprompts",
+      "slug": "neoprompts",
+      "description": "AI prompt creation and optimization tool with advanced features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/neoprompts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/neoprompts/dlimpflapgdeafennmafhiiglfghkcie?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:37:42Z",
+      "updated_at": "2025-03-27T03:15:16.243866Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1be9fe74-8273-4187-b8f5-1376525c7347",
+      "name": "Neoprompts AI",
+      "slug": "neoprompts-ai",
+      "description": "Tool to optimize and collect powerful AI prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/neoprompts-ai.jpg",
+      "website_url": "https://neoprompts.ai/en?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-20T11:04:48Z",
+      "updated_at": "2025-03-27T03:11:05.133721Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "84062df2-373f-412a-96ee-2593cb7ea9ca",
+      "name": "NeuroCraft",
+      "slug": "neurocraft",
+      "description": "Platform for easy neural network creation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/neurocraft.webp",
+      "website_url": "https://neurocraftstudio.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-21T01:28:18Z",
+      "updated_at": "2025-03-27T02:59:51.954858Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "04955e33-d70a-4885-a5ba-f25f50cdbea9",
+      "name": "New Portal",
+      "slug": "new-portal",
+      "description": "Chrome extension for Google search and ChatGPT queries",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/new-portal.jpg",
+      "website_url": "https://www.newportal.pro?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-26T02:41:43Z",
+      "updated_at": "2025-03-27T03:09:32.888171Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ed9c30a7-b4c2-4d90-af82-e5ab761b6282",
+      "name": "New Tab With ChatGPT for Chrome™",
+      "slug": "new-tab-with-chatgpt-for-chrome",
+      "description": "Enhance productivity and access information instantly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/new-tab-with-chatgpt-for-chrome.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/new-tab-with-chatgpt-for/bkiakepgpgfibglghlhdpacjdglfpbnn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:32Z",
+      "updated_at": "2025-03-27T03:02:39.136793Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c89ef65f-12ef-4c41-8806-a117c30eb38a",
+      "name": "NewWord",
+      "slug": "newword",
+      "description": "AI-powered vocabulary management.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/newword.webp",
+      "website_url": "https://en.newword.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:57:30Z",
+      "updated_at": "2025-03-27T03:05:21.042687Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "488cb5b1-269f-472f-b85a-0c750694f381",
+      "name": "News Type Predictor",
+      "slug": "news-type-predictor",
+      "description": "News category prediction tool using machine learning",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/news-type-predictor.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/news-type-predictor/capfgmggdplnhlbmblmfmmjdbljilogi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-21T03:14:51Z",
+      "updated_at": "2025-03-27T03:09:27.081905Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "75b1bfc9-8bfb-45c0-a4f8-dd82aee67037",
+      "name": "Nexalio",
+      "slug": "nexalio",
+      "description": "AI-driven project generator for developers using specific requirements.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nexalio.jpg",
+      "website_url": "https://nexalio.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-17T08:47:13Z",
+      "updated_at": "2025-03-27T03:11:46.21415Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "19eef3ee-b2d6-41f4-9b28-826130858404",
+      "name": "NextCareer.app",
+      "slug": "nextcareer-app",
+      "description": "Personalized job search platform utilizing AI and personality assessments.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nextcareer-app.jpg",
+      "website_url": "https://www.nextcareer.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:24:06Z",
+      "updated_at": "2025-03-27T03:13:08.863847Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "98ebd956-6bda-439a-b717-720fea4a77e6",
+      "name": "NextReady",
+      "slug": "nextready",
+      "description": "A digital boilerplate for rapid web app development.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nextready.jpg",
+      "website_url": "https://nextready.dev?aff=O0D1K",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-18T08:39:32Z",
+      "updated_at": "2025-03-27T03:12:04.045104Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9df7b24d-7947-479e-98d9-816d062ae733",
+      "name": "Nextcaptcha: CAPTCHA Solver",
+      "slug": "nextcaptcha-captcha-solver",
+      "description": "Automated captcha solving service",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nextcaptcha-captcha-solver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nextcaptcha-captcha-solve/ecmdndpaklepekigmddhialnlmlkkoea?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-05T03:28:23Z",
+      "updated_at": "2025-03-27T03:10:17.912382Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "088cafe1-6a26-4c7f-b39e-1b0eff3a1669",
+      "name": "Nexweave - LinkedIn AI Messages",
+      "slug": "nexweave-linkedin-ai-messages",
+      "description": "Enhance LinkedIn outreach with visuals \u0026 AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nexweave-linkedin-ai-messages.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nexweave-linkedin-ai-mess/egidelceefbpckhnigjlbbheknedgdek?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:50Z",
+      "updated_at": "2025-03-27T03:00:18.655893Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "18dd9793-f427-44e6-8555-0e0631cc34e0",
+      "name": "Niddam_AI",
+      "slug": "niddam-ai",
+      "description": "Private chatbot for exploring space engineering with AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/niddam-ai.jpg",
+      "website_url": "https://www.niddampro.site?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-17T08:47:05Z",
+      "updated_at": "2025-03-27T03:11:44.561645Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "09eea34e-859f-40d6-85ce-948bf917842d",
+      "name": "Nightly Traffic",
+      "slug": "nightly-traffic",
+      "description": "Events and venues app",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nightly-traffic.webp",
+      "website_url": "https://downloadnightly.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-12T09:07:17Z",
+      "updated_at": "2025-03-27T02:59:27.566472Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ae5ad6d3-016b-46a4-99c4-bf03dc20083c",
+      "name": "NihonGo",
+      "slug": "nihongo",
+      "description": "Real-time translation between English and Japanese",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nihongo.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nihongo/ainlmnhcnmfhngajgfboobaageipmibf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-06T14:44:51Z",
+      "updated_at": "2025-03-27T03:08:18.390884Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "30e548df-dd02-477b-abb6-40dbc454c5e5",
+      "name": "Nirvana AI",
+      "slug": "nirvana-ai",
+      "description": "A centralized AI platform for streamlined daily work.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nirvana-ai.jpg",
+      "website_url": "https://myfuture.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-24T15:07:00Z",
+      "updated_at": "2025-03-27T03:20:45.43771Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "103ffbd6-9c9b-4c80-873b-90b59af02633",
+      "name": "No Fate AI",
+      "slug": "no-fate-ai",
+      "description": "AI assistant for software engineering tasks with expert support.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/no-fate-ai.jpg",
+      "website_url": "https://nofateai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-04T10:06:20Z",
+      "updated_at": "2025-03-27T03:11:34.551841Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dbc6acc3-65a5-40e2-92fa-be9aefd0a186",
+      "name": "No Limits Chat GPT Bronze",
+      "slug": "no-limits-chat-gpt-bronze",
+      "description": "Revolutionizing browsing with Chat GPT",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/no-limits-chat-gpt-bronze.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/no-limits-chat-gpt-bronze/bfancjbgjcojnoolkobgfakhnbmkneep?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:19Z",
+      "updated_at": "2025-03-27T03:01:49.427348Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f02a4955-e4f6-4a24-9b45-ffc04b157250",
+      "name": "No Limits Chat GPT Free",
+      "slug": "no-limits-chat-gpt-free",
+      "description": "Revolutionary AI chat extension",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/no-limits-chat-gpt-free.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/no-limits-chat-gpt-free/dagnobihhbopmckdiniodgmclicnogna?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:53Z",
+      "updated_at": "2025-03-27T03:03:56.877002Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "12950aef-49fe-4d0d-886b-b2e25c4ba055",
+      "name": "No Limits Chat GPT Premium",
+      "slug": "no-limits-chat-gpt-premium",
+      "description": "Revolutionize browsing with advanced AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/no-limits-chat-gpt-premium.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/no-limits-chat-gpt-premiu/oabmpgieceobnampcoljllgolpmdalnf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:37Z",
+      "updated_at": "2025-03-27T03:02:50.1186Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dbc920a4-9f11-4229-863d-040c1f4bc5fb",
+      "name": "NoCaptcha Solver",
+      "slug": "nocaptcha-solver",
+      "description": "Effortlessly solve CAPTCHAs",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nocaptcha-solver.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nocaptcha-solver/kkphlbgphimpedeckcepigahenlmpggc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:40:12Z",
+      "updated_at": "2025-03-27T03:05:53.257466Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "88b62e88-c616-473f-b3b9-1278e6bda86e",
+      "name": "NoLang",
+      "slug": "nolang",
+      "description": "Convert web content into quick videos",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nolang.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nolang/kgakmojcjdelgadjdjlhpnejmeaphhgg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:32Z",
+      "updated_at": "2025-03-27T03:06:13.150138Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b67b0764-bc48-4376-aa72-139f23c64395",
+      "name": "Nocket",
+      "slug": "nocket",
+      "description": "Revolutionizing web browsing with AI-powered Notion integration",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nocket.jpg",
+      "website_url": "https://www.nocket.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-05T08:56:22Z",
+      "updated_at": "2025-03-27T03:07:59.479537Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "96977b04-f174-4b07-ade9-53def6d07f65",
+      "name": "NodeFlair - One-Click Job Apply",
+      "slug": "nodeflair-one-click-job-apply",
+      "description": "Streamline job applications with one-click apply",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nodeflair-one-click-job-apply.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nodeflair-one-click-job-a/npjbfpcicpkacgpefjhhdcfeflgpdbkl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:08Z",
+      "updated_at": "2025-03-27T03:06:59.399531Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7518c9b1-9f09-44a5-8440-3b4fbf3fa4b5",
+      "name": "Noometic AI",
+      "slug": "noometic-ai",
+      "description": "AI creator discovery engine for social media",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/noometic-ai.jpg",
+      "website_url": "https://noometic.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-05T08:56:31Z",
+      "updated_at": "2025-03-27T03:08:07.02548Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0972fb04-cd8c-419a-8bde-fdf4442324cc",
+      "name": "NoteGPT: AI Flashcard for Quizlet and Cram",
+      "slug": "notegpt-ai-flashcard-for-quizlet-and-cram",
+      "description": "AI Flashcard tool for smarter learning",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notegpt-ai-flashcard-for-quizlet-and-cram.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/notegpt-ai-flashcard-for/eacfcoicoelokngmcgkkdakohpaklgmk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:18:55Z",
+      "updated_at": "2025-03-27T03:03:23.973241Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6dd9a5d9-7465-4584-8c2f-006ed7df647a",
+      "name": "NoteMonkey.ai",
+      "slug": "notemonkey-ai",
+      "description": "Summary: Website XYZ is a user-friendly online platform with diverse features and a simple interface.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notemonkey-ai.jpg",
+      "website_url": "https://www.notemonkey.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-08T15:10:57Z",
+      "updated_at": "2025-03-27T03:20:55.817611Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d5091d80-708a-4db7-a223-1c8c1832c0fe",
+      "name": "Notion AI Anywhere",
+      "slug": "notion-ai-anywhere",
+      "description": "AI plugin for Notion workspace",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notion-ai-anywhere.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/notion-ai-anywhere/kifiejfehenpclioppfgjeginkeiaheb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:18Z",
+      "updated_at": "2025-03-27T03:04:12.001229Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "824b9773-7e6c-4220-8475-1a6b1be8017b",
+      "name": "Notion Flow",
+      "slug": "notion-flow",
+      "description": "Enhance Notion content viewing in Chrome",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notion-flow.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/notion-flow/mcabmofnikepdpecekdlildkmffpmokh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:10Z",
+      "updated_at": "2025-03-27T03:07:01.457424Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "85e35623-88f0-4a99-8156-1cd4819bca91",
+      "name": "NotionAI Plus",
+      "slug": "notionai-plus",
+      "description": "Browser extension for text analysis",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notionai-plus.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/notionai-plus/ilgkcoockdhdpkikaakkjacblhpmdmeo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-14T01:56:29Z",
+      "updated_at": "2025-03-27T03:07:29.833365Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "962b227d-8de4-4bd7-9b2b-f5136e6e5e51",
+      "name": "NotionAlPro",
+      "slug": "notionalpro",
+      "description": "Free NotionAI alternative",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notionalpro.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/notionalpro/mckfefoaiaejgenpioegpeklhodgeeli?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:11Z",
+      "updated_at": "2025-03-27T03:07:02.76671Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a90f6359-b52a-4d8c-a5d2-c64b966bf82e",
+      "name": "Notiondipity",
+      "slug": "notiondipity",
+      "description": "Discover ideas and connections in Notion.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/notiondipity.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/notiondipity/fbbjmpeddaliljeidpmgchbgdfpjglok?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:18Z",
+      "updated_at": "2025-03-27T03:01:47.387262Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "50bbf390-7f4e-4ceb-be6b-f1cb0e27567b",
+      "name": "Now\u0026Zen",
+      "slug": "now-zen",
+      "description": "Personalized guided meditations for peace and mindfulness.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/now-zen.jpg",
+      "website_url": "https://www.nowandzen.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-02-17T08:20:30Z",
+      "updated_at": "2025-03-27T02:57:48.727154Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6afa8b78-601f-46c3-b38f-16c4c022fb0c",
+      "name": "Nuggets - Related, Curated Reads \u0026 Discussion",
+      "slug": "nuggets-related-curated-reads-discussion",
+      "description": "Explore articles with AI chat",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nuggets-related-curated-reads-discussion.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/nuggets-related-curated-r/hlajckcphjjnphonpeocojolninddkeh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:08Z",
+      "updated_at": "2025-03-27T03:00:42.853062Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ea0119b8-73a6-4a70-ae4a-19f9fce19566",
+      "name": "Numbr",
+      "slug": "numbr",
+      "description": "Smart calculator and notepad with currency and cryptocurrency features",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/numbr.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/numbr/cncafkneilkicolelogcmmgblojmhfng?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:34:40Z",
+      "updated_at": "2025-03-27T03:03:51.676812Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d13021c0-a811-44bc-bf63-dc07e1f019e5",
+      "name": "Nutrition Buddy",
+      "slug": "nutrition-buddy",
+      "description": "A groundbreaking app that tracks nutrition without counting calories.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/nutrition-buddy.jpg",
+      "website_url": "https://www.nutritionbuddyapp.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-08-12T10:19:26Z",
+      "updated_at": "2025-03-27T03:21:17.96159Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2c174101-fc30-40b4-8903-9731d785a1f8",
+      "name": "OCU AI",
+      "slug": "ocu-ai",
+      "description": "Track and showcase your self-learned knowledge and skills",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ocu-ai.jpg",
+      "website_url": "https://www.ocu.academy?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-02-20T01:46:41Z",
+      "updated_at": "2025-03-27T02:57:51.536968Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c42a0070-20d6-4ae0-a8c4-34f7224c69bb",
+      "name": "OfficeKube",
+      "slug": "officekube",
+      "description": "Productive workspace creation and automation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/officekube.webp",
+      "website_url": "https://officekube.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:30:42Z",
+      "updated_at": "2025-03-27T02:59:29.275358Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "87f599dc-513b-47b3-a012-81d8984210f0",
+      "name": "Omni",
+      "slug": "omni",
+      "description": "Companion extension for seamless web translation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/omni.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/omni/oklkjaocbenofkebcjbbpmfinhbdccok?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:37:43Z",
+      "updated_at": "2025-03-27T03:15:16.8813Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7f6cd222-c3da-4b6d-80d8-885e9bd1de1a",
+      "name": "OmniJobs",
+      "slug": "omnijobs",
+      "description": "AI-powered job matching",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/omnijobs.webp",
+      "website_url": "https://omnijobs.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-20T02:09:58Z",
+      "updated_at": "2025-03-27T02:59:44.217045Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d941503e-4d45-4d87-abc5-6f87717e9c34",
+      "name": "Omnial.AI",
+      "slug": "omnial-ai",
+      "description": "AI services for creating specialist web agents with quality data.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/omnial-ai.jpg",
+      "website_url": "https://omnial.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:24:08Z",
+      "updated_at": "2025-03-27T03:13:12.258179Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "07867edd-36a1-41bc-87ea-049d75ff10e3",
+      "name": "Omnivity",
+      "slug": "omnivity",
+      "description": "Enhance Google Search with OpenAI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/omnivity.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/omnivity/bgmnpalfkofdnnfamhmbocdbhjloplii?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:20Z",
+      "updated_at": "2025-03-27T03:01:52.020963Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a0134c0e-d5f7-41ab-ae67-8bb03764778e",
+      "name": "Onairos",
+      "slug": "onairos",
+      "description": "Transform web experience with AI/ML and blockchain.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/onairos.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/onairos/apkfageplidiblifhnadehmplfccapkf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:38Z",
+      "updated_at": "2025-03-27T03:05:35.515512Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "87447164-cf42-437f-bb46-34a3c83d9c4a",
+      "name": "Oncely Giveaway",
+      "slug": "oncely-giveaway",
+      "description": "Free to Win Lifetime Access to ChatGPT！",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/oncely-giveaway.png",
+      "website_url": "https://www.oncely.ai/?ref=TOOLIFY",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-11T13:55:50Z",
+      "updated_at": "2025-03-27T03:22:08.361951Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c49fec34-a3a0-47c5-b272-1adb5a412daf",
+      "name": "One Red Maple Smart Shopping Assistant",
+      "slug": "one-red-maple-smart-shopping-assistant",
+      "description": "Shop conveniently with local store matches",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/one-red-maple-smart-shopping-assistant.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/one-red-maple-smart-shopp/clocnedhchbdgfcimmcecnffgohokcfc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:07Z",
+      "updated_at": "2025-03-27T03:00:50.915793Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d6ada2dd-5dcd-4db4-ab0e-399111f07205",
+      "name": "OpenAI ChatGPT Mini",
+      "slug": "openai-chatgpt-mini",
+      "description": "Compact chat extension for OpenAI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/openai-chatgpt-mini.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/openai-chatgpt-mini/iimdmhmbedafhnjdccafpegfkadhkpoj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:34Z",
+      "updated_at": "2025-03-27T02:59:59.485218Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bcc739d6-7953-4fb7-82ed-d178608f8209",
+      "name": "OpenAI ChatGPT Placeholder",
+      "slug": "openai-chatgpt-placeholder",
+      "description": "Automated placeholder text insertion",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/openai-chatgpt-placeholder.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/openai-chatgpt-placeholde/nhoolpblbejkbejgophapmmjhjblpopn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:20Z",
+      "updated_at": "2025-03-27T03:01:52.721566Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "57e71079-c88d-4491-812c-52f73253de24",
+      "name": "OpenAI Thread Lister",
+      "slug": "openai-thread-lister",
+      "description": "Organizes and displays OpenAI threads.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/openai-thread-lister.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/openai-thread-lister/cjmalnnjlimlnmhpincimnjienkgmhjk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:47Z",
+      "updated_at": "2025-03-27T03:00:10.538823Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3c73a5cd-df0f-4939-bd3a-4da7cba2eb12",
+      "name": "OpenChat AI",
+      "slug": "openchat-ai",
+      "description": "Unlock AI income opportunities with basic skills.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/openchat-ai.webp",
+      "website_url": "https://openchatmarketing.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-22T03:11:48Z",
+      "updated_at": "2025-03-27T02:58:54.490514Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

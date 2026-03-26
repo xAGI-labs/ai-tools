@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 3,
+    "page_size": 72,
+    "total_items": 149,
+    "total_pages": 3,
+    "prev_path": "categories/ai-homework-helper/page-0002.json"
+  },
+  "items": [
+    {
+      "id": "a24fe7fd-43f3-4ce4-b306-8e7130223db6",
+      "name": "Gauthmath",
+      "slug": "gauthmath-com",
+      "description": "Free math homework help with accurate answers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gauthmath-com.jpg",
+      "website_url": "https://gauthmath.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 4,
+      "views_count": 13578186,
+      "created_at": "2023-12-25T10:20:20Z",
+      "updated_at": "2025-03-27T08:04:25.916241Z",
+      "category_slugs": [
+        "ai-chatbot",
+        "ai-education-assistant",
+        "ai-homework-helper"
+      ]
+    },
+    {
+      "id": "84cf1772-e4d7-4187-851a-edd439481233",
+      "name": "Writeless",
+      "slug": "writeless-ai",
+      "description": "AI essay writing with real citations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/writeless-ai.jpg",
+      "website_url": "https://writeless.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 1,
+      "views_count": 175244,
+      "created_at": "2023-12-25T10:00:56Z",
+      "updated_at": "2025-03-27T06:15:49.223395Z",
+      "category_slugs": [
+        "ai-checker-essay",
+        "ai-content-generator",
+        "ai-homework-helper",
+        "essay-writer",
+        "writing-assistants"
+      ]
+    },
+    {
+      "id": "56b229c6-e200-40c4-959f-b68252ef0b31",
+      "name": "Ai Picture Answer",
+      "slug": "ai-picture-answer",
+      "description": "Upload a picture and get step-by-step solutions for math, chemistry, physics \u0026 more",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/4185ab9d-307a-4712-878d-e1e7a70f93ab_1759850302427.png",
+      "website_url": "https://aipictureanswer.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-07T15:18:25.710368Z",
+      "updated_at": "2025-10-08T11:59:18.82Z",
+      "category_slugs": [
+        "ai-homework-helper"
+      ]
+    },
+    {
+      "id": "48bade44-f18a-41cd-8a2d-6d31b853ce9b",
+      "name": "Chemistry AI",
+      "slug": "chemistry-ai",
+      "description": "AI-powered chemistry solver that handles various chemistry tasks including problem solving, equation balancing, and homework help.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e9e0f29b-d4be-467e-92d3-5fab059ff685_1765957548465.png",
+      "website_url": "https://chemistryai.io/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-17T07:45:57.040278Z",
+      "updated_at": "2025-12-17T12:32:27.045Z",
+      "category_slugs": [
+        "ai-homework-helper"
+      ]
+    },
+    {
+      "id": "7b337ce8-d099-4a5e-b403-b7b84ec102bc",
+      "name": "Feen AI",
+      "slug": "feen-ai",
+      "description": "AI Homework Helper",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/bbbb69b4-8bd9-43da-82dd-29afdbb60196_1764155588696.webp",
+      "website_url": "https://feen.ai",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-25T08:49:42.43068Z",
+      "updated_at": "2025-11-26T11:13:35.191Z",
+      "category_slugs": [
+        "ai-homework-helper"
+      ]
+    }
+  ]
+}

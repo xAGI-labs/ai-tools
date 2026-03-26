@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 3,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "96b1abd7-4d65-40f2-926a-79a9ce695a9c",
+      "name": "AudioNotes",
+      "slug": "audionotes",
+      "description": "\u003cp class=\"MuiTypography-root MuiTypography-body1 css-xrmcmn\"\u003eBoost productivity with voice-based note-taking and instant summarization.\u003c/p\u003e\r\n\r\n\u003cdiv class=\"css-6gd8i7\"\u003e\r\n\u003cdiv\u003e\u003c/div\u003e\r\n\u003c/div\u003e",
+      "logo_url": "https://icons.duckduckgo.com/ip3/audionotes.app.ico",
+      "website_url": "https://audionotes.app/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-09T00:00:00Z",
+      "updated_at": "2023-05-09T00:00:00Z",
+      "category_slugs": [
+        "ai-audio-editing",
+        "ai-note-taking",
+        "ai-product-design",
+        "ai-voice-assistant",
+        "ai-voice-changer",
+        "design-art",
+        "productivity",
+        "voice"
+      ]
+    },
+    {
+      "id": "7de4597f-24e3-4654-83f2-7402cefe51dc",
+      "name": "Notah AI",
+      "slug": "notah-ai",
+      "description": "Transform your meetings and conversations into actionable insights with Notah's AI-powered transcription, intelligent summarization, and smart note-taking.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/8e5c9626-47ec-40a7-a9b8-6aa28f60d3ef_1764788837838.jpg",
+      "website_url": "https://notah.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-03T19:07:21.621086Z",
+      "updated_at": "2025-12-08T10:22:17.3Z",
+      "category_slugs": [
+        "ai-note-taking"
+      ]
+    },
+    {
+      "id": "4d99c091-412c-4abb-80d8-0c62d6b7fc5b",
+      "name": "Zeeno",
+      "slug": "zeeno",
+      "description": "\u003cp class=\"MuiTypography-root MuiTypography-body1 css-gy2lsd\"\u003e\u003cstrong\u003eZeeno \u003c/strong\u003eis an AI assistant that integrates with the mobile keyboard, powered by ChatGPT. It\u003cem\u003e enables users to rephrase social media posts, generate email responses, brainstorm ideas, conduct research\u003c/em\u003e, and more, all without leaving the chat or note-taking app.\u003c/p\u003e",
+      "logo_url": "https://icon.horse/icon/zeeno.ai",
+      "website_url": "https://www.zeeno.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-10T00:00:00Z",
+      "updated_at": "2023-06-10T00:00:00Z",
+      "category_slugs": [
+        "ai-accounting-assistant",
+        "ai-business-idea-generator",
+        "ai-calendar-assistant",
+        "ai-consulting-assistant",
+        "ai-email-management",
+        "ai-note-taking",
+        "ai-personal-assistant-chatbot",
+        "ai-social-media-chatbot",
+        "business",
+        "chatbot",
+        "productivity"
+      ]
+    }
+  ]
+}

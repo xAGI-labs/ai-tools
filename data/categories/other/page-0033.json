@@ -1,0 +1,1388 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 33,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0034.json",
+    "prev_path": "categories/other/page-0032.json"
+  },
+  "items": [
+    {
+      "id": "8f3d9097-b20c-4e73-ad13-e5c0ef9a67e8",
+      "name": "uTwain",
+      "slug": "utwain",
+      "description": "AI writing tool for generating and enhancing texts for free.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/utwain.jpg",
+      "website_url": "https://utwain.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:19Z",
+      "updated_at": "2025-03-27T03:13:48.904179Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6488177e-eec8-4c14-ae6d-a58b5e219e10",
+      "name": "ultrasatprep",
+      "slug": "ultrasatprep",
+      "description": "AI-assisted SAT preparation platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ultrasatprep.jpg",
+      "website_url": "https://ultrasatprep.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-05T08:56:25Z",
+      "updated_at": "2025-03-27T03:08:05.27749Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3aa35e63-c6e6-4582-b46f-d11f7d86846b",
+      "name": "universally.chat - ChatGPT on any website",
+      "slug": "universally-chat-chatgpt-on-any-website",
+      "description": "Enhance websites with ChatGPT AI.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chromewebstore.google.com.ico",
+      "website_url": "https://chromewebstore.google.com/detail/universallychat-chatgpt-o/gmegeljejnflhdonjlgokhanebipjhoe?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:36Z",
+      "updated_at": "2025-03-27T03:04:35.041897Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f257713d-354b-41b1-a6c7-5db88bbe9a57",
+      "name": "upmedic",
+      "slug": "upmedic",
+      "description": "Tool for creating structured radiological descriptions using Upmedic editor.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/upmedic.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/upmedic/pfgpmjllbmemgmfkpigpbkbbhdoanjfa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-13T06:14:06Z",
+      "updated_at": "2025-03-27T03:13:30.574782Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "80604118-582e-46a3-ad5a-fff0de39c8e2",
+      "name": "useBase",
+      "slug": "usebase",
+      "description": "Extension for interacting with useBase collections",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/usebase.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/usebase/dpokhjjjcfhdkaknhjkflpgimgfckcgo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-05T03:28:25Z",
+      "updated_at": "2025-03-27T03:10:19.183925Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "46ee4b95-14f1-4eb4-a8a1-7717a07f414d",
+      "name": "vectranetworks.com",
+      "slug": "vectranetworks-com",
+      "description": "AI-powered threat detection and response platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/vectranetworks-com.jpg",
+      "website_url": "https://vectranetworks.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-07T10:02:35Z",
+      "updated_at": "2025-03-27T03:10:27.913354Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "620aefb3-659b-48d2-a198-05e981d012f0",
+      "name": "waspGPT",
+      "slug": "waspgpt",
+      "description": "waspGPT is an advanced AI tool for generating human-like text.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/waspgpt.jpg",
+      "website_url": "https://waspgpt.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-09T15:31:35Z",
+      "updated_at": "2025-03-27T03:20:39.262127Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "016c7bd3-1120-4fd5-b38b-d3ddcf4fde2b",
+      "name": "writing.gold",
+      "slug": "writing-gold",
+      "description": "AI writing assistant for improved efficiency.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/writing-gold.jpg",
+      "website_url": "https://writing.gold?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-11T10:21:58Z",
+      "updated_at": "2025-03-27T03:15:42.893443Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9380e2d7-d9ed-4713-a90c-c28eec68c0ed",
+      "name": "y-AI - Поиск товаров по картинке",
+      "slug": "y-ai",
+      "description": "Find cheaper products by searching with images using AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/y-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/y-ai-поиск-товаров-по-кар/cflfdcpjokkogfcdgoifkjjgbmbgjiep?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:25:13Z",
+      "updated_at": "2025-03-27T03:13:20.763021Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "32a26812-8bee-4f38-bfe2-16da50facde5",
+      "name": "yapayzeka.net",
+      "slug": "yapayzeka-net",
+      "description": "İşletmelerin muhasebe süreçlerini otomatikleştiren yazılım.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/yapayzeka-net.webp",
+      "website_url": "https://yapayzeka.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-06T16:32:34Z",
+      "updated_at": "2025-03-27T02:58:29.321331Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ed1908d8-191b-4cfe-9166-ca983edb1f42",
+      "name": "yiyi",
+      "slug": "yiyi",
+      "description": "A playful chat website with group chat and customizable chatbots.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/yiyi.jpg",
+      "website_url": "https://yiyily.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-23T08:25:47Z",
+      "updated_at": "2025-03-27T03:20:44.543164Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e5a12092-8db5-40d3-93d1-c02af325af10",
+      "name": "zgi.ai",
+      "slug": "zgi-ai",
+      "description": "Platform for LLM development",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/zgi-ai.webp",
+      "website_url": "https://zgi.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-14T04:51:14Z",
+      "updated_at": "2025-03-27T02:59:40.177368Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fba99ada-2fd3-45c5-9eff-fa5c1c9232a7",
+      "name": "zhakun.ai",
+      "slug": "zhakun-ai",
+      "description": "Track nutrition, fitness, goals, and sleep",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/zhakun-ai.webp",
+      "website_url": "https://zhakun.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-27T10:45:14Z",
+      "updated_at": "2025-03-27T02:59:01.117047Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0ae12296-5bfe-4c89-a9e0-75a3e3b58199",
+      "name": "zipx- copilot for ecommerce sellers",
+      "slug": "zipx-copilot-for-ecommerce-sellers",
+      "description": "AI-powered ecommerce operations optimization for SMBs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/zipx-copilot-for-ecommerce-sellers.jpg",
+      "website_url": "https://www.zipx.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-09-01T12:40:23Z",
+      "updated_at": "2025-03-27T03:21:39.710056Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c395cd17-24b0-4ed0-beb2-0c528c2b2382",
+      "name": "Łukasiewicz - Tabular data to ML model",
+      "slug": "ukasiewicz-tabular-data-to-ml-model",
+      "description": "Automate machine learning model creation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ukasiewicz-tabular-data-to-ml-model.webp",
+      "website_url": "https://lukasiewicz.tmlc.pl",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-03-26T14:11:57Z",
+      "updated_at": "2025-03-27T02:58:09.071021Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5e36a9cd-1253-4ac1-ba87-b95175049703",
+      "name": "Автоматическое решение Интерактивных Образовательных Модулей (ИОМ)",
+      "slug": "aa67entorevtvxilrydtwcusqi5u9dbl",
+      "description": "Automated solution for Interactive Educational Modules",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aa67entorevtvxilrydtwcusqi5u9dbl.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/автоматическое-решение-ин/bojfgkllmgmpiialegcgenienebkmfjn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-21T03:14:49Z",
+      "updated_at": "2025-03-27T03:09:23.78389Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f5ea279e-a452-4fb2-b58d-ee081826be89",
+      "name": "Скриншотер, Запись Экрана, ChatGPT",
+      "slug": "chatgpt-3",
+      "description": "Capture, record screens, and ask AI for help instantly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chatgpt-3.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/скриншотер-запись-экрана/gkaaffkabfmjaekemimgnajfboopmpom?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:47Z",
+      "updated_at": "2025-03-27T03:07:09.558768Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f9ff24c7-bf52-47f0-8a03-c0facf7ef3c5",
+      "name": "اطلب- مفعل كوبون الخصم التلقائى: وفر بدون جهد",
+      "slug": "y03hdtl9o0vdnm7g471xunhelwsnss3x",
+      "description": "Automated discount coupon finder for online shopping",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/y03hdtl9o0vdnm7g471xunhelwsnss3x.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/اطلب-مفعل-كوبون-الخصم-الت/jedcjgdipgkdglhdgpimflefijpadoab?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:08Z",
+      "updated_at": "2025-03-27T03:00:43.478486Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "47d87167-4bb0-4b45-8d49-24911d0b36d3",
+      "name": "التحضير",
+      "slug": "o6bbvrvnxmk7cx6qrkwogw9dlfr0uidx",
+      "description": "Automated lesson preparation tool for teachers",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/o6bbvrvnxmk7cx6qrkwogw9dlfr0uidx.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/التحضير/ndkfnkdjlakldafmnmmaoofkaceleoml?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:05Z",
+      "updated_at": "2025-03-27T03:03:01.173892Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c7a3afa6-8d69-43dc-a15c-720004974911",
+      "name": "アマゾン・楽天で自動でほしいものリストを作成「かいものーと」",
+      "slug": "楽天-自動-作成",
+      "description": "Shop smarter with automated list creation and notifications",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%A5%BD%E5%A4%A9-%E8%87%AA%E5%8B%95-%E4%BD%9C%E6%88%90.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/アマゾン・楽天で自動でほしいものリストを作成「かい/dbahhahhkalpdominkpdojdkbijbphng?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:05Z",
+      "updated_at": "2025-03-27T03:00:36.498139Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dfa7fa13-d0fc-4b76-9fef-782dfe210fdf",
+      "name": "サテライトAI.議事録作成AI",
+      "slug": "ai-議事録作成ai",
+      "description": "Automatically create and edit meeting minutes using AI during conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-%E8%AD%B0%E4%BA%8B%E9%8C%B2%E4%BD%9C%E6%88%90ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/サテライトai議事録作成ai/pigcoaliboahgcijpogmfhkjjampmidm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:48Z",
+      "updated_at": "2025-03-27T03:07:11.554189Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "37cafc41-9a2a-4c2e-85a7-51dcec2de7d9",
+      "name": "サテライトAI・サイドパネルAI",
+      "slug": "ai-ai",
+      "description": "AI-powered video creation from text and images",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/サテライトai・サイドパネルai/gjhpbddkgpemplopcgojckegolkjppip?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-06T14:44:51Z",
+      "updated_at": "2025-03-27T03:08:14.520242Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1c17c488-b3ea-4697-a3db-0de07b739fa2",
+      "name": "ワクチン空き枠ハイライト",
+      "slug": "空-枠",
+      "description": "Check open vaccination slots easily",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E7%A9%BA-%E6%9E%A0.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/ワクチン空き枠ハイライト/jallpgcpengeoondpogkdjecmngndmal?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:38Z",
+      "updated_at": "2025-03-27T03:01:44.156966Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "61ad8512-1e2c-4628-a33a-d683f95cb884",
+      "name": "一鍵翻譯",
+      "slug": "一鍵翻譯",
+      "description": "Fast AI translation tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E4%B8%80%E9%8D%B5%E7%BF%BB%E8%AD%AF.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/一鍵翻譯/gobdpcobbgbcmbojhpdonhhfogpicahd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-04T01:34:06Z",
+      "updated_at": "2025-03-27T03:12:56.496311Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "57a9aa24-f08d-45cc-b8e4-7d6e71b9cc6c",
+      "name": "个人词库",
+      "slug": "个人词库",
+      "description": "Multifunctional AI language tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E4%B8%AA%E4%BA%BA%E8%AF%8D%E5%BA%93.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/个人词库/ecneibafmplgkfjomcbbgbajkleanoml?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:12Z",
+      "updated_at": "2025-03-27T03:07:04.078518Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b1be6a0b-f5af-4ffc-b82c-64302c87074a",
+      "name": "京淘助手",
+      "slug": "京淘助手",
+      "description": "Smart shopping and affiliate marketing tool.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E4%BA%AC%E6%B7%98%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/京淘助手/ehedpkhlaonkccedaciehcihdmmglbkl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:11Z",
+      "updated_at": "2025-03-27T03:00:56.517372Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "11050179-e52a-4bda-9f55-99ec06837245",
+      "name": "代替テキスト生成 for X（旧Twitter）",
+      "slug": "代替-生成-for-x-旧twitter",
+      "description": "Automatically generate image descriptions",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E4%BB%A3%E6%9B%BF-%E7%94%9F%E6%88%90-for-x-%E6%97%A7twitter.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/代替テキスト生成-for-x（旧twitter）/akpofpnbjlhfdmcmnolgbpagpdkfkbef?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:55Z",
+      "updated_at": "2025-03-27T03:06:29.764643Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7c74645e-9e56-4c0b-9d56-be8c25731e0a",
+      "name": "先見基因",
+      "slug": "先見基因",
+      "description": "Leading precision medicine provider",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%85%88%E8%A6%8B%E5%9F%BA%E5%9B%A0.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/先見基因/ckgnbggddjngeimfhklbnnbdmhmpekng?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:21Z",
+      "updated_at": "2025-03-27T03:01:57.783807Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5ac448ad-7554-4b56-8ae2-08ff21b907a8",
+      "name": "可读-财报的ChatGPT3.5智能阅读插件",
+      "slug": "可读-财报的chatgpt3-5智能阅读插件",
+      "description": "AI plugin for financial report reading",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%8F%AF%E8%AF%BB-%E8%B4%A2%E6%8A%A5%E7%9A%84chatgpt3-5%E6%99%BA%E8%83%BD%E9%98%85%E8%AF%BB%E6%8F%92%E4%BB%B6.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/可读-财报的chatgpt35智能阅读插件/jofpimkdeigoaooklaeljkdgjojememh?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:36Z",
+      "updated_at": "2025-03-27T03:01:37.313155Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "458e8f44-7e0e-480d-aebd-9bbb9eb62494",
+      "name": "太联信息驿站",
+      "slug": "太联信息驿站",
+      "description": "Automated resume and job info import",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%A4%AA%E8%81%94%E4%BF%A1%E6%81%AF%E9%A9%BF%E7%AB%99.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/太联信息驿站/acafdljcgbbhljaekdgkcngjgilbgifn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:50Z",
+      "updated_at": "2025-03-27T03:00:17.829159Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2cb778ad-47f8-4f34-9b97-cf704519dac3",
+      "name": "夸克，浏览器 AI 助手",
+      "slug": "夸克-浏览器-ai-助手",
+      "description": "智能助手提供信息获取与翻译服务。",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%A4%B8%E5%85%8B-%E6%B5%8F%E8%A7%88%E5%99%A8-ai-%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/夸克，浏览器-ai-助手/nmaekpmealpjglikpijiegglabclhefp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-13T06:14:04Z",
+      "updated_at": "2025-03-27T03:13:27.992419Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "34aff6f6-2604-4a71-b8f8-50d9355b81ad",
+      "name": "字幕 Magic",
+      "slug": "字幕-magic",
+      "description": "Utilize video subtitles for AI-enhanced content analysis.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%AD%97%E5%B9%95-magic.webp",
+      "website_url": "https://chromewebstore.google.com/detail/字幕-magic/bldbpmadfcfbhccjcbhbiggpbofkbgja?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:48Z",
+      "updated_at": "2025-03-27T03:00:13.10386Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "58f51fd8-388e-42db-b1e7-3a9a2e84d68b",
+      "name": "完美历史｜History Master",
+      "slug": "完美历史-history-master",
+      "description": "Automated browser history cleaning for privacy.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%AE%8C%E7%BE%8E%E5%8E%86%E5%8F%B2-history-master.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/完美历史｜history-master/jcbkkhgmbedkjogeihdeecnhfloomfbd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:57Z",
+      "updated_at": "2025-03-27T03:07:42.700104Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "63802ffc-03d6-46ff-a29b-e981249bac6f",
+      "name": "小秋搜索-标签页",
+      "slug": "小秋搜索-标签页",
+      "description": "Multi-type aggregated search for efficient results.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%B0%8F%E7%A7%8B%E6%90%9C%E7%B4%A2-%E6%A0%87%E7%AD%BE%E9%A1%B5.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/小秋搜索-标签页/gjcmlkhngkpllgdblondgflhjdnnocam?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:04Z",
+      "updated_at": "2025-03-27T03:06:42.332249Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5781857e-0c28-4ba0-9807-3cc69ca07b0b",
+      "name": "小美智能助理",
+      "slug": "小美智能助理",
+      "description": "A productivity tool for translation, content improvement, and marketing ideas.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%B0%8F%E7%BE%8E%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/小美智能助理/cpenganlfihkadidlboklhhiinncalpf?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-13T06:14:05Z",
+      "updated_at": "2025-03-27T03:13:29.920963Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f128004b-506a-431a-a5ab-008acca31e60",
+      "name": "微知智能助手",
+      "slug": "微知智能助手",
+      "description": "Plugin for text actions and AI tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%BE%AE%E7%9F%A5%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/微知智能助手/plkffhkelohjkdknngidloogocbmpkod?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:40:16Z",
+      "updated_at": "2025-03-27T03:06:03.360759Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2c49424c-ef69-4e73-83d2-94f41ebced59",
+      "name": "心流，你的AI搜索助手",
+      "slug": "心流-你的ai搜索助手",
+      "description": "AI search assistant for answering questions and summarizing web content",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E5%BF%83%E6%B5%81-%E4%BD%A0%E7%9A%84ai%E6%90%9C%E7%B4%A2%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/心流，你的ai搜索助手/aogdamjbckjnaenpgpfkjmigfbmbkgbe?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-13T05:56:41Z",
+      "updated_at": "2025-03-27T03:10:32.125246Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "60a448e8-a6a5-40b9-a5aa-112eb2513171",
+      "name": "打工度假名額插件super X",
+      "slug": "打工度假名額插件super-x",
+      "description": "Automate and enhance NZ visa applications.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%89%93%E5%B7%A5%E5%BA%A6%E5%81%87%E5%90%8D%E9%A1%8D%E6%8F%92%E4%BB%B6super-x.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/打工度假名額插件super-x/ibmmnhldficgpeolaknjlbolihdjcojk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:39Z",
+      "updated_at": "2025-03-27T03:02:54.60353Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ec5dd2b8-5c91-404f-ae91-70fb7ddaa4d7",
+      "name": "新聞收集器",
+      "slug": "新聞收集器",
+      "description": "Prevent fake news with our plugin.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%96%B0%E8%81%9E%E6%94%B6%E9%9B%86%E5%99%A8.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/新聞收集器/iiefplhlkcleagmfcmcjpjiebflaooio?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:51Z",
+      "updated_at": "2025-03-27T03:05:41.48328Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5dc9add7-ed0e-411c-afd7-42ab60dfb065",
+      "name": "易仓1688货源宝(图搜同款)",
+      "slug": "易仓1688货源宝-图搜同款",
+      "description": "A sourcing tool for finding suppliers and comparing prices.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%98%93%E4%BB%931688%E8%B4%A7%E6%BA%90%E5%AE%9D-%E5%9B%BE%E6%90%9C%E5%90%8C%E6%AC%BE.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/易仓1688货源宝图搜同款/gbogbdnlglcgjedfmaobojhidfilgaop?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-04T01:34:07Z",
+      "updated_at": "2025-03-27T03:12:59.015382Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8ee38595-2851-4b40-baf4-088c7d010b15",
+      "name": "智媒助理",
+      "slug": "智媒助理",
+      "description": "Media assistant by Xinhua News Agency.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%99%BA%E5%AA%92%E5%8A%A9%E7%90%86.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/智媒助理/ocnilbhlpfhpkgehpeiehkefdjjldefa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:06Z",
+      "updated_at": "2025-03-27T03:03:01.830825Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "02d81a91-1189-43cb-9955-6a0aa73ea227",
+      "name": "智文Ai",
+      "slug": "智文ai",
+      "description": "人工智能私人助手",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%99%BA%E6%96%87ai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/智文ai/dhpmgeggjlnngpbgdljpihinieigigna?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:30Z",
+      "updated_at": "2025-03-27T03:01:24.902221Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a6df9a32-c10e-43e2-8a16-672bdd68469b",
+      "name": "智能勘误插件",
+      "slug": "智能勘误插件",
+      "description": "Multilingual intelligent correction browser plugin",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%99%BA%E8%83%BD%E5%8B%98%E8%AF%AF%E6%8F%92%E4%BB%B6.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/智能勘误插件/nopdagfocgbcciajcbopnanmpjepaple?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-05T03:28:22Z",
+      "updated_at": "2025-03-27T03:10:17.138915Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "570c3fc2-adaf-4f20-8f21-286130b7f571",
+      "name": "智谱清言-你的浏览器AI助手",
+      "slug": "智谱清言-你的浏览器ai助手",
+      "description": "A multifunctional tool for instant answers and content summaries.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%99%BA%E8%B0%B1%E6%B8%85%E8%A8%80-%E4%BD%A0%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8ai%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/智谱清言-你的浏览器ai助手/mnpdbmgpebfihcndnpgdaihnkmloclkd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-13T06:14:06Z",
+      "updated_at": "2025-03-27T03:13:31.205684Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "263ec70d-314b-406a-ac8f-5729b942717a",
+      "name": "来画 - 链接生成可控AI视频工具",
+      "slug": "来画-链接生成可控ai视频工具",
+      "description": "AI tool for creating digital portrait videos",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%9D%A5%E7%94%BB-%E9%93%BE%E6%8E%A5%E7%94%9F%E6%88%90%E5%8F%AF%E6%8E%A7ai%E8%A7%86%E9%A2%91%E5%B7%A5%E5%85%B7.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/来画-链接生成可控ai视频工具/mhimcehfhpcknmcaogjgjfgkkmknchpk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:06Z",
+      "updated_at": "2025-03-27T03:06:56.689074Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "05d864f3-2c20-48d0-9961-994fe7c0c2ca",
+      "name": "検索アシスタント",
+      "slug": "検索",
+      "description": "Enhanced search assistance with targeted recommendations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%A4%9C%E7%B4%A2.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/検索アシスタント/fncalccgfopkmjickflgbennmohdcffa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:34Z",
+      "updated_at": "2025-03-27T03:05:27.818207Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b9f4720d-fef1-40d4-bca2-1c341549e9db",
+      "name": "流畅阅读",
+      "slug": "流畅阅读",
+      "description": "Efficient browser translation plugin",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%B5%81%E7%95%85%E9%98%85%E8%AF%BB.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/流畅阅读/djnlaiohfaaifbibleebjggkghlmcpcj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:34Z",
+      "updated_at": "2025-03-27T03:06:16.321824Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8fde908c-6069-43f7-8398-235566d1de40",
+      "name": "海豚翻译 - 可编辑的网页翻译丨原文对照丨划词翻译",
+      "slug": "海豚翻译-可编辑的网页翻译丨原文对照丨划词翻译",
+      "description": "AI-powered website localization",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E6%B5%B7%E8%B1%9A%E7%BF%BB%E8%AF%91-%E5%8F%AF%E7%BC%96%E8%BE%91%E7%9A%84%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E4%B8%A8%E5%8E%9F%E6%96%87%E5%AF%B9%E7%85%A7%E4%B8%A8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/海豚翻译-可编辑的网页翻译丨原文对照丨划词翻译/ppebdbbcanodhikiccfghlfinmmoanel?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-06T14:44:52Z",
+      "updated_at": "2025-03-27T03:08:21.05582Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "34204bcc-4339-46f4-9ce8-096b2fa2b035",
+      "name": "登録くん",
+      "slug": "登録",
+      "description": "Automatically recognizes dates and times from images for Google Calendar.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E7%99%BB%E9%8C%B2.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/登録くん/nogkpdbmbijncehflocoomplolpapgnn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-04T01:34:07Z",
+      "updated_at": "2025-03-27T03:12:57.769045Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0de6453a-aa3a-4824-973a-717ac5444875",
+      "name": "省运费助手",
+      "slug": "省运费助手",
+      "description": "Real-time shipping fees, order profits, intelligent unpacking, channel upgrades \u0026 stats.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E7%9C%81%E8%BF%90%E8%B4%B9%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/省运费助手/hpblmpbddobmnknnfnfmlpnhgnminaeo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:08Z",
+      "updated_at": "2025-03-27T03:03:03.798707Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "760c72d9-c8e5-4ab8-b7bd-fec6ddece3a3",
+      "name": "知了AI-侧边栏GPT大模型AI搜索",
+      "slug": "知了ai-侧边栏gpt大模型ai搜索",
+      "description": "Enhance workflow efficiency with AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E7%9F%A5%E4%BA%86ai-%E4%BE%A7%E8%BE%B9%E6%A0%8Fgpt%E5%A4%A7%E6%A8%A1%E5%9E%8Bai%E6%90%9C%E7%B4%A2.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/知了ai-侧边栏gpt大模型ai搜索/efipifhijlaioghdmikebfmagbdikijg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:59Z",
+      "updated_at": "2025-03-27T03:07:44.69101Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aeea912b-87ae-4e5f-a809-f3f62492363d",
+      "name": "自動Chat GPT翻訳:プロンプト魔神",
+      "slug": "自動chat-gpt翻訳-魔神",
+      "description": "Enhance ChatGPT experience with Japanese language support",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E8%87%AA%E5%8B%95chat-gpt%E7%BF%BB%E8%A8%B3-%E9%AD%94%E7%A5%9E.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/自動chat-gpt翻訳プロンプト魔神/hlkbmbkcepacdcimcanmbofgcibjiepm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-23T14:00:34Z",
+      "updated_at": "2025-03-27T03:00:00.128564Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "dd4ab46d-a7e0-455d-b033-e3712939d2a8",
+      "name": "自動「生成を続ける」",
+      "slug": "自動-生成-続",
+      "description": "Automatically click 'Continue Generation' button",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E8%87%AA%E5%8B%95-%E7%94%9F%E6%88%90-%E7%B6%9A.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/自動「生成を続ける」/ihbahegnmkpngpdeihjlkkincmgjjndj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:39Z",
+      "updated_at": "2025-03-27T03:05:10.696026Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f776b143-5f40-4bf2-ad9d-26c7692f0616",
+      "name": "萃取-基于ChatGPT的免费网页阅读翻译助手",
+      "slug": "萃取-基于chatgpt的免费网页阅读翻译助手",
+      "description": "Efficiently read professional websites with GPT 4",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E8%90%83%E5%8F%96-%E5%9F%BA%E4%BA%8Echatgpt%E7%9A%84%E5%85%8D%E8%B4%B9%E7%BD%91%E9%A1%B5%E9%98%85%E8%AF%BB%E7%BF%BB%E8%AF%91%E5%8A%A9%E6%89%8B.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/萃取-基于chatgpt的免费网页阅读翻译助手/nbjobaefoghemhfofaibfdeneocnjnnk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:49Z",
+      "updated_at": "2025-03-27T03:00:17.18167Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "182967ee-7358-48ff-ad48-1cee95a486f7",
+      "name": "语境查词",
+      "slug": "语境查词",
+      "description": "Automated translation tool focused on word context.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E8%AF%AD%E5%A2%83%E6%9F%A5%E8%AF%8D.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/语境查词/mbkaaapbnmbodflhihfhafajeoafkmgd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:37:58Z",
+      "updated_at": "2025-03-27T03:15:24.453698Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6cb0d1c8-986c-4190-abfb-0fe68aad3b6f",
+      "name": "阿靳 聊聊自動回覆工具",
+      "slug": "阿靳-聊聊自動回覆工具",
+      "description": "Enhance responses \u0026 customize beyond Shopee's auto-responses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/%E9%98%BF%E9%9D%B3-%E8%81%8A%E8%81%8A%E8%87%AA%E5%8B%95%E5%9B%9E%E8%A6%86%E5%B7%A5%E5%85%B7.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/阿靳-聊聊自動回覆工具/pekkfjjdnfgckdidopkhkanchokplopm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:25Z",
+      "updated_at": "2025-03-27T03:02:12.926312Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "006d3d98-2220-4e98-bae2-f7ebbd8c5164",
+      "name": "구글렌즈를 이용한 파파고 이미지 번역",
+      "slug": "qgvxezulu1gopb44jv4fy8xvyhjbenw8",
+      "description": "AI tool for translating text from images",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/qgvxezulu1gopb44jv4fy8xvyhjbenw8.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/구글렌즈를-이용한-파파고-이미지-번역/ijbjmnnemfiopbhoafnnbohlknfpgeki?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-06T14:44:52Z",
+      "updated_at": "2025-03-27T03:08:22.548674Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "bacb6b25-f915-42d6-9270-9a4e4d635cb6",
+      "name": "불사자 - AI 이커머스 솔루션",
+      "slug": "ai-2",
+      "description": "Automation tool for enhancing eCommerce sales and decision-making.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-2.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/불사자-ai-이커머스-솔루션/ebgihidhndognkpkhbclgflembljmpjp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-01-07T01:52:00Z",
+      "updated_at": "2025-03-27T03:14:25.084117Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0a5b4425-26ed-4135-9721-25430233c953",
+      "name": "빅카인즈",
+      "slug": "mdpdzlgz5lzyxev5xlqyjq66hmbsrikw",
+      "description": "Browse and utilize Bigkinds services effortlessly",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mdpdzlgz5lzyxev5xlqyjq66hmbsrikw.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/빅카인즈/enfgghaadjbmmkkdgjncjgomihiagign?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:01Z",
+      "updated_at": "2025-03-27T03:06:37.379689Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "893223ea-774b-4aa8-a8f3-b4e25ef166f4",
+      "name": "오후스프링",
+      "slug": "t4qtbbjt1ew07rrkvxqbtfaosea9cxmj",
+      "description": "AI solution for global sellers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/t4qtbbjt1ew07rrkvxqbtfaosea9cxmj.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/오후스프링/hckcljgcfmhcgpopnhknefbalijhmonj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:04Z",
+      "updated_at": "2025-03-27T03:00:35.870552Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0c454cc7-63e0-4ff3-88e5-8b2bfecfba68",
+      "name": "AI Insult Generator",
+      "slug": "ai-insult-generator",
+      "description": "AI insult generator for personalized and creative insults",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-insult-generator.jpg",
+      "website_url": "https://aiinsults.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 4,
+      "views_count": 18032,
+      "created_at": "2024-06-28T14:53:45Z",
+      "updated_at": "2025-03-27T02:50:17.64896Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7d3bdf48-41a2-47e9-af08-43dfef89696e",
+      "name": "Tarotap",
+      "slug": "tarotap",
+      "description": "Online AI tarot reading for personal insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/tarotap.jpg",
+      "website_url": "https://tarotap.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 3,
+      "views_count": 219598,
+      "created_at": "2024-09-18T08:19:45Z",
+      "updated_at": "2025-03-27T02:48:39.955586Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c1474957-7178-42f9-8180-55e9e0f4ba55",
+      "name": "Chat Youtube",
+      "slug": "chat-youtube",
+      "description": "Chat with YouTube videos for summaries, answers, and insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chat-youtube.jpg",
+      "website_url": "https://chatyoutube.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 3,
+      "views_count": 0,
+      "created_at": "2023-05-28T16:54:45Z",
+      "updated_at": "2025-03-27T03:19:38.011943Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "de2f8b69-7cee-47a9-ba97-0c0e77407f7b",
+      "name": "Uhmegle",
+      "slug": "uhmegle",
+      "description": "Explore AI moderated video and text chats with strangers globally.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/uhmegle.jpg",
+      "website_url": "https://uhmegle.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 1,
+      "views_count": 5036607,
+      "created_at": "2024-08-30T10:53:14Z",
+      "updated_at": "2025-03-27T03:15:49.007089Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c0fc06ff-281d-4f48-824b-6b03ef63dcaa",
+      "name": "revocalize.ai",
+      "slug": "revocalize-ai",
+      "description": "Create realistic AI voices or use licensed models with Revocalize AI in seconds.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/revocalize-ai.jpeg",
+      "website_url": "https://www.revocalize.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 1,
+      "views_count": 73166,
+      "created_at": "2023-07-28T06:40:06Z",
+      "updated_at": "2025-03-27T02:49:04.552037Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b34e0906-4151-4e0c-b062-af5b779af232",
+      "name": "0xAi",
+      "slug": "0xai",
+      "description": "0xAi",
+      "logo_url": "https://icon.horse/icon/0xai.quest",
+      "website_url": "https://0xai.quest",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-03T00:00:00Z",
+      "updated_at": "2023-04-03T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "113e82e4-0603-4f10-917d-7d3358404ec8",
+      "name": "2AI",
+      "slug": "2ai",
+      "description": "2AI",
+      "logo_url": "https://icon.horse/icon/2ai.app",
+      "website_url": "https://2ai.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-16T00:00:00Z",
+      "updated_at": "2023-04-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "72bbc20e-9699-4ac7-a18a-0ed74d277e59",
+      "name": "5-Out",
+      "slug": "5-out",
+      "description": "5-Out | Automated restaurant forecasting to optimize your net income",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/72bbc20e-9699-4ac7-a18a-0ed74d277e59_5-out.jpeg?",
+      "website_url": "https://www.5out.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-weather-forecasting",
+        "other"
+      ]
+    },
+    {
+      "id": "896450fe-e93d-4c3d-af07-ea33676a9178",
+      "name": "5-Out",
+      "slug": "5-out-1",
+      "description": "5-Out | Automated restaurant forecasting to optimize your net income",
+      "logo_url": "https://5out.io/favicon.ico",
+      "website_url": "https://www.5out.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-weather-forecasting",
+        "other"
+      ]
+    },
+    {
+      "id": "3a3133fc-37d9-496a-8967-5e4f73c04fdc",
+      "name": "88stacks",
+      "slug": "88stacks",
+      "description": "88stacks",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/3a3133fc-37d9-496a-8967-5e4f73c04fdc_88stacks.jpeg?",
+      "website_url": "https://www.88stacks.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "d22404d8-9436-4e73-b26b-1818098d9e7b",
+      "name": "88stacks",
+      "slug": "88stacks-1",
+      "description": "88stacks",
+      "logo_url": "https://88stacks.com/favicon.ico",
+      "website_url": "https://www.88stacks.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0f3dc103-ed1d-4b5e-b150-f8cf4cce554f",
+      "name": "99WEB AI",
+      "slug": "99web-ai",
+      "description": "99WEB AI",
+      "logo_url": "https://icon.horse/icon/app.99webdesign.net",
+      "website_url": "https://app.99webdesign.net",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-15T00:00:00Z",
+      "updated_at": "2023-05-15T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    }
+  ]
+}

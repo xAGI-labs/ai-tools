@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 6,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0007.json",
+    "prev_path": "categories/other/page-0005.json"
+  },
+  "items": [
+    {
+      "id": "b831e9a4-24ed-4f8f-98c6-0da99a929035",
+      "name": "Signify",
+      "slug": "signify",
+      "description": "AI-driven compliance automation for manufacturers",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/signify.webp",
+      "website_url": "https://www.getsignify.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 2001,
+      "created_at": "2024-06-23T14:14:11Z",
+      "updated_at": "2025-03-27T03:17:01.526762Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c15e893a-f745-4619-beb3-7f41c2c44750",
+      "name": "LangUI",
+      "slug": "langui",
+      "description": "Open Source Tailwind library with free AI and GPT project components.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/langui.jpg",
+      "website_url": "https://www.LangUI.dev?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1990,
+      "created_at": "2023-08-16T17:09:53Z",
+      "updated_at": "2025-03-27T03:17:02.518494Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "405b3b16-4ab9-49ed-a4ae-1ed2316b8f43",
+      "name": "ZETIC.MLange",
+      "slug": "zetic-mlange",
+      "description": "Server-less AI solution for mobile devices",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/zetic-mlange.jpg",
+      "website_url": "https://zetic.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1985,
+      "created_at": "2024-07-30T02:20:57Z",
+      "updated_at": "2025-03-27T02:52:33.57511Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ece26827-8206-4f4d-963b-783caa0e371c",
+      "name": "Overvoice",
+      "slug": "overvoice",
+      "description": "AI tool for adding professional voiceovers to videos quickly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/overvoice.jpg",
+      "website_url": "https://overvoice.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1976,
+      "created_at": "2024-08-27T09:20:48Z",
+      "updated_at": "2025-03-27T02:52:34.589296Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3a22d1c2-44db-45c5-b20e-75192f961827",
+      "name": "InspireMe",
+      "slug": "inspireme",
+      "description": "Maetel is a platform for content curation and engagement to help users grow their audience.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/inspireme.jpg",
+      "website_url": "https://www.maetel.team?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1971,
+      "created_at": "2023-07-13T11:59:26Z",
+      "updated_at": "2025-03-27T03:17:04.093098Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "02c03c72-75b7-4e84-ad4d-f5dde6509eac",
+      "name": "Open Graph Examples",
+      "slug": "open-graph-examples",
+      "description": "Enhance your Open Graph cards with advice and tools",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/open-graph-examples.webp",
+      "website_url": "https://ogimage.org?aff=O0D1K",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1940,
+      "created_at": "2024-03-10T14:01:00Z",
+      "updated_at": "2025-03-27T02:52:35.57275Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "af37a2c7-1058-49b3-b484-d06bd9615746",
+      "name": "FlexGPT",
+      "slug": "flexgpt",
+      "description": "FlexGPT provides free access to GPT-4, an advanced language model without subscription.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flexgpt.jpg",
+      "website_url": "https://flexgpt.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1926,
+      "created_at": "2023-05-10T12:26:25Z",
+      "updated_at": "2025-03-27T03:17:04.996902Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c330f8f0-ab2f-4ac9-8193-bc5c42db15b5",
+      "name": "SciPub+",
+      "slug": "scipub",
+      "description": "Transforming academic writing with AI-powered assistants.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/scipub.jpg",
+      "website_url": "https://scipubplus.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1911,
+      "created_at": "2023-12-17T14:37:37Z",
+      "updated_at": "2025-03-27T03:17:05.977599Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6965cdb2-1ce1-4603-a6fa-831fda82e900",
+      "name": "pearhealthlabs.com",
+      "slug": "pearhealthlabs-com",
+      "description": "Adaptive digital coaching software for personalized fitness.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/pearhealthlabs-com.webp",
+      "website_url": "https://pearhealthlabs.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1906,
+      "created_at": "2024-04-05T08:15:55Z",
+      "updated_at": "2025-03-27T02:52:36.421774Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a4bd0b13-e728-455f-8f1b-89b0383efe8a",
+      "name": "Saywise",
+      "slug": "saywise",
+      "description": "Live video AMAs connecting advice seekers with professionals.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/saywise.jpg",
+      "website_url": "http://saywise.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1899,
+      "created_at": "2025-03-26T09:24:37Z",
+      "updated_at": "2025-03-27T02:52:37.25874Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3c0c81ec-b3d9-4d33-8053-c2af40054e9e",
+      "name": "CollegeBot.AI",
+      "slug": "collegebot-ai",
+      "description": "AI platform for academic questions and job search assistance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/collegebot-ai.jpg",
+      "website_url": "https://collegebot.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1890,
+      "created_at": "2024-11-22T06:14:33Z",
+      "updated_at": "2025-03-27T02:52:38.166078Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3d9a19c9-e3bb-4533-a845-522dafabf291",
+      "name": "Priz Guru",
+      "slug": "priz-guru",
+      "description": "Engineering problem-solving solution platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/priz-guru.jpg",
+      "website_url": "https://priz.guru?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1865,
+      "created_at": "2024-07-10T11:40:05Z",
+      "updated_at": "2025-03-27T02:52:39.11175Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3a7ec857-2d01-46a0-a860-dfee1de2d7dd",
+      "name": "Strawberry AI",
+      "slug": "strawberry-ai",
+      "description": "AI project focused on improving reasoning and long-term tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/strawberry-ai.jpg",
+      "website_url": "https://www.strawberyai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1799,
+      "created_at": "2024-08-30T09:44:09Z",
+      "updated_at": "2025-03-27T02:52:40.259036Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7b732aee-51d2-4a03-97a1-34d1b5676e0f",
+      "name": "Monitaur",
+      "slug": "monitaur",
+      "description": "Monitaur is an AI governance platform that manages and audits AI systems, ensuring assurance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/monitaur.jpeg",
+      "website_url": "https://monitaur.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1703,
+      "created_at": "2023-03-07T08:48:50Z",
+      "updated_at": "2025-03-27T03:17:06.713875Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f37a1823-6985-41b7-966d-d4f8417daa1d",
+      "name": "The Grok App",
+      "slug": "the-grok-app",
+      "description": "Secure document analysis",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/the-grok-app.webp",
+      "website_url": "https://thegrokapp.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1693,
+      "created_at": "2024-04-27T10:45:14Z",
+      "updated_at": "2025-03-27T02:52:41.155753Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4dec06f7-4b65-485f-ac20-31f7e683d405",
+      "name": "Surfed",
+      "slug": "surfed",
+      "description": "Powerful history and bookmark manager.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/surfed.webp",
+      "website_url": "https://surfed.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1692,
+      "created_at": "2024-04-07T02:54:24Z",
+      "updated_at": "2025-03-27T02:52:42.028871Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "af0ec244-e8cf-4f9e-9a15-74c6ed95a2b7",
+      "name": "Dreamora",
+      "slug": "dreamora",
+      "description": "Free dream interpretation with AI",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dreamora.webp",
+      "website_url": "https://www.dreamora.online?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1635,
+      "created_at": "2024-04-19T05:44:27Z",
+      "updated_at": "2025-03-27T02:52:42.93134Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c59943a3-b35f-4b7b-b686-a558496e2673",
+      "name": "Substrate",
+      "slug": "substrate",
+      "description": "Optimized API for multi-step AI programs",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/substrate.jpg",
+      "website_url": "https://www.substrate.run?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1628,
+      "created_at": "2024-07-10T15:19:06Z",
+      "updated_at": "2025-03-27T02:52:43.802893Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fc636b7f-0461-4e4f-ac24-c86baa91866d",
+      "name": "Foundry",
+      "slug": "foundry",
+      "description": "Platform for building and enhancing AI agents for businesses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/foundry.jpg",
+      "website_url": "https://www.thefoundryai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1624,
+      "created_at": "2025-01-07T01:52:54Z",
+      "updated_at": "2025-03-27T02:52:45.166132Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c7e9f2f8-6baa-43cc-84c5-56d882ab9538",
+      "name": "YouApp",
+      "slug": "youapp",
+      "description": "Unlock love, friendship, and connections with YouApp.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/youapp.webp",
+      "website_url": "https://youapp.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1561,
+      "created_at": "2024-04-15T03:50:02Z",
+      "updated_at": "2025-03-27T02:52:45.995023Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e82d8f26-651e-48ef-a70b-78076e6faee5",
+      "name": "Trudo AI",
+      "slug": "trudo-ai",
+      "description": "Trudo AI simplifies fine-tuning of OpenAI GPT3 models without coding.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/trudo-ai.jpg",
+      "website_url": "https://www.trudo.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1557,
+      "created_at": "2023-05-30T07:48:15Z",
+      "updated_at": "2025-03-27T03:17:07.789606Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6c62052a-6998-49c4-b645-866fcebdc760",
+      "name": "homesales.com.au",
+      "slug": "homesales-com-au",
+      "description": "Comprehensive real estate platform for property search and insights",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/homesales-com-au.jpg",
+      "website_url": "https://homesales.com.au?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1532,
+      "created_at": "2024-07-21T03:15:27Z",
+      "updated_at": "2025-03-27T02:52:47.090705Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "61c2f28f-b4e3-4616-b77e-e16d9120912d",
+      "name": "Jobform Automator",
+      "slug": "jobform-automator",
+      "description": "AI job application automation tool for LinkedIn, Indeed, Monster",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/jobform-automator.webp",
+      "website_url": "https://jobformautomator.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1494,
+      "created_at": "2024-06-20T11:16:51Z",
+      "updated_at": "2025-03-27T02:52:47.997464Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ed2b330b-9e1a-4fce-87da-c62c7ba3f22e",
+      "name": "PlugLead",
+      "slug": "zapcloud-com-br",
+      "description": "Exciting news, ZapCloud is now PlugLead!",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/zapcloud-com-br.jpg",
+      "website_url": "https://zapcloud.com.br",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1474,
+      "created_at": "2023-12-25T10:00:57Z",
+      "updated_at": "2025-03-27T03:17:09.537982Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7f269a2a-ec51-4d4f-ae78-3fc5f5f3d43a",
+      "name": "Batteries Included",
+      "slug": "batteries-included",
+      "description": "One-click DevOps platform for efficient infrastructure deployment.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/batteries-included.jpg",
+      "website_url": "https://www.batteriesincl.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1458,
+      "created_at": "2024-10-18T08:39:49Z",
+      "updated_at": "2025-03-27T02:52:48.819681Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3918879e-9dd9-42ec-aad9-23237b30453e",
+      "name": "jsoneditor.io",
+      "slug": "jsoneditor-io",
+      "description": "An online tool for editing and converting JSON, YAML, and XML.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/jsoneditor-io.jpg",
+      "website_url": "https://jsoneditor.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1426,
+      "created_at": "2024-10-21T02:10:37Z",
+      "updated_at": "2025-03-27T02:52:49.696919Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c6b6e42b-e377-4a0a-ad30-87021d432163",
+      "name": "DealWorthIt",
+      "slug": "dealworthit",
+      "description": "AI-powered software for real estate investment underwriting.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dealworthit.jpg",
+      "website_url": "https://dealworthit.com/invite/MzQ0",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1423,
+      "created_at": "2024-10-28T01:41:55Z",
+      "updated_at": "2025-03-27T02:52:50.616784Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3ebdb026-02b2-4e4c-b94a-ce7512b866f9",
+      "name": "winkmody.com",
+      "slug": "winkmody-com",
+      "description": "Access Wink Mod APK for enhanced video editing features.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/winkmody-com.jpg",
+      "website_url": "https://winkmody.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1399,
+      "created_at": "2024-11-11T04:24:08Z",
+      "updated_at": "2025-03-27T02:52:52.378466Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a65cabf1-2464-4dc1-b0aa-e785103f04c8",
+      "name": "invoice box (发票盒子)",
+      "slug": "invoice-box-发票盒子",
+      "description": "Automates invoice management and reimbursement processes with AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/invoice-box-%E5%8F%91%E7%A5%A8%E7%9B%92%E5%AD%90.jpg",
+      "website_url": "https://www.fapiaohezi.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1397,
+      "created_at": "2025-03-04T01:38:16Z",
+      "updated_at": "2025-03-27T02:52:53.245799Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aa439037-70c3-466e-9d39-64219690bd55",
+      "name": "Imagine Studios Ai",
+      "slug": "imagine-studios-ai",
+      "description": "Enhance creativity with cutting edge AI tools",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/imagine-studios-ai.jpg",
+      "website_url": "https://imaginestudios.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1389,
+      "created_at": "2024-02-17T07:51:07Z",
+      "updated_at": "2025-03-27T02:52:54.068392Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9a2a74ae-88ec-4905-a338-8dd2406a0142",
+      "name": "Growth Suite Shopify App",
+      "slug": "growth-suite-shopify-app",
+      "description": "Boost conversions with AI-driven discounts",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/growth-suite-shopify-app.webp",
+      "website_url": "https://www.growthsuite.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1384,
+      "created_at": "2024-04-22T03:11:48Z",
+      "updated_at": "2025-03-27T02:52:55.068104Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5529fecc-768e-435b-81af-674164a25cbe",
+      "name": "Personalized Beauty Quiz",
+      "slug": "personalized-beauty-quiz",
+      "description": "AI-based quiz to discover personalized skin tone matches.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/personalized-beauty-quiz.jpg",
+      "website_url": "https://zininoo.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1383,
+      "created_at": "2024-11-11T04:24:08Z",
+      "updated_at": "2025-03-27T02:52:56.153618Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4acad1d8-76e7-4aaf-8b6b-39d12b2f7a13",
+      "name": "Design System",
+      "slug": "design-system",
+      "description": "kickstartDS is a library for creating consistent and brand-compliant web frontends.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/design-system.jpg",
+      "website_url": "https://www.kickstartds.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1353,
+      "created_at": "2023-05-07T12:26:37Z",
+      "updated_at": "2025-03-27T02:52:57.140997Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "94d6c28c-ebbd-4bef-b250-fa4ced24393d",
+      "name": "Chinese Feng Shui Online Calculator",
+      "slug": "chinese-feng-shui-online-calculator",
+      "description": "Predict Feng Shui energy for optimal living.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chinese-feng-shui-online-calculator.webp",
+      "website_url": "https://chinesefengshui.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1340,
+      "created_at": "2024-04-27T10:45:13Z",
+      "updated_at": "2025-03-27T02:52:58.130057Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c764852b-6131-4c73-9114-18396216eebd",
+      "name": "Lushair Scalp Explorer",
+      "slug": "lushair-scalp-explorer",
+      "description": "AI tool for diagnosing hair loss and managing scalp health.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lushair-scalp-explorer.jpg",
+      "website_url": "https://www.lushair.net?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1334,
+      "created_at": "2024-08-10T10:52:45Z",
+      "updated_at": "2025-03-27T02:52:58.96356Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "733d2c7c-f002-4480-8016-c72a02f9a93c",
+      "name": "AI song \u0026 music maker: AI Studio",
+      "slug": "ai-song-music-maker-ai-studio",
+      "description": "All-in-one platform for content creation using AI tools.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-song-music-maker-ai-studio.jpg",
+      "website_url": "https://multiplewords.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1322,
+      "created_at": "2024-11-11T04:24:06Z",
+      "updated_at": "2025-03-27T02:52:59.970205Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a15fc8fc-517b-45e7-96d2-e3ae18ab51f2",
+      "name": "ChainClarity",
+      "slug": "chainclarity",
+      "description": "Demystifying crypto with AI-powered whitepaper explanations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/chainclarity.webp",
+      "website_url": "https://chainclarity.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1299,
+      "created_at": "2024-04-09T02:08:00Z",
+      "updated_at": "2025-03-27T02:53:00.795949Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "51d10c7d-7104-46ea-8bbf-de60613a812e",
+      "name": "Text to Calendar",
+      "slug": "text-to-calendar",
+      "description": "Effortlessly create calendar events",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/text-to-calendar.webp",
+      "website_url": "https://www.text-to-cal.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1282,
+      "created_at": "2024-06-14T01:56:52Z",
+      "updated_at": "2025-03-27T02:53:01.697745Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6e146ee7-0fb1-43cc-a8f7-71d18d482f4a",
+      "name": "CustomGPT OS",
+      "slug": "customgpt-os",
+      "description": "A system for creating and managing custom AI assistants.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/customgpt-os.jpg",
+      "website_url": "https://gumroad.com/a/499258643",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1280,
+      "created_at": "2024-10-21T02:10:41Z",
+      "updated_at": "2025-03-27T02:53:02.532444Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "011943cb-9d03-4321-9c52-5bd4a61822d7",
+      "name": "Vivas.AI",
+      "slug": "vivas-ai",
+      "description": "Vivas.AI is an AI-powered web app for improved productivity and efficiency.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/vivas-ai.jpg",
+      "website_url": "https://www.vivas.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1279,
+      "created_at": "2023-04-27T08:57:20Z",
+      "updated_at": "2025-03-27T03:17:10.461807Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "141cedde-ad58-4419-a1d6-a87d5fa634c8",
+      "name": "Snaplet Seed",
+      "slug": "snaplet-seed",
+      "description": "AI-powered tool for realistic mock data",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/snaplet-seed.webp",
+      "website_url": "https://snaplet.dev?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1277,
+      "created_at": "2024-05-14T04:30:44Z",
+      "updated_at": "2025-03-27T02:53:03.440241Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a73d418f-b42c-4ecd-87d4-428fa5131241",
+      "name": "Socap.ai",
+      "slug": "socap-ai",
+      "description": "AI-powered social capital management platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/socap-ai.jpg",
+      "website_url": "https://socap.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1277,
+      "created_at": "2024-07-10T15:19:05Z",
+      "updated_at": "2025-03-27T02:53:04.450385Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ca055098-302c-4fd5-9890-4dff7bbc24dd",
+      "name": "Omnifact",
+      "slug": "omnifact",
+      "description": "Privacy-first AI for businesses",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/omnifact.jpg",
+      "website_url": "https://omnifact.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1272,
+      "created_at": "2024-07-09T08:42:19Z",
+      "updated_at": "2025-03-27T02:53:05.482291Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c91042f9-7da3-44ec-a695-3792985ef88f",
+      "name": "OpenAI Text To Speech WebUI",
+      "slug": "openai-text-to-speech-webui",
+      "description": "Free online tool for converting text to speech",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/openai-text-to-speech-webui.jpg",
+      "website_url": "https://focusgulf.com/aispeechwebui?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1259,
+      "created_at": "2024-08-01T10:19:04Z",
+      "updated_at": "2025-03-27T02:53:06.330964Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "935757c1-dd92-4a9e-959c-518c0744ea7d",
+      "name": "Zillion",
+      "slug": "zillion",
+      "description": "AI analysts for financial firms",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/zillion.jpg",
+      "website_url": "https://www.tryzillion.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1225,
+      "created_at": "2024-07-30T02:20:58Z",
+      "updated_at": "2025-03-27T02:53:07.299213Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a0142a6a-a15d-4ba5-88ca-255a626e2575",
+      "name": "Opuna",
+      "slug": "opuna",
+      "description": "Digital marketplace for AI bots, educational materials, and more",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/opuna.jpg",
+      "website_url": "https://opuna.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1212,
+      "created_at": "2024-07-14T14:21:00Z",
+      "updated_at": "2025-03-27T02:53:08.357255Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b21fc5b8-bcbf-4a09-a879-ccc871f9ef4b",
+      "name": "Short Circuit: Your AI Assistant",
+      "slug": "short-circuit-your-ai-assistant",
+      "description": "Summary: \"Short Circuit is a user-friendly ChatGPT app for Apple devices, accessible through Siri and Shortcuts.\"",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/short-circuit-your-ai-assistant.jpg",
+      "website_url": "https://shortcircuit.chat?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1210,
+      "created_at": "2023-07-06T11:49:48Z",
+      "updated_at": "2025-03-27T03:17:11.364344Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "304251b4-a8f3-4ac7-a853-3fcfe1262b28",
+      "name": "AviatorExam",
+      "slug": "aviatorexam",
+      "description": "EdTech platform for EASA ATPL and PPL exam preparation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/aviatorexam.jpg",
+      "website_url": "https://aviatorexam.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1194,
+      "created_at": "2024-08-27T09:20:48Z",
+      "updated_at": "2025-03-27T02:53:09.37818Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "22b40a3d-ff06-46d2-a36d-f6d50886d61f",
+      "name": "DockyAI:ChatGPT sidebar Chrome extension",
+      "slug": "dockyai-chatgpt-sidebar-chrome-extension",
+      "description": "AI assistant for conversations, reading, and writing",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dockyai-chatgpt-sidebar-chrome-extension.jpg",
+      "website_url": "https://docky.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1188,
+      "created_at": "2024-07-03T05:01:19Z",
+      "updated_at": "2025-03-27T02:53:10.350358Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ec6b50b3-3802-4cfa-ac36-11ff9268aa68",
+      "name": "slanglabs.in",
+      "slug": "slanglabs-in",
+      "description": "Voice-first generative A.I. co-pilots for apps.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/slanglabs-in.webp",
+      "website_url": "https://slanglabs.in?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1186,
+      "created_at": "2024-04-05T11:40:35Z",
+      "updated_at": "2025-03-27T02:53:11.189003Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8b93589f-e097-42ae-b6ca-acdfc646dfc9",
+      "name": "AI Subreddit Finder",
+      "slug": "ai-subreddit-finder",
+      "description": "Discover relevant subreddits instantly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-subreddit-finder.webp",
+      "website_url": "https://aisubredditfinder.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1169,
+      "created_at": "2024-04-15T10:53:30Z",
+      "updated_at": "2025-03-27T02:53:12.130501Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "02a8d0a0-f1bc-4630-95d2-32dd10a13f7f",
+      "name": "MRGN",
+      "slug": "mrgn",
+      "description": "MRGN is budgeting and planning software that helps small businesses with financial challenges.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/mrgn.jpg",
+      "website_url": "https://mrgn.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1147,
+      "created_at": "2023-05-22T12:59:12Z",
+      "updated_at": "2025-03-27T03:17:12.276782Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f2994c55-4d06-4657-95c3-e29f0f0d8910",
+      "name": "Split Prompt",
+      "slug": "split-prompt",
+      "description": "Split longer prompts for ChatGPT using token-counting.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/split-prompt.jpg",
+      "website_url": "https://splitprompt.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1130,
+      "created_at": "2024-09-17T08:47:13Z",
+      "updated_at": "2025-03-27T02:53:13.01675Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b7b0296b-033d-4356-994b-0258ecab071a",
+      "name": "Wavo",
+      "slug": "wavo",
+      "description": "AI-powered email service for e-commerce outreach.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/wavo.jpg",
+      "website_url": "https://wavo.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1116,
+      "created_at": "2025-03-04T01:38:16Z",
+      "updated_at": "2025-03-27T02:53:13.866767Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "29253807-53cd-4f3c-811e-f18841367ec0",
+      "name": "Lalamu Studio Demo",
+      "slug": "lalamu-studio-demo",
+      "description": "Lalamu Studio offers creative tools and resources for artists and designers.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/lalamu-studio-demo.jpg",
+      "website_url": "https://lalamu.studio?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1096,
+      "created_at": "2023-05-13T14:53:46Z",
+      "updated_at": "2025-03-27T03:17:13.202299Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c8e607db-008a-48c3-868f-9c6095bd3c03",
+      "name": "irisradgroup.com",
+      "slug": "irisradgroup-com",
+      "description": "Automate road and roadway asset maintenance with A.I.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/irisradgroup-com.webp",
+      "website_url": "https://irisradgroup.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1092,
+      "created_at": "2024-04-10T17:53:55Z",
+      "updated_at": "2025-03-27T02:53:14.766557Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ccf6bbc5-abf6-4b57-ba75-a423ad9675f7",
+      "name": "Coffice",
+      "slug": "coffice",
+      "description": "Enhances team connection through visible appreciation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/coffice.webp",
+      "website_url": "https://www.coffice.chat?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1088,
+      "created_at": "2024-05-23T15:01:02Z",
+      "updated_at": "2025-03-27T02:53:15.605581Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "102093c3-2ec6-4a25-919b-552f1d31fc76",
+      "name": "Hey AI",
+      "slug": "hey-ai",
+      "description": "AI-powered dating platform for efficient matching and chatting",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/hey-ai.jpg",
+      "website_url": "https://www.hey-ai.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1088,
+      "created_at": "2024-07-05T09:01:29Z",
+      "updated_at": "2025-03-27T02:53:16.482768Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8813512d-3196-423a-abda-c623cb9ad290",
+      "name": "Datarango",
+      "slug": "datarango",
+      "description": "Fun learning platform for AI and data skills with gamification.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/datarango.jpg",
+      "website_url": "https://datarango.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1060,
+      "created_at": "2024-08-18T13:02:57Z",
+      "updated_at": "2025-03-27T02:53:18.078974Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0f0da215-d7ce-438d-89db-54b1ab216eeb",
+      "name": "Inteligência Artificial Hoje",
+      "slug": "intelig-ncia-artificial-hoje",
+      "description": "AI hub for tools, training, and news",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/intelig-ncia-artificial-hoje.jpg",
+      "website_url": "https://www.inteligenciaartificialhoje.pt?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1043,
+      "created_at": "2024-07-05T09:00:42Z",
+      "updated_at": "2025-03-27T02:53:19.802153Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0f0f5843-ad76-4330-8a3e-badfa73a6f3f",
+      "name": "TellMe",
+      "slug": "tellme",
+      "description": "Simple AI assistant for Vision Pro.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/tellme.webp",
+      "website_url": "https://tellmeai.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 1023,
+      "created_at": "2024-06-14T01:56:56Z",
+      "updated_at": "2025-03-27T02:53:20.72278Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f24f413d-228d-4006-9fab-7627c840b207",
+      "name": "Houmify",
+      "slug": "houmify",
+      "description": "Personalized AI assistant for homeowners",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/houmify.jpg",
+      "website_url": "https://houmify.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 974,
+      "created_at": "2024-08-01T10:19:04Z",
+      "updated_at": "2025-03-27T02:53:21.560248Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a9c1bbc8-aeb3-4e26-a715-da9c31607a1b",
+      "name": "EvryThink 1.0 - Financial Planning",
+      "slug": "evrythink-1-0-financial-planning",
+      "description": "A modular financial tool for startups and SMEs.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/evrythink-1-0-financial-planning.jpg",
+      "website_url": "https://www.evrythink.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 971,
+      "created_at": "2024-08-30T09:42:00Z",
+      "updated_at": "2025-03-27T02:53:22.464648Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a410f326-4e5c-46e3-bd19-6c965e6b14a6",
+      "name": "Capybara Affirmations",
+      "slug": "capybara-affirmations",
+      "description": "Customized affirmations powered by AI featuring capybaras to enhance happiness.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/capybara-affirmations.jpg",
+      "website_url": "https://capybaraaffirmations.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 969,
+      "created_at": "2024-11-16T13:15:28Z",
+      "updated_at": "2025-03-27T02:53:23.352214Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "0d69476e-dde6-4b62-87e8-32671c603866",
+      "name": "Minimax AI Video Generator",
+      "slug": "minimax-ai-video-generator",
+      "description": "Innovative platform for quick AI video creation.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/minimax-ai-video-generator.jpg",
+      "website_url": "https://minimaxaivideogenerator.org?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 968,
+      "created_at": "2024-09-11T01:58:48Z",
+      "updated_at": "2025-03-27T02:53:24.316018Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "21785b51-144b-46e2-baa2-cbe62bea95a9",
+      "name": "Magic Inspector",
+      "slug": "magic-inspector",
+      "description": "Automate browser testing using natural language instructions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/magic-inspector.jpg",
+      "website_url": "https://magicinspector.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 960,
+      "created_at": "2024-11-16T13:15:19Z",
+      "updated_at": "2025-03-27T02:53:25.348768Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "33c24c51-87a6-480f-8abd-c66bc837c8da",
+      "name": "Amica",
+      "slug": "amica",
+      "description": "Decentralized Machine Learning for customizable AI models and economic optimization.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/amica.jpg",
+      "website_url": "https://arbius.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 958,
+      "created_at": "2024-01-22T03:18:24Z",
+      "updated_at": "2025-03-27T02:53:26.303544Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "33d7235f-87dc-4757-be7b-9559ba611c1c",
+      "name": "Ikigai",
+      "slug": "ikigai",
+      "description": "AI system for fast assignment creation and feedback drafting.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ikigai.jpg",
+      "website_url": "https://ikigai.li?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 952,
+      "created_at": "2024-09-04T10:06:57Z",
+      "updated_at": "2025-03-27T02:53:27.253169Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c1fc922f-3791-442e-98bc-c6576241e0d2",
+      "name": "Melon",
+      "slug": "melon",
+      "description": "Your personal AI learning companion for better thinking.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/melon.jpg",
+      "website_url": "https://www.meln.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 947,
+      "created_at": "2023-09-14T16:19:24Z",
+      "updated_at": "2025-03-27T03:17:14.235914Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "075fd23d-fe39-42bc-9b37-119690625755",
+      "name": "Dict",
+      "slug": "dict",
+      "description": "Challenge your word-defining skills with Dict's daily word prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/dict.jpg",
+      "website_url": "https://www.dictgame.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 921,
+      "created_at": "2023-09-22T12:17:50Z",
+      "updated_at": "2025-03-27T03:17:15.273739Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "569365cf-89cd-415c-a629-16eded273409",
+      "name": "HoundDog.ai Static Code Scanner",
+      "slug": "hounddog-ai-static-code-scanner",
+      "description": "AI static code scanner for PII leak detection and compliance.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/hounddog-ai-static-code-scanner.jpg",
+      "website_url": "https://hounddog.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 920,
+      "created_at": "2024-10-21T02:10:38Z",
+      "updated_at": "2025-03-27T02:53:28.800795Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ee232c12-5991-46a6-bcb1-2f8a26f11939",
+      "name": "Jobzi Your AI-powered Job Search Wingman",
+      "slug": "jobzi-your-ai-powered-job-search-wingman",
+      "description": "Automated job application system",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/jobzi-your-ai-powered-job-search-wingman.webp",
+      "website_url": "https://www.getjobzi.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 917,
+      "created_at": "2024-04-15T13:30:51Z",
+      "updated_at": "2025-03-27T02:53:29.802198Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

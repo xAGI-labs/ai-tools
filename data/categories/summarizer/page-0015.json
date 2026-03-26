@@ -1,0 +1,252 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 15,
+    "page_size": 72,
+    "total_items": 1019,
+    "total_pages": 15,
+    "prev_path": "categories/summarizer/page-0014.json"
+  },
+  "items": [
+    {
+      "id": "41d79415-be64-4af8-9978-543a48df7cd1",
+      "name": "AI Summarizer best",
+      "slug": "ai-summarizer-best",
+      "description": "Transforms long articles into concise summaries quickly.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/ai-summarizer-best.jpg",
+      "website_url": "https://summarizer.best?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 1,
+      "views_count": 1997,
+      "created_at": "2024-11-05T01:49:17Z",
+      "updated_at": "2025-03-27T07:17:12.651956Z",
+      "category_slugs": [
+        "ai-productivity-tools",
+        "research-tool",
+        "summarizer"
+      ]
+    },
+    {
+      "id": "3c8524de-7fce-4de6-be0f-9743f0dc3cd5",
+      "name": "Airbnb Review Summarizer",
+      "slug": "airbnb-review-summarizer",
+      "logo_url": "https://airbnbreviewsummarizer.vercel.app/favicon.ico",
+      "website_url": "https://airbnbreviewsummarizer.vercel.app/|https://airbnbreviewsummarizer.vercel.app/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-03T00:00:00Z",
+      "updated_at": "2023-06-03T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "summarizer",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "4edf1535-d8f5-486e-b9fb-06db40cf5da9",
+      "name": "Arvin",
+      "slug": "arvin-2",
+      "description": "Arvin: a Chrome extension, provides an AI writing and reading assistant, including new features:\r\n\r\n1. YouTube summarizer: Youtube, Article \u0026amp; Blog summarizer\r\n2. AI writer: embedded brainstorm Tweet, LinkedIn post \u0026amp; gmail writing and reply.\r\n3. Fast access sidebar\r\n\r\n????️Simply Click ⌥ /alt + A to use OpenAI GPT on any website.\r\n????Built-in prompt library - Launch prompt Library using slash key \"/\".\r\n????Fast summary - Simply select the copy and ⌥ /alt + A to use it.\r\n????‍????Chat ...",
+      "logo_url": "https://tryarvin.com/favicon.ico",
+      "website_url": "https://www.tryarvin.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-29T00:00:00Z",
+      "updated_at": "2023-07-18T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-accounting-assistant",
+        "ai-blog-writer",
+        "ai-consulting-assistant",
+        "ai-finance-assistant",
+        "business",
+        "essay-writer",
+        "summarizer",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "addc5431-dc09-4381-bc95-185bb9eb8b39",
+      "name": "Brave Search Summarizer",
+      "slug": "brave-search-summarizer",
+      "description": "Secure, Fast, \u0026 Private Web Browser with Adblocker | Brave Browser",
+      "logo_url": "https://brave.com/favicon.ico",
+      "website_url": "https://brave.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-11T00:00:00Z",
+      "updated_at": "2023-06-11T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-video-search",
+        "summarizer",
+        "text-writing",
+        "video"
+      ]
+    },
+    {
+      "id": "5c21b3ad-3433-4396-a33d-e1d912d97271",
+      "name": "Summary Generator",
+      "slug": "summary-generator",
+      "description": "Introducing Text Summarizer - your intelligent assistant for text condensation! We bring you the power of AI and Machine Learning in a user-friendly application to help you cut through the clutter and get straight to the point.\r\n\r\nDo you find yourself struggling through long articles, reports, or documents? Ever wished you had a quick way to understand the main points without spending hours reading? Look no further, because Text Summarizer is here to help!\r\n\r\nOur cutting-edge AI algorithms di...",
+      "logo_url": "https://summarygenerator.ai/favicon.ico",
+      "website_url": "https://summarygenerator.ai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-02T00:00:00Z",
+      "updated_at": "2023-06-02T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-lyrics-generator",
+        "ai-prompt-generator",
+        "prompt",
+        "report-writing",
+        "summarizer",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "cb8ed6a6-265c-4ff5-b28a-50f48d6ae398",
+      "name": "Sumz AI",
+      "slug": "sumz-ai",
+      "description": "OpenAI Article Summarizer",
+      "logo_url": "https://icons.duckduckgo.com/ip3/summarizer.vicpra.com.ico",
+      "website_url": "https://summarizer.vicpra.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-27T00:00:00Z",
+      "updated_at": "2023-04-27T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-3d-design",
+        "design-art",
+        "summarizer",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "a6ebed86-c930-4d25-9df3-7f28894c3903",
+      "name": "Tuberizer",
+      "slug": "tuberizer",
+      "description": "AI powered summaries of your favourite YouTube channels in a custom feed so you can Watch Less Learn More.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d7dee049-e8e4-4f24-8480-fd8abefccd60_1771853028744.JPG",
+      "website_url": "https://tuberizer.com",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-02-23T10:43:00.411Z",
+      "updated_at": "2026-02-23T13:23:49.418Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "57c94898-59f1-4a75-9a7e-77474458ae3f",
+      "name": "Vowen",
+      "slug": "vowen",
+      "description": "Vowen is a private, offline, voice-first productivity app for dictation, AI workflows, meeting notes, and voice control on macOS and Windows.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/21677b96-5e02-4ec2-b84c-cf96c05bad71_1766499211370.jpg",
+      "website_url": "https://vowen.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-23T14:13:38.06111Z",
+      "updated_at": "2025-12-24T10:43:50.883Z",
+      "category_slugs": [
+        "summarizer",
+        "text-to-speech"
+      ]
+    },
+    {
+      "id": "99ef3d18-60d4-4bb3-b719-a844e8b71848",
+      "name": "Yishield AI",
+      "slug": "yishield-ai",
+      "description": "AI-powered summarizer that instantly turns text, PDFs, and videos into clear, concise insights to save time.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/d3920e9e-f399-4b08-8e5b-f821e69906e8_1773909506400.png",
+      "website_url": "https://yishield.org/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-19T08:38:33.841369Z",
+      "updated_at": "2026-03-20T15:02:27.97Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "4c31e978-e08b-4196-ab33-bc80ac3770c7",
+      "name": "Youtube Summarizer",
+      "slug": "youtube-summarizer-506598",
+      "description": "A free tool that generates concise summaries of YouTube videos using advanced AI technology.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/5b66a58b-ff29-4660-a2f8-8c105b323cc2_1748423501656.png",
+      "website_url": "https://youtubesummarizer.org/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-05-28T09:11:47.387257Z",
+      "updated_at": "2025-05-30T17:49:16.649Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    },
+    {
+      "id": "f0db0e40-1bbb-448d-87bf-a48e43ee9847",
+      "name": "turbo learn",
+      "slug": "turbo-learn-190246",
+      "description": "AI-Powered Learning Assistant | TurboLearn",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/84f23b41-51f5-41b2-aac1-63ac0dfd3b1e_1760170187402.png",
+      "website_url": "https://www.turbo-learn.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-11T08:09:50.759118Z",
+      "updated_at": "2025-10-12T22:58:47.115Z",
+      "category_slugs": [
+        "summarizer"
+      ]
+    }
+  ]
+}

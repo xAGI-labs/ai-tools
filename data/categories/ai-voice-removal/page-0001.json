@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 4,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "4831ee24-97bb-41ea-b022-79206a35a59e",
+      "name": "AI Studio",
+      "slug": "ai-studio",
+      "description": "Delete BG by Blend: Free Image Background Removal",
+      "logo_url": "https://icon.horse/icon/delete.bg",
+      "website_url": "https://www.delete.bg",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-photo-image-generator",
+        "ai-voice-removal",
+        "image",
+        "image-to-image",
+        "text-to-image",
+        "voice"
+      ]
+    },
+    {
+      "id": "a3e6cb05-0815-4d14-975f-582e43e5918c",
+      "name": "AI Studio",
+      "slug": "ai-studio-1",
+      "description": "Delete BG by Blend: Free Image Background Removal",
+      "logo_url": "https://icon.horse/icon/delete.bg",
+      "website_url": "https://www.delete.bg",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-photo-image-generator",
+        "ai-voice-removal",
+        "image",
+        "image-to-image",
+        "text-to-image",
+        "voice"
+      ]
+    },
+    {
+      "id": "30abec27-2d0a-4605-bc7c-c0ade679b8e6",
+      "name": "GhostCut",
+      "slug": "ghostcut",
+      "description": "GhostCut can complete video translation dubbing, hard subtitle translation and video subtitle removal with one click, video editing made simple",
+      "logo_url": "https://icon.horse/icon/jollaytoday.com",
+      "website_url": "https://jollaytoday.com/home/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-24T00:00:00Z",
+      "updated_at": "2023-05-24T00:00:00Z",
+      "category_slugs": [
+        "ai-animated-video",
+        "ai-audio-editing",
+        "ai-voice-removal",
+        "captions-or-subtitle",
+        "image-to-video",
+        "text-writing",
+        "video",
+        "video-to-video",
+        "voice"
+      ]
+    },
+    {
+      "id": "cbc7bc92-dd5e-4b85-ae81-a6c8a75ba88c",
+      "name": "Phot.ai",
+      "slug": "phot-ai",
+      "description": "Image Background Remover, AI Background Removal for Free",
+      "logo_url": "https://icons.duckduckgo.com/ip3/phot.ai.ico",
+      "website_url": "https://www.phot.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-18T00:00:00Z",
+      "updated_at": "2023-04-18T00:00:00Z",
+      "category_slugs": [
+        "ai-background-remover",
+        "ai-voice-removal",
+        "image",
+        "image-to-image",
+        "text-to-image",
+        "voice"
+      ]
+    }
+  ]
+}

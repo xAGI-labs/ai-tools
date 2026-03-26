@@ -1,0 +1,160 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 6,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "7fd1ba78-c6f3-44ef-9196-61487b930e75",
+      "name": "AI Lead Qualify",
+      "slug": "ai-lead-qualify",
+      "description": "AI Lead Qualify automates lead research for small businesses, solo founders, and sales teams who waste hours manually researching every inbound inquiry.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/b9623f48-0eee-4914-9ab3-4217894740fd_1768597015309.png",
+      "website_url": "https://aileadqualify.com/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-01-16T20:57:03.142097Z",
+      "updated_at": "2026-02-13T09:38:04.588Z",
+      "category_slugs": [
+        "ai-lead-qualification-chatbot"
+      ]
+    },
+    {
+      "id": "2fef463f-581b-4f89-996a-4541d60a91ae",
+      "name": "Chat2Code",
+      "slug": "chat2code",
+      "description": "\u003cp class=\"leading-7 [\u0026amp;:not(:first-child)]:mt-6\"\u003eThe first IA Chat that can generate Web Components for you in second !\u003c/p\u003e\r\nI use  to quickly build all your components.",
+      "logo_url": "https://chat2code.dev/favicon.ico",
+      "website_url": "https://chat2code.dev",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-13T00:00:00Z",
+      "updated_at": "2023-06-13T00:00:00Z",
+      "category_slugs": [
+        "ai-code-assistant",
+        "ai-code-generator",
+        "ai-lead-nurturing",
+        "ai-lead-qualification-chatbot",
+        "chatbot",
+        "code-explanation",
+        "code-it",
+        "marketing"
+      ]
+    },
+    {
+      "id": "efb2044e-5905-45d6-a88c-34df71b4613a",
+      "name": "RecurPost",
+      "slug": "recurpost",
+      "description": "RecurPost allows you to write social media posts that can go viral using ChatGPT. You can also schedule these posts to go out at a later time. We combine the content curation as well as content distribution in a single tool. We have been in the market since 2016 and are one of the leading social media management tools. Check us out today and share your feedback with us.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/recurpost.com.ico",
+      "website_url": "https://recurpost.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-27T00:00:00Z",
+      "updated_at": "2023-04-27T00:00:00Z",
+      "category_slugs": [
+        "ai-brand-management",
+        "ai-content-generator",
+        "ai-lead-qualification-chatbot",
+        "ai-social-media-chatbot",
+        "ai-social-media-management",
+        "ai-social-media-marketing",
+        "chatbot",
+        "marketing",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "8e02a91c-5f2c-42a5-9b38-6ee48a65d272",
+      "name": "RecurPost",
+      "slug": "recurpost-2",
+      "description": "\u003ch2 class=\"MuiTypography-root MuiTypography-body2 DMSans css-1vn6t3q\"\u003eRecurPost Features\u003c/h2\u003e\r\n\u003cdiv class=\"MuiBox-root css-0\"\u003e\r\n\u003cdiv\u003e\r\n\u003cp class=\"MuiTypography-root MuiTypography-body1 css-gy2lsd\"\u003e\u003cstrong\u003eRecurPost\u003c/strong\u003e is a social media management tool that utilizes ChatGPT to help users write viral social media posts. With the ability to schedule posts for future release, RecurPost combines content curation and distribution into a single platform. Established in 2016, RecurPost is a lead...",
+      "logo_url": "https://icons.duckduckgo.com/ip3/recurpost.com.ico",
+      "website_url": "https://recurpost.com/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-28T00:00:00Z",
+      "updated_at": "2023-04-28T00:00:00Z",
+      "category_slugs": [
+        "ai-brand-management",
+        "ai-content-generator",
+        "ai-lead-qualification-chatbot",
+        "ai-social-media-chatbot",
+        "ai-social-media-management",
+        "ai-social-media-marketing",
+        "chatbot",
+        "marketing",
+        "text-writing"
+      ]
+    },
+    {
+      "id": "b984b4e8-3e44-4e2c-9c9d-2ed91692a21f",
+      "name": "Rezi",
+      "slug": "rezi",
+      "description": "Rezi - The Leading AI Resume Builder trusted by 414,309 users",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/b984b4e8-3e44-4e2c-9c9d-2ed91692a21f_rezi.jpeg?",
+      "website_url": "https://www.rezi.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-chatbot-builder",
+        "ai-lead-nurturing",
+        "ai-lead-qualification-chatbot",
+        "chatbot",
+        "design-art",
+        "marketing"
+      ]
+    },
+    {
+      "id": "866237e9-d37a-49f7-8303-e92024d5f64e",
+      "name": "Rezi",
+      "slug": "rezi-1",
+      "description": "Rezi - The Leading AI Resume Builder trusted by 414,309 users",
+      "logo_url": "https://icons.duckduckgo.com/ip3/rezi.ai.ico",
+      "website_url": "https://www.rezi.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-chatbot-builder",
+        "ai-lead-nurturing",
+        "ai-lead-qualification-chatbot",
+        "chatbot",
+        "design-art",
+        "marketing"
+      ]
+    }
+  ]
+}

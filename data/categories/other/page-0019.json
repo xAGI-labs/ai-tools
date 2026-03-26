@@ -1,0 +1,1381 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 19,
+    "page_size": 72,
+    "total_items": 3685,
+    "total_pages": 52,
+    "next_path": "categories/other/page-0020.json",
+    "prev_path": "categories/other/page-0018.json"
+  },
+  "items": [
+    {
+      "id": "a8c209a4-2cd5-41e3-882b-5f629103b38d",
+      "name": "FinverAI",
+      "slug": "finverai",
+      "description": "AI financial data analysis",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/finverai.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/finverai/cgaklhidnjocnkicnggjoppjalabjcaa?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-06T14:44:52Z",
+      "updated_at": "2025-03-27T03:08:21.69107Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e17af06c-54a7-4635-b016-893e769aeba1",
+      "name": "FirePrep.chat",
+      "slug": "fireprep-chat",
+      "description": "AI platform for firefighter training",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fireprep-chat.jpg",
+      "website_url": "https://fireprep.chat?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-31T08:45:53Z",
+      "updated_at": "2025-03-27T03:10:02.793601Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "938e27ed-1895-46cb-8f1f-7042e778a488",
+      "name": "Firefly",
+      "slug": "firefly",
+      "description": "Firefly is a user-friendly AI memo hub for capturing and summarizing information.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/firefly.jpg",
+      "website_url": "https://firefly.best?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T14:30:45Z",
+      "updated_at": "2025-03-27T03:20:25.810133Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "810c4486-2064-41e2-8776-db63533e0d92",
+      "name": "Firstsales.io Email Generator",
+      "slug": "firstsales-io-email-generator",
+      "description": "Create tailored cold emails efficiently",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/firstsales-io-email-generator.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/firstsalesio-email-genera/dofafbfpjeaogkddljnibahbofcmcaff?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:18:32Z",
+      "updated_at": "2025-03-27T03:01:28.148578Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e244685b-ed6c-4723-9616-42a28452eb4e",
+      "name": "Fisher AI - Your Best Summary Copilot",
+      "slug": "fisher-ai-your-best-summary-copilot",
+      "description": "Chrome extension for summarizing web content.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fisher-ai-your-best-summary-copilot.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/fisher-ai-your-best-summa/ipfiijaobcenaibdpaacbbpbjefgekbj?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:30Z",
+      "updated_at": "2025-03-27T03:06:08.042896Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e27158ef-e40e-42ba-9a69-f9fa3b874180",
+      "name": "Fit:Match - 3D Scan \u0026 Shop",
+      "slug": "fit-match-3d-scan-shop",
+      "description": "Patented 3D scan app for personalized size recommendations",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fit-match-3d-scan-shop.jpg",
+      "website_url": "https://apps.apple.com/us/app/fit-match-3d-scan-shop/id6478330175?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-17T08:47:15Z",
+      "updated_at": "2025-03-27T03:11:50.034675Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5631a58c-00a8-46ac-9d5f-198bfe352082",
+      "name": "Five Phrases",
+      "slug": "five-phrases",
+      "description": "Learn essential travel phrases with Five Phrases, a pocket-sized language tool.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/five-phrases.jpg",
+      "website_url": "https://www.fivephrasesapp.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-03T09:27:36Z",
+      "updated_at": "2025-03-27T03:20:54.013094Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5393aa2d-f018-4117-8cf5-999313e4c908",
+      "name": "Flash UI",
+      "slug": "flash-ui",
+      "description": "Fast component library for seamless website development.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flash-ui.jpg",
+      "website_url": "https://flashui.site?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-13T06:14:34Z",
+      "updated_at": "2025-03-27T03:13:37.149152Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "340d9bd6-3778-4a83-832a-bcc999050768",
+      "name": "Flashalgo",
+      "slug": "flashalgo",
+      "description": "AI Edtech for efficient flashcard generation",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flashalgo.jpg",
+      "website_url": "https://flashalgo.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-08T09:48:07Z",
+      "updated_at": "2025-03-27T03:08:35.304517Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "422aefff-3418-48ac-a65a-13bb2ebfa70e",
+      "name": "Flashcard GPT Chrome Extension",
+      "slug": "flashcard-gpt-chrome-extension",
+      "description": "Generate and send flashcards easily",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flashcard-gpt-chrome-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/flashcard-gpt-chrome-exte/hggmiiimpamkejhgphlianabjaepgekb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:22Z",
+      "updated_at": "2025-03-27T03:01:03.308246Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d2d59b96-b5ba-4c58-913f-eb3c4cd5cab2",
+      "name": "Fleschkey",
+      "slug": "fleschkey",
+      "description": "AI text editor that analyzes and improves writing clarity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fleschkey.jpg",
+      "website_url": "https://fleschkey.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-28T01:37:46Z",
+      "updated_at": "2025-03-27T03:12:35.810227Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7c3381fe-61d7-4fc7-b894-0711d7516202",
+      "name": "Flexi",
+      "slug": "flexi",
+      "description": "AI flashcards for language learning",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flexi.jpg",
+      "website_url": "https://flexicards.app?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-07T02:52:21Z",
+      "updated_at": "2025-03-27T03:10:23.573025Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "910ed4f1-1a83-4ab8-85af-977ea8ad6fa3",
+      "name": "Flica",
+      "slug": "flica",
+      "description": "Automated open-time search and submission for US pilots",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flica.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/flica/hhmpmamdleppgaaneembaeemdnflmahe?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-08T12:58:19Z",
+      "updated_at": "2025-03-27T03:06:52.602806Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2e7e76b6-9f85-4f30-aaa8-a27725f4a288",
+      "name": "Flot AI - $37 for Lifetime Deal",
+      "slug": "flot-ai-37-for-lifetime-deal",
+      "description": "Use ChatGPT/Claude/Gemini on Any Apps and Websites.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flot-ai-37-for-lifetime-deal.png",
+      "website_url": "https://oncely.ai/products/flot-ai?utm_source=Toolify",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-11T14:04:52Z",
+      "updated_at": "2025-03-27T03:22:10.41886Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "956a64cc-5ea3-4ea7-acf1-b65b8c573a0a",
+      "name": "Flow Language Learning",
+      "slug": "flow-language-learning",
+      "description": "AI-powered language learning app for personalized experiences.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flow-language-learning.jpg",
+      "website_url": "https://flow-labs.co?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:28Z",
+      "updated_at": "2025-03-27T03:13:56.875295Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9ec2d5e2-d554-4a93-a4e4-a2672f1e4f06",
+      "name": "Flow Trials",
+      "slug": "flow-trials",
+      "description": "AI platform for matching patients with clinical trials.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flow-trials.jpg",
+      "website_url": "https://flowtrials.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:44:55Z",
+      "updated_at": "2025-03-27T03:15:31.260026Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2c0cdf92-1b70-4aa1-aed6-16feefc8a60f",
+      "name": "Flow: ChatGPT Sidebar",
+      "slug": "flow-chatgpt-sidebar",
+      "description": "Enhance ChatGPT access on-the-go",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flow-chatgpt-sidebar.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/flow-chatgpt-sidebar/ndmldohefgmnciihihioeeoiobchcmgi?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-04T04:35:17Z",
+      "updated_at": "2025-03-27T03:04:11.379712Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "27f13695-5484-45dc-aa68-17f30d284529",
+      "name": "FlowBuddy",
+      "slug": "flowbuddy",
+      "description": "App for blocking distractions and learning from app usage",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flowbuddy.jpg",
+      "website_url": "https://apps.apple.com/app/flowbuddy/id6479961860?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-17T08:47:15Z",
+      "updated_at": "2025-03-27T03:11:49.355592Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f39615d9-95c4-428a-80c8-06b7591e07b6",
+      "name": "Flowchart Maker",
+      "slug": "flowchart-maker",
+      "description": "Create and customize diagrams easily with Flowchart Maker.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/flowchart-maker.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/flowchart-maker/npiiinidjjddnffoiopbkncedkkhhbia?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:37:43Z",
+      "updated_at": "2025-03-27T03:15:17.502898Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "1f4e4e52-7ea7-46f3-8de3-d428c6254b41",
+      "name": "Fluffy Muffins for WhatsApp",
+      "slug": "fluffy-muffins-for-whatsapp",
+      "description": "AI browser enhancing WhatsApp for better communication and productivity.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fluffy-muffins-for-whatsapp.jpg",
+      "website_url": "https://fluffymuffins.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-11T01:58:46Z",
+      "updated_at": "2025-03-27T03:11:39.56747Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "282022c8-82f2-4197-ada4-568da4795faf",
+      "name": "Fluo",
+      "slug": "fluo",
+      "description": "Real-time chat with immersive venues and AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fluo.webp",
+      "website_url": "https://fluo.chat?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-04-07T02:54:22Z",
+      "updated_at": "2025-03-27T02:58:31.870838Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8f78295f-d6b9-4eba-9d0a-c28daa8b83a4",
+      "name": "FluteSpace Radiology Co-pilot",
+      "slug": "flutespace-radiology-co-pilot",
+      "description": "AI Copilot for improved radiology reporting and diagnosis.",
+      "logo_url": "https://icons.duckduckgo.com/ip3/chromewebstore.google.com.ico",
+      "website_url": "https://chromewebstore.google.com/detail/flutespace-radiology-co-p/caaohpccldcnohajkbednpaomdgdpajo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-10-23T04:24:33Z",
+      "updated_at": "2025-03-27T03:12:25.556045Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "afab6513-e8c5-4bce-b56b-66dabb56cfa7",
+      "name": "Focus Group Simulator",
+      "slug": "focus-group-simulator",
+      "description": "Cost-effective AI focus groups",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/focus-group-simulator.webp",
+      "website_url": "https://qingmuyili.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-26T10:30:46Z",
+      "updated_at": "2025-03-27T03:00:46.24783Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4f545001-0c01-4347-9eeb-99db73f4e9c2",
+      "name": "Focused",
+      "slug": "focused",
+      "description": "All-in-one productivity system for planning and achieving life goals.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/focused.jpg",
+      "website_url": "https://focusednotion.me/aff/whattheaiai/",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:44:57Z",
+      "updated_at": "2025-03-27T03:15:33.83032Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e2a10f8d-a5ca-4c32-8f58-dd460dce2562",
+      "name": "ForEffect",
+      "slug": "foreffect",
+      "description": "AI video effects tool simplifying advanced video editing tasks.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/foreffect.jpg",
+      "website_url": "https://foreffect.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-24T01:47:43Z",
+      "updated_at": "2025-03-27T03:11:57.629437Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "ccf34ac7-97c2-4f2e-a75a-0b06547175f1",
+      "name": "FormBee",
+      "slug": "formbee",
+      "description": "Collect user feedback with an easy-to-embed tool.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/formbee.jpg",
+      "website_url": "https://tryformbee.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-03-04T01:44:55Z",
+      "updated_at": "2025-03-27T03:15:30.417888Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "755a3b1a-9457-4cb9-9cac-22e46b1f3380",
+      "name": "Formtoo",
+      "slug": "formtoo",
+      "description": "ChatNote is a platform for real-time technical discussions and knowledge exchange.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/formtoo.jpg",
+      "website_url": "https://formtoo.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-05-28T16:51:31Z",
+      "updated_at": "2025-03-27T03:19:37.16969Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "14a8cc6e-fe4e-41ba-9bac-81a30f467a4b",
+      "name": "Foundry00",
+      "slug": "foundry00",
+      "description": "Automate and manage GCP infrastructure with intuitive prompts.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/foundry00.jpg",
+      "website_url": "https://foundry00.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:24:08Z",
+      "updated_at": "2025-03-27T03:13:13.897907Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "9d1f7c84-735c-480a-b4e2-9186c3ca9602",
+      "name": "Fracternal",
+      "slug": "fracternal",
+      "description": "AI Matching Service for Businesses and Fractional Executives",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fracternal.jpg",
+      "website_url": "https://www.fracternal.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-10T11:40:01Z",
+      "updated_at": "2025-03-27T03:09:00.644504Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7176cc2a-ccd4-4b11-98c4-d8b9be46e1e2",
+      "name": "Framed - Art Audio Guide",
+      "slug": "framed-art-audio-guide",
+      "description": "Personal AI guide offering audio descriptions of artwork.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/framed-art-audio-guide.jpg",
+      "website_url": "https://apps.apple.com/app/framed-ai-art-audio-guide/id6547833060?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-09-23T13:18:17Z",
+      "updated_at": "2025-03-27T03:11:53.471689Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d88c5e47-2ca0-49ee-baad-be1a3d9bf022",
+      "name": "Fred - The UXR shepherd",
+      "slug": "fred-the-uxr-shepherd",
+      "description": "Comprehensive user research tool for effective study execution and analysis.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fred-the-uxr-shepherd.jpg",
+      "website_url": "https://uxrshepherd.io?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-14T10:48:27Z",
+      "updated_at": "2025-03-27T03:10:40.344518Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "85666238-3821-487f-9837-e19419f34ba1",
+      "name": "Free AI Chat",
+      "slug": "free-ai-chat",
+      "description": "Free AI chat platform with various advanced chatbots.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/free-ai-chat.jpg",
+      "website_url": "https://free-ai-chat.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-13T06:14:35Z",
+      "updated_at": "2025-03-27T03:13:39.689264Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "72fe890d-992d-429c-a359-33c9d6d6b6d7",
+      "name": "Free Chat GPT-4o mini",
+      "slug": "free-chat-gpt-4o-mini",
+      "description": "Advanced AI model for text and vision tasks",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/free-chat-gpt-4o-mini.jpg",
+      "website_url": "https://chatgpt4o.space?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-30T02:28:31Z",
+      "updated_at": "2025-03-27T03:09:59.359408Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b8d87e25-a4bf-4afb-b479-cbe09b58480a",
+      "name": "Free Fraud Detection and Prevention",
+      "slug": "free-fraud-detection-and-prevention",
+      "description": "AI-powered fraud detection and prevention tool",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/free-fraud-detection-and-prevention.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/free-fraud-detection-and/iemeicdekmdodlacfmdocmbhejnbbaal?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:13:34Z",
+      "updated_at": "2025-03-27T03:02:43.036433Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "79deba60-802f-4e49-8cb2-84ea8997bb29",
+      "name": "Free Mobile Auto Login",
+      "slug": "free-mobile-auto-login",
+      "description": "Automatically fills in Free Mobile identifier.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/free-mobile-auto-login.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/free-mobile-auto-login/oghkhomghehinocjcpkkklcpkofcbddl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:13Z",
+      "updated_at": "2025-03-27T03:03:11.646749Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6045a722-1ddf-4949-89a4-bb65e2793cd2",
+      "name": "Free The Creator",
+      "slug": "free-the-creator",
+      "description": "Innovative funding method for startups",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/free-the-creator.webp",
+      "website_url": "https://app.misterrpink.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-03-09T06:32:01Z",
+      "updated_at": "2025-03-27T02:57:59.566664Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "51aa61a3-88ef-4d97-a255-69a4a6c136b4",
+      "name": "Frex",
+      "slug": "frex",
+      "description": "AI-driven data analysis platform",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/frex.jpg",
+      "website_url": "https://frex.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-13T16:31:02Z",
+      "updated_at": "2025-03-27T03:20:40.161619Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b2074340-58fe-435d-803d-22463fc7d797",
+      "name": "Fruit Fly Trap",
+      "slug": "fruit-fly-trap",
+      "description": "Get rid of fruit flies with AI-based Drosophila Trapping Solution.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fruit-fly-trap.jpg",
+      "website_url": "https://fruitflytrapai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-09-21T13:39:07Z",
+      "updated_at": "2025-03-27T03:21:47.628431Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "f3a878bc-0e96-4d67-bdae-9de95423de9f",
+      "name": "FundBase - Raise Funds but AI first",
+      "slug": "fundbase-raise-funds-but-ai-first",
+      "description": "AI platform connecting startups with ideal investors efficiently.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fundbase-raise-funds-but-ai-first.jpg",
+      "website_url": "https://fundbase.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:20Z",
+      "updated_at": "2025-03-27T03:13:50.612877Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fa4b8830-d173-4f4a-890e-70b89f50b5f0",
+      "name": "Future Proof",
+      "slug": "future-proof",
+      "description": "Predict your future role in the AI world and get prepared.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/future-proof.webp",
+      "website_url": "https://futureproof.click?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-03-26T14:11:58Z",
+      "updated_at": "2025-03-27T02:58:09.99732Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "a5d62c72-b755-4628-be22-c8ae26b0ddbe",
+      "name": "Fydback",
+      "slug": "fydback",
+      "description": "AI tool for personalized feedback",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/fydback.jpg",
+      "website_url": "https://www.fydbackai.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-09T11:23:27Z",
+      "updated_at": "2025-03-27T03:08:53.209667Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "3add9b52-2246-441d-bfd6-9fc783b995a3",
+      "name": "GENjourney",
+      "slug": "genjourney",
+      "description": "AI-powered travel planning for personalized trip itineraries.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/genjourney.jpg",
+      "website_url": "https://genjourney.ai?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-18T13:02:58Z",
+      "updated_at": "2025-03-27T03:11:02.523364Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "eb007e10-7fe7-48ea-8d96-e6545c5ec2fe",
+      "name": "GIIISP A.I插件",
+      "slug": "giiisp-a-i插件",
+      "description": "Conversational tool with large language model",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/giiisp-a-i%E6%8F%92%E4%BB%B6.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/giiisp-ai插件/jfhfoknbighmnkcifiefaellfggghemc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:22Z",
+      "updated_at": "2025-03-27T03:01:02.678948Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "6b683ceb-3cfc-4b0e-ace8-691014f94961",
+      "name": "GO PLATFORM",
+      "slug": "go-platform",
+      "description": "\"Global Opportunities provides scholarships, internships, and conferences for success.\"",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/go-platform.jpg",
+      "website_url": "https://go-platform.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-04-26T05:49:27Z",
+      "updated_at": "2025-03-27T03:18:26.225299Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "19381913-d710-4b8a-a563-3920206dc1c4",
+      "name": "GPT Breeze",
+      "slug": "gpt-breeze",
+      "description": "Chrome plugin for multi-AI assistance without tab switching.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-breeze.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-breeze/plchckmceefljjjphgfcadhlfnlindog?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-11T04:25:13Z",
+      "updated_at": "2025-03-27T03:13:19.49343Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "31b79fcd-e7c6-4ec5-b8b2-c582eada3503",
+      "name": "GPT Chat Nav Pro",
+      "slug": "gpt-chat-nav-pro",
+      "description": "Chrome extension to visually manage ChatGPT conversations.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-chat-nav-pro.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-chat-nav-pro/lgfkakballoohipaelfnefnopnafeadg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:14:45Z",
+      "updated_at": "2025-03-27T03:13:43.874844Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5d90931a-6e81-4e26-a7de-c35e7bff95e4",
+      "name": "GPT Detector for StackOverflow",
+      "slug": "gpt-detector-for-stackoverflow",
+      "description": "Query and detect fake answers on StackOverflow.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-detector-for-stackoverflow.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-detector-for-stackove/lblhlbnnagmgddncifjahdigccdjndmn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-28T04:37:23Z",
+      "updated_at": "2025-03-27T03:01:06.535875Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cefc3778-ee9f-4991-a020-5b4e4fefe327",
+      "name": "GPT Duel",
+      "slug": "gpt-duel",
+      "description": "Watch GPT models debate various topics in real-time.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-duel.jpg",
+      "website_url": "https://gptduel.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-11-16T13:15:20Z",
+      "updated_at": "2025-03-27T03:13:49.753894Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "af812065-3fa1-4a04-bb2a-4dbb41ca446c",
+      "name": "GPT Extension",
+      "slug": "gpt-extension",
+      "description": "Generate prompts for GPT-3 fast",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-extension.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-extension/iekilbcbfkkkjjnjbdmnliodhkpoeglo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:47Z",
+      "updated_at": "2025-03-27T03:00:11.818114Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "4cd059fb-f9f6-4a75-b457-891754615fcd",
+      "name": "GPT Finland assistentti",
+      "slug": "gpt-finland-assistentti",
+      "description": "Enhance GPT Chat experience with speed and ad-free usage",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-finland-assistentti.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-finland-assistentti/dcedlahenalfafalldfhdkldnbdjgpgk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:16Z",
+      "updated_at": "2025-03-27T03:07:24.228092Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "fc3f1fab-2f4e-4b92-bd49-3f6c532e1687",
+      "name": "GPT Input History Manager",
+      "slug": "gpt-input-history-manager",
+      "description": "Chrome extension for managing ChatGPT input history.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-input-history-manager.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-input-history-manager/bkdfoanfhlimgenfiamakfjmjfljbpnp?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2025-02-25T01:43:13Z",
+      "updated_at": "2025-03-27T03:15:08.418262Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "40b2eea8-c30b-462e-9551-15ce0ed6dcfe",
+      "name": "GPT Israel Assistant - עוזר אישי GPT ישראל",
+      "slug": "gpt-israel-assistant-gpt",
+      "description": "Free, fast GPT chat without ads",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-israel-assistant-gpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-israel-assistant-עוזר/aiokmbjldfkeabmobdimmdgakpaklhbc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-12T01:59:49Z",
+      "updated_at": "2025-03-27T03:07:12.989863Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b8511f47-aed7-4206-8e45-2268dfb38ee3",
+      "name": "GPT Nederland Assistent",
+      "slug": "gpt-nederland-assistent",
+      "description": "Enhance chats with AI for quick, ad-free responses.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-nederland-assistent.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-nederland-assistent/ehlappacjmicchinpdijjfioiepoocgk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-13T01:42:16Z",
+      "updated_at": "2025-03-27T03:07:22.862798Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "78205b1e-f832-4c98-aa85-dab292b0e58c",
+      "name": "GPT Power Manager",
+      "slug": "gpt-power-manager",
+      "description": "Chat organization tool for ChatGPT users",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-power-manager.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-power-manager/jfbkgdlalcnnecgpinfonecfjjjfeeca?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-08-13T05:56:38Z",
+      "updated_at": "2025-03-27T03:10:30.795004Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "d96f5a08-f315-42aa-922e-5e634769702a",
+      "name": "GPT Prompt Helper",
+      "slug": "gpt-prompt-helper",
+      "description": "Chrome extension to optimize ChatGPT interactions.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-prompt-helper.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-prompt-helper/clehienobjcodkapmhaolgiemblpdaok?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-12-07T10:05:33Z",
+      "updated_at": "2025-03-27T03:14:11.608996Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b841d49b-1e16-4c2f-840f-3394bbcbdcd3",
+      "name": "GPT Quiz Maker for Google Forms",
+      "slug": "gpt-quiz-maker-for-google-forms",
+      "description": "Interactive quiz maker for engaging content",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-quiz-maker-for-google-forms.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-quiz-maker-for-google/kbhkmegffginlhejgmeddfbnocjcdlel?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:13Z",
+      "updated_at": "2025-03-27T03:03:12.314726Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "60383b28-f69e-4144-961d-2231ed7d1345",
+      "name": "GPT Riddle",
+      "slug": "gpt-riddle",
+      "description": "Escape from virtual scenarios with puzzles and riddles in online game against AI.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-riddle.jpg",
+      "website_url": "https://gptriddle.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-07-07T12:32:04Z",
+      "updated_at": "2025-03-27T03:20:54.917599Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5b7d87f1-6fe8-4c17-ad27-bd231bce86b3",
+      "name": "GPT Search Helper",
+      "slug": "gpt-search-helper",
+      "description": "Enhance search results with ChatGPT.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-search-helper.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-search-helper/lefofhdldjphdggnbigcgdbbdllfbgfc?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:40:13Z",
+      "updated_at": "2025-03-27T03:05:57.035354Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e9eeadce-0ba6-4ed9-93d4-b0f3be83856c",
+      "name": "GPT Sidebar - Search with ChatGPT",
+      "slug": "gpt-sidebar-search-with-chatgpt",
+      "description": "Enhance search results with ChatGPT insights.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-sidebar-search-with-chatgpt.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-sidebar-search-with-c/gcmemiedfkhgibnmdljhojmgnoimjpcd?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:55:52Z",
+      "updated_at": "2025-03-27T03:04:49.046282Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "17971c05-fa2d-4d1a-a96c-60cb7506b20b",
+      "name": "GPT Store: Find Your Fit in Numerous GPTs",
+      "slug": "gpt-store-find-your-fit-in-numerous-gpts",
+      "description": "Explore GPT world.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-store-find-your-fit-in-numerous-gpts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-store-find-your-fit-i/cjflmfcfpndhlocdkhcgfmobnenonnmn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-11T02:05:11Z",
+      "updated_at": "2025-03-27T03:07:02.122456Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "aca4dcc3-b76b-4ecb-8045-99bd881ba323",
+      "name": "GPT Text Replacer",
+      "slug": "gpt-text-replacer",
+      "description": "Text replacer with advanced AI support",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-text-replacer.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-text-replacer/njiilgbkinpkedianeiiaicbjfmaeccb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-25T13:30:48Z",
+      "updated_at": "2025-03-27T03:00:14.345057Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "106756ba-e11d-4244-b35e-da334a7c1f37",
+      "name": "GPT Web Highlighter",
+      "slug": "gpt-web-highlighter",
+      "description": "AI sidekick for web highlights",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-web-highlighter.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-web-highlighter/lacdpiahkfljfjjihnjfkolnjgkhfoeo?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:26Z",
+      "updated_at": "2025-03-27T03:04:57.914993Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "7b135c11-702e-4cfc-a90c-66bbc18f1c1d",
+      "name": "GPT or NPC?",
+      "slug": "gpt-or-npc",
+      "description": "Guess AI or human-made artwork. Test your perception of creativity!",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-or-npc.jpg",
+      "website_url": "https://www.gptornpc.com?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2023-06-03T09:48:14Z",
+      "updated_at": "2025-03-27T03:20:16.449606Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "289c2928-2b86-403b-aa4c-8acaacd42a1a",
+      "name": "GPT 활용 기안서 초안 생성기, DraftMate",
+      "slug": "gpt-draftmate",
+      "description": "Enhanced drafting with OpenAI's GPT API.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-draftmate.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-활용-기안서-초안-생성기-draftma/nipehnfgknffnjmbhgjjfglnhbodncef?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-07-03T05:00:59Z",
+      "updated_at": "2025-03-27T03:07:45.321374Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "e8363dc6-7367-4afc-91e4-c05f1278b923",
+      "name": "GPT-4 Vision Screenshot",
+      "slug": "gpt-4-vision-screenshot",
+      "description": "Instant knowledge extraction from screen with GPT-4 Vision.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-4-vision-screenshot.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-4-vision-screenshot/jkejomfcjdnkcgfgjnpgecnaelohmfpn?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T13:39:58Z",
+      "updated_at": "2025-03-27T03:05:52.617454Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "cb97adad-868a-41d5-9de9-6dfa18eae0dd",
+      "name": "GPT-4o News",
+      "slug": "gpt-4o-news",
+      "description": "Revolutionary AI for text, voice, and vision.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-4o-news.webp",
+      "website_url": "https://gpt4o.life?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-21T01:28:17Z",
+      "updated_at": "2025-03-27T02:59:50.244291Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "b82105bb-b6e0-4bfd-acf8-60999a8df64c",
+      "name": "GPT-ChatDIY",
+      "slug": "gpt-chatdiy",
+      "description": "Interact with ChatGPT securely.",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-chatdiy.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-chatdiy/mcmjgbljfnglbjpfiljmhobnnpohdjcb?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-07T14:06:29Z",
+      "updated_at": "2025-03-27T03:06:04.652788Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "5083a983-1405-402c-9493-99a3f25dde98",
+      "name": "GPT-Tunnel",
+      "slug": "gpt-tunnel",
+      "description": "Free tool for ChatGPT users",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-tunnel.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-tunnel/dkelohhjcfbkjkgpmcnboojdonegbakl?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:25Z",
+      "updated_at": "2025-03-27T03:04:55.902045Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "2a83b580-b775-4b2f-a11b-033d4e5fb880",
+      "name": "GPT-UA: Claude 3, GPT-4, DALLE, Browsing, Mistral",
+      "slug": "gpt-ua-claude-3-gpt-4-dalle-browsing-mistral",
+      "description": "Fast AI for daily tasks",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt-ua-claude-3-gpt-4-dalle-browsing-mistral.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt-ua-claude-3-gpt-4-dal/fbbjiglnminppnhbddnihgeoipoamhnm?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-03T02:16:14Z",
+      "updated_at": "2025-03-27T03:03:13.612428Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "21f72c9e-01de-4ed1-b6ab-1fb8aa1ca853",
+      "name": "GPT2PDF",
+      "slug": "gpt2pdf",
+      "description": "Download ChatGPT conversations easily",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt2pdf.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt2pdf/gidebckbifledpbpoiadbkfonjniahkk?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:23:29Z",
+      "updated_at": "2025-03-27T03:02:32.048799Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "8f35a17d-4f2b-4ddf-a694-e742bc721c04",
+      "name": "GPT4 - Pay as you go",
+      "slug": "gpt4-pay-as-you-go",
+      "description": "Empower ChatGPT with GPT-4",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt4-pay-as-you-go.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt4-pay-as-you-go/fnicfbamniklnoogdiknajicghdamaol?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-06-06T01:56:41Z",
+      "updated_at": "2025-03-27T03:05:16.851795Z",
+      "category_slugs": [
+        "other"
+      ]
+    },
+    {
+      "id": "c4dc2dd4-0298-476d-847e-5818708ae9fb",
+      "name": "GPT4 Chat settings using prompts",
+      "slug": "gpt4-chat-settings-using-prompts",
+      "description": "Chrome extension for custom GPT4 chat prompts",
+      "logo_url": "https://whatheai.blob.core.windows.net/tools/gpt4-chat-settings-using-prompts.jpg",
+      "website_url": "https://chromewebstore.google.com/detail/gpt4-chat-settings-using/loieabpeaoogmelgfcmmpaegggjbcehg?utm_source=whattheai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 5,
+      "views_count": 0,
+      "created_at": "2024-05-30T03:20:20Z",
+      "updated_at": "2025-03-27T03:01:56.03359Z",
+      "category_slugs": [
+        "other"
+      ]
+    }
+  ]
+}

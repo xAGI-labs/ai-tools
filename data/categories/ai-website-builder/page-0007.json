@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 7,
+    "page_size": 72,
+    "total_items": 433,
+    "total_pages": 7,
+    "prev_path": "categories/ai-website-builder/page-0006.json"
+  },
+  "items": [
+    {
+      "id": "aada6fc9-0c93-4a4d-abd8-527293f0ad72",
+      "name": "autocoder",
+      "slug": "autocoder",
+      "description": "AutoCoder is an AI mobile app and website builder with no code. Just tell AutoCoder what you want and get a complete, production-ready app.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/910f40b1-0034-4d13-b263-f9bc291101fd_1774434831858.png",
+      "website_url": "https://autocoder.cc/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2026-03-25T10:34:01.070357Z",
+      "updated_at": "2026-03-25T12:16:24.034Z",
+      "category_slugs": [
+        "ai-app-builder",
+        "ai-website-builder",
+        "ai-website-designer"
+      ]
+    }
+  ]
+}

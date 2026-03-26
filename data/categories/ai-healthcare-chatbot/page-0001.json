@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "1d7be21a-c11f-4dac-91e0-2eae1db95084",
+      "name": "Body By AI",
+      "slug": "body-by-ai",
+      "description": "BodyBy.AI: Fitness, nutrition \u0026 wellness in one app. 25K+ workouts, 50K+ meals, AI Meal Scanner, Habit \u0026 Body Scan, all for less than one session.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/e38471b5-3e48-493f-be7d-588c1aa51551_1759556215784.png",
+      "website_url": "https://www.bodyby.ai/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-10-04T05:36:57.721739Z",
+      "updated_at": "2025-10-10T13:11:32.512Z",
+      "category_slugs": [
+        "ai-health-assistant",
+        "ai-healthcare-chatbot",
+        "ai-wellness-coach"
+      ]
+    },
+    {
+      "id": "52b5d87b-85a7-43b2-9866-558be2b2fd41",
+      "name": "PharmaTrace",
+      "slug": "pharmatrace",
+      "description": "PharmaTrace - Advanced Healthcare Ecosystem",
+      "logo_url": "https://icons.duckduckgo.com/ip3/pharmatrace.io.ico",
+      "website_url": "https://www.pharmatrace.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-21T00:00:00Z",
+      "updated_at": "2023-05-21T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-health-assistant",
+        "ai-healthcare-chatbot",
+        "ai-mental-health-assistant",
+        "ai-pet-care-assistant",
+        "chatbot",
+        "life-assistant"
+      ]
+    }
+  ]
+}

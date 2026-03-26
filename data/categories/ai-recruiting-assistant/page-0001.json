@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 3,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "7860997d-4fbe-4332-8dba-19e665a9038d",
+      "name": "Razoroo | AI Recruiting",
+      "slug": "razoroo-ai-recruiting",
+      "description": "Razoroo - Technical Recruiting Company in Austin, Texas",
+      "logo_url": "https://icons.duckduckgo.com/ip3/razoroo.com.ico",
+      "website_url": "https://www.razoroo.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-02T00:00:00Z",
+      "updated_at": "2023-05-02T00:00:00Z",
+      "category_slugs": [
+        "ai-3d-design",
+        "ai-recruiting-assistant",
+        "business",
+        "design-art"
+      ]
+    },
+    {
+      "id": "9e72a03a-9e3c-4d57-b73b-8fdc25455e96",
+      "name": "ShortlistHire",
+      "slug": "shortlisthire",
+      "description": "Shortlist Hire is an AI-powered recruiting platform that automates resume screening and candidate ranking, helping companies hire top talent 10x faster.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/b7deaa3e-df7a-4504-8f8f-293942034ff4_1764686433782.png",
+      "website_url": "https://www.shortlisthire.com/",
+      "pricing_type": "paid",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-12-02T14:40:39.250904Z",
+      "updated_at": "2025-12-03T11:24:07.483Z",
+      "category_slugs": [
+        "ai-recruiting-assistant",
+        "other"
+      ]
+    },
+    {
+      "id": "a46694c4-7581-4ecc-8223-ad7d3a19d672",
+      "name": "careerkit.me",
+      "slug": "careerkit-me",
+      "description": "Land Your Dream Job 3x Faster",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/dee717bc-7750-4f86-9b4e-dcff409332a7_1764120152897.jpeg",
+      "website_url": "https://www.careerkit.me/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-11-26T01:22:41.398577Z",
+      "updated_at": "2025-11-26T10:56:10.087Z",
+      "category_slugs": [
+        "ai-recruiting-assistant",
+        "other",
+        "writing-assistants"
+      ]
+    }
+  ]
+}

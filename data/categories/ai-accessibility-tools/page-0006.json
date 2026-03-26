@@ -1,0 +1,1460 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 6,
+    "page_size": 72,
+    "total_items": 985,
+    "total_pages": 14,
+    "next_path": "categories/ai-accessibility-tools/page-0007.json",
+    "prev_path": "categories/ai-accessibility-tools/page-0005.json"
+  },
+  "items": [
+    {
+      "id": "731bac2f-c3b5-42ff-91b2-b45a331ab12e",
+      "name": "GeniusReview",
+      "slug": "geniusreview-1",
+      "description": "GeniusReview - 360° AI Performance Reviews",
+      "logo_url": "https://geniusreview.xyz/favicon.ico",
+      "website_url": "https://geniusreview.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "29796f9d-c3c6-451c-9bb6-95a66dffe672",
+      "name": "Genmo AI",
+      "slug": "genmo-ai-1",
+      "description": "Genmo",
+      "logo_url": "https://icons.duckduckgo.com/ip3/alpha.genmo.ai.ico",
+      "website_url": "https://alpha.genmo.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f5b58861-3172-43aa-9feb-c2c07f6a488d",
+      "name": "Genmo AI",
+      "slug": "genmo-ai",
+      "description": "Genmo",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/f5b58861-3172-43aa-9feb-c2c07f6a488d_genmo_ai.jpeg?",
+      "website_url": "https://alpha.genmo.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ea79dba1-47de-4bfe-8db8-6b9ef8b5f0a0",
+      "name": "Genusoft AI",
+      "slug": "genusoft-ai",
+      "description": "Genusoft AI – Invent the future",
+      "logo_url": "https://icons.duckduckgo.com/ip3/genusoftai.com.ico",
+      "website_url": "https://genusoftai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-02T00:00:00Z",
+      "updated_at": "2023-05-02T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8ea3fce0-22d6-42c7-afc9-5292ba349e9d",
+      "name": "GetAnswer",
+      "slug": "getanswer",
+      "description": "GetAnswer",
+      "logo_url": "https://icons.duckduckgo.com/ip3/getanswer.ai.ico",
+      "website_url": "https://getanswer.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-15T00:00:00Z",
+      "updated_at": "2023-06-15T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "e05861fa-3338-438a-9cb1-f22f0d441d26",
+      "name": "GetMe.Flights",
+      "slug": "getme-flights",
+      "description": "Fly off on a whim with GetMe.Flights – GetMe.Flights",
+      "logo_url": "https://icon.horse/icon/getme.flights",
+      "website_url": "https://getme.flights",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-02T00:00:00Z",
+      "updated_at": "2023-06-02T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "48b9664d-5868-4676-be27-9df45eb428c7",
+      "name": "Getit AI",
+      "slug": "getit-ai",
+      "description": "getit.ai gpt plugins and agents",
+      "logo_url": "https://getit.ai/favicon.ico",
+      "website_url": "https://www.getit.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-29T00:00:00Z",
+      "updated_at": "2023-04-29T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b6ffa759-827f-4854-a552-0967595cfbbc",
+      "name": "Ghola",
+      "slug": "ghola",
+      "description": "ghola",
+      "logo_url": "https://ghola.ai/favicon.ico",
+      "website_url": "https://www.ghola.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-23T00:00:00Z",
+      "updated_at": "2023-05-23T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c4869d64-4ce0-417d-9a67-67aac405f483",
+      "name": "GirlfriendGPT",
+      "slug": "girlfriendgpt",
+      "description": "I'm posting updates on Twitter every day.",
+      "logo_url": "https://gptgirlfriend.online/favicon.ico",
+      "website_url": "https://gptgirlfriend.online",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-02T00:00:00Z",
+      "updated_at": "2023-06-02T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "06566e30-a084-4b72-a6cf-9a59ba2713cf",
+      "name": "GistReader",
+      "slug": "gistreader",
+      "description": "GistReader - An RSS reader for the modern web",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/06566e30-a084-4b72-a6cf-9a59ba2713cf_gistreader.jpg?",
+      "website_url": "https://gistreader.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-09T00:00:00Z",
+      "updated_at": "2023-04-10T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9bed98d7-e519-4429-be26-a343d92db000",
+      "name": "GitFluence",
+      "slug": "gitfluence",
+      "description": "GitFluence - Find the Git Command You Need Now!",
+      "logo_url": "https://gitfluence.com/favicon.ico",
+      "website_url": "https://www.gitfluence.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "3655e208-87d5-461d-a266-f551b2f5b26e",
+      "name": "GitPoet",
+      "slug": "gitpoet",
+      "description": "GitPoet - AI generated git commit messages",
+      "logo_url": "https://gitpoet.dev/favicon.ico",
+      "website_url": "https://www.gitpoet.dev",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-10T00:00:00Z",
+      "updated_at": "2023-05-10T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "cab4a6a5-aa6a-45a0-8972-8aa5845dc83d",
+      "name": "Gitwit",
+      "slug": "gitwit",
+      "description": "GitWit",
+      "logo_url": "https://gitwit.dev/favicon.ico",
+      "website_url": "https://www.gitwit.dev",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-09T00:00:00Z",
+      "updated_at": "2023-05-09T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c4ac39ad-7ed4-4cea-b91c-a0c5c3300d5c",
+      "name": "Gling",
+      "slug": "gling-1",
+      "description": "Gling",
+      "logo_url": "https://icon.horse/icon/gling.ai",
+      "website_url": "https://www.gling.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "968ad396-bf4f-4303-b01d-0b2878a15f9a",
+      "name": "Gling",
+      "slug": "gling",
+      "description": "Gling",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/968ad396-bf4f-4303-b01d-0b2878a15f9a_gling.jpeg?",
+      "website_url": "https://www.gling.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "feb6eb7d-369d-48cb-acab-b4b913a1ac44",
+      "name": "Global Predictions Inc",
+      "slug": "global-predictions-inc",
+      "description": "Global Predictions",
+      "logo_url": "https://icons.duckduckgo.com/ip3/globalpredictions.com.ico",
+      "website_url": "https://www.globalpredictions.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-04T00:00:00Z",
+      "updated_at": "2023-05-04T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "96220074-c48b-4de7-b2d7-326ffd227999",
+      "name": "Glow AI",
+      "slug": "glow-ai-1",
+      "description": "GlowAI",
+      "logo_url": "https://glowai.xyz/favicon.ico",
+      "website_url": "https://glowai.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "92dde1e3-5b83-4cdc-86e1-5434c14c68d8",
+      "name": "Glow AI",
+      "slug": "glow-ai",
+      "description": "GlowAI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/92dde1e3-5b83-4cdc-86e1-5434c14c68d8_glow_ai.jpeg?",
+      "website_url": "https://glowai.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ef359583-6e8f-403a-af3c-6e21dbbea367",
+      "name": "Gnbly",
+      "slug": "gnbly",
+      "description": "Gnbly — Automate your daily communication",
+      "logo_url": "https://gnbly.com/favicon.ico",
+      "website_url": "https://gnbly.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-14T00:00:00Z",
+      "updated_at": "2023-05-14T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "dfeb7b26-d0bb-482c-85fa-63344404cb91",
+      "name": "Gnorman",
+      "slug": "gnorman",
+      "description": "Gnorman.ai",
+      "logo_url": "https://icon.horse/icon/gnorman.ai",
+      "website_url": "https://www.gnorman.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-19T00:00:00Z",
+      "updated_at": "2023-05-19T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "edd23b2c-61d8-4a19-8cc7-414fd4605e98",
+      "name": "Godmode",
+      "slug": "godmode",
+      "description": "Godmode.space",
+      "logo_url": "https://godmode.space/favicon.ico",
+      "website_url": "https://godmode.space",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-17T00:00:00Z",
+      "updated_at": "2023-04-17T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "90152851-816b-4add-9dd3-ca74e76b9d7a",
+      "name": "Gold Retriever",
+      "slug": "gold-retriever",
+      "description": "Jina AI: Multimodal AI made for you",
+      "logo_url": "https://jina.ai/favicon.ico",
+      "website_url": "https://jina.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-29T00:00:00Z",
+      "updated_at": "2023-05-29T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "254c8178-80e2-46ea-b5f8-98c9af6f94fe",
+      "name": "Good Tape",
+      "slug": "good-tape-1",
+      "description": "Good Tape",
+      "logo_url": "https://icons.duckduckgo.com/ip3/mygoodtape.com.ico",
+      "website_url": "https://mygoodtape.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9cd88528-b705-4bcb-b341-60a94b982c97",
+      "name": "Good Tape",
+      "slug": "good-tape",
+      "description": "Good Tape",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/9cd88528-b705-4bcb-b341-60a94b982c97_good_tape.jpg?",
+      "website_url": "https://mygoodtape.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c7bef4ff-98b0-404c-a649-e52071db08cc",
+      "name": "Goodnight Reader",
+      "slug": "goodnight-reader",
+      "description": "Goodnight Reader",
+      "logo_url": "https://www.google.com/s2/favicons?domain=goodnightreader.com\u0026sz=128",
+      "website_url": "https://goodnightreader.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-28T00:00:00Z",
+      "updated_at": "2023-05-28T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b30626ae-00fd-4d6c-a1c2-448169be7b1a",
+      "name": "Google Colab Copilot",
+      "slug": "google-colab-copilot-1",
+      "description": "Google Colab Copilot",
+      "logo_url": "https://icon.horse/icon/copilot.naklecha.com",
+      "website_url": "https://copilot.naklecha.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "c3340e6b-f6c2-42f4-b161-0895c7488a5f",
+      "name": "Google Colab Copilot",
+      "slug": "google-colab-copilot",
+      "description": "Google Colab Copilot",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/c3340e6b-f6c2-42f4-b161-0895c7488a5f_google_colab_copilot.jpeg?",
+      "website_url": "https://copilot.naklecha.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "28feb1e7-db84-44f7-90ba-2ad04c09da6a",
+      "name": "GooseAi",
+      "slug": "gooseai-1",
+      "description": "GooseAI",
+      "logo_url": "https://goose.ai/favicon.ico",
+      "website_url": "https://goose.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "02d752f0-73fb-4fa1-a4cb-83e89519ff61",
+      "name": "GooseAi",
+      "slug": "gooseai",
+      "description": "GooseAI",
+      "logo_url": "https://goose.ai/favicon.ico",
+      "website_url": "https://goose.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f536de80-e74d-4de3-957a-71265da45806",
+      "name": "GorillaTerminal AI",
+      "slug": "gorillaterminal-ai-1",
+      "description": "Gorilla Terminal",
+      "logo_url": "https://gorillaterminal.com/favicon.ico",
+      "website_url": "https://gorillaterminal.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "34f33c1c-8ebd-415f-9373-85faf84628cc",
+      "name": "GorillaTerminal AI",
+      "slug": "gorillaterminal-ai",
+      "description": "Gorilla Terminal",
+      "logo_url": "https://www.google.com/s2/favicons?domain=gorillaterminal.com\u0026sz=128",
+      "website_url": "https://gorillaterminal.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "5e618021-2173-4f20-9b0d-1c73a0ae0103",
+      "name": "Gpitify",
+      "slug": "gpitify",
+      "description": "Gptify",
+      "logo_url": "https://icon.horse/icon/gptify.io",
+      "website_url": "https://gptify.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-21T00:00:00Z",
+      "updated_at": "2023-05-21T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "1e8b977e-3f77-4a72-931a-2acb861892a1",
+      "name": "Gpt Vetting",
+      "slug": "gpt-vetting",
+      "description": "Hire and Manage remote engineers easily | micro1",
+      "logo_url": "https://icons.duckduckgo.com/ip3/micro1.ai.ico",
+      "website_url": "https://www.micro1.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-06T00:00:00Z",
+      "updated_at": "2023-06-06T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "fdbfa519-1715-4492-8922-416574619113",
+      "name": "Gpt twit-bot",
+      "slug": "gpt-twit-bot",
+      "description": "GPT Twitter Bot",
+      "logo_url": "https://twitter-bot.com/favicon.ico",
+      "website_url": "https://twitter-bot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "bc58959b-d597-440f-8a03-3f0172631ff0",
+      "name": "Gpt twit-bot",
+      "slug": "gpt-twit-bot-1",
+      "description": "GPT Twitter Bot",
+      "logo_url": "https://twitter-bot.com/favicon.ico",
+      "website_url": "https://twitter-bot.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f512da0f-4981-4067-a226-f06e297e7ddc",
+      "name": "GptDuck",
+      "slug": "gptduck-1",
+      "description": "GPTDuck",
+      "logo_url": "https://icons.duckduckgo.com/ip3/gptduck.com.ico",
+      "website_url": "https://www.gptduck.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "3e467246-a179-4bda-b9e2-faccf1fd5a5e",
+      "name": "GptDuck",
+      "slug": "gptduck",
+      "description": "GPTDuck",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/3e467246-a179-4bda-b9e2-faccf1fd5a5e_gptduck.jpeg?",
+      "website_url": "https://www.gptduck.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "228b3bc7-a038-4954-8557-229b9ad17828",
+      "name": "Green Screen AI",
+      "slug": "green-screen-ai-1",
+      "description": "Green Screen AI",
+      "logo_url": "https://greenscreenai.com/favicon.ico",
+      "website_url": "https://greenscreenai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "3a5331ce-5adf-4885-bc4a-d3c25975e4ca",
+      "name": "Green Screen AI",
+      "slug": "green-screen-ai",
+      "description": "Green Screen AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/3a5331ce-5adf-4885-bc4a-d3c25975e4ca_green_screen_ai.jpeg?",
+      "website_url": "https://greenscreenai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "63c9b20e-253e-43a1-a862-8a80b94401d8",
+      "name": "Grocer AI",
+      "slug": "grocer-ai",
+      "description": "Grocer AI",
+      "logo_url": "https://icon.horse/icon/grocerai.app",
+      "website_url": "https://www.grocerai.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-20T00:00:00Z",
+      "updated_at": "2023-05-20T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "54921e52-2468-471d-b064-f7792a14258e",
+      "name": "Gutenberg Hub",
+      "slug": "gutenberg-hub",
+      "description": "GutenbergHub Shop - Your One-Stop Shop for Gutenberg Goodness",
+      "logo_url": "https://shop.gutenberghub.com/favicon.ico",
+      "website_url": "https://shop.gutenberghub.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-19T00:00:00Z",
+      "updated_at": "2023-05-19T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7e619370-e31e-4cc2-b33d-21217018aeee",
+      "name": "GymBuddy AI",
+      "slug": "gymbuddy-ai",
+      "description": "GymBuddy | Your AI workout planner",
+      "logo_url": "https://gymbuddy.ai/favicon.ico",
+      "website_url": "https://www.gymbuddy.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-20T00:00:00Z",
+      "updated_at": "2023-04-20T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "8880ac7a-c1d4-4aae-abe8-8f13587eb1f8",
+      "name": "GymGenie",
+      "slug": "gymgenie",
+      "logo_url": "https://icon.horse/icon/gymgenie.xyz",
+      "website_url": "https://gymgenie.xyz",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a2e0d9ad-3fcd-4e4e-bfa4-c7935164a3ef",
+      "name": "HN Resume to Jobs",
+      "slug": "hn-resume-to-jobs",
+      "description": "HN Resume to Jobs",
+      "logo_url": "https://icon.horse/icon/hnresumetojobs.com",
+      "website_url": "https://hnresumetojobs.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-03T00:00:00Z",
+      "updated_at": "2023-06-03T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "68a8f8ea-7127-4b09-91d1-ccc8c2a9ebda",
+      "name": "HTTPie AI",
+      "slug": "httpie-ai",
+      "description": "HTTPie – API testing client that flows with you",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/68a8f8ea-7127-4b09-91d1-ccc8c2a9ebda_httpie_ai.jpeg?",
+      "website_url": "https://httpie.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "9ab5e7b1-1072-4619-9365-09ab3e3bd133",
+      "name": "HTTPie AI",
+      "slug": "httpie-ai-1",
+      "description": "HTTPie – API testing client that flows with you",
+      "logo_url": "https://icons.duckduckgo.com/ip3/httpie.io.ico",
+      "website_url": "https://httpie.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a0622119-f937-43b3-88a4-c04d85fed6dd",
+      "name": "Hachi",
+      "slug": "hachi",
+      "description": "Raman Labs",
+      "logo_url": "https://icon.horse/icon/ramanlabs.in",
+      "website_url": "https://ramanlabs.in",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-05-25T00:00:00Z",
+      "updated_at": "2023-05-25T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a6d0f5ab-a453-4b59-b78a-5d765bc68d3e",
+      "name": "Haiku Lens",
+      "slug": "haiku-lens",
+      "description": "Haiku Lens",
+      "logo_url": "https://icons.duckduckgo.com/ip3/haikulens.com.ico",
+      "website_url": "https://haikulens.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-11T00:00:00Z",
+      "updated_at": "2023-04-11T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "27d8eef2-1d6c-4245-8b0a-366153f8874a",
+      "name": "Hair by AI",
+      "slug": "hair-by-ai-1",
+      "description": "Find Your Perfect Women's Hairstyles",
+      "logo_url": "https://icon.horse/icon/hairbyai.com",
+      "website_url": "https://www.hairbyai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b9db35fb-85af-4bbd-9865-c29f73d5bbe8",
+      "name": "Hair by AI",
+      "slug": "hair-by-ai",
+      "description": "Find Your Perfect Women's Hairstyles",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/b9db35fb-85af-4bbd-9865-c29f73d5bbe8_hair_by_ai.jpeg?",
+      "website_url": "https://www.hairbyai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "ca539e3e-fba5-4c21-b2df-5a38fb4dbd0a",
+      "name": "HairstyleAI",
+      "slug": "hairstyleai-1",
+      "description": "Try Out New Hairstyles With AI - Hairstyle AI",
+      "logo_url": "https://hairstyleai.com/favicon.ico",
+      "website_url": "https://www.hairstyleai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "da09aabf-c3a1-4ab8-b8f5-6e7a54bc086d",
+      "name": "HairstyleAI",
+      "slug": "hairstyleai",
+      "description": "Try Out New Hairstyles With AI - Hairstyle AI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/da09aabf-c3a1-4ab8-b8f5-6e7a54bc086d_hairstyleai.png?",
+      "website_url": "https://www.hairstyleai.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "bedd06ae-1962-4f95-9292-f4126d347502",
+      "name": "Happy Mama",
+      "slug": "happy-mama-1",
+      "description": "Happy Mama",
+      "logo_url": "https://happy-mama.vercel.app/favicon.ico",
+      "website_url": "https://happy-mama.vercel.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "a98ca2a8-903b-4505-9f6f-dd681e36e44a",
+      "name": "Happy Mama",
+      "slug": "happy-mama",
+      "description": "Happy Mama",
+      "logo_url": "https://happy-mama.vercel.app/favicon.ico",
+      "website_url": "https://happy-mama.vercel.app",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "07be7c1b-3c86-4d71-a8b3-51328db8c583",
+      "name": "Hayo",
+      "slug": "hayo",
+      "description": "Hayo - AI Tools and Image Generator",
+      "logo_url": "https://icon.horse/icon/hayo.com",
+      "website_url": "https://www.hayo.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-14T00:00:00Z",
+      "updated_at": "2023-04-14T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "ai-agriculture-tools",
+        "ai-astronomy-tools",
+        "ai-photo-image-generator",
+        "ai-prompt-generator",
+        "image",
+        "image-to-image",
+        "other",
+        "prompt",
+        "text-to-image"
+      ]
+    },
+    {
+      "id": "581f1e90-2416-4a4d-a07c-ff3d446639d3",
+      "name": "Headshot Pro",
+      "slug": "headshot-pro",
+      "description": "HeadshotPro: Professional corporate headshots for remote teams.",
+      "logo_url": "https://headshotpro.com/favicon.ico",
+      "website_url": "https://www.headshotpro.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "18b210c0-2106-4bfb-a6a1-78d86343b35a",
+      "name": "Hexagram",
+      "slug": "hexagram",
+      "description": "Hexagram",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/18b210c0-2106-4bfb-a6a1-78d86343b35a_hexagram.jpeg?",
+      "website_url": "https://www.hexagram.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "80e1bfa9-c4cd-4b4c-a120-21ecf58d5d67",
+      "name": "Hexagram",
+      "slug": "hexagram-1",
+      "description": "Hexagram",
+      "logo_url": "https://hexagram.io/favicon.ico",
+      "website_url": "https://www.hexagram.io",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "4f78e0dc-3258-44e9-93ac-834e14c4ff67",
+      "name": "HeyCLI",
+      "slug": "heycli-1",
+      "description": "heyCLI",
+      "logo_url": "https://icon.horse/icon/heycli.com",
+      "website_url": "https://www.heycli.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b4f2b848-e681-416b-80f9-ce340d4bc273",
+      "name": "HeyCLI",
+      "slug": "heycli",
+      "description": "heyCLI",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/tools/b4f2b848-e681-416b-80f9-ce340d4bc273_heycli.jpeg?",
+      "website_url": "https://www.heycli.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "cbf3fffd-3ad1-42b5-9ad7-221e67e3a87e",
+      "name": "HeyMind",
+      "slug": "heymind-1",
+      "description": "HeyMind | Alan Watts",
+      "logo_url": "https://icon.horse/icon/heymindai.co",
+      "website_url": "https://heymindai.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "0c80969d-5c92-4f33-ba0a-7a9ee0637735",
+      "name": "HeyMind",
+      "slug": "heymind",
+      "description": "HeyMind | Alan Watts",
+      "logo_url": "https://www.google.com/s2/favicons?domain=heymindai.co\u0026sz=128",
+      "website_url": "https://heymindai.co",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "de438aad-e135-4834-b769-5e213d886caa",
+      "name": "Heybot",
+      "slug": "heybot",
+      "description": "HeyBot",
+      "logo_url": "https://icons.duckduckgo.com/ip3/heybot.thesamur.ai.ico",
+      "website_url": "https://heybot.thesamur.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-07T00:00:00Z",
+      "updated_at": "2023-04-07T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "b5e6e615-b4ca-424e-be70-363cea8cb1b2",
+      "name": "Hirable",
+      "slug": "hirable",
+      "description": "Hirable.fyi",
+      "logo_url": "https://www.google.com/s2/favicons?domain=hirable.fyi\u0026sz=128",
+      "website_url": "https://hirable.fyi",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-01T00:00:00Z",
+      "updated_at": "2023-04-01T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "79110515-f552-4630-80cf-4b504dfd46a6",
+      "name": "HireLakeAI",
+      "slug": "hirelakeai",
+      "description": "HirelakeAI: Turnkey Solution for Hiring - HireLakeAI",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hirelake.ai.ico",
+      "website_url": "https://hirelake.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "2d5c3a09-c4c8-4fd5-aba4-ce184eea662f",
+      "name": "HireLakeAI",
+      "slug": "hirelakeai-1",
+      "description": "HirelakeAI: Turnkey Solution for Hiring - HireLakeAI",
+      "logo_url": "https://icon.horse/icon/hirelake.ai",
+      "website_url": "https://hirelake.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "4d71cc3b-0f28-456c-82cb-e2fb4c379e7c",
+      "name": "HitchAI",
+      "slug": "hitchai",
+      "description": "Android Apps on Google Play",
+      "logo_url": "https://play.google.com/favicon.ico",
+      "website_url": "https://play.google.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-05T00:00:00Z",
+      "updated_at": "2023-04-05T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "64e7c63c-4f77-4af8-8d49-f32234b5146d",
+      "name": "Hotball",
+      "slug": "hotball",
+      "description": "HotBall.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hotball.ai.ico",
+      "website_url": "https://hotball.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-04-07T00:00:00Z",
+      "updated_at": "2023-04-07T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "631150cc-8a55-47a2-99b7-168cba6dd27b",
+      "name": "Hotpot.ai",
+      "slug": "hotpot-ai-1",
+      "description": "Hotpot.ai - Hotpot.ai",
+      "logo_url": "https://hotpot.ai/favicon.ico",
+      "website_url": "https://hotpot.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7689e006-ed27-4b3b-bfd0-a5490600d292",
+      "name": "Hotpot.ai",
+      "slug": "hotpot-ai",
+      "description": "Hotpot.ai - Hotpot.ai",
+      "logo_url": "https://hotpot.ai/favicon.ico",
+      "website_url": "https://hotpot.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "f1a0ac2f-da89-4fbe-a11c-ec8314d4d812",
+      "name": "Humata AI",
+      "slug": "humata-ai",
+      "description": "Humata - GPT for your files",
+      "logo_url": "https://humata.ai/favicon.ico",
+      "website_url": "https://www.humata.ai",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-03-27T00:00:00Z",
+      "updated_at": "2023-03-27T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    },
+    {
+      "id": "7ffbe875-a4e1-48df-8592-50ffbac8436e",
+      "name": "Hush AI",
+      "slug": "hush-ai",
+      "description": "Hush AI",
+      "logo_url": "https://icon.horse/icon/ai.gohush.com",
+      "website_url": "https://ai.gohush.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-16T00:00:00Z",
+      "updated_at": "2023-06-16T00:00:00Z",
+      "category_slugs": [
+        "ai-accessibility-tools",
+        "other"
+      ]
+    }
+  ]
+}

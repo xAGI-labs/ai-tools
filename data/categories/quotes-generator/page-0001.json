@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 1,
+    "page_size": 72,
+    "total_items": 2,
+    "total_pages": 1
+  },
+  "items": [
+    {
+      "id": "0712a4d8-de04-4a10-80ef-fc1891608f28",
+      "name": "Inspiro",
+      "slug": "inspiro",
+      "description": "Inspiro is the app for anyone seeking daily inspiration and motivation. You'll never be short on inspiration with a vast library of curated quotes from some of the greatest minds in history.",
+      "logo_url": "https://apps.apple.com/apple-touch-icon.png",
+      "website_url": "https://apps.apple.com/nl/app/inspiro-inspirational-quotes/id6448215289",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-06T00:00:00Z",
+      "updated_at": "2023-06-06T00:00:00Z",
+      "category_slugs": [
+        "3d",
+        "ai-3d-animation",
+        "ai-short-clips-generator",
+        "ai-story-writing",
+        "quotes-generator",
+        "text-writing",
+        "video"
+      ]
+    },
+    {
+      "id": "52b120f7-90e9-41ad-a687-abd99741f554",
+      "name": "Melville",
+      "slug": "melville",
+      "description": "Melville is SaaS that leverages A.I. to produce podcast show notes and content. Using your audio Melville generates summaries, quotes, key points, outlines, and show titles. It's the only show note software that leverages the styles and tones of the hosts for a fully customizable output.",
+      "logo_url": "https://icon.horse/icon/usemelville.com",
+      "website_url": "https://usemelville.com",
+      "pricing_type": "free",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2023-06-08T00:00:00Z",
+      "updated_at": "2023-06-08T00:00:00Z",
+      "category_slugs": [
+        "ai-audio-editing",
+        "ai-content-generator",
+        "ai-maps-generator",
+        "ai-podcast-assistant",
+        "code-it",
+        "pick-up-lines-generator",
+        "quotes-generator",
+        "text-writing",
+        "voice"
+      ]
+    }
+  ]
+}

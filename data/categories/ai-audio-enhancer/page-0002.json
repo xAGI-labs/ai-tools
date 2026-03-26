@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-26T08:16:03.913507Z",
+  "meta": {
+    "page": 2,
+    "page_size": 72,
+    "total_items": 73,
+    "total_pages": 2,
+    "prev_path": "categories/ai-audio-enhancer/page-0001.json"
+  },
+  "items": [
+    {
+      "id": "4030d019-d6c4-4b64-86f5-0441492891c6",
+      "name": "sellerpic",
+      "slug": "sellerpic-648516",
+      "description": "Transform your eCommerce store with AI Fashion Models and AI Product Images. Create stunning images that drive sales and revenue.",
+      "logo_url": "https://vvfegidfttnzwljrmlng.supabase.co/storage/v1/object/public/tools-logo/460671a9-69f9-4bb3-956e-3cfa539a27a7_1755960637957.jpeg",
+      "website_url": "https://www.sellerpic.ai/",
+      "pricing_type": "freemium",
+      "featured": false,
+      "verified": false,
+      "trending": false,
+      "rating": 0,
+      "views_count": 0,
+      "created_at": "2025-08-23T14:50:48.520346Z",
+      "updated_at": "2025-08-28T15:02:59.148Z",
+      "category_slugs": [
+        "3d-model-generator",
+        "ai-ad-creative-assistant",
+        "ai-ad-generator",
+        "ai-anime-ai-art",
+        "ai-api-design",
+        "ai-audio-enhancer"
+      ]
+    }
+  ]
+}
