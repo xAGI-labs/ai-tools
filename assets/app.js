@@ -1,4 +1,7 @@
 const DATA_ROOT = "./data";
+const SITE_NAME = "xAGI Tools";
+const DEFAULT_TITLE = `${SITE_NAME} | AI Tools Directory`;
+const DEFAULT_DESCRIPTION = "Discover approved AI tools, browse categories, and explore detailed tool profiles from xAGI Labs.";
 
 const state = {
   manifest: null,
@@ -9,6 +12,18 @@ const state = {
 };
 
 const app = document.getElementById("app");
+const seo = {
+  canonical: document.getElementById("meta-canonical"),
+  description: document.querySelector('meta[name="description"]'),
+  robots: document.querySelector('meta[name="robots"]'),
+  ogType: document.getElementById("meta-og-type"),
+  ogTitle: document.getElementById("meta-og-title"),
+  ogDescription: document.getElementById("meta-og-description"),
+  ogURL: document.getElementById("meta-og-url"),
+  twitterTitle: document.getElementById("meta-twitter-title"),
+  twitterDescription: document.getElementById("meta-twitter-description"),
+  structuredData: document.getElementById("structured-data"),
+};
 
 boot().catch((error) => {
   renderError(error);
@@ -206,8 +221,8 @@ function renderHome(home) {
     <section class="hero">
       <div class="hero-copy">
         <p class="eyebrow">xAGI Labs</p>
-        <h1>Explore AI tools through a fast, fully static directory.</h1>
-        <p>A lightweight AI tools directory built for GitHub Pages with preloaded home data, lazy category pages, chunked search, and sharded tool details.</p>
+        <h1>Discover AI tools across the categories that matter.</h1>
+        <p>Browse approved tools, explore categories, and open detailed profiles to find the right product faster.</p>
       </div>
       <div class="hero-stats">
         ${renderStat(home.stats.tool_count, "approved tools")}
@@ -222,9 +237,26 @@ function renderHome(home) {
       </div>
     </section>
 
-    ${renderCardSection("Newest arrivals", "Recent approved tools from the latest static export.", home.newest)}
+    ${renderCardSection("Newest arrivals", "Recent additions to the directory.", home.newest)}
     ${renderCategorySection(home.top_categories)}
   `;
+
+  updatePageMeta({
+    title: "AI Tools Directory",
+    description: `Discover ${formatNumber(home.stats.tool_count)} approved AI tools across ${formatNumber(home.stats.category_count)} categories from xAGI Labs.`,
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: SITE_NAME,
+      description: `Discover ${formatNumber(home.stats.tool_count)} approved AI tools across ${formatNumber(home.stats.category_count)} categories from xAGI Labs.`,
+      url: currentPageURL(),
+      potentialAction: {
+        "@type": "SearchAction",
+        target: `${currentPageURL().split("#")[0]}#/search?q={search_term_string}`,
+        "query-input": "required name=search_term_string",
+      },
+    },
+  });
 
   const form = document.getElementById("search-form");
   form?.addEventListener("submit", (event) => {
@@ -251,6 +283,18 @@ function renderCategories(payload) {
       </section>
     </section>
   `;
+
+  updatePageMeta({
+    title: "AI Tool Categories",
+    description: `Browse ${formatNumber(items.length)} AI tool categories curated by xAGI Labs.`,
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: `${SITE_NAME} Categories`,
+      description: `Browse ${formatNumber(items.length)} AI tool categories curated by xAGI Labs.`,
+      url: currentPageURL(),
+    },
+  });
 }
 
 function renderToolList(title, description, payload, category) {
@@ -278,9 +322,22 @@ function renderToolList(title, description, payload, category) {
       ${pager}
     </section>
   `;
+
+  updatePageMeta({
+    title: category ? `${title} AI Tools` : "Browse AI Tools",
+    description: buildListDescription(title, description, meta.total_items || items.length, meta.page || 1, category),
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: category ? `${title} AI Tools` : `${SITE_NAME} Directory`,
+      description: buildListDescription(title, description, meta.total_items || items.length, meta.page || 1, category),
+      url: currentPageURL(),
+    },
+  });
 }
 
 function renderToolDetail(tool) {
+  const description = truncateText(tool.long_description || tool.description || "Explore this AI tool in the xAGI Tools directory.", 160);
   app.innerHTML = `
     <section class="tool-detail">
       <div class="detail-hero">
@@ -307,6 +364,21 @@ function renderToolDetail(tool) {
       </div>
     </section>
   `;
+
+  updatePageMeta({
+    title: `${tool.name} AI Tool`,
+    description,
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      name: tool.name,
+      description,
+      applicationCategory: tool.categories?.[0]?.name || "AI Tool",
+      operatingSystem: (tool.platforms || []).join(", ") || undefined,
+      sameAs: tool.website_url || undefined,
+      url: currentPageURL(),
+    },
+  });
 }
 
 function renderSearch(query, results) {
@@ -316,7 +388,7 @@ function renderSearch(query, results) {
         <div>
           <p class="eyebrow">Lazy Search</p>
           <h1>Search results for “${escapeHTML(query)}”</h1>
-          <p class="search-note">${formatNumber(results.length)} matches returned from chunked search data.</p>
+          <p class="search-note">${formatNumber(results.length)} matches found in the directory.</p>
         </div>
         <a class="button button-secondary" href="#/">Back home</a>
       </div>
@@ -325,6 +397,19 @@ function renderSearch(query, results) {
       </section>
     </section>
   `;
+
+  updatePageMeta({
+    title: `Search: ${query}`,
+    description: `Search results for ${query} in the xAGI Tools directory.`,
+    robots: "noindex,follow",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "SearchResultsPage",
+      name: `Search results for ${query}`,
+      description: `Search results for ${query} in the xAGI Tools directory.`,
+      url: currentPageURL(),
+    },
+  });
 }
 
 function renderNotFound(message) {
@@ -336,6 +421,12 @@ function renderNotFound(message) {
       <a class="inline-link" href="#/">Return to home</a>
     </section>
   `;
+
+  updatePageMeta({
+    title: "Page Not Found",
+    description: "The requested page could not be found in the xAGI Tools directory.",
+    robots: "noindex,follow",
+  });
 }
 
 function renderError(error) {
@@ -343,11 +434,17 @@ function renderError(error) {
   app.innerHTML = `
     <section class="error-state">
       <p class="eyebrow">Data Error</p>
-      <h2>The static data could not be loaded.</h2>
-      <p>Expected JSON files under <code>data/</code>. Build the dataset with the Go exporter, then reload this page.</p>
+      <h2>This page could not be loaded.</h2>
+      <p>Please refresh the page or try again in a moment.</p>
       <p class="site-note">${escapeHTML(error.message || String(error))}</p>
     </section>
   `;
+
+  updatePageMeta({
+    title: "Data Error",
+    description: "The xAGI Tools directory could not load this page.",
+    robots: "noindex,follow",
+  });
 }
 
 function renderCardSection(title, description, items, fallback = "") {
@@ -374,7 +471,7 @@ function renderCategorySection(items) {
         <div>
           <p class="eyebrow">Top Categories</p>
           <h2>Jump into dense pockets of the catalog.</h2>
-          <p>These category pages are prebuilt as static JSON and loaded only when opened.</p>
+          <p>Browse categories with the most published tools in the directory.</p>
         </div>
         <a class="button button-secondary" href="#/categories">See all categories</a>
       </div>
@@ -515,6 +612,15 @@ function normalizeDataPath(path) {
   return `${DATA_ROOT}/${String(path).replace(/^\.?\/*/, "")}`;
 }
 
+function buildListDescription(title, description, totalItems, page, category) {
+  const prefix = category
+    ? `Explore ${formatNumber(totalItems)} tools in ${title}.`
+    : `Browse ${formatNumber(totalItems)} approved AI tools.`;
+  const body = description ? ` ${truncateText(description, 110)}` : "";
+  const suffix = page > 1 ? ` Page ${page}.` : "";
+  return `${prefix}${body}${suffix}`.trim();
+}
+
 function toPositiveInt(value, fallback) {
   const parsed = Number.parseInt(value || "", 10);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
@@ -535,4 +641,53 @@ function escapeHTML(value) {
 
 function escapeAttr(value) {
   return escapeHTML(value);
+}
+
+function truncateText(value, maxLength) {
+  const text = String(value || "").replace(/\s+/g, " ").trim();
+  if (!text || text.length <= maxLength) {
+    return text || DEFAULT_DESCRIPTION;
+  }
+  return `${text.slice(0, maxLength - 1).trimEnd()}…`;
+}
+
+function currentPageURL() {
+  return `${window.location.origin}${window.location.pathname}${window.location.hash || ""}`;
+}
+
+function updatePageMeta({ title, description, robots, type = "website", structuredData } = {}) {
+  const finalTitle = title ? `${title} | ${SITE_NAME}` : DEFAULT_TITLE;
+  const finalDescription = truncateText(description || DEFAULT_DESCRIPTION, 160);
+  const finalURL = currentPageURL();
+  const finalRobots = robots || "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1";
+
+  document.title = finalTitle;
+  setMetaContent(seo.description, finalDescription);
+  setMetaContent(seo.robots, finalRobots);
+  setMetaContent(seo.ogType, type);
+  setMetaContent(seo.ogTitle, finalTitle);
+  setMetaContent(seo.ogDescription, finalDescription);
+  setMetaContent(seo.ogURL, finalURL);
+  setMetaContent(seo.twitterTitle, finalTitle);
+  setMetaContent(seo.twitterDescription, finalDescription);
+  if (seo.canonical) {
+    seo.canonical.href = finalURL;
+  }
+  if (seo.structuredData) {
+    seo.structuredData.textContent = JSON.stringify(
+      structuredData || {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        name: finalTitle,
+        description: finalDescription,
+        url: finalURL,
+      },
+    );
+  }
+}
+
+function setMetaContent(element, value) {
+  if (element) {
+    element.setAttribute("content", value);
+  }
 }
