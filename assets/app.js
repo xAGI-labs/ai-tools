@@ -198,8 +198,6 @@ function scoreSearch(item, needle) {
   if (item.name.toLowerCase().includes(needle)) score += 5;
   if ((item.description || "").toLowerCase().includes(needle)) score += 2;
   if ((item.tags || []).some((tag) => tag.toLowerCase().includes(needle))) score += 2;
-  if (item.featured) score += 1;
-  if (item.verified) score += 1;
   return score;
 }
 
@@ -207,15 +205,13 @@ function renderHome(home) {
   app.innerHTML = `
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">GitHub Pages Ready</p>
-        <h1>Browse AI tools without shipping a monolithic payload.</h1>
-        <p>Preloaded homepage data, chunked search, paginated listings, and sharded tool details. The site feels immediate because it only loads what the current view needs.</p>
+        <p class="eyebrow">xAGI Labs</p>
+        <h1>Explore AI tools through a fast, fully static directory.</h1>
+        <p>A lightweight AI tools directory built for GitHub Pages with preloaded home data, lazy category pages, chunked search, and sharded tool details.</p>
       </div>
       <div class="hero-stats">
         ${renderStat(home.stats.tool_count, "approved tools")}
         ${renderStat(home.stats.category_count, "categories")}
-        ${renderStat(home.stats.featured_count, "featured")}
-        ${renderStat(home.stats.trending_count, "trending")}
       </div>
       <div class="hero-actions">
         <form class="search-box" id="search-form">
@@ -226,8 +222,7 @@ function renderHome(home) {
       </div>
     </section>
 
-    ${renderCardSection("Newest arrivals", "Recent approved tools from the static export.", home.newest)}
-    ${renderCardSection("Featured picks", "Hand-picked tools surfaced from the data source.", home.featured, emptyMessage("No featured tools are available in the current build."))}
+    ${renderCardSection("Newest arrivals", "Recent approved tools from the latest static export.", home.newest)}
     ${renderCategorySection(home.top_categories)}
   `;
 
@@ -296,7 +291,6 @@ function renderToolDetail(tool) {
           <div class="detail-meta">
             ${tool.pricing_type ? `<span class="meta-chip"><strong>Pricing</strong> ${escapeHTML(tool.pricing_type)}</span>` : ""}
             ${tool.company ? `<span class="meta-chip"><strong>Company</strong> ${escapeHTML(tool.company)}</span>` : ""}
-            ${tool.rating ? `<span class="meta-chip"><strong>Rating</strong> ${tool.rating.toFixed(1)}</span>` : ""}
             ${tool.website_url ? `<a class="button button-primary" href="${escapeAttr(tool.website_url)}" target="_blank" rel="noreferrer">Visit Website</a>` : ""}
           </div>
         </div>
@@ -350,7 +344,7 @@ function renderError(error) {
     <section class="error-state">
       <p class="eyebrow">Data Error</p>
       <h2>The static data could not be loaded.</h2>
-      <p>Expected JSON files under <code>docs/data/</code>. Build the dataset with the Go exporter, then reload this page.</p>
+      <p>Expected JSON files under <code>data/</code>. Build the dataset with the Go exporter, then reload this page.</p>
       <p class="site-note">${escapeHTML(error.message || String(error))}</p>
     </section>
   `;
@@ -400,17 +394,11 @@ function renderToolCard(item) {
           <div class="tool-card__title">
             <h3>${escapeHTML(item.name)}</h3>
             <div class="chip-row">
-              ${item.featured ? `<span class="chip chip-warm">Featured</span>` : ""}
-              ${item.verified ? `<span class="chip">Verified</span>` : ""}
               ${item.pricing_type ? `<span class="chip">${escapeHTML(item.pricing_type)}</span>` : ""}
             </div>
           </div>
         </div>
         <p>${escapeHTML(item.description || "No description available.")}</p>
-        <div class="meta-cluster">
-          <span class="meta-chip"><strong>${formatNumber(item.views_count || 0)}</strong> views</span>
-          <span class="meta-chip"><strong>${(item.rating || 0).toFixed(1)}</strong> rating</span>
-        </div>
       </a>
     </article>
   `;
@@ -441,7 +429,7 @@ function renderCategoryCard(item) {
       <a class="category-card__link" href="#/category/${encodeURIComponent(item.slug)}">
         <div class="chip-row">
           <span class="chip">${item.level === 0 ? "Main" : "Subcategory"}</span>
-          <span class="chip chip-warm">${formatNumber(item.tool_count)} tools</span>
+          <span class="chip">${formatNumber(item.tool_count)} tools</span>
         </div>
         <h3>${escapeHTML(item.name)}</h3>
         <p>${escapeHTML(item.description || "Browse tools in this category.")}</p>
