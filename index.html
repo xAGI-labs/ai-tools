@@ -9,7 +9,7 @@
     <meta name="application-name" content="xAGI Tools">
     <meta name="author" content="xAGI Labs">
     <meta name="theme-color" content="#0a0a0a">
-    <link rel="canonical" href="" id="meta-canonical">
+    <link rel="canonical" href="https://xagi-labs.github.io/ai-tools/" id="meta-canonical">
     <meta property="og:type" content="website" id="meta-og-type">
     <meta property="og:site_name" content="xAGI Tools">
     <meta property="og:title" content="xAGI Tools | AI Tools Directory" id="meta-og-title">
@@ -32,22 +32,41 @@
     </script>
   </head>
   <body>
-    <div class="page-shell">
-      <header class="site-header">
-        <a class="brand" href="#/">
-          <span class="brand-mark">x</span>
-          <span class="brand-copy">
-            <strong>xAGI Tools</strong>
-            <small>AI tools directory</small>
-          </span>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-brand" href="https://xagi-labs.github.io/" aria-label="xAGI Labs home">
+          <img class="site-brand__logo" src="https://xagi-labs.github.io/xagi-icon.png" alt="xAGI Labs logo">
+          <span class="site-brand__title">xAGI Labs</span>
         </a>
         <nav class="site-nav" aria-label="Primary">
-          <a href="#/">Home</a>
-          <a href="#/tools">Browse</a>
-          <a href="#/categories">Categories</a>
+          <a href="https://xagi-labs.github.io/voice-ai">xAGI voice</a>
+          <a href="https://xagi-labs.github.io/ai-news">AI News</a>
+          <a href="https://xagi-labs.github.io/siliconhalli">Silicon Halli</a>
+          <a href="https://xagi-labs.github.io/services">Services</a>
+          <a href="https://xagi-labs.github.io/portfolio">Portfolio</a>
+          <a href="https://xagi-labs.github.io/process">Process</a>
+          <a href="https://xagi-labs.github.io/blog">Blog</a>
+          <a class="site-cta" href="https://xagi-labs.github.io/contact">Contact</a>
         </nav>
-      </header>
+        <button class="mobile-toggle" id="mobile-menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+      <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile primary" hidden>
+        <a href="https://xagi-labs.github.io/voice-ai">xAGI voice</a>
+        <a href="https://xagi-labs.github.io/ai-news">AI News</a>
+        <a href="https://xagi-labs.github.io/siliconhalli">Silicon Halli</a>
+        <a href="https://xagi-labs.github.io/services">Services</a>
+        <a href="https://xagi-labs.github.io/portfolio">Portfolio</a>
+        <a href="https://xagi-labs.github.io/process">Process</a>
+        <a href="https://xagi-labs.github.io/blog">Blog</a>
+        <a class="site-cta site-cta--mobile" href="https://xagi-labs.github.io/contact">Contact</a>
+      </nav>
+    </header>
 
+    <div class="page-shell">
       <main id="app" class="app-shell" aria-live="polite">
         <section class="hero hero-loading">
           <div class="hero-copy">

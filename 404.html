@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>xAGI Tools</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <script>
+      (function redirectToApp() {
+        var basePath = "/ai-tools";
+        var pathname = window.location.pathname;
+        var routePath = pathname.indexOf(basePath) === 0 ? pathname.slice(basePath.length) || "/" : pathname || "/";
+        var target = basePath + "/?path=" + encodeURIComponent(routePath + window.location.search + window.location.hash);
+        window.location.replace(target);
+      })();
+    </script>
+  </body>
+</html>

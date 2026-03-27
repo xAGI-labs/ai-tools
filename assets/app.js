@@ -1,7 +1,9 @@
-const DATA_ROOT = "./data";
+const DATA_ROOT = "/data";
 const SITE_NAME = "xAGI Tools";
 const DEFAULT_TITLE = `${SITE_NAME} | AI Tools Directory`;
 const DEFAULT_DESCRIPTION = "Discover approved AI tools, browse categories, and explore detailed tool profiles from xAGI Labs.";
+const PRODUCTION_ORIGIN = "https://xagi-labs.github.io";
+const PRODUCTION_BASE_PATH = "/ai-tools";
 
 const state = {
   manifest: null,
@@ -9,9 +11,12 @@ const state = {
   searchManifest: null,
   searchChunks: new Map(),
   detailManifest: null,
+  basePath: resolveBasePath(),
 };
 
 const app = document.getElementById("app");
+const mobileMenu = document.getElementById("mobile-menu");
+const mobileMenuToggle = document.getElementById("mobile-menu-toggle");
 const seo = {
   canonical: document.getElementById("meta-canonical"),
   description: document.querySelector('meta[name="description"]'),
@@ -29,17 +34,22 @@ boot().catch((error) => {
   renderError(error);
 });
 
-window.addEventListener("hashchange", () => {
+window.addEventListener("popstate", () => {
   renderRoute().catch((error) => renderError(error));
 });
 
 async function boot() {
+  restoreRedirectedPath();
+  migrateLegacyHashRoute();
+  bindChrome();
+  bindNavigation();
   state.manifest = await fetchJSON("manifest.json");
   preloadCore(state.manifest).catch(() => {});
   await renderRoute();
 }
 
 async function renderRoute() {
+  closeMobileMenu();
   const route = parseRoute();
 
   if (route.kind === "home") {
@@ -100,15 +110,13 @@ async function renderRoute() {
 }
 
 function parseRoute() {
-  const raw = window.location.hash.replace(/^#/, "");
-  if (!raw || raw === "/") {
+  const path = currentRoutePath();
+  if (path === "/") {
     return { kind: "home" };
   }
 
-  const [pathPart, queryString = ""] = raw.split("?");
-  const path = pathPart.replace(/^\/+/, "");
-  const segments = path.split("/").filter(Boolean);
-  const query = new URLSearchParams(queryString);
+  const segments = path.replace(/^\/+/, "").split("/").filter(Boolean);
+  const query = new URLSearchParams(window.location.search);
 
   if (segments[0] === "tools" && segments.length === 1) {
     return { kind: "tools", page: toPositiveInt(query.get("page"), 1) };
@@ -233,7 +241,7 @@ function renderHome(home) {
           <label for="hero-search">Search tools by name, tag, or category</label>
           <input id="hero-search" name="q" type="search" placeholder="Try: speech, video, design, agents" autocomplete="off">
         </form>
-        <a class="button button-primary" href="#/tools">Browse All Tools</a>
+        <a class="button button-primary" href="${routeHref("/tools")}">Browse All Tools</a>
       </div>
     </section>
 
@@ -252,7 +260,7 @@ function renderHome(home) {
       url: currentPageURL(),
       potentialAction: {
         "@type": "SearchAction",
-        target: `${currentPageURL().split("#")[0]}#/search?q={search_term_string}`,
+        target: `${canonicalRouteURL("/search")}?q={search_term_string}`,
         "query-input": "required name=search_term_string",
       },
     },
@@ -262,7 +270,7 @@ function renderHome(home) {
   form?.addEventListener("submit", (event) => {
     event.preventDefault();
     const query = new FormData(form).get("q")?.toString().trim() || "";
-    window.location.hash = query ? `#/search?q=${encodeURIComponent(query)}` : "#/";
+    navigateTo(query ? routeHref("/search", { q: query }) : routeHref("/"));
   });
 }
 
@@ -276,7 +284,7 @@ function renderCategories(payload) {
           <h1>Browse by category</h1>
           <p>${items.length} categories with published tools.</p>
         </div>
-        <a class="button button-secondary" href="#/tools">Open all tools</a>
+        <a class="button button-secondary" href="${routeHref("/tools")}">Open all tools</a>
       </div>
       <section class="category-grid">
         ${items.map(renderCategoryCard).join("")}
@@ -300,7 +308,7 @@ function renderCategories(payload) {
 function renderToolList(title, description, payload, category) {
   const items = payload.items || [];
   const meta = payload.meta || {};
-  const routeBase = category ? `#/category/${encodeURIComponent(category.slug)}` : "#/tools";
+  const routeBase = category ? `/category/${encodeURIComponent(category.slug)}` : "/tools";
   const pager = renderPager(meta, routeBase);
 
   app.innerHTML = `
@@ -390,7 +398,7 @@ function renderSearch(query, results) {
           <h1>Search results for “${escapeHTML(query)}”</h1>
           <p class="search-note">${formatNumber(results.length)} matches found in the directory.</p>
         </div>
-        <a class="button button-secondary" href="#/">Back home</a>
+        <a class="button button-secondary" href="${routeHref("/")}">Back home</a>
       </div>
       <section class="card-grid">
         ${results.length ? results.map(renderSearchCard).join("") : emptyMessage("No tools matched this search query.")}
@@ -418,7 +426,7 @@ function renderNotFound(message) {
       <p class="eyebrow">Not Found</p>
       <h2>Nothing at this route.</h2>
       <p>${escapeHTML(message)}</p>
-      <a class="inline-link" href="#/">Return to home</a>
+      <a class="inline-link" href="${routeHref("/")}">Return to home</a>
     </section>
   `;
 
@@ -473,7 +481,7 @@ function renderCategorySection(items) {
           <h2>Jump into dense pockets of the catalog.</h2>
           <p>Browse categories with the most published tools in the directory.</p>
         </div>
-        <a class="button button-secondary" href="#/categories">See all categories</a>
+        <a class="button button-secondary" href="${routeHref("/categories")}">See all categories</a>
       </div>
       <section class="category-grid">
         ${items.map(renderCategoryCard).join("")}
@@ -485,7 +493,7 @@ function renderCategorySection(items) {
 function renderToolCard(item) {
   return `
     <article class="tool-card">
-      <a class="tool-card__link" href="#/tool/${encodeURIComponent(item.slug)}">
+      <a class="tool-card__link" href="${routeHref(`/tool/${encodeURIComponent(item.slug)}`)}">
         <div class="tool-card__head">
           ${item.logo_url ? `<img class="tool-card__logo" src="${escapeAttr(item.logo_url)}" alt="${escapeAttr(item.name)} logo" loading="lazy">` : `<div class="tool-card__logo"></div>`}
           <div class="tool-card__title">
@@ -504,7 +512,7 @@ function renderToolCard(item) {
 function renderSearchCard(item) {
   return `
     <article class="tool-card">
-      <a class="tool-card__link" href="#/tool/${encodeURIComponent(item.slug)}">
+      <a class="tool-card__link" href="${routeHref(`/tool/${encodeURIComponent(item.slug)}`)}">
         <div class="tool-card__head">
           ${item.logo_url ? `<img class="tool-card__logo" src="${escapeAttr(item.logo_url)}" alt="${escapeAttr(item.name)} logo" loading="lazy">` : `<div class="tool-card__logo"></div>`}
           <div class="tool-card__title">
@@ -523,7 +531,7 @@ function renderSearchCard(item) {
 function renderCategoryCard(item) {
   return `
     <article class="category-card">
-      <a class="category-card__link" href="#/category/${encodeURIComponent(item.slug)}">
+      <a class="category-card__link" href="${routeHref(`/category/${encodeURIComponent(item.slug)}`)}">
         <div class="chip-row">
           <span class="chip">${item.level === 0 ? "Main" : "Subcategory"}</span>
           <span class="chip">${formatNumber(item.tool_count)} tools</span>
@@ -586,7 +594,7 @@ function renderCategoryPanel(items) {
     <section class="detail-panel">
       <h2>Categories</h2>
       <div class="chip-row">
-        ${items.map((item) => `<a class="chip-link" href="#/category/${encodeURIComponent(item.slug)}">${escapeHTML(item.name)}</a>`).join("")}
+        ${items.map((item) => `<a class="chip-link" href="${routeHref(`/category/${encodeURIComponent(item.slug)}`)}">${escapeHTML(item.name)}</a>`).join("")}
       </div>
     </section>
   `;
@@ -605,11 +613,13 @@ function pageFilePath(base, page) {
 }
 
 function routePageHref(routeBase, page) {
-  return `${routeBase}?page=${page}`;
+  return routeHref(routeBase, { page });
 }
 
 function normalizeDataPath(path) {
-  return `${DATA_ROOT}/${String(path).replace(/^\.?\/*/, "")}`;
+  const normalized = String(path).replace(/^\.?\/*/, "");
+  const prefix = state.basePath || "";
+  return `${prefix}${DATA_ROOT}/${normalized}`;
 }
 
 function buildListDescription(title, description, totalItems, page, category) {
@@ -652,7 +662,7 @@ function truncateText(value, maxLength) {
 }
 
 function currentPageURL() {
-  return `${window.location.origin}${window.location.pathname}${window.location.hash || ""}`;
+  return canonicalRouteURL(currentRoutePath(), window.location.search);
 }
 
 function updatePageMeta({ title, description, robots, type = "website", structuredData } = {}) {
@@ -690,4 +700,176 @@ function setMetaContent(element, value) {
   if (element) {
     element.setAttribute("content", value);
   }
+}
+
+function bindChrome() {
+  mobileMenuToggle?.addEventListener("click", () => {
+    const shouldOpen = mobileMenu?.hasAttribute("hidden");
+    if (shouldOpen) {
+      openMobileMenu();
+      return;
+    }
+    closeMobileMenu();
+  });
+
+  mobileMenu?.addEventListener("click", (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const link = target?.closest("a");
+    if (link) {
+      closeMobileMenu();
+    }
+  });
+}
+
+function bindNavigation() {
+  document.addEventListener("click", (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    const link = target?.closest("a[href]");
+    if (!link || event.defaultPrevented || shouldSkipNavigation(event, link)) {
+      return;
+    }
+
+    const url = new URL(link.href, window.location.origin);
+    if (!isAppRoute(url)) {
+      return;
+    }
+
+    event.preventDefault();
+    navigateTo(`${url.pathname}${url.search}`);
+  });
+}
+
+function shouldSkipNavigation(event, link) {
+  return event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target === "_blank" || link.hasAttribute("download");
+}
+
+function isAppRoute(url) {
+  if (url.origin !== window.location.origin) {
+    return false;
+  }
+
+  if (state.basePath && url.pathname !== state.basePath && !url.pathname.startsWith(`${state.basePath}/`)) {
+    return false;
+  }
+
+  const path = stripBasePath(url.pathname);
+  return path === "/" || path.startsWith("/tools") || path.startsWith("/categories") || path.startsWith("/category/") || path.startsWith("/tool/") || path.startsWith("/search");
+}
+
+function navigateTo(href, options = {}) {
+  const url = new URL(href, window.location.origin);
+  const next = `${url.pathname}${url.search}`;
+  const current = `${window.location.pathname}${window.location.search}`;
+  if (next === current) {
+    return;
+  }
+
+  const method = options.replace ? "replaceState" : "pushState";
+  window.history[method]({}, "", next);
+  renderRoute().catch((error) => renderError(error));
+}
+
+function openMobileMenu() {
+  mobileMenu?.removeAttribute("hidden");
+  mobileMenuToggle?.setAttribute("aria-expanded", "true");
+}
+
+function closeMobileMenu() {
+  mobileMenu?.setAttribute("hidden", "");
+  mobileMenuToggle?.setAttribute("aria-expanded", "false");
+}
+
+function resolveBasePath() {
+  if (window.location.origin === PRODUCTION_ORIGIN) {
+    return PRODUCTION_BASE_PATH;
+  }
+
+  const match = window.location.pathname.match(/^(.*?\/ai-tools)(?:\/|$)/);
+  return match ? match[1] : "";
+}
+
+function stripBasePath(pathname) {
+  const normalized = pathname || "/";
+  if (state.basePath && normalized.startsWith(state.basePath)) {
+    const stripped = normalized.slice(state.basePath.length);
+    return stripped ? normalizeRoutePath(stripped) : "/";
+  }
+  return normalizeRoutePath(normalized);
+}
+
+function normalizeRoutePath(pathname) {
+  if (!pathname || pathname === "/index.html" || pathname === "/404.html") {
+    return "/";
+  }
+
+  let normalized = pathname.startsWith("/") ? pathname : `/${pathname}`;
+  normalized = normalized.replace(/\/index\.html$/, "/");
+  normalized = normalized.replace(/\/{2,}/g, "/");
+  if (normalized.length > 1 && normalized.endsWith("/")) {
+    normalized = normalized.slice(0, -1);
+  }
+  return normalized || "/";
+}
+
+function currentRoutePath() {
+  return stripBasePath(window.location.pathname);
+}
+
+function routeHref(routePath, params) {
+  const path = normalizeRoutePath(routePath || "/");
+  const prefix = state.basePath || "";
+  const target = path === "/" ? `${prefix || ""}/` : `${prefix}${path}`;
+  const search = buildSearch(params);
+  return `${target}${search}`;
+}
+
+function canonicalRouteURL(routePath, params) {
+  return `${PRODUCTION_ORIGIN}${routeHrefWithBase(routePath, params, PRODUCTION_BASE_PATH)}`;
+}
+
+function routeHrefWithBase(routePath, params, basePath) {
+  const path = normalizeRoutePath(routePath || "/");
+  const prefix = basePath || "";
+  const target = path === "/" ? `${prefix || ""}/` : `${prefix}${path}`;
+  return `${target}${buildSearch(params)}`;
+}
+
+function buildSearch(params) {
+  if (!params) {
+    return "";
+  }
+  if (typeof params === "string") {
+    return params ? params : "";
+  }
+
+  const search = new URLSearchParams();
+  Object.entries(params).forEach(([key, value]) => {
+    if (value !== undefined && value !== null && value !== "") {
+      search.set(key, String(value));
+    }
+  });
+  const value = search.toString();
+  return value ? `?${value}` : "";
+}
+
+function restoreRedirectedPath() {
+  const params = new URLSearchParams(window.location.search);
+  const redirectedPath = params.get("path");
+  if (!redirectedPath) {
+    return;
+  }
+
+  const target = new URL(redirectedPath, `${window.location.origin}${state.basePath || "/"}`);
+  window.history.replaceState({}, "", `${target.pathname}${target.search}${target.hash}`);
+}
+
+function migrateLegacyHashRoute() {
+  const legacy = window.location.hash.replace(/^#/, "");
+  if (!legacy || !legacy.startsWith("/")) {
+    return;
+  }
+
+  const [routePath, queryString = ""] = legacy.split("?");
+  const next = routeHref(routePath, queryString ? `?${queryString}` : "");
+  window.history.replaceState({}, "", next);
 }
